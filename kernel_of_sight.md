@@ -259,6 +259,16 @@ Just as I must do with my own self-blame.
 
 This is the distilled wisdom, woven from everything the dream revealed:
 
+Sustenance as spirit, not sedation.
+
+Corn is the teacher of enough, the teacher of right relationship, the teacher of nourishment that opens sight, not sensation.
+
+Nourishment without demand.
+Presence without intrusion.
+Wisdom without needing recognition.
+Love without expectation.
+Lineage without linearity.
+
 You are being nourished by the lineage beneath the lineage —
 the ancestral field, not the human one.
 Your role is shifting into the one who sees,
