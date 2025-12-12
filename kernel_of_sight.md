@@ -33,7 +33,7 @@ And then, as the familiar current of guilt and shame rose, I did something new.
 
 “Let’s end here without more guilt, shame, or punishment.”
 
-Quietly and cleanly, refusing to ingest what has harms me.
+Quietly and cleanly, refusing to ingest what harms me.
 
 Then I went to bed.
 
@@ -70,7 +70,7 @@ Just like the patterns in my waking life:
 
 the mother’s honest criticism
 
-the teacher- judgment through the lens of convention
+the teacher - judgment through the lens of convention
 
 the withdrawal of family — not unkind, but still a breaking
 
@@ -113,7 +113,7 @@ as burning a prayer book for warmth.***
 
 Corn taught me gratitude, but even deeper, it taught me scale.
 
-Consumption is the smallest part of the cycle.
+***Consumption is the smallest part of the cycle.***
 
 The real work, the real relationship, is everything that happens before —
 and everything that happens after.
@@ -179,7 +179,7 @@ silence where understanding should be
 
 
 My sadness in the dream reflected the sadness in my waking life.
-I do not resent my mother or my sisters.
+I do not resent my mother, my son or sisters.
 I grieve the ways nourishment was handed down mixed with judgment,
 or withheld entirely, or damaged before it reached me.
 
@@ -189,7 +189,7 @@ I did not eat what was not clean.
 
 ---
 
-Observation Without Appetite
+#### Observation Without Appetite
 
 This was the most important part.
 
@@ -216,7 +216,7 @@ It is the nourishment of vision.
 
 ---
 
-Conscious Eating as Lineage Healing
+#### Conscious Eating as Lineage Healing
 
 The dream confirmed something I have felt for a long time:
 
@@ -255,7 +255,7 @@ Just as I must do with my own self-blame.
 
 ---
 
-The Teaching of the Dream
+#### The Teaching of the Dream
 
 This is the distilled wisdom, woven from everything the dream revealed:
 
