@@ -24,7 +24,7 @@ At the end of the call, almost casually, my mother told me my son and his wife a
 News that warms and wounds at once.
 
 I thought of the visit that didn’t happen.
-I thought of how careful I’ve become — not promising anything until I know I can keep it.
+I thought of how careful I’m becoming — not promising anything until I know I can keep it.
 I thought of my son’s silence.
 My sisters’ silence.
 The ache of all the unspoken things between us.
@@ -33,14 +33,14 @@ And then, as the familiar current of guilt and shame rose, I did something new.
 
 “Let’s end here without more guilt, shame, or punishment.”
 
-Quietly, cleanly, I refused to ingest what has harmed me for years.
+Quietly and cleanly, refusing to ingest what has harms me.
 
 Then I went to bed.
 
 
 ---
 
-The Dream of the Kernels
+#### The Dream of the Kernels
 
 In the dream, there was corn everywhere — multicolored, ancestral corn:
 yellow, white, blue, red, and especially purple.
@@ -68,13 +68,13 @@ disregard, disconnection, a casual breaking of the sacred.
 
 Just like the patterns in my waking life:
 
-my mother’s criticism
+the mother’s honest criticism
 
-my teacher-sister’s judgment through the lens of convention
+the teacher- judgment through the lens of convention
 
-my younger sister’s withdrawal — not unkind, but still a breaking
+the withdrawal of family — not unkind, but still a breaking
 
-my son’s distance
+the distance and silence 
 
 
 The dream showed me kernels misused, not because they were bad,
@@ -87,7 +87,7 @@ I simply witnessed.
 
 ---
 
-Corn as Teacher: Gratitude, Scale, and the Lineage of Nourishment
+#### Corn as Teacher: Gratitude, Scale, and the Lineage of Nourishment
 
 Every kernel contained:
 
@@ -101,15 +101,15 @@ the labor of preparing it
 
 the sharing of it
 
-the returning of husks to soil
+the returning of husks and digested kernel to soil
 
 
 So much life in one small thing.
 
 And the undeniable truth:
 
-To eat one kernel mindlessly would be as strange
-as burning a prayer book for warmth.
+***To eat one kernel mindlessly would be as strange
+as burning a prayer book for warmth.***
 
 Corn taught me gratitude, but even deeper, it taught me scale.
 
@@ -127,7 +127,7 @@ and sometimes, from learning to step back when the cycle is not clean.
 
 ---
 
-Purple Kernels and the Grandmother Vision
+#### Purple Kernels and the Grandmother Vision
 
 The purple kernels fed me simply through looking.
 
@@ -163,7 +163,7 @@ one who sees the field, even when she is not in the center of it.
 
 ---
 
-Burst Kernels and Broken Nourishment
+#### Burst Kernels and Broken Nourishment
 
 The crushed kernels symbolized the broken forms of nourishment in my lineage:
 
