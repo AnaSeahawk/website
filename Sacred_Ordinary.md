@@ -1,6 +1,6 @@
 # The Sacred Ordinary 
 
-### *We begin by remembering.*
+We begin by remembering.
 
 What the body receives  
 is not only what is taken into the mouth.
@@ -69,7 +69,7 @@ it is listening for season.
 So it is with us.
 
 We receive long before we consume.  
-Intensions before meals.  
+Intentions before meals.  
 Atmospheres before ingredients.  
 Conditions before calories.
 
