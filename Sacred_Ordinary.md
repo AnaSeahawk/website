@@ -3,7 +3,7 @@
 We begin by remembering.
 
 What the body receives  
-is not only what is taken into the mouth.
+is not only what is taken in through the mouth.
 
 Perception is a form of intake.  
 Digestion occurs at many levels.  
