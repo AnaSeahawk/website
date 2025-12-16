@@ -74,7 +74,7 @@ Intensions before meals.
 Atmospheres before ingredients.  
 Conditions before calories.
 
-The body begins to nourish itself through tone, timing, and trust — through the quiet question of *is it safe enough to soften here?*
+The body begins to nourish itself through tone, timing, and trust — through the quiet question of; *is it safe enough to soften here?*
 
 The womb knows this.  
 Fertility exists even when nothing is forming.  
