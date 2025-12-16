@@ -1,8 +1,6 @@
 # The Sacred Ordinary 
 
-## The Threshold
-
-We begin by remembering.
+### *We begin by remembering.*
 
 What the body receives  
 is not only what is taken into the mouth.
@@ -21,6 +19,7 @@ feeds perception
 before it feeds the stomach.
 
 ---
+## The Threshold
 
 Before we begin,  
 you may choose  
