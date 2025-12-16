@@ -1,3 +1,47 @@
+# The Sacred Ordinary 
+
+## The Threshold
+
+We begin by remembering.
+
+What the body receives  
+is not only what is taken into the mouth.
+
+Perception is a form of intake.  
+Digestion occurs at many levels.  
+Clarity depends on what the senses receive.
+
+Intention matters more than form.
+
+Before we take in substance,  
+we receive light.
+
+A calm, unwavering source  
+feeds perception  
+before it feeds the stomach.
+
+---
+
+Before we begin,  
+you may choose  
+to light a candle.
+
+Notice how the flame  
+is small, yet steady.
+
+Luminous, without demand.
+
+There is nothing you need to do with it.
+
+Simply notice  
+how the eyes receive  
+before the mind engages.
+
+This, too,  
+is a kind of nourishment.
+
+___
+
 ## Before the Seed Knows It Will Grow
 
 *May this moment be enough.*  
