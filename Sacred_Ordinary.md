@@ -6,10 +6,10 @@ What the body receives
 is not only what is taken in through the mouth.
 
 Perception is a form of receiving.  
-Digestion occurs at many levels.  
+Digestion happens at many levels.  
 Clarity depends on what the senses receive.
 
-Intention matters more than form. Essence over appearance.
+Intention matters more than shape. Essence before appearance.
 
 Before we take in substance,  
 we receive light.
@@ -30,7 +30,7 @@ is small, yet steady.
 
 Luminous, without demand.
 
-There is nothing you need to do with it.
+There is nothing you are asked to do with it.
 
 Simply notice  
 how the eyes receive  
@@ -53,7 +53,7 @@ ___
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
 
-This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, and nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nourishment.
+This chapter begins in that inward place where life gathers without effort — earth dark and receptive, nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nourishment.
 
 A seed does not begin with striving.  
 It begins buried.
@@ -75,7 +75,7 @@ Intentions before meals.
 Atmospheres before ingredients.  
 Circumstances before nourishment.
 
-The body begins to nourish itself through tone, timing, and trust — through the quiet question of - *is it safe enough to soften here?*
+The body begins to nourish itself through tone, timing, and trust — through the quiet question it asks: *is it safe enough to soften here?*
 
 The womb knows this.  
 Fertility exists even when nothing is forming.  
@@ -95,7 +95,7 @@ It keeps time through resonance — through warmth, moisture, and felt order.
 Beginnings are rarely dramatic.  
 They arrive as quiet agreements between safety and season.
 
-This chapter is about learning to recognize those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
+This chapter invites recognition of those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
 
 Nothing here is lacking.  
 Nothing needs to be rushed.
@@ -107,7 +107,7 @@ It is wisdom.
 
 ___
 
-Only when the ground has warmed and softened enough something begins to stir.
+Only when the ground has warmed and softened enough does something begins to stir.
 
 Not yet visible.  
 Not yet named.  
