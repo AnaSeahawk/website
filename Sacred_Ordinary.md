@@ -77,7 +77,7 @@ Conditions before calories.
 
 The body begins to nourish itself through tone, timing, and trust — through the quiet question of; *is it safe enough to soften here?*
 
-The womb knows this.  
+The intuitive womb knows this.  
 Fertility exists even when nothing is forming.  
 Waiting is not a failure of creation — it is one of its most intelligent states.
 
@@ -107,7 +107,7 @@ It is wisdom.
 
 ___
 
-When the ground has softened enough, something begins to stir.
+Only when the ground has warmed and softened enough, something begins to stir.
 
 Not yet visible.  
 Not yet named.  
