@@ -5,11 +5,11 @@ We begin by remembering.
 What the body receives  
 is not only what is taken in through the mouth.
 
-Perception is a form of intake.  
+Perception is a form of receiving.  
 Digestion occurs at many levels.  
 Clarity depends on what the senses receive.
 
-Intention matters more than form.
+Intention matters more than form. Essence over appearance.
 
 Before we take in substance,  
 we receive light.
@@ -34,7 +34,7 @@ There is nothing you need to do with it.
 
 Simply notice  
 how the eyes receive  
-before the mind engages.
+before thought arrives.
 
 This, too,  
 is a kind of nourishment.
@@ -53,7 +53,7 @@ ___
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
 
-This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, and nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nutrient.
+This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, and nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nourishment.
 
 A seed does not begin with striving.  
 It begins buried.
@@ -73,7 +73,7 @@ So it is with us.
 We receive long before we consume.  
 Intentions before meals.  
 Atmospheres before ingredients.  
-Conditions before nourishment.
+Circumstances before nourishment.
 
 The body begins to nourish itself through tone, timing, and trust — through the quiet question of - *is it safe enough to soften here?*
 
@@ -85,19 +85,19 @@ The gut knows this too.
 It does not want to be pushed awake.  
 It wants to be invited.
 
-This is nourishment before metabolism.  
+This is nourishment before the body begins its work.  
 Receiving before digestion.  
-Trust before transformation.
+Trust before the turning.
 
 The body does not keep time by clocks.  
-It keeps time through resonance — through warmth, moisture, and coherence.
+It keeps time through resonance — through warmth, moisture, and felt order.
 
 Beginnings are rarely dramatic.  
 They arrive as quiet agreements between safety and season.
 
 This chapter is about learning to recognize those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
 
-Nothing here needs improvement.  
+Nothing here is lacking.  
 Nothing needs to be rushed.
 
 Growth begins in safety, not demand.
