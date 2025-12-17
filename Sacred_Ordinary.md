@@ -41,12 +41,14 @@ is a kind of nourishment.
 
 ___
 
-## Before the Seed Knows It Will Grow
+## Sacred Steadiness
 
 *May this moment be enough.*  
 *May what is already here be received.*  
 *May the body soften into the time it is in,*  
 *and may no part of us be asked to arrive before it is ready.*
+
+***Before the Seed Knows It Will Grow***
 
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
