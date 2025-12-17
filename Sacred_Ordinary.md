@@ -53,7 +53,7 @@ ___
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
 
-This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, and nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nutrient.
+This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, and nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The intuitive body learns again, that it does not need to hurry toward growth. Safety is the first nutrient.
 
 A seed does not begin with striving.  
 It begins buried.
@@ -95,7 +95,7 @@ It keeps time through resonance — through warmth, moisture, and coherence.
 Beginnings are rarely dramatic.  
 They arrive as quiet agreements between safety and season.
 
-This chapter is about learning to recognize those agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
+This chapter is about learning to recognize those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
 
 Nothing here needs improvement.  
 Nothing needs to be rushed.
