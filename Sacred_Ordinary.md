@@ -73,7 +73,7 @@ So it is with us.
 We receive long before we consume.  
 Intentions before meals.  
 Atmospheres before ingredients.  
-Conditions before calories.
+Conditions before nourishment.
 
 The body begins to nourish itself through tone, timing, and trust — through the quiet question of - *is it safe enough to soften here?*
 
