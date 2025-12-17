@@ -78,7 +78,7 @@ Circumstances before nourishment.
 The body begins to nourish itself through tone, timing, and trust — through the quiet question it asks: *is it safe enough to soften here?*
 
 The womb knows this.  
-Fertility exists even when nothing is forming.  
+Fertility exists even when nothing is forming. Stillness is not absence.
 Waiting is not a failure of creation — it is one of its most intelligent states.
 
 The gut knows this too.  
