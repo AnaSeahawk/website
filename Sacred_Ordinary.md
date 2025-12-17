@@ -53,7 +53,7 @@ ___
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
 
-This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, and nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again, that it does not need to hurry toward growth. Safety is the first nutrient.
+This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, and nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nutrient.
 
 A seed does not begin with striving.  
 It begins buried.
@@ -75,7 +75,7 @@ Intentions before meals.
 Atmospheres before ingredients.  
 Conditions before calories.
 
-The body begins to nourish itself through tone, timing, and trust — through the quiet question of, *is it safe enough to soften here?*
+The body begins to nourish itself through tone, timing, and trust — through the quiet question of - *is it safe enough to soften here?*
 
 The womb knows this.  
 Fertility exists even when nothing is forming.  
@@ -107,7 +107,7 @@ It is wisdom.
 
 ___
 
-Only when the ground has warmed and softened enough, something begins to stir.
+Only when the ground has warmed and softened enough something begins to stir.
 
 Not yet visible.  
 Not yet named.  
