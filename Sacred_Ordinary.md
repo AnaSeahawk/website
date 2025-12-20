@@ -1,22 +1,19 @@
-# The Sacred Ordinary 
+# Sacred Ordinary 
 
-We begin by remembering.
+***The Seed of Matter.***
 
-What the body receives  
-is not only what is taken in through the mouth.
+This is the pure gift of Earth: matter before effort, nourishment before claim.
 
-Perception is a form of receiving.  
-Digestion happens at many levels.  
-Clarity depends on what the senses receive.
+The body does not ask what will I do with this?
+It asks only: Can you receive it?
 
-Intention matters more than shape. What leads is felt before it is seen.
+Right placement.
+A seed set in soil that can hold it.
+A body ready to be lived in, not driven.
 
-Before we take in substance,  
-we receive light.
-
-A calm, unwavering source  
-feeds perception  
-before it feeds the stomach.
+There is no rush here.
+Only the quiet intelligence of beginnings that know how to grow
+without being told.
 
 ---
 
@@ -38,19 +35,21 @@ how the eyes receive
 before thought arrives.
 
 This, too,  
-is a kind of nourishment.
+is nourishment.
 
 ___
 
-## Chapter One
 ## Sacred Steadiness
 
 *May this moment be enough.*  
 *May what is already here be received.*  
-*May the body soften into the time it is in,*  
+*May the body soften into the era it is in,*  
 *and may no part of us be asked to arrive before it is ready.*
 
 ***Before the Seed Knows It Will Grow***
+
+Beginnings are rarely dramatic.  
+They arrive as quiet agreements between safety and season.
 
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
@@ -65,9 +64,7 @@ Wrapped in moisture.
 Surrounded by darkness that protects rather than demands.
 
 Dormancy is not absence.  
-It is life in right relationship with time.
-
-A seed in dormancy is not paused —  
+It is life in right relationship with time. A seed in dormancy is not paused —  
 it is listening for season.
 
 So it is with us.
@@ -90,11 +87,7 @@ This is nourishment before the body begins its work.
 Receiving before digestion.  
 Trust before the turning.
 
-The body does not keep time by clocks.  
-It keeps time through resonance — through warmth, moisture, and felt order.
-
-Beginnings are rarely dramatic.  
-They arrive as quiet agreements between safety and season.
+The body keeps time through resonance — through warmth, moisture, and felt order.
 
 This chapter invites recognition of those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
 
@@ -142,12 +135,9 @@ This is where hunger begins to speak.
 
 ___
 
-## Chapter Two  
 ## The Intelligence of Hunger
 
-Hunger is often misunderstood as absence.  
-As lack.  
-As a problem to solve quickly.
+Hunger is often misunderstood as absence, as lack, a problem to solve quickly.
 
 But hunger is not emptiness.
 
@@ -188,3 +178,8 @@ It is a guide.
 A form of intelligence  
 moving us toward relationship,  
 not excess.
+
+___
+
+
+
