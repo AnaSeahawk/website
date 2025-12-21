@@ -51,9 +51,6 @@ ___
 Beginnings are rarely dramatic.  
 They arrive as quiet agreements between safety and season.
 
-Before hunger, there is a settling.  
-A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
-
 The “womb-water” memory. The idea that a place, a moment, a body of water holds the original pulse of who we are.
 
 We begin in that inward place where life gathers without effort — where earth is dark, moist and receptive, nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nourishment.
@@ -104,6 +101,9 @@ Until the season turns, waiting is not delay.
 It is wisdom.
 
 ___
+
+Before hunger, there is a settling.  
+A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
 
 Only when the ground has warmed and softened enough does something begin to stir.
 
