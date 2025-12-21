@@ -90,8 +90,6 @@ The body keeps time through resonance — through warmth, moisture, and felt ord
 
 This space invites recognition of those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
 
-Origin as ritual. Identity as a tide we revisit, not a fixed point.
-
 Nothing here is lacking.  
 Nothing needs to be rushed.
 
@@ -101,6 +99,8 @@ Until the season turns, waiting is not delay.
 It is wisdom.
 
 ___
+
+Origin as ritual. Identity as a tide we revisit, not a fixed point.
 
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
@@ -174,8 +174,9 @@ not accumulation.
 
 When nourishment is received in rhythm,  
 the body does not rush to take more.  
-Growth asks not for excess,  
-but for what can be received, circulated, and released in time.
+
+***Growth asks not for excess,  
+but for what can be received, circulated, and released in time.***
 
 In this early stage, nourishment arrives like plasma or water to the roots —  
 meeting the body where it is tender,  
