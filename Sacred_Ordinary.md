@@ -139,50 +139,144 @@ This is where hunger begins to speak.
 
 ___
 
-## The Intelligence of Hunger
+## The Intelligence of Nourishment Given in Rhythm
 
-Hunger is often misunderstood as absence, as lack, a problem to solve quickly.
+**May this be received  
+at life’s own pace.**
 
-But hunger is not emptiness.
+This is the sprouting stage —  
+not where effort begins,  
+but where **receptivity is awakened**.
 
-It is **information, not lack.**  
-It is **communication, not emergency.**
-
-Hunger arrives as communication before thought —  
-felt first as sensation - 
-a hollowing, a stirring,  
-a gentle fire asking for attention.
-
-In this space we listen for the subtle distinction between true appetite and borrowed urgency,  
-between the body’s quiet signals  
-and the mind’s learned reflexes.
+Where reaching becomes intuitive.  
+Where appetite learns its own shape.
 
 True hunger clarifies.  
-It sharpens the senses.  
-It brings the world into focus.
+It sharpens the senses and brings the cycles of life into focus.
 
 Borrowed hunger rushes.  
-It confuses.  
-It asks for filling rather than meeting.
+It confuses and asks for filling rather than meeting.
 
-When hunger is allowed to speak in its own language,  
-the inner waters remain clear.  
+When hunger is allowed to speak in its own language, the inner waters remain clear.  
 The fire warms without burning.  
 The nerves soften instead of tightening.
 
-This is the sprouting stage —  
-where discernment first appears.  
-Where reaching becomes choosing.  
-Where appetite learns its own shape.
-
 Hunger, rightly heard, is not a demand.  
-It is a guide.
+It is a signal of readiness.
 
 A form of intelligence  
-moving us toward relationship,  
-not excess.
+guiding us toward relationship,  
+not accumulation.
 
-___
+---
 
+### _Receiving Is Growing_
 
+When nourishment is received in rhythm,  
+the body does not rush to take more.  
+Growth asks not for excess,  
+but for what can be received, circulated, and released in time.
+
+In this early stage, nourishment arrives like plasma or water to the roots —  
+meeting the body where it is tender,  
+before strength is asked of it.
+
+Too much, too fast clouds perception.  
+The signal of hunger dulls.  
+The body tightens around what it cannot yet carry.
+
+Given in rhythm, however,  
+the body strengthens quietly.  
+Not by effort,  
+but by trust.
+
+Growth shows itself subtly —  
+as warmth in the chest,  
+fullness in the blood,  
+a gentle expansion that does not push forward.
+
+Nourishment that supports this stage moves through rather than pooling. It steadies without overwhelming.
+
+The body responds not with urgency, but with coherence.
+
+Receiving here is an act of attunement.  
+Like tending a young plant,  
+care is offered at the roots,  
+not poured from above.
+
+Timing matters as much as substance.
+
+When nourishment arrives in rhythm,  
+trust develops —  
+not as an idea,  
+but as a lived sensation of enough.
+
+This is how early growth is protected.  
+Not through control,  
+but through pacing.  
+Not through fullness,  
+but through steadiness.
+
+We are shaped through what is received and assimilated.  
+By what the body makes our own in time.
+
+What allows true growth is relationship, received in rhythm.
+
+---
+
+### **When Life Is Nourishing Us**
+
+_Mothers, gardens, and learning to receive_
+
+We are all being nourished.  
+Even when it does not feel that way.
+
+The body is a cathedral of tides.
+
+We are receiving life while being tended by life at the same time.
+
+The body is a garden.  
+So is the child.  
+So is the one who tends.
+
+There is a quiet pressure placed on mothers —  
+the expectation to produce,  
+to measure,  
+to prove nourishment through output.
+
+Milk counted.  
+Time tracked.  
+Bodies watched for signs of success.
+
+As if nourishment were mechanical,  
+instead of relational.
+
+But life does not arrive under scrutiny.  
+Milk does not flow when the body is braced.  
+Nourishment does not settle when safety is absent.
+
+What is often named as lack  
+is simply a body that has not been given space to receive.
+
+We cannot make up for lost time  
+by offering more.  
+We cannot flood the roots  
+and call it care.
+
+Life nourishes through warmth.  
+Through steadiness.  
+Through being met without demand.
+
+Nourishment is not something we force.  
+It is something we allow.
+
+When space is left,  
+life responds.
+
+Not always immediately.  
+Not on command.  
+But faithfully.
+
+This, too,  
+is the intelligence of nourishment.
 
