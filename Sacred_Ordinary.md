@@ -75,6 +75,8 @@ Circumstances before nourishment.
 
 The body begins to nourish itself through tone, timing, and trust — through the quiet question it asks: *is it safe enough to soften here?*
 
+Origin as ritual. Identity as a tide we revisit, not a fixed point.
+
 The womb knows this.  
 Fertility exists even when nothing is forming. Waiting is not a failure of creation — it is one of its most intelligent states.
 
@@ -87,8 +89,6 @@ Receiving before digestion.
 Trust before the turning.
 
 The body keeps time through resonance — through warmth, moisture, and felt order.
-
-Origin as ritual. Identity as a tide we revisit, not a fixed point.
 
 This space invites recognition of those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
 
