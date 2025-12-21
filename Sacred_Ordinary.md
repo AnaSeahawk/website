@@ -139,7 +139,9 @@ This is where hunger begins to speak.
 
 ___
 
-## The Intelligence of Nourishment Given in Rhythm
+## The Intelligence of Nourishment
+
+### Given in Rhythm
 
 **May this be received  
 at life’s own pace.**
@@ -217,9 +219,6 @@ Not through control,
 but through pacing.  
 Not through fullness,  
 but through steadiness.
-
-We are shaped through what is received and assimilated.  
-By what the body makes our own in time.
 
 What allows true growth is relationship, received in rhythm.
 
