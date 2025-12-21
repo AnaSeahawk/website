@@ -54,7 +54,9 @@ They arrive as quiet agreements between safety and season.
 Before hunger, there is a settling.  
 A softening low in the belly, a quiet warmth, a sense of being held rather than pulled forward.
 
-This chapter begins in that inward place where life gathers without effort — where earth is dark and receptive, nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nourishment.
+The “womb-water” memory. The idea that a place, a moment, a body of water holds the original pulse of who we are.
+
+We begin in that inward place where life gathers without effort — where earth is dark, moist and receptive, nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nourishment.
 
 A seed does not begin with striving.  
 It begins buried.
@@ -89,7 +91,9 @@ Trust before the turning.
 
 The body keeps time through resonance — through warmth, moisture, and felt order.
 
-This chapter invites recognition of those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
+Origin as ritual. Identity as a tide we revisit, not a fixed point.
+
+This space invites recognition of those intuitive agreements — the moments before action, the soil beneath intention, the darkness that holds life without asking it to prove itself.
 
 Nothing here is lacking.  
 Nothing needs to be rushed.
@@ -149,8 +153,7 @@ felt first as sensation -
 a hollowing, a stirring,  
 a gentle fire asking for attention.
 
-This chapter listens for the subtle distinction  
-between true appetite and borrowed urgency,  
+In this space we listen for the subtle distinction between true appetite and borrowed urgency,  
 between the body’s quiet signals  
 and the mind’s learned reflexes.
 
