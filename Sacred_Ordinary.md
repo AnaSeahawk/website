@@ -172,7 +172,7 @@ not accumulation.
 
 ---
 
-### _Receiving Is Growing_
+## _Receiving Is Growing_
 
 When nourishment is received in rhythm,  
 the body does not rush to take more.  
