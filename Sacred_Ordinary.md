@@ -5,7 +5,7 @@
 This is the pure gift of Earth: matter before effort, nourishment before claim.
 
 The body does not ask what will I do with this?
-It asks only: Can you receive it?
+It asks only: ***Can you receive it?***
 
 Right placement.
 A seed set in soil that can hold it.
@@ -51,9 +51,9 @@ ___
 Beginnings are rarely dramatic.  
 They arrive as quiet agreements between safety and season.
 
-The “womb-water” memory. The idea that a place, a moment, a body of water holds the original pulse of who we are.
+The ***“womb-water”*** memory. The idea that a place, a moment, a body of water holds the original pulse of who we are.
 
-We begin in that inward place where life gathers without effort — where earth is dark, moist and receptive, nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. Safety is the first nourishment.
+We begin in that inward place where life gathers without effort — where earth is dark, moist and receptive, nothing is yet asked to rise. Here, nourishment is permission. Breath deepens on its own. The body learns again that it does not need to hurry toward growth. ***Safety is the first nourishment.***
 
 A seed does not begin with striving.  
 It begins buried.
@@ -79,8 +79,8 @@ The womb knows this.
 Fertility exists even when nothing is forming. Waiting is not a failure of creation — it is one of its most intelligent states.
 
 The gut knows this too.  
-It does not want to be pushed awake.  
-It wants to be invited.
+***It does not want to be pushed awake.***  
+***It wants to be invited.***
 
 This is nourishment before the body begins its work.  
 Receiving before digestion.  
@@ -231,7 +231,7 @@ _Mothers, gardens, and learning to receive_
 We are all being nourished.  
 Even when it does not feel that way.
 
-The body is a cathedral of tides.
+***The body is a cathedral of tides.***
 
 We are receiving life while being tended by life at the same time.
 
