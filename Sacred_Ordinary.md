@@ -4,8 +4,8 @@
 
 This is the pure gift of Earth: matter before effort, nourishment before claim.
 
-The body does not ask what will I do with this?
-It asks only: ***Can you receive it?***
+The body does not ask what will I do with this.
+It asks only: ***Can you receive it.***
 
 Right placement.
 A seed set in soil that can hold it.
@@ -219,6 +219,8 @@ Not through control,
 but through pacing.  
 Not through fullness,  
 but through steadiness.
+
+True hunger feels like a communication arising from coherence, not a lack demanding correction.
 
 What allows true growth is relationship, received in rhythm.
 
