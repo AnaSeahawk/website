@@ -61,6 +61,15 @@ I could feel, in my bones, how differently I might have known myself — and men
 
 This is where the ancient wisdom meets the present moment.
 
+This understanding is not unique to India.  
+In Toltec lineages, the womb is spoken of as a *dream box* — a vessel where dreams, intentions, and unspoken futures are held. Healing is not correction, but the restoration of sovereign dreaming.  
+
+Across Siberian and Eurasian shamanic traditions, the womb appears again as a container of worlds — mirrored in cauldrons, ovens, hollow trees, and caves. These are not symbols of danger, but of gestation. What enters is reshaped before it returns.  
+
+Across cultures, the message is consistent:  
+the womb is not only where life begins —  
+it is where reality is dreamed into form.
+
 Tantra and the Kāma Sūtra do not ask us to recreate the past.  
 They ask us to restore **orientation**:  
 from control to consent,  
