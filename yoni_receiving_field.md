@@ -29,7 +29,7 @@ We do not live in that world.
 We live in a time where women’s bodies have been managed, optimized, numbed, sexualized, and made endlessly available.  
 Where fertility (especially in youth) is mostly treated as an inconvenience to be suppressed rather than a rhythm to be understood.  
 Where young girls are prescribed hormonal control, for painful bleeding and other bodily changes, without being taught to read what their bodies are saying.  
-Where the only “risk” named in sexuality is pregnancy — not dissociation, not loss of sensation, not the erosion of self-trust.
+Where the “risks” named in sexuality are pregnancy and "transmission of disease"— not dissociation, not loss of sensation, not the erosion of self-trust.
 
 Something essential has been lost.
 
