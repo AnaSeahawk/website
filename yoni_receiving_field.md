@@ -84,7 +84,7 @@ The absence of this knowledge is the root of *dis-ease*.
 
 Ancient texts held this knowledge quietly.  
 They assumed it would be transmitted through culture, touch, and time.  
-We must translate it now — not literally, but ethically — into a world that has forgotten how to feel.
+We must translate it now — not literally, but ethically and somaticlly — into a world that has forgotten how to feel.
 
 The reclamation of the yoni is not radical because it adds something new.  
 It is radical because it restores **relationship**.
