@@ -4,12 +4,13 @@ The yoni has never been merely anatomical.
 
 In the ancient imagination, she was a **field** — responsive, rhythmic, and intelligent. A place where time, temperature, season, and relationship converge before anything takes form. Creation was understood as conditional, not commanded. Nothing arrived without readiness.
 
-This is the ground from which both Tantra and the **Kāma Sūtra** speak.  
+This is the ground from which both Tantra and the **Kāma Sūtra** speak.
+
 Not as manuals of technique, but as philosophies of **attunement**.
 
 Tantra did not approach the yoni as something to fix or purify.  
 She was approached as **śakti-kṣetra** — the *living field of power*.  
-Reverence came first, listening before touch.  
+Reverence came first; listening before touch.  
 The instruction was not *do*, but *enter relationship*.  
 Where there is force, śakti withdraws.  
 Where there is patience, she reveals herself.
@@ -30,9 +31,9 @@ We live in a time where women’s bodies have been managed, optimized, numbed, s
 Where fertility (especially in youth) is mostly treated as an inconvenience to be suppressed rather than a rhythm to be understood.  
 Where young girls are prescribed hormonal control, for painful bleeding and other bodily changes, without being taught to read what their bodies are saying.  
 
-Primarally the risks named in sexuality are pregnancy and transmission of disease — not dissociation, not loss of sensation, not the erosion of self-trust.
+Primarily the risks named in sexuality are pregnancy and transmission of disease — not dissociation, not loss of sensation, not the erosion of self-trust.
 
-Something sacredly essential has been lost.
+Something sacred and essential has been lost.
 
 And so it is not surprising that women today feel a pull — sometimes clumsy, sometimes urgent — to return to their bodies.  
 To feel again.  
@@ -61,10 +62,11 @@ I could feel, in my bones, how differently I might have known myself — and men
 
 This is where the ancient wisdom meets the present moment.
 
-This understanding is not unique to India.  
+This understanding is not unique to India.
+
 In Toltec lineages, the womb is spoken of as a *dream box* — a vessel where dreams, intentions, and unspoken futures are held. Healing is not correction, but the restoration of sovereign dreaming.  
 
-Across Siberian and Eurasian shamanic traditions, the womb appears again as a container of worlds — mirrored in cauldrons, ovens, hollow trees, and caves. These are not symbols of danger, but of gestation. What enters is reshaped before it returns.  
+Across Siberian and Eurasian shamanic traditions, the womb appears again as a container of worlds — mirrored in cauldrons, ovens, hollow trees, and caves. These are not symbols of danger, but of gestation. What enters is reshaped before it returns.
 
 Across cultures, the message is consistent:  
 the womb is not only where life begins —  
@@ -96,7 +98,8 @@ Ancient texts held this knowledge quietly.
 They assumed it would be transmitted through culture, touch, and time.  
 We must translate it now — not literally, but ethically and somatically — into a world that has forgotten how to feel.
 
-The reclamation of the yoni is not radical because it adds something new.  
+The reclamation of the yoni is not radical because it adds something new.
+
 It is radical because it restores **relationship**.
 
 And relationship, once remembered, changes everything.
