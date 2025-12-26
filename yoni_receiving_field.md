@@ -1,12 +1,6 @@
 # A Practice of Remembering  
 ## Listening the Body into Relationship
 
-*No one is asked to agree with what follows,  
-only to notice what the body receives  
-as the words enter the field.*
-
-Before we begin, a clarification.
-
 The word **yoni** is not a euphemism, nor a synonym for “vagina.”  
 In its original Sanskrit usage, *yoni* means **source**, **origin**, **womb**, **place of emergence**.  
 It names the generative field through which life takes form.
