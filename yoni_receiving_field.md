@@ -1,3 +1,6 @@
+# A Practice of Remembering  
+## Listening the Body into Relationship
+
 *No one is asked to agree with what follows,  
 only to notice what the body receives  
 as the words enter the field.*
