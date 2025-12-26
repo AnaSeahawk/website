@@ -1,3 +1,22 @@
+*No one is asked to agree with what follows,  
+only to notice what the body receives  
+as the words enter the field.*
+
+Before we begin, a clarification.
+
+The word **yoni** is not a euphemism, nor a synonym for “vagina.”  
+In its original Sanskrit usage, *yoni* means **source**, **origin**, **womb**, **place of emergence**.  
+It names the generative field through which life takes form.
+
+The yoni includes the physical womb and vaginal passage,  
+but it is not limited to anatomy.  
+It also refers to the **energetic, perceptual, and relational space**  
+through which creation, sensation, sexuality, and memory move.
+
+In this work, *yoni* is used in that fuller sense —  
+as a **living field**, not an object;  
+a site of responsiveness, not something to be managed.
+
 ## Introduction
 
 This book begins with a remembering.
