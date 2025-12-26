@@ -22,7 +22,7 @@ a site of responsiveness, not something to be managed.
 
 ---
 
-## Introduction
+## Introduction: Entering the Practice 
 
 ***This work begins with a remembering.***
 
@@ -65,7 +65,7 @@ and it is essential to be precise about what those words mean.
 
 ---
 
-### What Tantra Actually Names
+### Listening to What Tantra Names
 
 Tantra is not a sexual method.  
 It is not a performance system.  
@@ -99,7 +99,7 @@ It is extraction wearing spiritual language.
 
 ---
 
-### What the Kāma Sūtra Actually Is
+### Kāma Sūtra: Relationship as Intelligence 
 
 The Kāma Sūtra is not an erotic manual.  
 It is not a catalogue of positions.  
@@ -128,7 +128,7 @@ the very thing it was written to prevent.
 
 ---
 
-### The World These Texts Assumed
+### A World Oriented by Relationship 
 
 These teachings arose in worlds radically different from ours.
 
@@ -158,7 +158,7 @@ Something essential has been lost.
 
 ---
 
-### The Modern Pull — and Its Confusion
+### The Pull to Remember — and Its Confusion
 
 It is not surprising that women feel a pull —  
 sometimes clumsy, sometimes urgent —  
@@ -185,7 +185,7 @@ It is the longing to come home.
 
 ---
 
-### A Lived Recognition
+### When the Body Recognizes 
 
 I felt this shift viscerally after attending a Tantra workshop —  
 not as a participant seeking experience,  
@@ -208,7 +208,7 @@ had this literacy been part of my upbringing.
 
 ---
 
-### This Wisdom Is Not Unique to India
+### Cross-Cultural Fields of Remembering 
 
 Across Toltec lineages, the womb is spoken of as a *dream box* —  
 a vessel where dreams, intentions, and unspoken futures are held.  
@@ -231,7 +231,7 @@ it is where reality is dreamed into form.
 
 ---
 
-### What Is Being Restored
+### What Listening Restores
 
 Tantra and the Kāma Sūtra do not ask us to recreate the past.  
 They ask us to restore **orientation**.
@@ -306,7 +306,7 @@ They are treated as **orientation texts**, not methods to be replicated.
 
 ---
 
-### Reader’s Note
+### On How This Work Is Meant To Be Received 
 
 This work does not offer sexual instruction, cleansing protocols, or embodied techniques.
 
