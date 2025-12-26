@@ -277,7 +277,8 @@ this is not that work.
 If a slower return to bodily trust feels possible,  
 this work may be received.
 
-Pain was once understood as a pause in flow,  
+May pain be understood  
+as a pause in flow,  
 not a flaw in the body.
 
 ## A Vow of Remembering
