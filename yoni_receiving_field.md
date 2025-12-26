@@ -19,7 +19,7 @@ a site of responsiveness, not something to be managed.
 
 ## Introduction
 
-This book begins with a remembering.
+***This work begins with a remembering.***
 
 Not of ideas, but of the body —  
 not as something to be managed, corrected, or optimized,  
