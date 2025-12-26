@@ -259,20 +259,26 @@ They are treated as **orientation texts**, not methods to be replicated.
 
 ### Reader’s Note
 
-This book does not offer sexual instruction, cleansing protocols, or embodied techniques.
+This work does not offer sexual instruction, cleansing protocols, or embodied techniques.
 
-It is not an invitation to intervene upon the body, manage sensation, or reenact ancient practices outside their cultural, relational, or ethical containers.
+It is not an invitation to intervene upon the body,  
+manage sensation,  
+or reenact ancient practices  
+outside their cultural, relational, or ethical contexts.
 
-Any references to Tantra, the Kāma Sūtra, or cross-cultural womb traditions are offered in service of **listening**, not doing; **relationship**, not performance; **perception**, not prescription.
+References to Tantra, the Kāma Sūtra, and cross-cultural womb traditions  
+are offered in service of **listening**, not doing;  
+**relationship**, not performance;  
+**perception**, not prescription.
 
-If methods or promises of transformation are sought, this is not that book.
+If methods or guarantees of transformation are sought,  
+this is not that work.
 
-If a slower return to bodily trust feels possible, this book may be received.
+If a slower return to bodily trust feels possible,  
+this work may be received.
 
----
-
-Pain was known as a pause in flow,  
-not as a flaw in the body.
+Pain was once understood as a pause in flow,  
+not a flaw in the body.
 
 ## A Vow of Remembering
 
