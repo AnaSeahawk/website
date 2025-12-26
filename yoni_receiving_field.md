@@ -22,7 +22,7 @@ a site of responsiveness, not something to be managed.
 
 ---
 
-## Introduction: Entering the Practice 
+## Introduction: Entering the Practice
 
 ***This work begins with a remembering.***
 
@@ -80,7 +80,8 @@ Its central question is orientation:
 
 *How does consciousness meet matter without domination?*
 
-Within this framework, the yoni is not approached as something to fix, cleanse, stimulate, or optimize.  
+Within this framework, the yoni is not approached  
+as something to fix, cleanse, stimulate, or optimize.  
 She is approached as **śakti-kṣetra** — a living field of power.
 
 Reverence comes first.  
@@ -99,7 +100,7 @@ It is extraction wearing spiritual language.
 
 ---
 
-### Kāma Sūtra: Relationship as Intelligence 
+### Kāma Sūtra: Relationship as Intelligence
 
 The Kāma Sūtra is not an erotic manual.  
 It is not a catalogue of positions.  
@@ -128,7 +129,7 @@ the very thing it was written to prevent.
 
 ---
 
-### A World Oriented by Relationship 
+### A World Oriented by Relationship
 
 These teachings arose in worlds radically different from ours.
 
@@ -185,7 +186,7 @@ It is the longing to come home.
 
 ---
 
-### When the Body Recognizes 
+### When the Body Recognizes
 
 I felt this shift viscerally after attending a Tantra workshop —  
 not as a participant seeking experience,  
@@ -208,7 +209,7 @@ had this literacy been part of my upbringing.
 
 ---
 
-### Cross-Cultural Fields of Remembering 
+### Cross-Cultural Fields of Remembering
 
 Across Toltec lineages, the womb is spoken of as a *dream box* —  
 a vessel where dreams, intentions, and unspoken futures are held.  
@@ -306,7 +307,7 @@ They are treated as **orientation texts**, not methods to be replicated.
 
 ---
 
-### On How This Work Is Meant To Be Received 
+### On How This Work Is Meant to Be Received
 
 This work does not offer sexual instruction, cleansing protocols, or embodied techniques.
 
