@@ -8,7 +8,7 @@
 
 ---
 
-## Preface (Quiet Orientation)
+## Preface 
 
 This text is offered as a field record rather than a manual.  
 What follows names patterns of engagement that have appeared across time and practice.  
