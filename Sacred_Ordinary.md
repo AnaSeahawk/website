@@ -282,3 +282,218 @@ But faithfully.
 This, too,  
 is the intelligence of nourishment.
 
+___
+
+## The Grace of Enough
+
+Enough is a sensation.  
+Not a decision.
+
+It arrives when the body has received what it needs  
+in the absence of urgency.
+
+Shoulders and jaw soften.  
+Breath finds its own rhythm.
+
+Enough is known by ease.
+
+This space restores trust in the body’s signal of completion through grace —  
+the moment when warmth spreads  
+and the senses say: *this is sufficient*.  
+Not because nothing more exists,  
+but because what is here has been fully received.
+
+Grace appears before appetite.  
+A quiet permission preceding desire.  
+A softening that allows reception without grasping.
+
+Fire settles.  
+Earth holds without weight.
+
+Enough is not restraint imposed from outside.  
+It is the quiet satisfaction that leaves energy available for living.
+
+What distorts hunger once it has learned to speak  
+is not appetite,  
+but interruption.
+
+Overstimulation is not hunger.  
+It is the body reaching for contact  
+where reception has been interrupted.
+
+Completion has its own intelligence.  
+Sensation moves in arcs.  
+Pleasure ripens.  
+Satisfaction arrives, then rests.
+
+The body remembers this.
+
+Eating that finishes itself.  
+Warmth that completes its spread.  
+Touch that resolves into presence.  
+Stimulation that becomes assimilation.
+
+Nothing is known by its name.  
+It is known by how it moves through the body —  
+whether it warms or agitates,  
+whether it settles or scatters,  
+whether it leaves the body more present  
+or more whole.
+
+Enough is not moral.  
+It is somatic.  
+It is relational.
+
+In the language of Art,  
+enough is harmony arising  
+when elements are allowed to meet.
+
+The Art of Refinement
+
+Seasoning completes the dish.  
+The hand lifts from the canvas.  
+Heat lowers itself.  
+The work breathes.
+
+Nothing is added.  
+Nothing is withheld.
+
+Form recognizes its own arrival.
+
+Art knows when to stop.
+
+This is not loss.  
+It is dignity.
+
+Enough is the point where life continues  
+without collapse —  
+warmth circulating,  
+attention free,  
+energy still available.
+
+The body hears everything the mind says.
+
+And it also hears silence.  
+Timing.  
+Permission that does not need to be named.
+
+When trust is present,  
+completion is natural.
+
+Fullness feels clean.  
+Satisfaction leaves space.  
+Energy remains responsive.
+
+Enough does not announce itself.  
+It settles.
+
+It feels like standing up from the table with clarity.  
+Like warmth remaining in the limbs.  
+Like knowing there is enough for now  
+and enough for what comes next.
+
+This is not abstinence.  
+It is continuity restored.
+
+There is a difference between overflow and excess.
+
+Overflow moves outward.  
+It nourishes the field —  
+conversation, creativity, rest.
+
+Excess thickens the moment  
+and makes continuation feel heavy.
+
+Enough circulates.
+
+When the body knows enough,  
+pleasure remains available.  
+Desire moves freely.  
+Energy does not need guarding.
+
+This is maturation.
+
+Confidence in rhythm.  
+Ease in timing.  
+Freedom in response.
+
+Enough is warmth that stays.  
+Enough is the body resting inside its own timing.
+
+Completion is trusted.  
+Sensation is allowed to finish.  
+The body remembers how to stop  
+without fear.
+
+This space does not ask anyone to eat less.  
+It invites the body to receive fully —  
+until the body itself says: *this is sufficient.*
+
+And from that sufficiency,  
+life continues.
+
+—
+
+Cupid and my Campaspe play’d  
+At cards for kisses—Cupid paid:  
+He stakes his quiver, bow, and arrows,  
+His mother’s doves, and team of sparrows;  
+Loses them too; then down he throws  
+The coral of his lip, the rose  
+Growing on ’s cheek (but none knows how);  
+With these, the crystal of his brow,  
+And then the dimple of his chin:  
+All these did my Campaspe win.  
+At last he set her both his eyes—  
+She won, and Cupid blind did rise.  
+O Love! has she done this to thee?
+
+Desire does not lose through error,  
+but through continuation.
+
+It keeps wagering  
+what it already needs to see.
+
+First the instruments of aim.  
+Then the ornaments of charm.  
+Then the subtle recognitions —  
+the rose, the dimple, the brow.
+
+Nothing is taken.  
+Everything is offered.
+
+And still, it is not enough.
+
+Only when sight itself is placed on the table  
+does the game end.
+
+Love rises blind not as punishment,  
+but as consequence.  
+When completion is not recognized,  
+perception gives way to surrender.
+
+Enough is never named.  
+It is felt precisely by its absence.
+
+Surrender does not arrive as virtue or sacrifice.  
+It arrives when there is nothing left  
+to prove, to charm, or to secure.
+
+What remains is a love  
+that can no longer aim,  
+calculate,  
+or negotiate.
+
+It can only be present.
+
+Dignity returns the moment we stop.  
+The game ends.  
+The body knows it has been fully received.
+
+Desire releases its sight  
+and becomes, at last,  
+available to what is already here.
+
+The poem stops  
+where the body must stop —  
+at the moment of recognition.
