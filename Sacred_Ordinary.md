@@ -284,7 +284,7 @@ is the intelligence of nourishment.
 
 ___
 
-## The Grace of Enough
+# The Grace of Enough
 
 Enough is a sensation.  
 Not a decision.
@@ -295,7 +295,7 @@ in the absence of urgency.
 Shoulders and jaw soften.  
 Breath finds its own rhythm.
 
-Enough is known by ease.
+**Enough is known by ease.**
 
 This space restores trust in the body’s signal of completion through grace —  
 the moment when warmth spreads  
@@ -303,7 +303,7 @@ and the senses say: *this is sufficient*.
 Not because nothing more exists,  
 but because what is here has been fully received.
 
-Grace appears before appetite.  
+**Grace** appears before appetite.  
 A quiet permission preceding desire.  
 A softening that allows reception without grasping.
 
@@ -311,7 +311,7 @@ Fire settles.
 Earth holds without weight.
 
 Enough is not restraint imposed from outside.  
-It is the quiet satisfaction that leaves energy available for living.
+***It is the quiet satisfaction that leaves energy available for living.***
 
 What distorts hunger once it has learned to speak  
 is not appetite,  
@@ -331,7 +331,7 @@ The body remembers this.
 Eating that finishes itself.  
 Warmth that completes its spread.  
 Touch that resolves into presence.  
-Stimulation that becomes assimilation.
+**Stimulation that becomes assimilation.**
 
 Nothing is known by its name.  
 It is known by how it moves through the body —  
@@ -348,7 +348,7 @@ In the language of Art,
 enough is harmony arising  
 when elements are allowed to meet.
 
-The Art of Refinement
+**The Art of Refinement**
 
 Seasoning completes the dish.  
 The hand lifts from the canvas.  
@@ -363,7 +363,7 @@ Form recognizes its own arrival.
 Art knows when to stop.
 
 This is not loss.  
-It is dignity.
+It is *dignity.*
 
 Enough is the point where life continues  
 without collapse —  
@@ -382,7 +382,7 @@ completion is natural.
 
 Fullness feels clean.  
 Satisfaction leaves space.  
-Energy remains responsive.
+*Energy remains responsive.*
 
 Enough does not announce itself.  
 It settles.
