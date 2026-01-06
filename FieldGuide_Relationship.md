@@ -50,7 +50,7 @@ has carried more than it could finish.
 
 ---
 
-## Āyurveda — restoring movement in the inner waters
+#### Āyurveda — restoring movement in the inner waters
 
 In Āyurveda, burdock speaks most clearly to **Kapha**:  
 to heaviness, congestion, and the quiet dulling that comes  
@@ -79,7 +79,7 @@ clearing without scattering.
 
 ---
 
-## Culpeper — Venus restoring coherence to the blood  
+#### Culpeper — Venus restoring coherence to the blood  
 *(after Nicholas Culpeper)*
 
 Culpeper names burdock as a plant of **Venus**.
@@ -105,7 +105,7 @@ She is repair.
 
 ---
 
-## Where Saturn and Venus meet
+#### Where Saturn and Venus meet
 
 Astrologically, burdock stands at a threshold.
 
@@ -132,7 +132,7 @@ Venus allows it to loosen without rupture.
 
 ---
 
-## A closing note on use
+#### A closing note on use
 
 Burdock does not perform.  
 It accompanies.
