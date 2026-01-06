@@ -36,7 +36,7 @@ and to let that listening guide how substances are named, prepared, and received
 
 ---
 
-## Burdock Root — releasing without violence
+## Burdock Root (Arctium lappa L.) — releasing without violence
 
 Burdock does not arrive with urgency.  
 It works where time has thickened,  
@@ -151,3 +151,98 @@ Burdock teaches this quietly:
 What has accumulated does not need to be fought.  
 It needs to be met long enough  
 for movement to remember itself.
+
+---
+
+## Moringa Leaf (*Moringa oleifera*) — nourishment without urgency
+
+Moringa leaf grows where abundance must arrive lightly.  
+In landscapes shaped by heat and repetition, it offers nourishment that does not wait for variety.  
+It feeds broadly, but asks to be met slowly.
+
+Its intelligence is not density alone,  
+but *availability* —  
+the way nourishment remains accessible without becoming heavy.
+
+Moringa does not build through accumulation.  
+It nourishes by keeping circulation awake.
+
+---
+
+#### Āyurveda — abundance that must be softened
+
+Read Āyurvedically, moringa carries a paradox.  
+It is rich, yet light.  
+Strengthening, yet drying if rushed.
+
+Its taste leans bitter and astringent.  
+Its action lifts and clears rather than anchors.
+
+This makes it valuable when nourishment is needed  
+but heaviness would burden digestion —  
+after illness, during recovery,  
+or when appetite has returned before trust has.
+
+Taken without care, the same qualities can thin rather than restore.  
+Taken warm, moist, and in rhythm, moringa feeds without agitation.
+
+Āyurveda reminds us here:  
+abundance must be *prepared* for the body to receive it.
+
+---
+
+#### Culpeper — a green abundance that opens rather than weighs
+
+Through a Culpeper lens, moringa would be understood as a warming, opening leaf —  
+one that brings nourishment into motion rather than storing it.
+
+Such plants were valued where blood and spirits needed refreshment  
+without clogging or excess.  
+They were not used as daily fortification,  
+but as support when vitality needed circulation more than consolidation.
+
+Culpeper’s caution applies:  
+what opens should not be pressed into constancy.
+
+---
+
+#### Mercury carrying nourishment
+
+Astrologically, moringa moves with **Mercury**.
+
+Its nourishment travels quickly —  
+through blood, nerves, and subtle channels —  
+bringing alertness rather than sedation.
+
+This is abundance that communicates,  
+not abundance that settles heavily into tissue.
+
+For bodies already overstimulated, Mercury can scatter.  
+For bodies dulled by depletion or monotony,  
+it restores brightness without force.
+
+---
+
+#### A note on preparation
+
+Moringa does not want to be taken dry or alone.  
+It asks to be slowed enough for the body to recognize what it offers.
+
+**Simple receiving gesture**  
+Warm broth or water with a small pinch of moringa leaf, softened with ghee or olive oil, and taken alongside rice, lentils, or vegetables.
+
+Here, nourishment arrives as relationship,  
+not as correction.
+
+---
+
+#### Closing note
+
+Moringa is often praised for how much it contains.  
+But its real teaching is quieter.
+
+Abundance becomes nourishment  
+only when the body is given time to agree.
+
+What the body receives matters  
+more than what a leaf can offer.
