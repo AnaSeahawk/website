@@ -4,8 +4,6 @@
 
 *In this text, amarolī refers to a yogic practice. The protocols that follow describe orientations within the practice, articulated relationally and without medical or therapeutic framing.*
 
-— *Ana Seahawk*
-
 ---
 
 ## Preface 
@@ -149,4 +147,3 @@ The practice of amarolī may extend beyond formal sessions.
 The practice of amarolī is a discipline of continuity.  
 It unfolds according to readiness, discernment, and relationship.
 
-— *Ana Seahawk*
