@@ -204,95 +204,91 @@ for movement to remember itself.
 
 ---
 
-## Moringa Leaf (*Moringa oleifera*) — nourishment without urgency
+## Moringa Leaf — nourishment and abundance  
+*(_Moringa oleifera_ Lam.)*
 
-Moringa leaf grows where abundance must arrive lightly.  
-In landscapes shaped by heat and repetition, it offers nourishment that does not wait for variety.  
-It feeds broadly, but asks to be met slowly.
+Moringa leaf grows where nourishment must arrive reliably and without excess.  
+In hot, repeating landscapes, it offers continuity rather than indulgence — a green that feeds broadly without asking the body to labor under weight.
 
-Its intelligence is not density alone,  
-but *availability* —  
-the way nourishment remains accessible without becoming heavy.
+Its abundance is quiet.  
+It circulates more than it stores.  
+It sustains without insisting on attention.
 
-Moringa does not build through accumulation.  
-It nourishes by keeping circulation awake.
+Moringa does not correct deficiency by force.  
+It keeps nourishment available.
 
 ---
 
 #### Āyurveda — abundance that must be softened
 
-Read Āyurvedically, moringa carries a paradox.  
-It is rich, yet light.  
-Strengthening, yet drying if rushed.
+Read Āyurvedically, moringa is rich yet light.  
+Its taste leans bitter and astringent; its movement lifts and clears more than it anchors.
 
-Its taste leans bitter and astringent.  
-Its action lifts and clears rather than anchors.
+This makes it appropriate when nourishment is needed but heaviness would burden digestion — during recovery, rebuilding, or periods of simple food. Taken dry or without rhythm, it can scatter and thin. Taken warm, moist, and in relationship, it feeds without agitation.
 
-This makes it valuable when nourishment is needed  
-but heaviness would burden digestion —  
-after illness, during recovery,  
-or when appetite has returned before trust has.
-
-Taken without care, the same qualities can thin rather than restore.  
-Taken warm, moist, and in rhythm, moringa feeds without agitation.
-
-Āyurveda reminds us here:  
-abundance must be *prepared* for the body to receive it.
+Here, abundance is not increased.  
+It is *prepared*.
 
 ---
 
-#### Culpeper — a green abundance that opens rather than weighs
+#### Historical / Western Herbal Tradition — opening without burden
 
-Through a Culpeper lens, moringa would be understood as a warming, opening leaf —  
-one that brings nourishment into motion rather than storing it.
+Moringa does not appear in classical European herbals, yet it aligns with a familiar Western principle: greens that nourish by keeping blood and spirits in motion rather than by thickening them.
 
-Such plants were valued where blood and spirits needed refreshment  
-without clogging or excess.  
-They were not used as daily fortification,  
-but as support when vitality needed circulation more than consolidation.
+In this logic, such plants are not daily fortification. They are used when vitality needs circulation more than consolidation, and when nourishment must refresh without weighing the body down.
 
-Culpeper’s caution applies:  
-what opens should not be pressed into constancy.
+What opens, this tradition cautions, must be allowed to rest.
 
 ---
 
-#### Mercury carrying nourishment
+#### Specific Traditional Use or Lineage — sustaining nourishment through continuity
 
-Astrologically, moringa moves with **Mercury**.
+**South Asia (especially India)**  
+Moringa has long been used as a food plant — leaves, pods, and flowers cooked with oil and spices, integrated into meals rather than separated as medicine. It supports nourishment during heat, recovery after illness, and periods when food variety is limited. Its strength lies in being eaten *with* life, not apart from it.
 
-Its nourishment travels quickly —  
-through blood, nerves, and subtle channels —  
-bringing alertness rather than sedation.
+**East Africa (Horn of Africa, Sahel)**  
+Here moringa functions as a resilience tree. Leaves are cooked or dried to maintain nourishment through seasonal scarcity and drought. It is valued for continuity — keeping bodies fed when diversity disappears.
 
-This is abundance that communicates,  
-not abundance that settles heavily into tissue.
+**Arabian Peninsula**  
+Used similarly as a sustaining green in arid climates, moringa is added to broths and meals to support strength without heaviness. Again, it is food first, taken in rhythm with daily life.
 
-For bodies already overstimulated, Mercury can scatter.  
-For bodies dulled by depletion or monotony,  
-it restores brightness without force.
+Across regions, the pattern is consistent:  
+moringa nourishes best when it belongs to the meal.
 
 ---
 
-#### A note on preparation
+#### Growth, place, and temperament of the land
+
+Moringa thrives in heat, sun, and marginal soils. It grows quickly, regenerates easily, and offers leaves repeatedly without depletion.
+
+The land teaches its temperament:  
+abundance that must move or spoil,  
+nourishment that survives by circulation rather than storage.
+
+This is not a forest plant.  
+It is a plant of exposure.
+
+---
+
+#### Where Mercury Meets the Sun
+
+Astrologically, moringa carries a Mercurial quality — circulation, communication, movement — warmed by the Sun of the climates it inhabits.
+
+Its nourishment travels.  
+It brightens rather than sedates.
+
+For bodies dulled by depletion or monotony, this restores clarity. For bodies already overstimulated, it can scatter if taken without care. Timing matters more than quantity.
+
+---
+
+#### A closing note on use
 
 Moringa does not want to be taken dry or alone.  
-It asks to be slowed enough for the body to recognize what it offers.
+It asks for warmth, fat, and timing — so abundance can arrive without strain.
 
-**Simple receiving gesture**  
 Warm broth or water with a small pinch of moringa leaf, softened with ghee or olive oil, and taken alongside rice, lentils, or vegetables.
 
-Here, nourishment arrives as relationship,  
-not as correction.
+Moringa teaches this quietly:
 
----
-
-#### Closing note
-
-Moringa is often praised for how much it contains.  
-But its real teaching is quieter.
-
-Abundance becomes nourishment  
-only when the body is given time to agree.
-
-What the body receives matters  
-more than what a leaf can offer.
+Abundance does not need to be intensified.  
+It needs to be received.
