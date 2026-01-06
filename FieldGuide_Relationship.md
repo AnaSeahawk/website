@@ -5,6 +5,10 @@
 ***Healing is not about adding more.***
 ***It is about knowing how and when to receive.***
 
+### Editor’s Note
+
+This field guide is not organized around systems, substances, or solutions, but around **relationship**. Each plant is approached as a living presence that meets the body at a particular moment, under particular conditions, and within particular lineages of knowing. Āyurveda, Western herbal traditions, and astrology are used here as *ways of seeing*, not as interchangeable authorities. No plant is elevated by name alone, and none is diminished by origin. What matters is how a substance moves through the body, how it is prepared, when it is taken, and whether it restores trust rather than urgency. The entries that follow are not instructions to follow, but invitations to listen — slowly, specifically, and without violence — to what the body is already capable of receiving.
+
 ### A Methodological Note on Āyurveda and Plant Use
 
 In this work, Āyurveda is used as a **method of perception**, not a catalogue of approved substances.
