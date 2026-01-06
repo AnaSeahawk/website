@@ -36,11 +36,12 @@ and to let that listening guide how substances are named, prepared, and received
 
 ---
 
-## Burdock Root (Arctium lappa L.) — releasing without violence
+## Burdock Root — releasing without violence  
+*(_Arctium lappa_ L.)*
 
 Burdock does not arrive with urgency.  
 It works where time has thickened,  
-where movement has slowed into habit.  
+where movement has slowed into habit.
 
 Its medicine is not force,  
 but permission for circulation to resume.
@@ -79,7 +80,7 @@ clearing without scattering.
 
 ---
 
-#### Culpeper — Venus restoring coherence to the blood  
+#### Historical / Western Herbal Tradition — Venus restoring coherence to the blood  
 *(after Nicholas Culpeper)*
 
 Culpeper names burdock as a plant of **Venus**.
@@ -102,6 +103,55 @@ The seeds act more strongly and must be used with restraint.
 
 Here, Venus is not indulgence.  
 She is repair.
+
+---
+
+#### Traditional Chinese Medicine — releasing the surface, clearing what lingers
+
+In Traditional Chinese Medicine, burdock is known as **niú bàng gēn** (root) and **niú bàng zǐ** (seed).
+
+It enters the **Lung** and **Stomach** channels  
+and is cooling, dispersing, and outward-moving.
+
+It is used when:
+- heat lingers near the surface  
+- the Lung’s dispersing function is obstructed  
+- toxins are not fully expressed and remain in the skin or throat  
+
+The root works more gently and nutritively than the seed.  
+It clears without forcing sweat  
+and supports release without collapsing Qi.
+
+This is not a plant for collapse or deficiency.  
+It is for moments when the body is ready to let something go.
+
+---
+
+#### Growth, place, and temperament of the land
+
+Burdock grows where soil has been **disturbed**.
+
+Road edges.  
+Field margins.  
+Abandoned ground.
+
+Places compacted by passage, neglect, or repetition.
+
+Its root dives deep into heavy earth,  
+breaking what has hardened below the surface.
+
+The burrs cling—  
+not to harm,  
+but to travel.
+
+This is a plant shaped by **contact**:  
+with animals, with movement, with migration.
+
+It thrives in temperate regions across Europe and Asia  
+and follows human settlement without asking permission.
+
+Burdock does not seek pristine ground.  
+It works where life has been compressed.
 
 ---
 
