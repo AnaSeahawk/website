@@ -57,6 +57,10 @@ Both are welcome, but the deeper work reveals itself through continuity.
 
 Details about upcoming gatherings are shared quietly, by inquiry or invitation.
 
+Some of what I share is freely offered.
+Some is held in containers.
+Patronage helps the work remain unforced.
+
 There is no application.
 No promise of outcome.
 Only an invitation to arrive.
