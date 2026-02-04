@@ -12,16 +12,16 @@ What matters most is the path of heart.
 
 I host **small, private gatherings** for people engaged in deep, body-based practices that are not meant to be done alone.
 
-This is not a program, a teaching, or a method.
-It is a space where **presence itself is the work,** and where lived experience can be spoken without performance or correction.
+These are not programs, workshops, teachings, or methods.
+It is a space where **presence itself is the work,** and where **lived experience** can be spoken without performance or correction.
 
 My role is not to instruct.
 It is to **remain present,** so others can feel their own ground again.
 
-## The gatherings
+## Mother Spirit - A Gathering Place
 
 - A **monthly live call** (Zoom, with video from me; participation always optional)
-- A **private online space** for ongoing reflection and conversation (telegram)
+- A **private online space** for ongoing reflection and conversation (Telegram/Facebook)
 - No recordings
 - No products
 - No pressure to speak, share, or show yourself
@@ -49,9 +49,9 @@ Here, time is not something to optimize or consume.
 It is something to **offer.**
 
 Some people arrive briefly.
-Others stay longer.
+Others stay longer. Some come and go.
 
-Both are welcome, but the deeper work reveals itself through continuity.
+All are welcome, but the deeper work reveals itself through continuity.
 
 ## If this speaks to you
 
