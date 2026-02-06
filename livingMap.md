@@ -69,7 +69,7 @@ Some are named.
 Some pass almost invisibly.
 Nothing is lost by not entering.
 
-### The Four Solar Crossings (Shared Thresholds)
+### The Solar Crossings (Shared Thresholds)
 ### Solstices & Equinoxes
 
 These are **natural thresholds** in the **Solar Year** —
@@ -84,7 +84,7 @@ Sometimes they pass quietly.
 ***Their presence reminds us that time itself moves in relationship,
 not in straight lines.***
 
-### The Four Solar Quarters
+### The Solar Quarters
 The solar year unfolds in four great movements, held by light:
 
 #### Emergence
