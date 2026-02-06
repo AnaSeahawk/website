@@ -14,7 +14,7 @@ It does not require attention.
 It moves like weather.
 You notice it — or you don’t.
 
-The moon The moon shapes time as it is actually lived:
+The moon shapes time as it is actually lived:
 cyclical, uneven, relational, sometimes quiet and sometimes marked.
 
 This rhythm runs beneath everything else.
