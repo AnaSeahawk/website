@@ -69,10 +69,10 @@ Some are named.
 Some pass almost invisibly.
 Nothing is lost by not entering.
 
-### The Solar Crossings (Shared Thresholds)
+### The Four Solar Crossings (Shared Thresholds)
 ### Solstices & Equinoxes
 
-These are natural thresholds in the solar year —
+These are **natural thresholds** in the **Solar Year** —
 points of balance, turning, and extremity.
 
 They are not events to optimize.
