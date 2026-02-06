@@ -93,7 +93,7 @@ Beginning without guarantee.
 Initiation without urgency.
 
 #### Nourishment
-(*Sun farthest north - Light ripening*)
+(*Sun northbound - Light ripening*)
 What is tended.
 What is protected.
 
@@ -104,7 +104,7 @@ Mirroring.
 Seeing oneself in the field of others.
 
 #### Consolidation
-(*Sun farthest south - Light contracting*)
+(*Sun southbound - Light contracting*)
 Form.
 Limit.
 What remains.
