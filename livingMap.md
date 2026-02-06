@@ -112,3 +112,9 @@ What remains.
 These are not stages to complete.
 They are conditions to live within.
 
+### How to Read This Map
+This is not a system to follow.
+It is an orientation.
+You may notice everything.
+You may notice nothing.
+Time continues either way.
