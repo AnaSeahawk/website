@@ -30,7 +30,7 @@ trust that nothing needs to be forced for movement to occur.
 (360-Degree *sexagesimal system* experienced as light crossing a threshold)
 
 The year begins **when the light turns** —
-when the Sun enters Aries.
+when the Sun crosses the equator and enters Aries.
 This is the astronomical new year.
 **The ancient solar beginning.**
 
@@ -84,27 +84,27 @@ Sometimes they pass quietly.
 ***Their presence reminds us that time itself moves in relationship,
 not in straight lines.***
 
-## The Four Solar Quarters
+### The Four Solar Quarters
 The solar year unfolds in four great movements, held by light:
 
-### Emergence
-(*Sun enters Aries*)
+#### Emergence
+(*Sun crosses the equator and enters Aries*)
 Beginning without guarantee.
 Initiation without urgency.
 
-### Nourishment
-(*Light ripening*)
+#### Nourishment
+(*Sun farthest north - Light ripening*)
 What is tended.
 What is protected.
 
-### Relation
+#### Relation
 (*Light balancing*)
 Adjustment.
 Mirroring.
 Seeing oneself in the field of others.
 
-### Consolidation
-(*Light contracting*)
+#### Consolidation
+(*Sun farthest south - Light contracting*)
 Form.
 Limit.
 What remains.
