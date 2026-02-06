@@ -23,24 +23,6 @@ It is dependable.
 It does not announce itself.
 
 Being in touch with lunar rhythm establishes trust in time itself —
-trust that nothing needs to be forced for movement to occur.shapes time as it is actually lived:
-cyclical, uneven, relational, sometimes quiThe moon shapes time as it is actually lived:
-cyclical, uneven, relational, sometimes quiet and sometimes marked.
-
-This rhythm runs beneath everything else.
-It is steady.
-It is dependable.
-It does not announce itself.
-
-Being in touch with lunar rhythm establishes trust in time itself —
-trust that nothing needs to be forced for movement to occur.et and sometimes marked.
-
-This rhythm runs beneath everything else.
-It is steady.
-It is dependable.
-It does not announce itself.
-
-Being in touch with lunar rhythm establishes **trust in time itself*** —
 trust that nothing needs to be forced for movement to occur.
 
 ## Layer 2 — The Solar Year (The Spine)
