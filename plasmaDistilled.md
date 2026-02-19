@@ -2,7 +2,7 @@
 
 **Date:** February 18–19, 2026  
 **Location:** Torremolinos, Spain  
-**Subject:** Distillation of "Olivier’s" 1st Decan Aquarius  
+**Subject:** Distillation of "Olivier’s" 1st Decan Aquarius, 5919 Anno Mundi ("In the Year of the World") — January 20 to January 29, 2026
 
 *Note: For the purposes of this entry, "ultra-filtered blood plasma" will be referred to simply as "plasma" for ease of reading.*
 
