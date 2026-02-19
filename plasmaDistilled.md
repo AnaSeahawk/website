@@ -50,4 +50,5 @@ The plasma naturally separates into purifying solvents (Solar/Cleaning) and dens
 ## 5. Archival Notes & Next Steps
 * **Labeling:** The batch is cataloged as *"Olivier’s Plasma. 1st decan Aquarius"*.
 * **Visual Archive:** Photographic records (including the active distillate stage) are archived here: [Google Photos Gallery](https://photos.app.goo.gl/WhErNQPusHMMV8WU9). Images document the dark retentate against the light to capture exact color density and texture, as well as the initial volatile output.
+* **Theoretical Expansion:** For a deeper dive into the biophysics and internal Daoist alchemy of this process, read the accompanying essay: [The Alchemy of Plasma: The Fourth Phase of Water and the Refinement of Inner Energy](https://github.com/AnaSeahawk/website/blob/main/BodyAlchemy.md).
 * **Future Exploration:** Begin testing the 460 PPM Active Distillate (Fraction 1) as a primary solvent base for upcoming home tinctures, observing how its "living" quality interacts with other botanical elements.
