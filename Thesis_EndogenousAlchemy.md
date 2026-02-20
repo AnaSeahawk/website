@@ -85,3 +85,42 @@ Because the Plasma Spirit carries a highly structured Exclusion Zone (EZ) geomet
 * **Current Practical Application (Open-Science Variance):** For this immediate distillation, collection and short-term storage are conducted using repurposed food-grade plastics (e.g., washed PET/HDPE distilled water and juice bottles). 
 
 **Scientific Note on Variance:** While repurposed plastics are highly effective for immediate volumetric collection and short-term observation, the extreme alkalinity of the Plasma Spirit (expected pH > 10.0) has the potential to slowly degrade certain plastics over time. Therefore, while plastic is utilized for the immediate capture of the metrics, the transition to inert glass is recommended for the long-term apothecary maturation of these biological solvents.
+
+## V. Empirical Data Ledger & Electrochemical Metrics
+
+The following data represents the real-time electrochemical and volumetric breakdown of the endogenous distillation process. All metrics are recorded immediately upon fractional separation to ensure the integrity of the volatile readings.
+
+### 1. Baseline & Equipment Parameters
+* **Date of Distillation:** [Enter Date, e.g., Sunday, Feb 22, 2026]
+* **Location:** Torremolinos, Andalusia, Spain
+* **Biological Input:** Aged Endogenous Ultra-Filtered Blood Plasma
+* **Estimated Age/Fermentation Time:** [Enter days/weeks]
+* **Starting Input Volume:** [Enter exact ml poured into chamber]
+* **Distillation Apparatus:** 3000ml Stainless Steel Distillation Unit (Vevor)
+* **Measurement Device:** UIUZMAR 6-in-1 Digital Water Quality Tester (Calibrated prior to testing)
+
+### 2. Fractional Yield & Electrochemical Data
+
+| Metric | Fraction 1: The Plasma Spirit | Fraction 2: The Clear Water | Fraction 3: The Earth Matrix |
+| :--- | :--- | :--- | :--- |
+| **Phase Description** | Volatile Alkaline Overflow | Stabilized Structural Medium | Dense Lunar Retentate |
+| **Time (Start - End)** | [00:00 - 00:00] | [00:00 - 00:00] | [00:00] (Residual) |
+| **Volume Yield (ml)** | [__ ml] | [__ ml] | [__ ml] |
+| **Temperature (°C/°F)** | [__ °] | [__ °] | [__ °] |
+| **pH (Alkaline Voltage)** | [__ pH] | [__ pH] | [__ pH] |
+| **ORP (Electron Potential)** | [__ mV] *(Look for negative)*| [__ mV] | [__ mV] |
+| **EC (Conductivity)** | [__ µS/cm or mS/cm] | [__ µS/cm or mS/cm] | [__ µS/cm or mS/cm] |
+| **H2 (Hydrogen Conc.)** | [__ ppb/ppm] | [__ ppb/ppm] | [__ ppb/ppm] |
+| **TDS (Dissolved Solids)** | [__ ppm/ppt] | [__ ppm/ppt] | [__ ppm/ppt] |
+
+### 3. Phenomenological Observations
+*(Document the physical behavior of the fluid during the process—foaming intensity, aroma shifts, color transitions, and the physical feeling of the fluid on the skin.)*
+
+* **Observations during Fraction 1 (Plasma Spirit):** * [Enter notes here: e.g., heavy foam, strong ammonia scent, rapid vaporization...]
+* **Observations during Fraction 2 (Clear Water):** * [Enter notes here: e.g., stable drip, clear visual, neutral scent...]
+* **Observations during Fraction 3 (Earth Matrix):** * [Enter notes here: e.g., dark amber color, thick viscosity, deep earthy/umami aroma...]
+
+### 4. Applied Variances (Open-Science Transparency)
+* **Storage Variance:** Due to laboratory constraints, initial collection and short-term holding were conducted using repurposed food-grade plastics (PET/HDPE) prior to long-term maturation.
+* **[Any other variances to note on the day of the experiment]**
+
