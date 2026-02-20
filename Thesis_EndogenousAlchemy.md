@@ -1,3 +1,10 @@
+# Sovereign Biophysics: The Endogenous Distillation of High-Voltage Biological Carrier Solvents
+
+**Author:** Ana Seahawk
+**Primary Archive:** [https://github.com/AnaSeahawk](https://github.com/AnaSeahawk)
+**Location:** Torremolinos, Andalusia, Spain
+**Status:** Active Research / Open Science Protocol
+
 # Nomenclature Key: "Ultra-Filtered Blood Plasma"
 
 In the context of this research and the broader scope of Sovereign Biophysics, the term **"ultra-filtered blood plasma"** is used strictly and intentionally in place of the common colloquialism, "urine." 
@@ -17,14 +24,6 @@ As this ultrafiltrate travels through the nephrons, the body selectively reabsor
 The common colloquial word carries centuries of cultural conditioning, causing the fluid to be reflexively dismissed. By utilizing the correct physiological terminology—ultra-filtered blood plasma—we maintain strict scientific clarity. 
 
 This terminology grounds the research in objective reality, requiring the reader to acknowledge the fluid for what it actually is: a highly refined, biologically intelligent separation of the host's own blood, carrying the exact structural and energetic blueprint of the body at the moment of its creation.
-
-
-# Sovereign Biophysics: The Endogenous Distillation of High-Voltage Biological Carrier Solvents
-
-**Author:** Ana Seahawk
-**Primary Archive:** [https://github.com/AnaSeahawk](https://github.com/AnaSeahawk)
-**Location:** Torremolinos, Andalusia, Spain
-**Status:** Active Research / Open Science Protocol
 
 ## I. Statement of Intention
 
