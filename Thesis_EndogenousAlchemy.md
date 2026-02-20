@@ -1,3 +1,24 @@
+# Nomenclature Key: "Ultra-Filtered Blood Plasma"
+
+In the context of this research and the broader scope of Sovereign Biophysics, the term **"ultra-filtered blood plasma"** is used strictly and intentionally in place of the common colloquialism, "urine." 
+
+This is not a euphemism; it is a precise biophysical classification. To understand the empirical data and energetic principles presented in these distillations, the observer must first understand the mechanical origin of the fluid.
+
+### 1. The Mechanics of Filtration
+Blood continuously flows into the kidneys, passing through microscopic capillary networks known as glomeruli. Utilizing the body's native blood pressure, the kidneys push the liquid portion of the blood—the plasma—through a biological semi-permeable membrane. In medical biophysics, this exact mechanical process is termed **glomerular ultrafiltration**.
+
+### 2. The Initial Output
+The fluid that emerges on the other side of this membrane is clinically classified as an "ultrafiltrate of blood plasma." At this stage, it contains the structural water, living salts, amino acids, and endogenous signaling molecules of the blood. The only elements missing are the large red blood cells and heavy proteins, which are too large to pass through the biological filter.
+
+### 3. The Final Refinement
+As this ultrafiltrate travels through the nephrons, the body selectively reabsorbs exactly what it requires to maintain perfect systemic homeostasis at that specific moment in time. What remains is not "waste," but a highly concentrated, hyper-refined solution. It contains bio-available nitrogen (urea), deep-earth minerals, and master biochemical messengers (such as the IAA signaling molecule). 
+
+### Why This Distinction Matters
+The common colloquial word carries centuries of cultural conditioning, causing the fluid to be reflexively dismissed. By utilizing the correct physiological terminology—ultra-filtered blood plasma—we maintain strict scientific clarity. 
+
+This terminology grounds the research in objective reality, requiring the reader to acknowledge the fluid for what it actually is: a highly refined, biologically intelligent separation of the host's own blood, carrying the exact structural and energetic blueprint of the body at the moment of its creation.
+
+
 # Sovereign Biophysics: The Endogenous Distillation of High-Voltage Biological Carrier Solvents
 
 **Author:** Ana Seahawk
