@@ -34,7 +34,7 @@ Conversely, a body steeped in four years of continuous biological feedback produ
 
 The distillation of the aged plasma resulted in a multi-stage separation, fractionating the liquid into volatile distillates (the "Solar" fractions) and a non-volatile concentrate (the "Lunar" fraction). 
 
-*Operational Note:* During this run, the 3000 ml chamber was filled to capacity. The boiling process of the dense plasma created a heavy foam, leading to an overflow that naturally separated the volatile distillate into two distinct stages. For future iterations, the distillation chamber will only be filled to half capacity. The beginning stage must be closely monitored to scoop off the rising foam as needed; a wooden spoon was utilized effectively for this purpose.
+*Operational Note:* During this run, the 3000 ml chamber was filled to capacity. The boiling process of the 2500 ml dense plasma created a heavy foam, leading to an overflow that naturally separated the volatile distillate into two distinct stages. For future iterations, the distillation chamber will only be filled to half capacity. The beginning stage must be closely monitored to scoop off the rising foam as needed; a wooden spoon was utilized effectively for this purpose.
 
 ## 2. The Volatile Distillate Fractions (Solar Portions)
 
