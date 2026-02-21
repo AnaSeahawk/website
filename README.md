@@ -2,13 +2,13 @@
 
 **Living as art**
 
-Presence as art.
-Time as devotion.
-
 All true achievements are found inward.
 What matters most is the path of heart.
 
 ## What I’m offering
+
+Presence as art.
+Time as devotion.
 
 I host **small, private gatherings** for people engaged in deep, body-based practices that are not meant to be done alone.
 
