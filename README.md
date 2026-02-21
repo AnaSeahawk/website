@@ -34,7 +34,7 @@ What connects them is a willingness to **stay with what is happening,** rather t
 I live and work from a simple premise:
 **presence as art, time as devotion.**
 
-I am an **amarolī practitioner,** and my inquiry has unfolded outside formal institutions, credentials, and conventional structures. What guides me is not ideology, but whether something can be felt, integrated, and lived.
+I am a Herbalist, a 4 year **amarolī practitioner.** Most of my inquiry has unfolded outside formal institutions, credentials, and conventional structures. What guides me is not ideology, but whether something can be felt, integrated, and lived.
 
 I’m not interested in language that pulls people out of their bodies, or in concepts that cannot be embodied. I care about what remains when ideas fall away.
 
