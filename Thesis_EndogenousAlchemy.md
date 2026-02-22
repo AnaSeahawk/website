@@ -54,7 +54,7 @@ By applying rigorous volumetric and electrochemical metrics (pH, µS/cm, ORP) to
 
 ## II. The Core Hypothesis
 
-This study posits that the intentional aging (fermentation) and subsequent distillation of the endogenous plasma matrix will yield two distinct, highly stable, and biologically intelligent fractions:
+This study posits that the intentional aging (fermentation) and subsequent distillation of the endogenous plasma matrix will yield two distinct, biologically intelligent fractions, each with its own specific energetic lifespan:
 
 1. **The Plasma Spirit (The Volatile Purifier & Carrier):** Driven by the alchemy of time and microbial transmutation of urea into ammonia, the volatile distillate will present as a high-voltage, highly alkaline (pH > 10.0), and hyper-conductive fluid carrying a negative Oxidation-Reduction Potential (ORP). 
 2. **The Earth Matrix (The Dense Prebiotic Anchor):** The non-volatile concentrate remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts, bio-available nitrogen, and endogenous signaling messengers, acting as a biological grounding wire.
@@ -69,6 +69,8 @@ In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their
 To bridge the alchemical with the empirical, the exact molecular transmutation occurring in the fermentation vessel must be defined. During the aging process, native urease enzymes catalyze the hydrolysis of dormant urea into highly active ammonia and carbon dioxide:
 
 $(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$
+
+
 
 When heat is applied, this volatile ammonia gas ($NH_3$) vaporizes first. As it crosses the cooling coil and condenses into the distilled water, it forms ammonium hydroxide ($NH_4OH$). It is this exact molecular formation that dictates the extreme alkaline spike and the electron-donating capacity of the Plasma Spirit.
 
@@ -141,4 +143,5 @@ The practical, phenomenological application of these fractions confirms their hi
   * *Internal:* When ingested in micro-doses with an activating carrier like *hing*, it acts as a bio-available energy carrier utilized to clear energetic blockages.
 
 * **The Lunar Earth (Fraction 3 - The Prebiotic Sealant):**
-  * *Topical Repair:* Over a three-year clinical timeline, this stable, hyper-dense mineral matrix has been successfully applied topically to rapidly heal cuts, bruises, and sun intolerance. Where the Solar Spirit sanitizes, the Lunar Earth seals and provides raw material for cellular repair.
+  * *Biophysical Lifespan:* Unlike synthetic medicines, this dense mineral matrix remains biologically active post-distillation. It continues to slowly evolve and is biophysically optimal when utilized within one lunar cycle (approximately 30 days).
+  * *Topical Repair & Thermal Burns:* Over a three-year clinical timeline, this hyper-dense matrix has been successfully applied topically to rapidly heal cuts, bruises, and sun intolerance. Crucially, it demonstrates an immediate, profound cooling effect on acute thermal burns (steam, open flame, and hot surfaces). When applied immediately—bypassing standard cold-water protocols—it rapidly draws out the heat and completely prevents blistering. Where the Solar Spirit sanitizes, the Lunar Earth seals and provides the raw biophysical material for cellular repair.
