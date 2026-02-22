@@ -68,11 +68,11 @@ In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their
 ### 1. The Biochemical Mechanism (Urea Transmutation)
 To bridge the alchemical with the empirical, the exact molecular transmutation occurring in the fermentation vessel must be defined. During the aging process, native urease enzymes catalyze the hydrolysis of dormant urea into highly active ammonia and carbon dioxide:
 
-$(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$
+**(NH<sub>2</sub>)<sub>2</sub>CO + H<sub>2</sub>O &rarr; 2NH<sub>3</sub> + CO<sub>2</sub>**
 
 
 
-When heat is applied, this volatile ammonia gas ($NH_3$) vaporizes first. As it crosses the cooling coil and condenses into the distilled water, it forms ammonium hydroxide ($NH_4OH$). It is this exact molecular formation that dictates the extreme alkaline spike and the electron-donating capacity of the Plasma Spirit.
+When heat is applied, this volatile ammonia gas (NH<sub>3</sub>) vaporizes first. As it crosses the cooling coil and condenses into the distilled water, it forms ammonium hydroxide (NH<sub>4</sub>OH). It is this exact molecular formation that dictates the extreme alkaline spike and the electron-donating capacity of the Plasma Spirit.
 
 ### 2. Fermentation & Environmental Variables
 The *Prima Materia* (collected Feb 1) was cured under the following controlled environmental conditions to facilitate the enzymatic breakdown:
