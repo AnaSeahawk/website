@@ -7,7 +7,7 @@
 
 # Nomenclature Key: "Endogenous Plasma Ultrafiltrate Matrix"
 
-In the context of this research and the broader scope of Sovereign Biophysics, the term **"endogenous plasma ultrafiltrate matrix"** is used strictly and intentionally in place of the common colloquialism. 
+In the context of this research and the broader scope of Sovereign Biophysics, the term **"endogenous plasma ultrafiltrate matrix"** is used strictly and intentionally in place of the common colloquialism, **urine**. 
 
 This is not a euphemism; it is a precise biophysical classification. To understand the empirical data and energetic principles presented in these distillations, the observer must first understand the mechanical origin and intelligent design of the fluid.
 
@@ -28,10 +28,10 @@ Because of this active secretion, the final output is not simply filtered plasma
 
 ### 4. The Five-Organ Matrix & The Three Treasures: Reversing the Internal Clock
 
-To understand the immense voltage of the *Prima Materia* captured in the distillation flask, the observer must view the human vessel not as a continuous, closed-loop energetic circuit. This distillation is the culmination of a full-system alchemical process.
+To understand the immense voltage of the *Prima Materia* captured in the distillation flask, the observer must view the human vessel as a continuous, closed-loop energetic circuit. This distillation is the culmination of a full-system alchemical process.
 
 **The Foundation: The Three Treasures**
-In Daoist Internal Alchemy, the prerequisite for true transformation is the repair and replenishment of the Three Treasures: **Jing** (The Primordial Essence), **Qi** (The Vital Breath), and **Shen** (The Radiant Spirit). This specific research is built upon a stabilized biological foundation of a four-year continuous closed-loop endogenous practice, ensuring the *prima materia* distilled is harvested from a fortified internal terrain. 
+In Daoist Internal Alchemy, the prerequisite for true transformation is the repair and replenishment of the Three Treasures: **Jing** (The Primordial Essence), **Qi** (The Vital Breath), and **Shen** (The Radiant Spirit). This specific research is built upon a stabilized biological foundation of a four-year continuous closed-loop endogenous practice—specifically, the oral consumption and application via enema of both fresh and aged urine (*Amaroli*). This is the physical realization of "closing the loop"—the cyclical reintroduction of the body's waters as described in ancient alchemical texts to purify the host and fortify the internal terrain prior to distillation.
 
 **The Internal Alchemy (The Symphony of the Five Organs)**
 The creation of the Endogenous Plasma Ultrafiltrate Matrix requires the coordinated intelligence of all five major organ systems:
@@ -65,12 +65,25 @@ In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their
 
 ## IV. Methodology & Protocol: The Sovereign Distillation
 
-### 1. The Apparatus and Thermal Constraints
+### 1. The Biochemical Mechanism (Urea Transmutation)
+To bridge the alchemical with the empirical, the exact molecular transmutation occurring in the fermentation vessel must be defined. During the aging process, native urease enzymes catalyze the hydrolysis of dormant urea into highly active ammonia and carbon dioxide:
+
+$(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$
+
+When heat is applied, this volatile ammonia gas ($NH_3$) vaporizes first. As it crosses the cooling coil and condenses into the distilled water, it forms ammonium hydroxide ($NH_4OH$). It is this exact molecular formation that dictates the extreme alkaline spike and the electron-donating capacity of the Plasma Spirit.
+
+### 2. Fermentation & Environmental Variables
+The *Prima Materia* (collected Feb 1) was cured under the following controlled environmental conditions to facilitate the enzymatic breakdown:
+* **Container:** Sealed in a repurposed commercial water bottle, establishing a pressurized, anaerobic baseline.
+* **Ambient Curing:** Maintained at room temperature with daily exposure to filtered ambient winter sunlight (sunrise to noon).
+* **Solar Activation:** For the 48 hours immediately preceding distillation, the vessel was intentionally placed in maximal direct sunlight to thermodynamically accelerate the enzymatic release of ammonia. 
+
+### 3. The Apparatus and Thermal Constraints
 * **The Chamber:** A standard 3000ml stainless steel distillation unit. 
 * **The 50% Rule:** The chamber must never be filled past 50% capacity (1500ml maximum).
 * **Thermal Application:** Standard low-heat distillation. 
 
-### 2. The Fractional Collection Protocol
+### 4. The Fractional Collection Protocol
 * **Fraction 1: The Plasma Spirit (The Volatile Purifier)**: The first heavy, foaming fluid to breach the cooling coil.
 * **Fraction 2: The Clear Water (The Structural Medium)**: The refined, stable aqueous output.
 * **Fraction 3: The Earth Matrix (The Lunar Retentate)**: The dense, non-volatile concentrate remaining in the primary chamber. 
@@ -81,7 +94,7 @@ In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their
 * **Date of Distillation:** Sunday, February 22, 2026 (Sun Day / Taurus Moon)
 * **Location:** Torremolinos, Andalusia, Spain
 * **Starting Input Volume:** ~1500ml
-* **Measurement Devices:** UIUZMAR 6-in-1, PIOUS 5-in-1, Unbranded 3-in-1
+* **Measurement Devices:** UIUZMAR 6-in-1, PIOUS 5-in-1, Unbranded 3-in-1. *(Note on Data Integrity: All digital meters were utilized under standard functional calibration to ensure extreme voltage readings were empirically accurate and not the result of sensor drift).*
 
 ### 2. Fractional Yield & Electrochemical Data
 
@@ -103,15 +116,13 @@ By comparing the Fresh Control to the resulting fractions, the exact separation 
 
 ## VI. Baseline Parameters & Clinical Applications (For Scientific Reproducibility)
 
-For the sake of absolute scientific transparency, the exact biological inputs of the host vessel are documented below. It is important to note that these inputs represent the *controlled baseline* of this specific distillation. 
+For the sake of scientific transparency, the exact biological inputs of the host vessel are documented below. 
 
-**Future Comparative Research:** It is currently unknown how a standard modern diet (high in synthetic sodium, processed foods, and municipal water) affects the electrochemical yield of the Plasma Spirit and Earth Matrix. Future studies utilizing cross-subject testing are required to determine if the following dietary parameters are absolute prerequisites for achieving these specific high-voltage metrics, or if the alchemical process naturally purifies and standardizes diverse biological baselines.
-
-
+**The Universal Spark vs. Practitioner Variance:** The ancient texts state that the "seed" or alchemical spark of this medicine exists natively within all human biology. While researchers like Fiona Gardner have observed specific biocrystalline structural differences in the fluids of *Amaroli* practitioners compared to non-practitioners, it is currently hypothesized in this study that this foundational alchemical transmutation into the Plasma Spirit is a universal human constant. Future cross-subject testing is required to determine whether the baseline metrics achieved here strictly demand this closed-loop preparation, or if similar voltage yields can be extracted from a standard biological baseline.
 
 ### 1. The Host Baseline (The Zero-Salt Matrix)
 The *Prima Materia* utilized in this protocol was harvested from a vessel operating under the following parameters:
-* **Zero Sodium Chloride:** A diet entirely devoid of added synthetic or isolated salt. All mineral density measured is organically derived from the food matrix.
+* **Zero Sodium Chloride:** The dietary intake consisted of mostly no sodium chloride for the preceding year, and *strictly* no sodium chloride for the entire duration of the plasma collection. All mineral density measured is organically derived from the food matrix.
 * **The Sattvic Inputs:** The cellular terrain is built upon specific grains (rice, wheat, oats), split mung beans, and high-quality endogenous fats (homemade ghee, milk, cream, and butter).
 * **Master Botanicals:** Regulated using ashwagandha, brahmi, triphala, fennel, cumin, cinnamon, and asafoetida (*hing*).
 
@@ -120,13 +131,14 @@ Hydration was strictly limited to pure **distilled water** for all drinking, coo
 * **The Endogenous Proof:** By eliminating inorganic minerals from the water supply, the immense electrical conductivity (27.5 mS/cm) measured in the *Earth Matrix* is proven to be strictly endogenous. 
 * **The Recursive Loop:** A small amount of the resulting high-voltage Plasma Spirit is now added to the distilled water used to wash the grains before cooking, utilizing the active hydrogen to sanitize and energetically prepare the food.
 
+### 3. The Dual-Action Clinical Protocol & Safety Threshold
 
+**⚠️ Safety Threshold (The Biological Solvent):** A fluid presenting with a pH of 10.09 is profoundly alkaline—chemically functioning as a caustic solvent. **The Plasma Spirit is not a hydration fluid.** It must never be ingested in large, undiluted quantities, as severe alkalinity can cause chemical burns to the mucosal and gastrointestinal lining. It is a concentrated biological medicine, intended strictly for micro-dosing, topical sanitation, or extreme dilution.
 
-### 3. The Dual-Action Clinical Protocol
 The practical, phenomenological application of these fractions confirms their historical use in alchemical medicine:
 
 * **The Solar Spirit (Fraction 1 & 2 - The High-Voltage Solvent):** * *Topical/Dental:* Rapidly breaks down biofilm, sanitizes the gums, and polishes the enamel. On the skin, it strips away impurities.
-  * *Internal:* When ingested with an activating carrier like *hing*, it acts as a bio-available energy carrier utilized to clear energetic blockages.
+  * *Internal:* When ingested in micro-doses with an activating carrier like *hing*, it acts as a bio-available energy carrier utilized to clear energetic blockages.
 
 * **The Lunar Earth (Fraction 3 - The Prebiotic Sealant):**
   * *Topical Repair:* Over a three-year clinical timeline, this stable, hyper-dense mineral matrix has been successfully applied topically to rapidly heal cuts, bruises, and sun intolerance. Where the Solar Spirit sanitizes, the Lunar Earth seals and provides raw material for cellular repair.
