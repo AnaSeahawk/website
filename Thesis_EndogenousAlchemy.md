@@ -9,33 +9,16 @@
 
 In the context of this research and the broader scope of Sovereign Biophysics, the term **"plasma ultrafiltrate"** is used strictly and intentionally in place of the common colloquialism, **urine**. 
 
-**The Internal Alchemy (The Symphony of the Five Organs)**
-The creation of the Plasma Ultrafiltrate requires the coordinated intelligence of all five major organ systems:
-
-1. **The Spleen (Earth - The Assimilator):** Ingests and assimilates heavy, life-sustaining proteins into **Ojas**—the golden essence that deeply nourishes.
-
-2. **The Liver (Wood - The Master Alchemist):** The energetic exchange of utilizing *Ojas* produces a highly volatile byproduct (ammonia). The Liver binds this volatile fire into a perfectly stable, neutral crystalline vessel known as **Urea** (The "Fixed Salt").
-
-3. **The Heart (Fire - The Sovereign Emperor):** Receives the neutralized, urea-rich blood and provides the thermal and rhythmic propulsion, demanding the lower organs filter the fluid so the Fire above remains clear.
-
-4. **The Lungs (Metal - The Mother of Water):** Provide the pneumatic, downward thrust, acting as atmospheric bellows driving the pressure wave down.
-
-5. **The Kidneys (Water - The Root of Life):** Act as the final separator, filtering the dormant, packaged fire out of the blood and concentrating it alongside living earth minerals. 
-
-**The External Alchemy (Reversing the Water Wheel)** The Great Medicine.
-When the Amaroli practitioner collects the Plasma Ultrafiltrate and allows it to age and ferment, a profound biophysical reversal occurs. Urease-producing microbes dismantle the Liver’s work, breaking open the "Fixed Salt" (urea) and releasing the dormant energy back into its highly volatile, active state (ammonia). 
-
-When controled heat is applied to the distillation chamber, it is this liberated, high-voltage energy that vaporizes first. This is the **Plasma Spirit**. This process yields a hyper-conductive, highly alkaline distillate—the literal physical manifestation of the alchemical *Yang* rising from the *Yin* waters.
 
 ## I. Statement of Intention
 
-The intention of this paper is to present hyper-bioavailable carrier solvents (*Anupanas*), electron-dense antioxidants, and structural terrain-management matrices can be sovereignly harvested at home.
+The intention of this paper is to share the findings of this experience as best I can.
 
 ## II. The Core Hypothesis
 
 This study posits that the intentional aging (fermentation) and subsequent distillation of the aged plasma ultrafiltrate will yield two distinct, biologically intelligent fractions, each with its own specific energetic lifespan:
 
-1. **The Plasma Spirit (The Volatile Purifier & Carrier):** Driven by the alchemy of time and microbial transmutation of urea into ammonia, the volatile distillate will present as a high-voltage, highly alkaline (pH > 10.0), and hyper-conductive fluid carrying a negative Oxidation-Reduction Potential (ORP). 
+1. **The Plasma Spirit (The Solar Volatile Purifier & Carrier):** Driven by the alchemy of time and microbial transmutation of urea into ammonia, the volatile distillate will present as a high-voltage, highly alkaline (pH > 10.0), and hyper-conductive fluid carrying a negative Oxidation-Reduction Potential (ORP). 
 2. **The Non-Volatile Concentrate / Retentate (Lunar Portion):** The dense, un-distilled concentrate remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts, bio-available acting as a biological grounding wire.
 
 ## III. The Historical Continuum and Commercial Obfuscation
