@@ -40,7 +40,7 @@ This study posits that the intentional aging (fermentation) and subsequent disti
 
 ## III. The Historical Continuum and Commercial Obfuscation
 
-In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their lives to distilling aged, fermented human biological fluids. They rigorously documented the exact high-voltage, alkaline first fraction captured in this study, revering it as the **"Volatile Salt"** or the **"Spiritus."** Despite this foundational knowledge, the modern era has seen a systematic distancing from sovereign, endogenous alchemy in favor of synthetic, commercialized replacements. Through the lens of **biophysical hermeneutics**, this thesis acts as a modern Rosetta Stone, applying digital electrochemical metrics to strip away the required cryptography of the past and prove the science of internal alchemy.
+In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their lives to distilling aged, fermented human biological fluids. They rigorously documented the exact high-voltage, alkaline first fraction captured in this study, revering it as the **"Volatile Salt"** or the **"Spiritus."** Despite this foundational knowledge, the modern era has seen a systematic distancing from sovereign, endogenous alchemy in favor of synthetic, commercialized replacements.
 
 ## IV. Methodology & Protocol: The Sovereign Distillation
 
