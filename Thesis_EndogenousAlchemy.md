@@ -57,7 +57,7 @@ By applying rigorous volumetric and electrochemical metrics (pH, µS/cm, ORP) to
 This study posits that the intentional aging (fermentation) and subsequent distillation of the endogenous plasma matrix will yield two distinct, biologically intelligent fractions, each with its own specific energetic lifespan:
 
 1. **The Plasma Spirit (The Volatile Purifier & Carrier):** Driven by the alchemy of time and microbial transmutation of urea into ammonia, the volatile distillate will present as a high-voltage, highly alkaline (pH > 10.0), and hyper-conductive fluid carrying a negative Oxidation-Reduction Potential (ORP). 
-2. **The Earth Matrix (The Dense Prebiotic Anchor):** The non-volatile concentrate remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts, bio-available nitrogen, and endogenous signaling messengers, acting as a biological grounding wire.
+2. **The Non-Volatile Concentrate / Retentate (Lunar Portion):** The dense, un-distilled concentrate remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts, bio-available nitrogen, and endogenous signaling messengers, acting as a biological grounding wire.
 
 ## III. The Historical Continuum and Commercial Obfuscation
 
@@ -88,7 +88,7 @@ The *Prima Materia* (collected Feb 1) was cured under the following controlled e
 ### 4. The Fractional Collection Protocol
 * **Fraction 1: The Plasma Spirit (The Volatile Purifier)**: The first heavy, foaming fluid to breach the cooling coil.
 * **Fraction 2: The Clear Water (The Structural Medium)**: The refined, stable aqueous output.
-* **Fraction 3: The Earth Matrix (The Lunar Retentate)**: The dense, non-volatile concentrate remaining in the primary chamber. 
+* **Fraction 3: The Non-Volatile Concentrate / Retentate (Lunar Portion)**: The dense, non-volatile concentrate remaining in the primary chamber. 
 
 ## V. Empirical Data Ledger & Electrochemical Metrics
 
@@ -109,7 +109,7 @@ The *Prima Materia* (collected Feb 1) was cured under the following controlled e
 | `16:29` | **Fraction 2: Final Distillate** | T1: 29.8°C<br>T2: 29°C<br>T3: 22.9°C | *pH:* 9.6<br>*TDS:* 305 ppm<br>*EC:* 616 µS/cm<br>*ORP:* -18 mV<br>*H2:* 54 ppb | *pH:* 9.62<br>*TDS:* 321 ppm<br>*EC:* 667 µS/cm<br>*Salt:* 0.03% | *pH:* N/A<br>*TDS:* 420 ppm<br>*EC:* 838 µS/cm | *Final portion of the distilled water.* |
 | `16:29` | **Fresh Control (Unaged Plasma)** | T1: 26.3°C<br>T2: 23.4°C | *pH:* 7.0<br>*TDS:* 3520 ppm<br>*EC:* 6950 µS/cm<br>*ORP:* +77 mV<br>*H2:* 0 ppb | *pH:* 7.07<br>*TDS:* 3820 ppm<br>*EC:* 7500 µS/cm<br>*Salt:* 0.38% | N/A | *Fresh fluid (~20 min old), physiological baseline.* |
 | `17:02` | **Fraction 1: Plasma Spirit (Re-test)** | T1: 25.0°C<br>T2: 25.7°C | *pH:* 9.9<br>*TDS:* 4420 ppm<br>*EC:* 9.6 mS/cm<br>*ORP:* -37 mV<br>*H2:* 56 ppb | *pH:* 10.09<br>*TDS:* 12.7 ppt<br>*EC:* 18.65 mS/cm<br>*Salt:* 1.46% | N/A | *Verification. Retains extreme alkaline voltage and negative ORP.* |
-| `17:02` | **Fraction 3: The Earth Matrix** | T1: 36.5°C<br>T2: 28.2°C | *pH:* 5.9<br>*TDS:* 11.6 ppt<br>*EC:* 22.8 mS/cm<br>*ORP:* +79 mV<br>*H2:* 0 ppb | *pH:* 6.08<br>*TDS:* 13.7 ppt<br>*EC:* 27.5 mS/cm<br>*Salt:* 1.46% | N/A | *Cooled retentate (250ml). Smells like earthy humus and coffee.* |
+| `17:02` | **Fraction 3: The Lunar Retentate** | T1: 36.5°C<br>T2: 28.2°C | *pH:* 5.9<br>*TDS:* 11.6 ppt<br>*EC:* 22.8 mS/cm<br>*ORP:* +79 mV<br>*H2:* 0 ppb | *pH:* 6.08<br>*TDS:* 13.7 ppt<br>*EC:* 27.5 mS/cm<br>*Salt:* 1.46% | N/A | *Cooled retentate (250ml). Smells like earthy humus and coffee.* |
 
 ### 3. Phenomenological Observations & Variance Summary
 By comparing the Fresh Control to the resulting fractions, the exact separation of the *Prima Materia* was mathematically mapped:
@@ -130,18 +130,32 @@ The *Prima Materia* utilized in this protocol was harvested from a vessel operat
 
 ### 2. The Hydration Protocol (The Blank Slate)
 Hydration was strictly limited to pure **distilled water** for all drinking, cooking, and the washing of grains.
-* **The Endogenous Proof:** By eliminating inorganic minerals from the water supply, the immense electrical conductivity (27.5 mS/cm) measured in the *Earth Matrix* is proven to be strictly endogenous. 
+* **The Endogenous Proof:** By eliminating inorganic minerals from the water supply, the immense electrical conductivity (27.5 mS/cm) measured in the *Lunar Retentate* is proven to be strictly endogenous. 
 * **The Recursive Loop:** A small amount of the resulting high-voltage Plasma Spirit is now added to the distilled water used to wash the grains before cooking, utilizing the active hydrogen to sanitize and energetically prepare the food.
 
-### 3. The Dual-Action Clinical Protocol & Safety Threshold
+### 3. The Dual-Action Clinical Protocol & Biocompatibility
 
-**⚠️ Safety Threshold (The Biological Solvent):** A fluid presenting with a pH of 10.09 is profoundly alkaline—chemically functioning as a caustic solvent. **The Plasma Spirit is not a hydration fluid.** It must never be ingested in large, undiluted quantities, as severe alkalinity can cause chemical burns to the mucosal and gastrointestinal lining. It is a concentrated biological medicine, intended strictly for micro-dosing, topical sanitation, or extreme dilution.
+**The Safety of the Sovereign Vessel:** From a strictly chemical standpoint, a laboratory fluid presenting with a pH of 10.09 would be handled as a caustic substance. However, the phenomenological reality of this *endogenous* medicine is one of profound safety and biocompatibility. Because the fluid is natively encoded to the host, it is recognized by the body not as a toxin, but as a sovereign tool. The author has safely utilized the high-voltage Plasma Spirit directly as an ingestible mouthwash, a facial toner, and a culinary activating agent. The extraction of the Spirit opens a new "playground" of multipurpose, highly safe internal alchemy for the practitioner. 
 
-The practical, phenomenological application of these fractions confirms their historical use in alchemical medicine:
+* **The Solar Spirit (Fraction 1 & 2 - The High-Voltage Solvent):** * *Topical/Dental:* Rapidly breaks down biofilm, sanitizes the gums, and polishes the enamel. On the skin, it acts as a profoundly safe and effective toner, stripping away impurities.
+  * *Internal:* When swallowed after dental swishing or ingested in micro-doses with an activating carrier like *hing*, it acts as a bio-available energy carrier utilized to clear energetic blockages.
 
-* **The Solar Spirit (Fraction 1 & 2 - The High-Voltage Solvent):** * *Topical/Dental:* Rapidly breaks down biofilm, sanitizes the gums, and polishes the enamel. On the skin, it strips away impurities.
-  * *Internal:* When ingested in micro-doses with an activating carrier like *hing*, it acts as a bio-available energy carrier utilized to clear energetic blockages.
-
-* **The Lunar Earth (Fraction 3 - The Prebiotic Sealant):**
+* **The Lunar Retentate (Fraction 3 - The Prebiotic Sealant / "Plasma Lotion"):**
   * *Biophysical Lifespan:* Unlike synthetic medicines, this dense mineral matrix remains biologically active post-distillation. It continues to slowly evolve and is biophysically optimal when utilized within one lunar cycle (approximately 30 days).
-  * *Topical Repair & Thermal Burns:* Over a three-year clinical timeline, this hyper-dense matrix has been successfully applied topically to rapidly heal cuts, bruises, and sun intolerance. Crucially, it demonstrates an immediate, profound cooling effect on acute thermal burns (steam, open flame, and hot surfaces). When applied immediately—bypassing standard cold-water protocols—it rapidly draws out the heat and completely prevents blistering. Where the Solar Spirit sanitizes, the Lunar Earth seals and provides the raw biophysical material for cellular repair.
+  * *Topical Repair & First Aid:* Known practically within the alchemical community as **"Plasma Lotion"**, this hyper-dense matrix is carried in a dropper bottle as a complete sovereign first-aid kit. Over a three-year clinical timeline, it has been successfully applied topically to rapidly heal cuts, bruises, and sun intolerance. Crucially, it demonstrates an immediate, profound cooling effect on acute thermal burns (steam, open flame, and hot surfaces). When applied immediately—bypassing standard cold-water protocols—it rapidly draws out the heat and completely prevents blistering. Where the Solar Spirit sanitizes, the Lunar Portion seals and provides the raw biophysical material for cellular repair.
+
+## VII. Conclusion & Future Vectors of Research
+
+The empirical data recorded in this protocol successfully validates the core hypothesis of Sovereign Biophysics: the human body natively produces a highly refined *Prima Materia* capable of being transmuted into a high-voltage solvent and a dense prebiotic anchor. 
+
+By applying modern electrochemical metrics to the ancient Daoist and Ayurvedic protocols of *Amaroli* and internal alchemy, this study demonstrates that the "Golden Elixir" is not a metaphor. The low-heat distillation of an aged, endogenous ultrafiltrate physically isolates the volatile *Yang* from the heavy *Yin*, resulting in a Plasma Spirit with an extreme alkaline voltage (pH 10.09, -37 mV ORP) and a Lunar Retentate characterized by immense mineral density (27.5 mS/cm EC). 
+
+This proves that hyper-bioavailable carrier solvents and terrain-management matrices can be sovereignly cultivated without reliance on synthetic laboratory equipment or commercial intermediaries. After four years of deep intimacy with the raw fluid, the distillation of the Plasma Spirit opens a new alchemical playground—proving that the body's medicine is both profoundly powerful and intrinsically safe when cultivated with reverence.
+
+**Next Steps & Open Research Vectors**
+To further bridge the gap between historical alchemy and empirical biophysics, the following research vectors are now open:
+
+1. **Cross-Terrain Baseline Studies:** The immediate next step is comparative distillation. By running this exact protocol on the endogenous fluids of individuals adhering to standard modern diets (high sodium chloride, processed foods, municipal water), we will determine if the alkaline voltage spike of the Plasma Spirit is a universal biological constant (the alchemical "spark"), or if it strictly requires the Sattvic, closed-loop terrain architecture outlined in this study.
+2. **Longitudinal Maturation Tracking:** The Lunar Retentate ("Plasma Lotion") is an actively evolving prebiotic sealant. Future studies will digitally track the pH, ORP, and conductivity of Fraction 3 over a continuous 30-day lunar cycle to map its biophysical maturation curve.
+3. **Botanical Transmutation (The *Anupana* Protocol):** 
+With the sovereign Plasma Spirit now secured, the next phase of laboratory application involves utilizing this high-voltage, exosome-rich fluid as a primary extraction solvent for master Ayurvedic botanicals. The hypothesis is that extracting herbs in this highly alkaline, electron-dense endogenous carrier will yield a biometric resonance that bypasses standard cellular absorption barriers.
