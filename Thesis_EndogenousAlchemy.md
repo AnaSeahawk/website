@@ -19,7 +19,7 @@ The intention of this paper is to share the findings of this experience as best 
 This study posits that the intentional aging (fermentation) and subsequent distillation of the aged plasma ultrafiltrate will yield two distinct, biologically intelligent fractions, each with its own specific energetic lifespan:
 
 1. **The Plasma Spirit (The Solar Volatile Purifier & Carrier):** Driven by the alchemy of time and microbial transmutation of urea into ammonia, the volatile distillate will present as a high-voltage, highly alkaline (pH > 10.0), and hyper-conductive fluid carrying a negative Oxidation-Reduction Potential (ORP). 
-2. **The Non-Volatile Concentrate / Retentate (Lunar Portion):** The dense, un-distilled concentrate remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts, bio-available acting as a biological grounding wire.
+2. **The Plasma Serum Non-Volatile Concentrate / Retentate (Lunar Portion):** The dense, un-distilled concentrate remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts, bio-available acting as a biological grounding wire.
 
 ## III. The Historical Continuum and Commercial Obfuscation
 
@@ -49,8 +49,8 @@ The *Prima Materia* (collected Feb 1) was cured under the following controlled e
 
 ### 4. The Fractional Collection Protocol
 * **Fraction 1: The Plasma Spirit (The Volatile Purifier)**: The first heavy, foaming fluid to breach the cooling coil.
-* **Fraction 2: The Clear Water (The Structural Medium)**: The refined, stable aqueous output.
-* **Fraction 3: The Non-Volatile Concentrate / Retentate (Lunar Portion)**: The dense, non-volatile concentrate remaining in the primary chamber. 
+* **Fraction 2: The Clear Plasma Water (The Structural Medium)**: The refined, stable aqueous output.
+* **Fraction 3: The Plasma Serum Non-Volatile Concentrate / Retentate (Lunar Portion)**: The dense, non-volatile concentrate remaining in the primary chamber. 
 
 ## V. Empirical Data Ledger & Electrochemical Metrics
 
@@ -71,12 +71,12 @@ The *Prima Materia* (collected Feb 1) was cured under the following controlled e
 | `16:29` | **Fraction 2: Final Distillate** | T1: 29.8°C<br>T2: 29°C<br>T3: 22.9°C | *pH:* 9.6<br>*TDS:* 305 ppm<br>*EC:* 616 µS/cm<br>*ORP:* -18 mV<br>*H2:* 54 ppb | *pH:* 9.62<br>*TDS:* 321 ppm<br>*EC:* 667 µS/cm<br>*Salt:* 0.03% | *pH:* N/A<br>*TDS:* 420 ppm<br>*EC:* 838 µS/cm | *Final portion of the distilled water.* |
 | `16:29` | **Fresh Control (Unaged Plasma)** | T1: 26.3°C<br>T2: 23.4°C | *pH:* 7.0<br>*TDS:* 3520 ppm<br>*EC:* 6950 µS/cm<br>*ORP:* +77 mV<br>*H2:* 0 ppb | *pH:* 7.07<br>*TDS:* 3820 ppm<br>*EC:* 7500 µS/cm<br>*Salt:* 0.38% | N/A | *Fresh fluid (~20 min old), physiological baseline.* |
 | `17:02` | **Fraction 1: Plasma Spirit (Re-test)** | T1: 25.0°C<br>T2: 25.7°C | *pH:* 9.9<br>*TDS:* 4420 ppm<br>*EC:* 9.6 mS/cm<br>*ORP:* -37 mV<br>*H2:* 56 ppb | *pH:* 10.09<br>*TDS:* 12.7 ppt<br>*EC:* 18.65 mS/cm<br>*Salt:* 1.46% | N/A | *Verification. Retains extreme alkaline voltage and negative ORP.* |
-| `17:02` | **Fraction 3: The Lunar Retentate** | T1: 36.5°C<br>T2: 28.2°C | *pH:* 5.9<br>*TDS:* 11.6 ppt<br>*EC:* 22.8 mS/cm<br>*ORP:* +79 mV<br>*H2:* 0 ppb | *pH:* 6.08<br>*TDS:* 13.7 ppt<br>*EC:* 27.5 mS/cm<br>*Salt:* 1.46% | N/A | *Cooled retentate (250ml). Smells like earthy humus and coffee.* |
+| `17:02` | **Fraction 3: The Plasma Serum Lunar Retentate** | T1: 36.5°C<br>T2: 28.2°C | *pH:* 5.9<br>*TDS:* 11.6 ppt<br>*EC:* 22.8 mS/cm<br>*ORP:* +79 mV<br>*H2:* 0 ppb | *pH:* 6.08<br>*TDS:* 13.7 ppt<br>*EC:* 27.5 mS/cm<br>*Salt:* 1.46% | N/A | *Cooled retentate (250ml). Smells like earthy humus and coffee.* |
 
 ### 3. Phenomenological Observations & Variance Summary
 By comparing the Fresh Control to the resulting fractions, the exact separation of the *Prima Materia* was mathematically mapped:
 * **The Inversion of Charge:** The fresh biological baseline possessed a neutral pH (~7.0) and a positive charge (+77 mV ORP). The distilled fluid was completely inverted into an active, high-voltage electron donor (pH 9.6 - 10.09) with a stable negative charge (-18 mV to -37 mV).
-* **The Descent of the Earth Element:** The heavy biological salts condensed into an acidic pH (5.9) with massive density (up to 27.5 mS/cm EC), proving to be a biologically active prebiotic anchor.
+* **Plasma Serum The Descent of the Earth Element:** The heavy biological salts condensed into an acidic pH (5.9) with massive density (up to 27.5 mS/cm EC), proving to be a biologically active prebiotic anchor.
 
 ## VI. Baseline Parameters & Clinical Applications (For Scientific Reproducibility)
 
@@ -102,9 +102,9 @@ Hydration was strictly limited to pure **distilled water** for all drinking, coo
 * **The Solar Spirit (Fraction 1 & 2 - The High-Voltage Solvent):** * *Topical/Dental:* Rapidly breaks down biofilm, sanitizes the gums, and polishes the enamel. On the skin, it acts as a profoundly safe and effective toner, stripping away impurities.
   * *Internal:* When swallowed after dental swishing or ingested in micro-doses with an activating carrier like *hing*, it acts as a bio-available energy carrier utilized to clear energetic blockages.
 
-* **The Lunar Retentate (Fraction 3 - The Prebiotic Sealant / "Plasma Lotion"):**
+* **The Lunar Retentate (Fraction 3 - The Prebiotic Sealant / "Plasma Serum"):**
   * *Biophysical Lifespan:* Unlike synthetic medicines, this dense mineral matrix remains biologically active post-distillation. It continues to slowly evolve and is biophysically optimal when utilized within one lunar cycle (approximately 30 days).
-  * *Topical Repair & First Aid:* Known practically within the alchemical community as **"Plasma Lotion"**, this hyper-dense matrix is carried in a dropper bottle as a complete sovereign first-aid kit. Over a three-year clinical timeline, it has been successfully applied topically to rapidly heal cuts, bruises, and sun intolerance. Crucially, it demonstrates an immediate, profound cooling effect on acute thermal burns (steam, open flame, and hot surfaces). When applied immediately—bypassing standard cold-water protocols—it rapidly draws out the heat and completely prevents blistering. Where the Solar Spirit sanitizes, the Lunar Portion seals and provides the raw biophysical material for cellular repair.
+  * *Topical Repair & First Aid:* Known practically within the alchemical community as **"Plasma Serum"**, this hyper-dense matrix is carried in a dropper bottle as a complete sovereign first-aid kit. Over a three-year clinical timeline, it has been successfully applied topically to rapidly heal cuts, bruises, and sun intolerance. Crucially, it demonstrates an immediate, profound cooling effect on acute thermal burns (steam, open flame, and hot surfaces). When applied immediately—bypassing standard cold-water protocols—it rapidly draws out the heat and completely prevents blistering. Where the Solar Spirit sanitizes, the Lunar Portion seals and provides the raw biophysical material for cellular repair.
 
 ## VII. Conclusion & Future Vectors of Research
 
