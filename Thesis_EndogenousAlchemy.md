@@ -122,6 +122,7 @@ By applying modern electrochemical metrics to the ancient Daoist and Ayurvedic p
 This proves that hyper-bioavailable carrier solvents and terrain-management matrices can be sovereignly cultivated without reliance on synthetic laboratory equipment or commercial intermediaries. After four years of deep intimacy with the raw fluid, the distillation of the Plasma Spirit opens a new alchemical playground—proving that the body's medicine is both profoundly powerful and intrinsically safe when cultivated with reverence.
 
 **Next Steps & Open Research Vectors**
+
 To further bridge the gap between historical alchemy and empirical biophysics, the following research vectors are now open:
 
 1. **Cross-Terrain Baseline Studies:** The immediate next step is comparative distillation. By running this exact protocol on the endogenous fluids of individuals adhering to standard modern diets (high sodium chloride, processed foods, municipal water), we will determine if the alkaline voltage spike of the Plasma Spirit is a universal biological constant (the alchemical "spark"), or if it strictly requires the Sattvic, closed-loop terrain architecture outlined in this study.
