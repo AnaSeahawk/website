@@ -12,7 +12,8 @@ In the context of this research and the broader scope of Sovereign Biophysics, t
 
 ## I. Statement of Intention
 
-The intention of this paper is to share the findings of this experience as best I can.
+I. Statement of Intention
+The intention of this paper is to forge a precise, empirical bridge between two historically isolated paradigms. First, the Mechanistic Model—the standard scientific lens that provides the rigorous instruments, electrochemical data, and theoretical maps of isolated physical matter. Second, Ayurveda and Internal Alchemy—the observable sciences of living biophysics, which translate that raw data into the somatic, felt reality of the body’s energetic flow. By anchoring immutable scientific facts within the living territory of endogenous distillation, this work serves as an open-source exploration into the unknown, offering a reproducible framework for biophysical sovereignty without claiming rigid authority over the inherent mystery of the living system.
 
 ## II. The Core Hypothesis
 
