@@ -33,8 +33,6 @@ Despite this foundational empirical knowledge, the modern era has seen a systema
 
 To bridge the alchemical with the empirical, the exact molecular transmutation occurring in the fermentation vessel must be defined. During the aging process, native urease enzymes catalyze the hydrolysis of dormant urea into highly active ammonia and carbon dioxide.
 
-
-
 $$(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$$
 
 When heat is applied, this volatile ammonia gas ($NH_3$) vaporizes first. As it crosses the cooling coil and condenses into the distilled water, it forms ammonium hydroxide ($NH_4OH$). It is this exact molecular formation that dictates the extreme alkaline spike and the massive electron-donating capacity of the Plasma Spirit.
