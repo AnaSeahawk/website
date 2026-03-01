@@ -9,7 +9,6 @@
 
 In the context of this research and the broader scope of Sovereign Biophysics, the term **"plasma ultrafiltrate"** is used strictly and intentionally in place of the common colloquialism, **urine**. 
 
-
 ## I. Statement of Intention
 
 I. Statement of Intention
