@@ -31,7 +31,40 @@ Despite this foundational empirical knowledge, the modern era has seen a systema
 
 ## IV. Methodology & Protocol: The Sovereign Distillation
 
-IV. Methodology & Protocol: The Sovereign Distillation1. The Biochemical Mechanism (Urea Transmutation)To bridge the alchemical with the empirical, the exact molecular transmutation occurring in the fermentation vessel must be defined. During the aging process, native urease enzymes catalyze the hydrolysis of dormant urea into highly active ammonia and carbon dioxide.$$(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$$When heat is applied, this volatile ammonia gas ($NH_3$) vaporizes first. As it crosses the cooling coil and condenses into the distilled water, it forms ammonium hydroxide ($NH_4OH$). It is this exact molecular formation that dictates the extreme alkaline spike and the massive electron-donating capacity of the Plasma Spirit.2. Fermentation & Environmental VariablesThe Prima Materia (collected February 1) was cured under the following controlled environmental conditions to facilitate the enzymatic breakdown:Container: Sealed in a repurposed commercial water bottle, establishing a pressurized, anaerobic baseline.Ambient Curing: Maintained at room temperature with daily exposure to filtered ambient winter sunlight (sunrise to noon).Solar Activation: For the 48 hours immediately preceding distillation, the vessel was intentionally placed in maximal direct sunlight to thermodynamically charge the fluid.3. The Apparatus and Thermal ConstraintsThe Chamber: A standard 3000ml stainless steel distillation unit.The 50% Rule: The chamber must never be filled past 50% capacity (1500ml maximum) to prevent the heavy, foaming Prima Materia from boiling over into the condenser coil and contaminating the volatile distillate.Thermal Application: Standard low-heat distillation to ensure a slow, highly controlled separation of the volatile and non-volatile fractions.4. The Fractional Collection ProtocolFraction 1: The Plasma Spirit (The Volatile Purifier): The first heavy, foaming fluid to breach the cooling coil, carrying the concentrated alkaline voltage.Fraction 2: The Clear Plasma Water (The Structural Medium): The refined, stable aqueous output that follows the initial volatile spike.Fraction 3: The Plasma Serum / Lunar Retentate: The dense, non-volatile concentrate remaining in the primary chamber once the distillation is terminated.
+**IV. Methodology & Protocol: The Sovereign Distillation**
+
+**1. The Biochemical Mechanism (Urea Transmutation)**
+
+To bridge the alchemical with the empirical, the exact molecular transmutation occurring in the fermentation vessel must be defined. During the aging process, native urease enzymes catalyze the hydrolysis of dormant urea into highly active ammonia and carbon dioxide.
+
+
+
+$$(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$$
+
+When heat is applied, this volatile ammonia gas ($NH_3$) vaporizes first. As it crosses the cooling coil and condenses into the distilled water, it forms ammonium hydroxide ($NH_4OH$). It is this exact molecular formation that dictates the extreme alkaline spike and the massive electron-donating capacity of the Plasma Spirit.
+
+**2. Fermentation & Environmental Variables**
+
+The *Prima Materia* (collected February 1) was cured under the following controlled environmental conditions to facilitate the enzymatic breakdown:
+
+* **Container:** Sealed in a repurposed commercial water bottle, establishing a pressurized, anaerobic baseline.
+* **Ambient Curing:** Maintained at room temperature with daily exposure to filtered ambient winter sunlight (sunrise to noon).
+* **Solar Activation:** For the 48 hours immediately preceding distillation, the vessel was intentionally placed in maximal direct sunlight to thermodynamically charge the fluid.
+
+**3. The Apparatus and Thermal Constraints**
+
+
+
+* **The Chamber:** A standard 3000ml stainless steel distillation unit.
+* **The 50% Rule:** The chamber must never be filled past 50% capacity (1500ml maximum) to prevent the heavy, foaming *Prima Materia* from boiling over into the condenser coil and contaminating the volatile distillate.
+* **Thermal Application:** Standard low-heat distillation to ensure a slow, highly controlled separation of the volatile and non-volatile fractions.
+
+**4. The Fractional Collection Protocol**
+
+* **Fraction 1: The Plasma Spirit (The Volatile Purifier):** The first heavy, foaming fluid to breach the cooling coil, carrying the concentrated alkaline voltage.
+* **Fraction 2: The Clear Plasma Water (The Structural Medium):** The refined, stable aqueous output that follows the initial volatile spike.
+* **Fraction 3: The Plasma Serum / Lunar Retentate:** The dense, non-volatile concentrate remaining in the primary chamber once the distillation is terminated.
+
 
 ## V. Empirical Data Ledger & Electrochemical Metrics
 
