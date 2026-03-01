@@ -11,10 +11,9 @@ In the context of this research and the broader scope of Sovereign Biophysics, t
 
 ## I. Statement of Intention
 
-I. Statement of Intention
 The intention of this paper is to forge a precise, empirical bridge between two historically isolated paradigms. First, the Mechanistic Model—the standard scientific lens that provides the rigorous instruments, electrochemical data, and theoretical maps of isolated physical matter. Second, Ayurveda and Internal Alchemy—the observable sciences of living biophysics, which translate that raw data into the somatic, felt reality of the body’s energetic flow. By anchoring immutable scientific facts within the living territory of endogenous distillation, this work serves as an open-source exploration into the unknown, offering a reproducible framework for biophysical sovereignty without claiming rigid authority over the inherent mystery of the living system.
 
-II. The Core Hypothesis
+## II. The Core Hypothesis
 
 This study posits that the intentional aging (fermentation) and subsequent distillation of the aged plasma ultrafiltrate yields two distinct, biologically intelligent fractions, each possessing its own specific energetic lifespan and biophysical function:
 
@@ -22,15 +21,13 @@ The Plasma Spirit (The Solar Volatile Purifier & Carrier): Driven by the alchemy
 
 The Plasma Serum / Lunar Retentate (The Non-Volatile Concentrate): The dense, undistilled fluid remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts. It acts as a bio-available prebiotic sealant and a biological grounding wire for the nervous system.
 
-III. The Historical Continuum and Commercial Obfuscation
+## III. The Historical Continuum and Commercial Obfuscation
 
 In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their lives to distilling aged, fermented human biological fluids. They rigorously documented the exact high-voltage, alkaline first fraction captured in this study, revering it as the "Volatile Salt" or the "Spiritus."
 
 Despite this foundational empirical knowledge, the modern era has seen a systematic distancing from sovereign, endogenous alchemy. The Mechanistic Model slowly abstracted these living, biologically intelligent fluids into isolated, dead chemical components, discarding the sovereign practice in favor of synthetic, commercialized replacements. This study reclaims that historical continuum, proving the biophysical validity of the "Spiritus" through modern electrochemical metrics.
 
 ## IV. Methodology & Protocol: The Sovereign Distillation
-
-**IV. Methodology & Protocol: The Sovereign Distillation**
 
 **1. The Biochemical Mechanism (Urea Transmutation)**
 
@@ -52,8 +49,6 @@ The *Prima Materia* (collected February 1) was cured under the following control
 
 **3. The Apparatus and Thermal Constraints**
 
-
-
 * **The Chamber:** A standard 3000ml stainless steel distillation unit.
 * **The 50% Rule:** The chamber must never be filled past 50% capacity (1500ml maximum) to prevent the heavy, foaming *Prima Materia* from boiling over into the condenser coil and contaminating the volatile distillate.
 * **Thermal Application:** Standard low-heat distillation to ensure a slow, highly controlled separation of the volatile and non-volatile fractions.
@@ -63,7 +58,6 @@ The *Prima Materia* (collected February 1) was cured under the following control
 * **Fraction 1: The Plasma Spirit (The Volatile Purifier):** The first heavy, foaming fluid to breach the cooling coil, carrying the concentrated alkaline voltage.
 * **Fraction 2: The Clear Plasma Water (The Structural Medium):** The refined, stable aqueous output that follows the initial volatile spike.
 * **Fraction 3: The Plasma Serum / Lunar Retentate:** The dense, non-volatile concentrate remaining in the primary chamber once the distillation is terminated.
-
 
 ## V. Empirical Data Ledger & Electrochemical Metrics
 
