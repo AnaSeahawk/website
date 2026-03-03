@@ -96,6 +96,7 @@ The *Prima Materia* utilized in this protocol was harvested from a vessel operat
 * **Zero Sodium Chloride:** The dietary intake consisted of mostly no sodium chloride for the preceding year, and *strictly* no sodium chloride for the entire duration of the plasma collection. All mineral density measured is organically derived from the food matrix.
 * **The Sattvic Inputs:** The cellular terrain is built upon specific grains (rice, wheat, oats), split mung beans, and high-quality endogenous fats (homemade ghee, milk, cream, and butter).
 * **Master Botanicals:** Regulated using ashwagandha, brahmi, triphala, fennel, cumin, cinnamon, and asafoetida (*hing*).
+* **Amaroli Practitioner:** Four years daily consuming (urine) fresh morning unprocessed plasma ultrafiltrate, sip cycling through the day (each discarge is collected and at minimum tasted), almost daily aged plasma enemas and various other protocols involved in a high level Amaroli Practitioner (Commonly known as Urine Therapy or Shivambu in Ayurveda terms).
 
 ### 2. The Hydration Protocol (The Blank Slate)
 Hydration was strictly limited to pure **distilled water** for all drinking, cooking, and the washing of grains.
