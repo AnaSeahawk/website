@@ -13,7 +13,9 @@ To accurately interpret the extreme electrochemical metrics of this distillation
 
 The primary input was harvested from a host (Olivier / Ligoldragon) actively engaged in the continuous, closed-loop practice of Amaroli (Shivambu) for nearly four solar years. 
 
-This lifestyle fundamentally alters the biological terrain. The practice extends far beyond the topical application of Plasma Lotion (which has been utilized for three years for severe dermal healing and microbiome restoration). The host's terrain is actively saturated with its own biological resonance through:
+This lifestyle fundamentally alters the biological terrain. The practice extends beyond the oral use into topical application of reduced "Plasma Serum" the Lunar fraction (which has been utilized for three years for dermal healing and the purpose of this distilation). Previously this was acheived through thermal evaporation, using an outdoor electric hob alowing the water to evaporate and escape into tne environment un-captured, the reduced "plasma serum" was then cooled, filtered and used liberaly in topical applications.
+
+The host's terrain is actively saturated with its own biological resonance through:
 * The daily, continuous oral ingestion of fresh ultra-filtered blood plasma.
 * Deep-tissue microbiome integration via regular aged plasma enemas.
 * Full-body dermal absorption through baths.
@@ -23,7 +25,7 @@ This lifestyle fundamentally alters the biological terrain. The practice extends
 
 This distinction is mathematically and structurally profound. In the study of organic fluid biocrystallization, researchers observing the life forces within bodily fluids (such as the work of Fiona Gardner) note a stark contrast between conditioned and unconditioned biology. The ultra-filtered plasma of a non-practicing individual may exhibit a faint energetic "spark" under crystallization, but it fails to grow a coherent, complex geometric pattern. It lacks the compounded memory of a sovereign feedback loop.
 
-Conversely, a body steeped in four years of continuous biological feedback produces a fluid that is highly organized, structurally dense, and energetically potent. Therefore, the explosive voltage and hyper-conductivity captured in the Plasma Spirit of this distillation are not merely the byproduct of anaerobic aging. They are the mathematical expression of a structurally optimized terrain. The fluid is already acting as **The Great Medicine** long before it enters the distillation chamber, carrying a compounded density of vital force (*Prana*) that an unconditioned baseline simply cannot replicate.
+Conversely, a body steeped in four years of continuous biological feedback produces a fluid that is highly organized, structurally dense, and energetically potent. Therefore, the explosive voltage and hyper-conductivity captured in the Plasma Spirit of this distillation may not merely be the byproduct of anaerobic aging. They may be the mathematical expression of a structurally optimized terrain. The fluid may already be acting as **The Great Medicine** long before it enters the distillation chamber, carrying a compounded density of vital force (*Prana*) that an unconditioned baseline simply cannot replicate. 
 
 
 ## 1. Equipment & Process Methodology
@@ -42,7 +44,7 @@ The distillation of the aged plasma resulted in a multi-stage separation, fracti
   * **Yield:** Approximately 500 ml
   * **Readings (at 23.1°C):** pH 10.26 – 10.28 | Salt 0.66% – 0.68% | Salt PPM: 6,720 | Conductivity: 12.75 MS/CM
   * **Characteristics:** Captured early in the process from the initial foaming phase. Highly alkaline with a notable salt load.
-  * **Applications:** Acts as a potent living solvent. Highly effective as a base for medicine making (such as botanical extractions and home tinctures) and serves as a powerful agent for wound cleaning.
+  * **Applications:** Acts as a potentialy potent living solvent. Indicitive of a highly effective base for medicine making (such as botanical extractions and home tinctures) and posibly may serve as a powerful agent for wound cleaning.
 
 * **Fraction 2: Plasma Water - The Refined Aqueous Distillate**
   * **Yield:** Approximately 1.25 liters
@@ -59,9 +61,9 @@ The distillation was halted when approximately 1/4 of the volume remained in the
 * **Readings (at 23.8°C):** pH 7.17 | Salt 2.75% – 2.81% | PPT: 23.4 | Conductivity: 46.6 – 46.8 MS/CM
 * **Sensory Notes:** Soft to the touch, feeling akin to a body lotion or butter, the skin soaks it up. It "smells alive" and possesses a texture so soft that it feels intimately close to the self. The taste is profoundly umami, characterized by naturally organic, living earth salts.
 
-* **Applications:** Best suited for topical application on the skin and specifically indicated for wound healing (complementing the wound-cleaning properties of the solar distillates). Additionally, due to its dense mineral profile and near-neutral pH, it has been successfully utilized in meals to provide a living, umami flavor. 
+* **Applications:** Used for topical application on the skin and specifically for wound healing (complementing the wound-cleaning properties of the solar distillates?).
 
-* **Dietary Context:** The rich presence of these organic salts (measuring nearly 3% salt concentration) is highly notable, as it manifests despite a strictly no sodium chloride diet for over a month, and a broader practice of avoiding sodium chloride almost entirely over the past year (with only rare, intentional consumption). 4 Years Vegan diet, recently in the duration of this collection and ferment, the diet has been like that of a Sherpa, everything with ghee, some olive oil. Grains & beans: Rice, wheat berries, oats and mung bean. Dairy: butter, yougart, whole milk and some cream. Spices: cumin and fennel. Herbals: triphala, ashwagandha, brahmin. Stimulants: Coffee. Some honey. Plants: tomato, squash, potato, leafy greens, orange juice on occasion. 
+* **Dietary Context:** The rich presence of these organic salts (measuring nearly 3% salt concentration) is highly notable, as it manifests despite a strictly no sodium chloride diet for over a month, and a broader practice of avoiding sodium chloride almost entirely over the past year (with only rare, intentional consumption). 4 Years Vegan diet, recently in the duration of this collection and ferment, the diet has been low sulfur vegan, everything with ghee, some olive oil. Grains & beans: Rice, wheat berries, oats and mung bean. Dairy: butter, yougart, whole milk and some cream. Spices: cumin and fennel. Herbals: triphala, ashwagandha, brahmin. Stimulants: Coffee. Some honey. Plants: tomato, squash, potato, leafy greens, orange juice on occasion. 
 
 ## 4. Conclusion & Alchemical Insights
 Observing the fractionated plasma function simultaneously as a medicinal solvent and a nutrient-dense concentrate provides a profound physical demonstration of the body's internal mechanisms. The solvent-like taste and high alkalinity of the early distillates reveal the immense, self-cleaning power inherent in the human system. 
