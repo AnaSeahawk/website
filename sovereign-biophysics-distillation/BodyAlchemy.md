@@ -85,5 +85,5 @@ This proves that true hyper-bioavailable carrier solvents, electron-dense antiox
 
 
 ---
-**Reference Material:** * **Distillation Data & Metrics:** [Experiment Report: Aged Ultra-Filtered Blood Plasma Distillation](https://github.com/AnaSeahawk/website/blob/main/plasmaDistilled.md)
+**Reference Material:** * **Distillation Data & Metrics:** [Experiment Report: Aged Ultra-Filtered Blood Plasma Distillation](./plasmaDistilled.md)
 * **Video Presentation:** [Plasma Activated Water in Agriculture] — *Visual demonstration of the synthetic "lightning in a bottle" concept described in Part I.*

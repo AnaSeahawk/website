@@ -64,3 +64,7 @@ Patronage helps the work remain unforced.
 There is no application.
 No promise of outcome.
 Only an invitation to arrive.
+## Repository organization
+
+- Core sovereign biophysics and distillation research is organized in `sovereign-biophysics-distillation/`.
+
