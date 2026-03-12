@@ -67,4 +67,6 @@ Only an invitation to arrive.
 ## Repository organization
 
 - Core sovereign biophysics and distillation research is organized in `sovereign-biophysics-distillation/`.
-
+- Time-orientation and cyclical mapping lives in `The-Living-Year/`.
+- Dream sequence entries are grouped in `Dreamwork/`.
+- Core reflective worldview essays are grouped in `Foundations/`.
