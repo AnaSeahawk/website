@@ -1,9 +1,6 @@
-# Ana Seahawk Hub
+# Ana Seahawk Hub (Draft)
 
 This repository is the primary public archive for current writing and research.
-
-Presence as art, time as devotion.  
-Record-keeping is part of that devotion: preserving lived truth so memory can become a path forward.
 
 Website (minimal gateway): `anaseahawk.com`
 Primary archive: `https://github.com/AnaSeahawk`
@@ -13,7 +10,6 @@ If you are new, read in this order:
 1. `Foundations/README.md` (orientation)
 2. `The-Living-Year/README.md` (context + timeline entry)
 3. `sovereign-biophysics-distillation/README.md` (method and boundaries)
-4. `Foundations/2026-03-14-freedom-is-love-lineage-of-record.md` (lineage + archive ethos)
 
 ## Four Pillars
 1. **Alchemical Journals**
