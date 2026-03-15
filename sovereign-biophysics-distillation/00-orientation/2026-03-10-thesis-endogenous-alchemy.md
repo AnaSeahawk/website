@@ -91,7 +91,7 @@ By comparing the Fresh Control to the resulting fractions, the exact separation 
 
 For the sake of scientific transparency, the exact biological inputs of the host vessel are documented below. 
 
-**The Universal Spark vs. Practitioner Variance:** The ancient texts state that the "seed" or alchemical spark of this medicine exists natively within all human biology. While researchers like Fiona Gardner have observed specific biocrystalline structural differences in the fluids of *Amaroli* practitioners compared to non-practitioners, it is currently hypothesized in this study that this foundational alchemical transmutation into the Plasma Spirit is a universal human constant. Future cross-subject testing is required to determine whether the baseline metrics achieved here strictly demand this closed-loop preparation, or if similar voltage yields can be extracted from a standard biological baseline.
+**The Universal Spark vs. Practitioner Variance:** Some traditional texts describe an alchemical "seed" as natively present in human biology. While researchers like Fiona Gardner have observed biocrystalline differences between *Amaroli* practitioners and non-practitioners, this study treats Plasma Spirit transmutation as a working hypothesis rather than a universal constant. Future cross-subject testing is required to evaluate whether the baseline metrics here depend on this specific closed-loop context or can appear in broader baselines.
 
 ### 1. The Host Baseline (The Zero-Salt Matrix)
 The *Prima Materia* utilized in this protocol was harvested from a vessel operating under the following parameters:

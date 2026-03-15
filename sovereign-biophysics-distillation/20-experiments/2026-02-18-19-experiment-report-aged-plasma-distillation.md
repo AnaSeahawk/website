@@ -12,9 +12,9 @@
 
 To accurately interpret the extreme electrochemical metrics of this distillation (pH 10.28, 12.75 MS/CM), it is necessary to establish the exact nature of the biological input. The fluid utilized in this initial distillation did not originate from a standard, unconditioned physiological baseline. 
 
-The primary input was harvested from a host (Olivier / Ligoldragon) actively engaged in the continuous, closed-loop practice of Amaroli (Shivambu) for nearly four solar years. 
+The primary input was harvested from a host (Olivier / Ligoldragon) actively engaged in a continuous closed-loop Amaroli (Shivambu) practice for nearly four solar years. 
 
-This lifestyle fundamentally alters the biological terrain. The practice extends beyond the oral use into topical application of reduced "Plasma Serum" the Lunar fraction (which has been utilized for three years for dermal healing and the purpose of this distilation). Previously this was acheived through thermal evaporation, using an outdoor electric hob alowing the water to evaporate and escape into tne environment un-captured, the reduced "plasma serum" was then cooled, filtered and used liberaly in topical applications.
+In this personal context, the practice extends beyond oral use into topical application of reduced "Plasma Serum" (Lunar fraction). In prior phases, reduction was performed through thermal evaporation (outdoor electric hob), then cooled, filtered, and used in personal topical contexts.
 
 The host's terrain is actively saturated with its own biological resonance through:
 * The daily, continuous oral ingestion of fresh ultra-filtered blood plasma.
