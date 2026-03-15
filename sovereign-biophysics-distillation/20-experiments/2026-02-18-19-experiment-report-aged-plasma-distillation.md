@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: community
+claim_tier: mixed
+---
+
 # Experiment Report & Journal Entry: Aged Ultra-Filtered Blood Plasma Distillation
 
 **By:** Ana Seahawk 

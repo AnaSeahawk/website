@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: public
+claim_tier: interpretation
+---
+
 ## Burdock Root — releasing without violence  
 *(_Arctium lappa_ L.)*
 

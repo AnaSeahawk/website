@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: community
+claim_tier: mixed
+---
+
 # Sovereign Biophysics: The Endogenous Distillation of High-Voltage Biological Carrier Solvents
 
 **Author:** Ana Seahawk

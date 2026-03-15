@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: public
+claim_tier: interpretation
+---
+
 ## Yerba Santa — clearing the breath, restoring tone  
 *(_Eriodictyon californicum_)*
 

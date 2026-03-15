@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: community
+claim_tier: observed
+---
+
 ### Sovereign Biophysics: Methodology & Harm Reduction Disclosures
 
 **A Prolegomenon Accompanying the *Sovereign Biophysics* Thesis**

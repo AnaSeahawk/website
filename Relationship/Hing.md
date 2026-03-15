@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: public
+claim_tier: interpretation
+---
+
 ## Asafoetida — restoring movement, cutting obstruction
 (Ferula assa-foetida)
 

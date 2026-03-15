@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: community
+claim_tier: mixed
+---
+
 # The Liquid and the Lightning: Synthesis of Water-Plasma Interactions & The "Fourth Phase" Data
 
 This note reviews two converging lines of inquiry that challenge a strictly simple-solvent view of water. One involves high-energy physics (Plasma Activated Water), and the other involves low-energy structural organization (The Fourth Phase).

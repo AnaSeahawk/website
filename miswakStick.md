@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: public
+claim_tier: interpretation
+---
+
 # Miswak Stick
 ***Salvadora persica***
 

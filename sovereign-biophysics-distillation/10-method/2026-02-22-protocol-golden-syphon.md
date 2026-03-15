@@ -1,3 +1,9 @@
+---
+status: reviewed
+visibility: community
+claim_tier: interpretation
+---
+
 # The Amaroli Ritual of the Golden Syphon
 
 **Date of Execution:** Sunday, February 22, 2026 (Sun Day / Taurus Moon)  
