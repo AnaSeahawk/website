@@ -5,6 +5,8 @@
 
 *A living record of biological potential, astrological memory, and the holographic nature of the human vessel.*
 
+*Boundary:* This manifesto is a philosophical orientation text, not medical guidance.
+
 ---
 
 ### I. The Vow of the Witness (*Shen-Ming*)

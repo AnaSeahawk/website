@@ -4,6 +4,7 @@
 This folder is a chronological archive of endogenous distillation discovery. The structure is organized by phase so the research flow can be read from orientation -> method -> experiments -> analysis -> synthesis.
 
 These are living documents and personal field notes. Data and interpretations are snapshots in time and may evolve.
+All records are single-subject unless explicitly noted otherwise.
 
 ## Boundary & Medical Disclaimer
 This archive is not a medical protocol, teaching curriculum, or guide for others. The metrics and preparations recorded here are specific to one body and context.
@@ -12,7 +13,7 @@ This archive is not a medical protocol, teaching curriculum, or guide for others
 
 ## Reading Path (Discovery Flow)
 1. Orientation: framing, vow, and thesis intent.
-2. Method: ritual/protocol details before the run.
+2. Method: process-context notes before the run.
 3. Experiments: run records, measurements, and outcomes.
 4. Analysis: interpretive bridge between data and theory.
 5. Synthesis: integrated model across multiple runs.
