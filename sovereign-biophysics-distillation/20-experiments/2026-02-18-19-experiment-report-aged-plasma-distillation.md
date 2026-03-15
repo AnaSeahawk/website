@@ -6,6 +6,7 @@
 **Subject:** Distillation of "Olivier’s" 1st Decan Aquarius, 5919 Anno Mundi ("In the Year of the World") — January 20 to January 29, 2026
 
 *Note: For the purposes of this entry, "ultra-filtered blood plasma" will be referred to simply as "plasma" for ease of reading.*
+*Boundary note: single-subject observational record; not medical guidance.*
 
 ### The Biological Baseline: A Four-Year Isopathic Closed Loop
 
@@ -23,9 +24,9 @@ The host's terrain is actively saturated with its own biological resonance throu
 
 
 
-This distinction is mathematically and structurally profound. In the study of organic fluid biocrystallization, researchers observing the life forces within bodily fluids (such as the work of Fiona Gardner) note a stark contrast between conditioned and unconditioned biology. The ultra-filtered plasma of a non-practicing individual may exhibit a faint energetic "spark" under crystallization, but it fails to grow a coherent, complex geometric pattern. It lacks the compounded memory of a sovereign feedback loop.
+This distinction is interpreted by the author as structurally significant. In the study of organic fluid biocrystallization, some researchers describe contrast between conditioned and unconditioned biology. This section is included as interpretive context, not causal proof.
 
-Conversely, a body steeped in four years of continuous biological feedback produces a fluid that is highly organized, structurally dense, and energetically potent. Therefore, the explosive voltage and hyper-conductivity captured in the Plasma Spirit of this distillation may not merely be the byproduct of anaerobic aging. They may be the mathematical expression of a structurally optimized terrain. The fluid may already be acting as **The Great Medicine** long before it enters the distillation chamber, carrying a compounded density of vital force (*Prana*) that an unconditioned baseline simply cannot replicate. 
+In the author's working model, long-term closed-loop practice may influence the electrochemical profile observed in this run. The voltage and conductivity captured in the Plasma Spirit are treated here as single-subject findings requiring broader comparison before general conclusions.
 
 
 ## 1. Equipment & Process Methodology
@@ -44,14 +45,14 @@ The distillation of the aged plasma resulted in a multi-stage separation, fracti
   * **Yield:** Approximately 500 ml
   * **Readings (at 23.1°C):** pH 10.26 – 10.28 | Salt 0.66% – 0.68% | Salt PPM: 6,720 | Conductivity: 12.75 MS/CM
   * **Characteristics:** Captured early in the process from the initial foaming phase. Highly alkaline with a notable salt load.
-  * **Applications:** Acts as a potentialy potent living solvent. Indicitive of a highly effective base for medicine making (such as botanical extractions and home tinctures) and posibly may serve as a powerful agent for wound cleaning.
+  * **Use Notes (Observed by author):** Logged as a strong solvent-like fraction in this run and explored in personal extraction contexts. No treatment claim is made.
 
 * **Fraction 2: Plasma Water - The Refined Aqueous Distillate**
   * **Yield:** Approximately 1.25 liters
   * **Readings:** pH 10.14 – 10.15 | Salt 0.04% | PPM: 453 | Conductivity: 904 US/CM
   * **Characteristics:** Collected in the glass carafe as the distillation continued smoothly. Visually super clear, highly alkaline, but significantly more refined with a much lower salt content than Fraction 1.
   * **Sensory Notes:** The taste carries a distinct solvent undertone—less harsh than Fraction 1, but still undeniably present. 
-  * **Applications:** Currently being utilized effectively as a facial toner, sharing the exceptional cleaning properties of the primary fraction.
+  * **Use Notes (Observed by author):** Logged in personal topical use contexts.
 
 ## 3. The Non-Volatile Concentrate / Retentate (Lunar Portion)
 The distillation was halted when approximately 1/4 of the volume remained in the chamber, leaving a dark, oily concentrated retentate resembling dark coffee.
@@ -61,17 +62,17 @@ The distillation was halted when approximately 1/4 of the volume remained in the
 * **Readings (at 23.8°C):** pH 7.17 | Salt 2.75% – 2.81% | PPT: 23.4 | Conductivity: 46.6 – 46.8 MS/CM
 * **Sensory Notes:** Soft to the touch, feeling akin to a body lotion or butter, the skin soaks it up. It "smells alive" and possesses a texture so soft that it feels intimately close to the self. The taste is profoundly umami, characterized by naturally organic, living earth salts.
 
-* **Applications:** Used for topical application on the skin and specifically for wound healing (complementing the wound-cleaning properties of the solar distillates?).
+* **Use Notes (Observed by author):** Logged for topical skin contexts in personal practice notes. No clinical efficacy claim is made.
 
 * **Dietary Context:** The rich presence of these organic salts (measuring nearly 3% salt concentration) is highly notable, as it manifests despite a strictly no sodium chloride diet for over a month, and a broader practice of avoiding sodium chloride almost entirely over the past year (with only rare, intentional consumption). 4 Years Vegan diet, recently in the duration of this collection and ferment, the diet has been low sulfur vegan, everything with ghee, some olive oil. Grains & beans: Rice, wheat berries, oats and mung bean. Dairy: butter, yougart, whole milk and some cream. Spices: cumin and fennel. Herbals: triphala, ashwagandha, brahmin. Stimulants: Coffee. Some honey. Plants: tomato, squash, potato, leafy greens, orange juice on occasion. 
 
 ## 4. Conclusion & Alchemical Insights
-Observing the fractionated plasma function simultaneously as a medicinal solvent and a nutrient-dense concentrate provides a profound physical demonstration of the body's internal mechanisms. The solvent-like taste and high alkalinity of the early distillates reveal the immense, self-cleaning power inherent in the human system. 
+In this run, fractionation produced both a strongly alkaline volatile portion and a dense retentate portion. The solvent-like taste and high alkalinity of the early distillates are logged as direct observations in this dataset.
 
-The plasma naturally separates into purifying alkaline solvents (Solar/Cleaning) and dense, pH-neutral, grounding elements (Lunar/Healing). Extracting such rich, umami earth salts from the non-volatile retentate—entirely independent of dietary sodium chloride intake—perfectly illustrates the body's own continuous internal distillation, mineral generation, and purification process.
+In the author's interpretive frame, plasma separation can be read as a Solar/Lunar split (volatile alkaline fraction and dense grounding retentate). The salt density observed in the retentate is a notable dataset feature and is treated as an endogenous-process hypothesis for further testing.
 
 ## 5. Archival Notes & Next Steps
 * **Labeling:** The batch is cataloged as *"Olivier’s Plasma. 1st decan Aquarius"*.
 * **Visual Archive:** Photographic records (including the active distillate stage) are archived here: [Google Photos Gallery](https://photos.app.goo.gl/WhErNQPusHMMV8WU9). Images document the dark retentate against the light to capture exact color density and texture, as well as the initial volatile output.
 * **Theoretical Expansion:** For a deeper dive into the biophysics and internal Daoist alchemy of this process, read the accompanying essay: [The Alchemy of Plasma: The Fourth Phase of Water and the Refinement of Inner Energy](../30-analysis/2026-03-10-analysis-water-plasma-fourth-phase.md).
-* **Future Exploration:** Begin testing the Active Distillate (Fraction 1) as a primary solvent base for upcoming home tinctures, observing how its "living" quality interacts with other botanical elements.
+* **Future Exploration:** Continue controlled observation of Fraction 1 as an extraction solvent in personal research logs.
