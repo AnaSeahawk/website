@@ -1,11 +1,13 @@
 ## Burdock Root — releasing without violence  
 *(_Arctium lappa_ L.)*
 
+*Boundary: traditional-use and symbolic notes, not medical guidance.*
+
 Burdock does not arrive with urgency.  
 It works where time has thickened,  
 where movement has slowed into habit.
 
-Its medicine is not force,  
+Its tradition is not force,  
 but permission for circulation to resume.
 
 Across traditions, it appears wherever the body  
@@ -50,7 +52,7 @@ Culpeper names burdock as a plant of **Venus**.
 Not Venus as ornament,  
 but Venus as the power that restores harmony in mixture.
 
-He gives burdock to:
+He describes burdock for:
 - thick and corrupt blood  
 - long-standing skin eruptions  
 - swellings, hardened places, lingering sores  
@@ -134,10 +136,10 @@ If Saturn says,
 Burdock—through Venus—says,  
 **“And you may release it without violence.”**
 
-This is why burdock suits:
+In this framing, burdock often suits:
 - Saturn transits  
 - chronic or inherited conditions  
-- moments when healing must be honest, slow, and embodied  
+- moments when restoration must be honest, slow, and embodied  
 
 Saturn shows what has compacted.  
 Venus allows it to loosen without rupture.

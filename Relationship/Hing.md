@@ -1,10 +1,12 @@
 ## Asafoetida — restoring movement, cutting obstruction
 (Ferula assa-foetida)
 
+*Boundary: traditional-use notes and practitioner framing, not medical guidance.*
+
 There are plants that announce themselves gently, and plants that insist.
 Asafoetida belongs to the second kind. It arrives not as fragrance but as force—sharp, sulfurous, unmistakable. It does not ask permission. It intervenes.
 
-In kitchens and medicine chests where digestion is weak, stagnant, or obstructed, this plant has long been kept close, wrapped tightly, used sparingly, and respected.
+In kitchens and medicine chests where digestion felt weak, stagnant, or obstructed, this plant has long been kept close, wrapped tightly, used sparingly, and respected.
 
 
 ---
@@ -32,7 +34,7 @@ This is a plant that teaches discernment: how little is enough, how force can be
 
 ### Āyurveda
 
-Hiṅgu is one of Āyurveda’s most direct medicines for vāta obstruction in the gastrointestinal tract. Where movement is erratic, trapped, or reversed—gas, bloating, cramping, nervous digestion—this resin cuts through.
+Hiṅgu is one of Āyurveda’s direct plants for vāta obstruction in the gastrointestinal tract. Where movement is described as erratic, trapped, or reversed—gas, bloating, cramping, nervous digestion—this resin is traditionally used to cut through.
 
 It is:
 
@@ -53,7 +55,7 @@ For pitta, it must be used with restraint—its heat can aggravate if overapplie
 
 ### Western herbal tradition
 
-In Western herbalism, asafoetida has been known as a carminative, antispasmodic, and nervine adjunct. Historically, it was used for:
+In Western herbalism, asafoetida has been described as a carminative, antispasmodic, and nervine adjunct. Historically, it was used for:
 
 Intestinal gas and cramping
 

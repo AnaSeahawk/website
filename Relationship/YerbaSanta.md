@@ -1,6 +1,8 @@
 ## Yerba Santa — clearing the breath, restoring tone  
 *(_Eriodictyon californicum_)*
 
+*Boundary: traditional-use and practitioner notes, not medical guidance.*
+
 Yerba Santa is felt before it is named.  
 The chest softens. The breath lengthens. Something resinous loosens what has been held too long. This is not a dramatic opening, but a quiet return of movement — air finding its way where it had thickened, voice finding steadiness where it had grown cautious or strained.
 
@@ -23,7 +25,7 @@ It is not a plant for strong **Pitta** excess marked by heat, inflammation, or b
 ---
 
 #### Historical / Western Herbal Tradition — resin restoring tone to lung and mouth  
-In Western herbal tradition, Yerba Santa is understood as an aromatic expectorant and respiratory tonic. Its resinous leaves thin and mobilize mucus while restoring tone to lung tissue that has grown dry, irritated, or fatigued.
+In Western herbal tradition, Yerba Santa is often described as an aromatic expectorant and respiratory tonic. Its resinous leaves are traditionally used where mucus is thick and lung tissue feels dry, irritated, or fatigued.
 
 The same resinous bitterness extends to the **oral cavity**:
 - Supporting firmness in gums and oral tissues  
@@ -52,7 +54,7 @@ Yerba Santa grows in sun-exposed chaparral, coastal scrub, and foothills. Its le
 This is a plant of restraint.  
 It conserves. It endures. And because of this, it knows how to let go.
 
-Its medicine carries the same temperament: steady, warming, clarifying — never lush, never indulgent.
+Its traditional profile carries the same temperament: steady, warming, clarifying — never lush, never indulgent.
 
 ---
 
