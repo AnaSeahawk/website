@@ -103,7 +103,7 @@ The *Prima Materia* utilized in this protocol was harvested from a vessel operat
 ### 2. The Hydration Protocol (The Blank Slate)
 Hydration was strictly limited to pure **distilled water** for all drinking, cooking, and the washing of grains.
 * **Endogenous Inference:** With inorganic minerals removed from water inputs, the high electrical conductivity (27.5 mS/cm) measured in the *Lunar Retentate* is interpreted here as predominantly endogenous in this dataset. 
-* **The Recursive Loop (Personal Practice Note):** A small amount of the resulting fraction has been used in grain-wash water in the author's own routine; this is logged as personal practice context, not a general recommendation.
+* **The Recursive Loop (Solar Fraction Context):** In this single-subject log, a small amount of the **Solar Spirit fraction** was included in grain-wash water. This note is descriptive only and not instructional.
 
 ### 3. Personal Use Observations (Non-clinical)
 
@@ -115,7 +115,7 @@ Hydration was strictly limited to pure **distilled water** for all drinking, coo
 
 * **The Lunar Retentate (Fraction 3 - The Prebiotic Sealant / "Plasma Serum"):**
   * *Biophysical Lifespan:* Unlike synthetic medicines, this dense mineral matrix remains biologically active post-distillation. It continues to slowly evolve and is biophysically optimal when utilized within one lunar cycle (approximately 30 days).
-  * *Topical/First-Aid Notes (Observed by author):* In personal logs, this fraction has been associated with a cooling sensation in topical use contexts. This is anecdotal observation and not a treatment claim.
+  * *Topical Notes (Observed by author):* In personal logs over multiple years, this fraction has been associated with a cooling sensation in topical contexts. This is anecdotal observation and not a treatment claim.
 
 ## VII. Conclusion & Future Vectors of Research
 
