@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 ## Orienting the Body — Feeling the Doṣas
 
 This field guide does not begin with categories.  

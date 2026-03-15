@@ -33,6 +33,8 @@ Use this board to track content state and keep publishing predictable.
 - `Relationship/Living_Equilibrium.md` (metadata)
 - `Relationship/Moringa.md` (light language pass + metadata)
 
+Note: metadata tags were added on 2026-03-15 for all items in this section; remaining pass is content/boundary polishing.
+
 ## Private
 - None currently moved in this repo.
 - Keep private-only operational notes in local staging until intentionally promoted.

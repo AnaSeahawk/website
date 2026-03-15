@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 ## Moringa Leaf — nourishment and abundance  
 *(_Moringa oleifera_ Lam.)*
 

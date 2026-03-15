@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 # A Field Guide to Relationship
 
 ## *Plants, Bodies, and the Intelligence of Use*

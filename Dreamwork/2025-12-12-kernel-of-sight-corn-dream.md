@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 # The Kernel of Sight
 
 ### An Essay on the Corn Dream and the Return to Conscious Nourishment

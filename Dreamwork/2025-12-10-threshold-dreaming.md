@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 # **Threshold Dreaming**
 
 Last night I moved in and out of the same dream over and over—  

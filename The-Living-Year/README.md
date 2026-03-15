@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 # The Living Year
 
 This folder holds the time-orientation framework and related map documents.

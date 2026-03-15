@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 # Dreamwork
 
 This folder groups dream-centered entries in chronological order so symbolic development can be tracked over time.

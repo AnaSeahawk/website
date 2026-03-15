@@ -1,3 +1,9 @@
+---
+status: draft
+visibility: community
+claim_tier: interpretation
+---
+
 # *A Living Map of Time*
 (as held in the field of Ana Seahawk)
 
