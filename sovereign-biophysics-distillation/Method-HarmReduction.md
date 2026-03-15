@@ -2,6 +2,7 @@
 
 **A Prolegomenon Accompanying the *Sovereign Biophysics* Thesis**
 **Author:** Ana Seahawk
+**Record Type:** Harm-reduction and process-risk notes (single-subject context)
 
 **I. LEGAL & ETHICAL DISCLAIMER: INFORMATIONAL PURPOSES ONLY**
 The following text is a documentation of personal anthropological and biophysical research. It is provided strictly for educational, philosophical, and informational purposes.
@@ -23,13 +24,13 @@ Furthermore, the reverence experienced in these distillations is strictly bio-in
 
 ---
 
-**III. THE DISTILLATION METHODOLOGY & PHYSICAL PARAMETERS**
-**Objective:** To document how a commercial, single-temperature water distiller is manually adapted for the extraction of endogenous plasma fractions to prevent biological carbonization, foaming overflow, and hazardous off-gassing.
+**III. THE DISTILLATION NOTES & PHYSICAL PARAMETERS**
+**Objective:** To document a single-practitioner process context for risk reduction around carbonization, overflow, and off-gassing.
 
 **Phase 1: Environmental Setup & Atmospheric Release**
 The volatile compounds present in endogenous plasma evaporate and off-gas before the liquid ever reaches a boil.
 
-* **Location:** Because these volatiles off-gas rapidly, this methodology was strictly conducted in a highly ventilated, open-air environment. Understanding the sheer volume of off-gassing made it clear that attempting this in a closed room or standard kitchen presented a severe inhalation hazard. To manage this atmospheric release, an outdoor covered patio was utilized, allowing the gasses to disperse safely into the open air.
+* **Location:** Because volatiles can off-gas rapidly, this run context used a highly ventilated open-air environment. This note is included as a safety boundary in the author's own process documentation.
 * **Electrical Safety:** Standard distillers draw high, continuous wattage. Grounded wall outlets were utilized to mitigate electrical hazards.
 
 **Phase 2: Loading the Vessel & Mitigating Overflow**
@@ -41,7 +42,7 @@ Biological material foams significantly under heat. Overfilling the chamber push
 **Phase 3: Thermal Restraint & The Run**
 Because commercial machines lack a temperature dial and aggressively heat, thermal restraint relies entirely on human observation and timing.
 
-* **The First Fraction (Plasma Spirit):** Before heavy condensation begins, the machine releases lighter, highly volatile gasses. The initial, highly alkaline clear liquid that drops is the **Plasma Spirit**. Inhalation of the initial exhaust is strictly avoided.
+* **The First Fraction (Plasma Spirit):** Before heavy condensation begins, the machine releases lighter volatile gases. The initial alkaline clear liquid is labeled **Plasma Spirit** in this framework. Initial exhaust exposure is avoided in the author's safety posture.
 * **The Heart (Plasma Water & Plasma Serum):** As the run stabilizes, sterilized glass collection jars are used to collect the subsequent **Plasma Water** and heavier **Plasma Serum** fractions.
 
 **Phase 4: Preventing Carbonization (The Manual Override)**
@@ -60,8 +61,8 @@ The vessel remembers. Carbonized memory cross-contaminates future runs. The Non-
 **Phase 6: The Illusion of Clarity & Visual Deception**
 The most dangerous aspect of endogenous distillation is visual deception. The clear distillate is not pure, harmless drinking water.
 
-* **Plasma Spirit vs. Plasma Water:** The initial Plasma Spirit is a highly volatile, high-pH, high-voltage biological solvent that can be incredibly caustic. Visually, it is indistinguishable from everyday water or the gentler Plasma Water.
-* **Identification and Segregation:** Strict physical segregation and distinct labeling are required in this practice. High-voltage fractions are treated as active laboratory solvents and are never stored near standard drinking water to prevent severe accidental burns or ingestion.
+* **Plasma Spirit vs. Plasma Water:** The initial Plasma Spirit is treated here as a volatile high-pH fraction that may be caustic. Visually, it can be indistinguishable from everyday water or gentler fractions.
+* **Identification and Segregation:** Strict physical segregation and distinct labeling are used in this practice. High-voltage fractions are handled as active lab-like fractions and are not stored near standard drinking water.
 
 **Phase 7: The Path of the Yield**
 
@@ -70,10 +71,10 @@ The most dangerous aspect of endogenous distillation is visual deception. The cl
 
 ---
 
-**V. ASSUMPTION OF RISK & EMERGENCY BASELINE**
+**V. ASSUMPTION OF RISK & EMERGENCY BASELINE (NON-CLINICAL)**
 Engaging with concentrated biological forces carries inherent physical risks. Modified equipment presents thermal dangers, and concentrated volatile compounds (like high-pH Plasma Spirit) can cause severe irritation or burns. 
 
-**The Fallacy of Dietary Exemption:** It is a critical biophysical reality that no dietary protocol—even one strictly devoid of sodium chloride, heavy proteins, or sulfur—exempts the practitioner from these physical hazards. Baseline human metabolic fluid universally contains urea and complex organic cellular waste. When subjected to sustained high heat (100°C and above), urea inevitably volatilizes into ammonia gas. This universal chemical conversion is the primary source of noxious off-gassing and the creation of highly caustic initial fractions. Therefore, strict environmental ventilation and thermal restraint are absolute, non-negotiable necessities for all endogenous fluid, regardless of the practitioner's dietary purity.
+**Dietary Context Limitation:** In this model, dietary variation does not remove baseline process hazards. Human metabolic fluids contain urea and other compounds that may volatilize under sustained high heat. Ventilation and thermal restraint are therefore treated as core safety boundaries in this documentation.
 
 Standard laboratory safety baselines for this methodology include:
 
@@ -84,13 +85,13 @@ Standard laboratory safety baselines for this methodology include:
 
 ---
 
-**VI. THE BIOPHYSICAL PREFERENCE FOR AGED PLASMA**
+**VI. THE BIOPHYSICAL PREFERENCE FOR AGED PLASMA (WORKING MODEL)**
 
-While fresh endogenous fluid can be utilized, **aged plasma** is the definitively preferred base material for this specific distillation protocol. The decision to age the biological carrier solvent prior to distillation is not arbitrary; it is a required biophysical maturation process that fundamentally alters the energetic and structural density of the yield.
+While fresh endogenous fluid can be utilized, this framework prefers **aged plasma** for the author's specific process context. This is a working model, not a universal requirement.
 
-The preference for aged material is grounded in the following biophysical realities:
+The preference for aged material is grounded here in the following observations and interpretations:
 
-* **Microscopic Structural Complexity:** As the plasma ages, its internal architecture undergoes a profound transmutation. Microscopic analysis of aged and ultra-filtered endogenous plasma reveals a highly organized, complex crystalline structure that is absent in fresh material. Aging allows the biological matrix to develop and stabilize these intricate geometries before they are subjected to the thermal stress of distillation.
-* **Alkaline Maturation & Solvent Power:** The aging process naturally synthesizes highly alkaline compounds (specifically complex ammonias). When distilled, this mature, alkaline base translates into a significantly more potent and high-voltage **Plasma Spirit**—a superior biological solvent capable of deeper energetic extraction than the spirit yielded from fresh, unaged fluid. 
-* **Density of the Lunar Retentate:** Distilling aged plasma yields a far richer, denser **Non-Volatile Concentrate (The Lunar Portion / Plasma Lotion)**. Because the base material has been allowed to mature and concentrate over time, the resulting heavy fractions are significantly more robust, making them highly optimized for advanced topical application, tissue repair, and the mitigation of acute thermal interference. 
-* **The Necessity of Triple Cohobation:** It must be noted that because aged plasma possesses such a dense and complex biological load, it inherently requires a more rigorous distillation process. While fresh fluid may only require two passes, the profound density of aged plasma often necessitates three distinct distillation passes (triple cohobation) to fully isolate the highest-purity fractions.
+* **Microscopic Structural Complexity:** As plasma ages, the author reports increased internal structural complexity in related microscopy contexts. This is presented as interpretive support for the aged-material preference.
+* **Alkaline Maturation & Solvent Power:** The aging process may increase alkaline compounds. In the author's logs, aged runs are associated with higher-voltage **Plasma Spirit** fractions.
+* **Density of the Lunar Retentate:** Aged runs are associated in the logs with denser **Non-Volatile Concentrate (Lunar Portion)** outputs.
+* **The Necessity of Triple Cohobation:** In this process record, aged runs may require additional distillation passes to better isolate fractions.
