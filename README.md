@@ -12,8 +12,9 @@ Primary archive: `https://github.com/AnaSeahawk`
 If you are new, read in this order:
 1. `Foundations/README.md` (orientation)
 2. `The-Living-Year/README.md` (context + timeline entry)
-3. `sovereign-biophysics-distillation/README.md` (method and boundaries)
-4. `Foundations/2026-03-14-freedom-is-love-lineage-of-record.md` (lineage + archive ethos)
+3. `The-Living-Year/portal.md` (private portal overview)
+4. `sovereign-biophysics-distillation/README.md` (method and boundaries)
+5. `Foundations/2026-03-14-freedom-is-love-lineage-of-record.md` (lineage + archive ethos)
 
 ## Four Pillars
 1. **Alchemical Journals**
@@ -27,6 +28,7 @@ Current folder: `sovereign-biophysics-distillation/`
 3. **The Living Year**
 Purpose: private container structure and rhythm notes.
 Current folder: `The-Living-Year/`
+Portal: `The-Living-Year/portal.md`
 
 4. **Community & Open Archives**
 Purpose: route to public community spaces and external archives.

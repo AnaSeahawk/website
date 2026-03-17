@@ -93,9 +93,10 @@ By comparing the Fresh Control to the resulting fractions, the exact separation 
 * **The Inversion of Charge:** The fresh biological baseline possessed a neutral pH (~7.0) and a positive charge (+77 mV ORP). The distilled fluid was completely inverted into an active, high-voltage electron donor (pH 9.6 - 10.09) with a stable negative charge (-18 mV to -37 mV).
 * **Plasma Serum The Descent of the Earth Element:** The heavy biological salts condensed into an acidic pH (5.9) with high density (up to 27.5 mS/cm EC), consistent with a dense retentate fraction in this run.
 
-## VI. Baseline Parameters & Personal Use Context (Non-clinical)
+## VI. Baseline Parameters & Public Context (Non-clinical)
 
-For the sake of scientific transparency, the exact biological inputs of the host vessel are documented below. 
+For the sake of scientific transparency, key biological inputs of the host vessel are documented below.
+Operationally sensitive details are maintained in private research logs.
 
 **The Universal Spark vs. Practitioner Variance:** Some traditional texts describe an alchemical "seed" as natively present in human biology. While researchers like Fiona Gardner have observed biocrystalline differences between *Amaroli* practitioners and non-practitioners, this study treats Plasma Spirit transmutation as a working hypothesis rather than a universal constant. Future cross-subject testing is required to evaluate whether the baseline metrics here depend on this specific closed-loop context or can appear in broader baselines.
 
@@ -117,10 +118,10 @@ Hydration was strictly limited to pure **distilled water** for all drinking, coo
 
 * **The Solar Spirit (Fraction 1 & 2 - The High-Voltage Solvent):**
   * *Topical/Dental (Observed by author):* Reported as strongly active in mouth/skin use contexts.
-  * *Internal (Observed by author):* Logged in personal practice notes only; no clinical claim is made.
+  * *Operational Detail:* Additional handling and use notes are retained in private logs.
 
 * **The Lunar Retentate (Fraction 3 - The Prebiotic Sealant / "Plasma Serum"):**
-  * *Biophysical Lifespan:* Unlike synthetic medicines, this dense mineral matrix remains biologically active post-distillation. It continues to slowly evolve and is biophysically optimal when utilized within one lunar cycle (approximately 30 days).
+  * *Biophysical Lifespan (Observed):* In this log, the dense mineral matrix continued to evolve across approximately one lunar cycle (~30 days).
   * *Topical Notes (Observed by author):* In personal logs over multiple years, this fraction has been associated with a cooling sensation in topical contexts. This is anecdotal observation and not a treatment claim.
 
 ## VII. Conclusion & Future Vectors of Research
@@ -135,7 +136,7 @@ This dataset does not prove universal outcomes. It documents one practitioner co
 
 To further bridge the gap between historical alchemy and empirical biophysics, the following research vectors are now open:
 
-1. **Cross-Terrain Baseline Studies:** The immediate next step is comparative distillation. By running this exact protocol on the endogenous fluids of individuals adhering to standard modern diets (high sodium chloride, processed foods, municipal water), we will determine if the alkaline voltage spike of the Plasma Spirit is a universal biological constant (the alchemical "spark"), or if it strictly requires the Sattvic, closed-loop terrain architecture outlined in this study.
+1. **Cross-Terrain Baseline Studies:** The immediate next step is comparative distillation. By running this protocol on endogenous fluids from differing dietary baselines, this study will test whether the alkaline voltage spike is broadly reproducible or context-dependent.
 2. **Longitudinal Maturation Tracking:** The Lunar Retentate ("Plasma Lotion") is an actively evolving prebiotic sealant. Future studies will digitally track the pH, ORP, and conductivity of Fraction 3 over a continuous 30-day lunar cycle to map its biophysical maturation curve.
 3. **Botanical Transmutation (The *Anupana* Protocol):** 
 With this fraction now characterized in this dataset, the next phase of laboratory application is to test it as an extraction solvent for Ayurvedic botanicals. The hypothesis is exploratory and requires controlled validation.
