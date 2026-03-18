@@ -18,6 +18,13 @@ This archive is not a medical protocol, teaching curriculum, or guide for others
 4. Analysis: interpretive bridge between data and theory.
 5. Synthesis: integrated model across multiple runs.
 
+## Public/Private Split (In Progress)
+The following files are currently transitioning to the private vessel lane:
+- `10-method/2026-02-22-protocol-golden-syphon.md`
+- `20-experiments/2026-02-18-19-experiment-report-aged-plasma-distillation.md`
+- `Method-HarmReduction.md`
+- `40-synthesis/2026-03-11-synthesis-multiday-distillation-fresh-vs-aged.md`
+
 ## Timeline Index
 ### 00-orientation
 - `00-orientation/2026-02-22-manifesto-clear-mirror.md`

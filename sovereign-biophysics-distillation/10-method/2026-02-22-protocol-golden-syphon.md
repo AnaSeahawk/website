@@ -12,6 +12,10 @@ claim_tier: interpretation
 
 Boundary note: this page documents one practitioner's ritual context and is not a protocol for others.
 
+## Private Lane Notice
+This page is in transition to the private vessel lane.
+The public archive will retain high-level context; operational detail will be maintained in private research space.
+
 ### I. The Internal Alignment (The Resonance)
 The ritual begins not in the flask, but in the body. In this personal log, internal preparation was used as a resonance step with the same batch lineage. The intent was to align internal and external states before the run.
 

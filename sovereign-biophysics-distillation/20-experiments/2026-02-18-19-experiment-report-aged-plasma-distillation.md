@@ -14,6 +14,10 @@ claim_tier: mixed
 *Note: For the purposes of this entry, "ultra-filtered blood plasma" will be referred to simply as "plasma" for ease of reading.*
 *Boundary note: single-subject observational record; not medical guidance.*
 
+## Private Lane Notice
+This page is in transition to the private vessel lane.
+The public archive will keep bounded summaries and selected metrics; full operational logs will be maintained privately.
+
 ### The Biological Baseline: A Four-Year Isopathic Closed Loop
 
 To accurately interpret the extreme electrochemical metrics of this distillation (pH 10.28, 12.75 MS/CM), it is necessary to establish the exact nature of the biological input. The fluid utilized in this initial distillation did not originate from a standard, unconditioned physiological baseline. 

@@ -10,6 +10,10 @@ claim_tier: mixed
 **Location:** Torremolinos, Andalusia, Spain  
 **Boundary:** Single-subject observational synthesis; non-clinical and non-instructional.
 
+## Private Lane Notice
+This synthesis page is in transition to the private vessel lane.
+The public archive will preserve high-level synthesis language; process-level operational integration remains private.
+
 ***
 
 ## Introduction: The Lineage of Biological Independence

@@ -10,6 +10,9 @@ claim_tier: observed
 **Author:** Ana Seahawk
 **Record Type:** Harm-reduction and process-risk notes (single-subject context)
 
+**Private Lane Notice:** This document is transitioning to the private vessel lane.
+The public archive will retain boundary-level safety context; detailed operational handling notes will be kept private.
+
 **I. LEGAL & ETHICAL DISCLAIMER: INFORMATIONAL PURPOSES ONLY**
 The following text is a documentation of personal anthropological and biophysical research. It is provided strictly for educational, philosophical, and informational purposes.
 
