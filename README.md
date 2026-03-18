@@ -35,7 +35,6 @@ Purpose: route to public community spaces and external archives.
 Links:
 - Mother Spirit: `https://mother-spirit.com`
 - GitHub profile: `https://github.com/AnaSeahawk`
-- GitLab knowledge base (`anna.bird`): (add URL)
 - Donation (Wise): [Support via Wise](https://wise.com/pay/me/joannel78)
 - Donation (PayPal): [Support via PayPal](https://www.paypal.com/paypalme/vivarium)
 
