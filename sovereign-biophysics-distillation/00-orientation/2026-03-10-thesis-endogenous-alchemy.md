@@ -131,7 +131,7 @@ The *Prima Materia* utilized in this protocol was harvested from a vessel operat
 
 ### 2. The Hydration Protocol (The Blank Slate)
 Hydration was strictly limited to pure **distilled water** for all drinking, cooking, and the washing of grains.
-* **Endogenous Inference:** With inorganic minerals removed from water inputs, the high electrical conductivity (27.5 mS/cm) measured in the *Lunar Retentate* is interpreted here as predominantly endogenous in this dataset. 
+* **Endogenous Inference:** With inorganic minerals removed from water inputs, the high electrical conductivity (27.5 mS/cm) measured in the *Saturn Retentate* is interpreted here as predominantly endogenous in this dataset. 
 * **The Recursive Loop (Solar Fraction Context):** In this single-subject log, a small amount of the **Solar Spirit fraction** was included in grain-wash water. This note is descriptive only and not instructional.
 
 ### 3. Personal Use Observations (Non-clinical)
@@ -150,7 +150,7 @@ Hydration was strictly limited to pure **distilled water** for all drinking, coo
 
 The empirical data recorded in this run supports the working hypothesis of Sovereign Biophysics within a single-subject context: the human body can produce a *Prima Materia* that, under the logged conditions, separated into a high-voltage fraction and a dense retentate. 
 
-By applying modern electrochemical metrics to Daoist and Ayurvedic framing used by the author, this study documents one run in which low-heat distillation of aged endogenous ultrafiltrate separated volatile and heavy fractions, with recorded values including pH 10.09 / -37 mV ORP (Plasma Spirit) and 27.5 mS/cm EC (Lunar Retentate). 
+By applying modern electrochemical metrics to Daoist and Ayurvedic framing used by the author, this study documents one run in which low-heat distillation of aged endogenous ultrafiltrate separated volatile and heavy fractions, with recorded values including pH 10.09 / -37 mV ORP (Plasma Spirit) and 27.5 mS/cm EC (Saturn Retentate). 
 
 This dataset does not prove universal outcomes. It documents one practitioner context and motivates further controlled comparison before broader conclusions are made.
 
@@ -159,6 +159,6 @@ This dataset does not prove universal outcomes. It documents one practitioner co
 To further bridge the gap between historical alchemy and empirical biophysics, the following research vectors are now open:
 
 1. **Cross-Terrain Baseline Studies:** The immediate next step is comparative distillation. By running this protocol on endogenous fluids from differing dietary baselines, this study will test whether the alkaline voltage spike is broadly reproducible or context-dependent.
-2. **Longitudinal Maturation Tracking:** The Lunar Retentate ("Plasma Lotion") is an actively evolving prebiotic sealant. Future studies will digitally track the pH, ORP, and conductivity of Fraction 3 over a continuous 30-day lunar cycle to map its biophysical maturation curve.
+2. **Longitudinal Maturation Tracking:** The Saturn Retentate ("Plasma Lotion") is an actively evolving prebiotic sealant. Future studies will digitally track the pH, ORP, and conductivity of Fraction 3 over a continuous 30-day lunar cycle to map its biophysical maturation curve.
 3. **Botanical Transmutation (The *Anupana* Protocol):** 
 With this fraction now characterized in this dataset, the next phase of laboratory application is to test it as an extraction solvent for Ayurvedic botanicals. The hypothesis is exploratory and requires controlled validation.

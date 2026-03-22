@@ -110,7 +110,7 @@ From this dataset, two core thermodynamic patterns emerge. The observed distilla
 * **Fresh Fluid (The Two-Pass Rule):** Fresh biological liquid (< 24 hours old) contains large, intact protein structures. Because these macro-molecules are highly dense, they resist vaporization. The primary challenge is the thermal hydrolysis of intact urea. Once the urea flashes off as ammonia in the first and second runs, the water cleanly separates from the heavy protein sludge left in the chamber. Fresh fluid reliably yields pure, 135 USCM liquid crystal in just two passes.
 * **Aged Fluid / *Pūtimutta* (The Three-Pass Rule):** In this process model, gestation is treated as enzymatic digestion that increases conductive soluble ions. In these runs, Phase II yields remained highly conductive (around 993 USCM), and a tertiary polishing run was used to reduce conductivity toward the 133 USCM range.
 
-#### 2. The Law of the Lunar Yield (The 1/4 Volume Protocol)
+#### 2. The Law of the Saturn Yield (The 1/4 Volume Protocol)
 In this workflow, gestation is also linked to a practical equipment constraint: difficulty harvesting a stable earth matrix from fresh fluid. 
 
 When extracting endogenous fluids, the goal is not merely to capture the volatile and middle-water phases, but to successfully isolate the final, concentrated organic salts—the structural "Saturn Portion" or earth matrix. Empirical observation reveals a strict divergence in how fresh versus aged residue behaves when concentrated:
