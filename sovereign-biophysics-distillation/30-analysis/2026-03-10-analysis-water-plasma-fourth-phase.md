@@ -61,7 +61,7 @@ We now have to view water as a programmable medium.
 
 # Part II: Working Biological Interpretation (Time, Memory, and Alkaline Fractions)
 
-This section contrasts laboratory PAW models with the author's endogenous distillation framing. In this framing, distillation is interpreted as separating a high-alkaline volatile fraction (Solar) and a dense retentate (Lunar) from one biological input stream.
+This section contrasts laboratory PAW models with the author's endogenous distillation framing. In this framing, distillation is interpreted as separating a high-alkaline volatile fraction (Solar), a middle-water carrier phase (Lunar), and a dense retentate (Saturn) from one biological input stream.
 
 ## 1. The Alchemy of Time: Generating the Alkaline Voltage
 Fresh ultra-filtered blood plasma is generally neutral. It does not natively possess high-voltage alkalinity. The secret catalyst behind the extreme metrics of the Solar distillate is **Time**. 
@@ -82,7 +82,7 @@ When using this Solar distillate as a tincture base, the author hypothesizes tha
 ## 3. Two-Step Terrain Management
 Looked at together, the fractionated distillates are interpreted as a two-step terrain model in this framework.
 * **Step 1: Clear (The Solar Fraction):** High-alkaline fraction used in the author's clearing model.
-* **Step 2: Build (The Lunar Fraction):** Lunar retentate (reported near 3% salts in related logs) is interpreted as a dense rebuild fraction.
+* **Step 2: Build (The Saturn Fraction):** Saturn retentate (reported near 3% salts in related logs) is interpreted as a dense rebuild fraction.
 
 ## Conclusion: Sovereign Biophysics vs. The Commercial Market
 The empirical data presented here is used to question some commercial health-water narratives and to motivate direct measurement-first approaches.

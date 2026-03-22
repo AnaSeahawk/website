@@ -51,17 +51,17 @@ Biological material foams significantly under heat. Overfilling the chamber push
 **Phase 3: Thermal Restraint & The Run**
 Because commercial machines lack a temperature dial and aggressively heat, thermal restraint relies entirely on human observation and timing.
 
-* **The First Fraction (Plasma Spirit):** Before heavy condensation begins, the machine releases lighter volatile gases. The initial alkaline clear liquid is labeled **Plasma Spirit** in this framework. Initial exhaust exposure is avoided in the author's safety posture.
-* **The Heart (Plasma Water & Plasma Serum):** As the run stabilizes, sterilized glass collection jars are used to collect the subsequent **Plasma Water** and heavier **Plasma Serum** fractions.
+* **The First Fraction (Solar / Plasma Spirit):** Before heavy condensation begins, the machine releases lighter volatile gases. The initial alkaline clear liquid is labeled **Solar (Plasma Spirit)** in this framework. Initial exhaust exposure is avoided in the author's safety posture.
+* **The Middle and Base (Lunar Water & Saturn Retentate):** As the run stabilizes, sterilized glass collection jars are used to collect the subsequent **Lunar middle-water fraction** and heavier **Saturn retentate** fractions.
 
 **Phase 4: Preventing Carbonization (The Manual Override)**
 Standard machines are designed to shut off only when the tank is empty. If allowed to happen, biological solids violently scorch, baking onto the stainless steel.
 
-* **The Interruption:** The process requires manual interruption. The machine is unplugged while a deep layer of concentrated liquid remains at the bottom of the tank. This reserve is **The Non-Volatile Concentrate / Retentate (Lunar Portion)**.
+* **The Interruption:** The process requires manual interruption. The machine is unplugged while a deep layer of concentrated liquid remains at the bottom of the tank. This reserve is **The Non-Volatile Concentrate / Retentate (Saturn Portion)**.
 * **Cooling Down:** The machine is allowed to sit for at least 30 minutes before opening the lid to prevent the release of superheated, concentrated biological steam.
 
 **Phase 5: Material Memory & The Clean**
-The vessel remembers. Carbonized memory cross-contaminates future runs. The Non-Volatile Concentrate / Retentate (Lunar Portion) is poured out for storage or further reduction, and the stainless steel chamber is immediately washed with warm water and a non-abrasive cloth.
+The vessel remembers. Carbonized memory cross-contaminates future runs. The Non-Volatile Concentrate / Retentate (Saturn Portion) is poured out for storage or further reduction, and the stainless steel chamber is immediately washed with warm water and a non-abrasive cloth.
 
 ---
 
@@ -70,25 +70,25 @@ The vessel remembers. Carbonized memory cross-contaminates future runs. The Non-
 **Phase 6: The Illusion of Clarity & Visual Deception**
 The most dangerous aspect of endogenous distillation is visual deception. The clear distillate is not pure, harmless drinking water.
 
-* **Plasma Spirit vs. Plasma Water:** The initial Plasma Spirit is treated here as a volatile high-pH fraction that may be caustic. Visually, it can be indistinguishable from everyday water or gentler fractions.
+* **Solar vs. Lunar Water:** The initial Solar fraction is treated here as a volatile high-pH fraction that may be caustic. Visually, it can be indistinguishable from everyday water or gentler fractions.
 * **Identification and Segregation:** Strict physical segregation and distinct labeling are used in this practice. High-voltage fractions are handled as active lab-like fractions and are not stored near standard drinking water.
 
 **Phase 7: The Path of the Yield**
 
-* **The Blunt Extraction:** A commercial water distiller forcefully strips everything at once. The volatile Plasma Spirit, the stable Plasma Water, and the heavier Plasma Serum will often run together if not carefully monitored and swapped during the run.
+* **The Blunt Extraction:** A commercial water distiller forcefully strips everything at once. The volatile Solar fraction, the Lunar middle-water fraction, and the heavier Saturn retentate will often run together if not carefully monitored and swapped during the run.
 * **Cohobation:** To isolate true high-voltage carrier solvents from inert water, combined liquids often require a second or third distillation at lower, carefully controlled temperatures.
 
 ---
 
 **V. ASSUMPTION OF RISK & EMERGENCY BASELINE (NON-CLINICAL)**
-Engaging with concentrated biological forces carries inherent physical risks. Modified equipment presents thermal dangers, and concentrated volatile compounds (like high-pH Plasma Spirit) can cause severe irritation or burns. 
+Engaging with concentrated biological forces carries inherent physical risks. Modified equipment presents thermal dangers, and concentrated volatile compounds (like high-pH Solar fraction) can cause severe irritation or burns. 
 
 **Dietary Context Limitation:** In this model, dietary variation does not remove baseline process hazards. Human metabolic fluids contain urea and other compounds that may volatilize under sustained high heat. Ventilation and thermal restraint are therefore treated as core safety boundaries in this documentation.
 
 Standard laboratory safety baselines for this methodology include:
 
 * **Thermal Burns (Equipment or Steam):** Immediate cooling of the affected area under cool running water for 15 to 20 minutes. Oils, butters, or ointments are never applied to a fresh burn. Severe burns require medical attention. *(Note: Untreated, unreduced aged plasma is not safe for direct topical application on fresh burns and can cause adverse reactions).*
-* **Eye Exposure:** If any fraction (especially Plasma Spirit) or vapor enters the eyes, immediate flushing with copious amounts of lukewarm tap water for a continuous 15 to 20 minutes is the standard response, followed by medical evaluation.
+* **Eye Exposure:** If any fraction (especially the Solar fraction) or vapor enters the eyes, immediate flushing with copious amounts of lukewarm tap water for a continuous 15 to 20 minutes is the standard response, followed by medical evaluation.
 * **Skin Contact:** If a caustic fraction causes stinging or burning on the skin, the area is flushed with plenty of water, and contaminated clothing is removed.
 * **Accidental Ingestion:** If a concentrated fraction is swallowed, vomiting is not induced. The mouth is rinsed thoroughly, a small amount of water is consumed for dilution, and emergency services or a poison control center are contacted immediately.
 
@@ -101,6 +101,6 @@ While fresh endogenous fluid can be utilized, this framework prefers **aged plas
 The preference for aged material is grounded here in the following observations and interpretations:
 
 * **Microscopic Structural Complexity:** As plasma ages, the author reports increased internal structural complexity in related microscopy contexts. This is presented as interpretive support for the aged-material preference.
-* **Alkaline Maturation & Solvent Power:** The aging process may increase alkaline compounds. In the author's logs, aged runs are associated with higher-voltage **Plasma Spirit** fractions.
-* **Density of the Lunar Retentate:** Aged runs are associated in the logs with denser **Non-Volatile Concentrate (Lunar Portion)** outputs.
+* **Alkaline Maturation & Solvent Power:** The aging process may increase alkaline compounds. In the author's logs, aged runs are associated with higher-voltage **Solar** fractions.
+* **Density of the Saturn Retentate:** Aged runs are associated in the logs with denser **Non-Volatile Concentrate (Saturn Portion)** outputs.
 * **The Necessity of Triple Cohobation:** In this process record, aged runs may require additional distillation passes to better isolate fractions.

@@ -24,7 +24,7 @@ To accurately interpret the extreme electrochemical metrics of this distillation
 
 The primary input was harvested from a host (Olivier / Ligoldragon) actively engaged in a continuous closed-loop Amaroli (Shivambu) practice for nearly four solar years. 
 
-In this personal context, the practice extends beyond oral use into topical application of reduced "Plasma Serum" (Lunar fraction). In prior phases, reduction was performed through thermal evaporation (outdoor electric hob), then cooled, filtered, and used in personal topical contexts.
+In this personal context, the practice extends beyond oral use into topical application of reduced "Plasma Serum" (Saturn fraction). In prior phases, reduction was performed through thermal evaporation (outdoor electric hob), then cooled, filtered, and used in personal topical contexts.
 
 The host's terrain is actively saturated with its own biological resonance through:
 * The daily, continuous oral ingestion of fresh ultra-filtered blood plasma.
@@ -36,7 +36,7 @@ The host's terrain is actively saturated with its own biological resonance throu
 
 This distinction is interpreted by the author as structurally significant. In the study of organic fluid biocrystallization, some researchers describe contrast between conditioned and unconditioned biology. This section is included as interpretive context, not causal proof.
 
-In the author's working model, long-term closed-loop practice may influence the electrochemical profile observed in this run. The voltage and conductivity captured in the Plasma Spirit are treated here as single-subject findings requiring broader comparison before general conclusions.
+In the author's working model, long-term closed-loop practice may influence the electrochemical profile observed in this run. The voltage and conductivity captured in the Solar fraction are treated here as single-subject findings requiring broader comparison before general conclusions.
 
 
 ## 1. Equipment & Process Methodology
@@ -45,26 +45,26 @@ In the author's working model, long-term closed-loop practice may influence the 
 
 **Starting Volume:** Approximately 2.5 liters of syphoned aged plasma. Syphoned to eliminate the naturally forming sediment that accumulates during fermentation.
 
-The distillation of the aged plasma resulted in a multi-stage separation, fractionating the liquid into volatile distillates (the "Solar" fractions) and a non-volatile concentrate (the "Lunar" fraction). 
+The distillation of the aged plasma resulted in a multi-stage separation, fractionating the liquid into active volatile distillate (Solar), a clearer middle-water phase (Lunar), and a non-volatile concentrate (Saturn). 
 
 *Operational Note:* During this run, the 3000 ml chamber was filled to capacity. The boiling process of the 2500 ml dense plasma created a heavy foam, leading to an overflow that naturally separated the volatile distillate into two distinct stages. For future iterations, the distillation chamber will only be filled to half capacity. The beginning stage must be closely monitored to scoop off the rising foam as needed; a wooden spoon was utilized effectively for this purpose.
 
 ## 2. The Volatile Distillate Fractions (Solar Portions)
 
-* **Fraction 1: Plasma Spirit - The Active Distillate (Foaming Overflow)**
+* **Fraction 1: Solar - Plasma Spirit (Active Distillate / Foaming Overflow)**
   * **Yield:** Approximately 500 ml
   * **Readings (at 23.1°C):** pH 10.26 – 10.28 | Salt 0.66% – 0.68% | Salt PPM: 6,720 | Conductivity: 12.75 MS/CM
   * **Characteristics:** Captured early in the process from the initial foaming phase. Highly alkaline with a notable salt load.
   * **Use Notes (Observed by author):** Logged as a strong solvent-like fraction in this run and explored in personal extraction contexts. No treatment claim is made.
 
-* **Fraction 2: Plasma Water - The Refined Aqueous Distillate**
+* **Fraction 2: Lunar - Plasma Water (Refined Aqueous Distillate)**
   * **Yield:** Approximately 1.25 liters
   * **Readings:** pH 10.14 – 10.15 | Salt 0.04% | PPM: 453 | Conductivity: 904 US/CM
   * **Characteristics:** Collected in the glass carafe as the distillation continued smoothly. Visually super clear, highly alkaline, but significantly more refined with a much lower salt content than Fraction 1.
   * **Sensory Notes:** The taste carries a distinct solvent undertone—less harsh than Fraction 1, but still undeniably present. 
   * **Use Notes (Observed by author):** Logged in personal topical use contexts.
 
-## 3. The Non-Volatile Concentrate / Retentate (Lunar Portion)
+## 3. The Non-Volatile Concentrate / Retentate (Saturn Portion)
 The distillation was halted when approximately 1/4 of the volume remained in the chamber, leaving a dark, oily concentrated retentate resembling dark coffee.
 
 * **Yield:** Approximately 500 ml
@@ -79,7 +79,7 @@ The distillation was halted when approximately 1/4 of the volume remained in the
 ## 4. Conclusion & Alchemical Insights
 In this run, fractionation produced both a strongly alkaline volatile portion and a dense retentate portion. The solvent-like taste and high alkalinity of the early distillates are logged as direct observations in this dataset.
 
-In the author's interpretive frame, plasma separation can be read as a Solar/Lunar split (volatile alkaline fraction and dense grounding retentate). The salt density observed in the retentate is a notable dataset feature and is treated as an endogenous-process hypothesis for further testing.
+In the author's interpretive frame, plasma separation can be read as a Solar/Lunar/Saturn sequence (volatile rise, middle-water carrier, and dense grounding retentate). The salt density observed in the retentate is a notable dataset feature and is treated as an endogenous-process hypothesis for further testing.
 
 ## 5. Archival Notes & Next Steps
 * **Labeling:** The batch is cataloged as *"Olivier’s Plasma. 1st decan Aquarius"*.

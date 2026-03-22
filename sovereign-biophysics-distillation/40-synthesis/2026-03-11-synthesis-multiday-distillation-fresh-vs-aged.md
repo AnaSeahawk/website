@@ -45,8 +45,8 @@ To achieve this, the raw material must be broken down and reconstructed, a physi
 > *"One becomes two, two becomes three, and out of the third comes the one as the fourth."*
 
 * **The One:** The single, unified baseline of the endogenous fluid.
-* **The Two:** The fluid divides into the volatile Plasma Spirit and the stable Pure Plasma water.
-* **The Three:** Left behind in the boiling chamber is The Non-Volatile Concentrate / Retentate (Lunar Portion). 
+* **The Two:** The fluid divides into the volatile Solar fraction and the stable Lunar middle-water fraction.
+* **The Three:** Left behind in the boiling chamber is The Non-Volatile Concentrate / Retentate (Saturn Portion). 
 * **The Fourth:** By intentionally recombining the fractions, a new, elevated singularity is created.
 
 ***
@@ -58,7 +58,7 @@ The alchemical process begins within the biological vessel itself. The quality, 
 **The Low-Resistance Baseline**
 Cultivating the ideal fluid requires a strict, zero-resistance dietary baseline:
 * **Zero Sodium Chloride:** Removing added salt lowers the baseline electrical resistance, preventing the formation of a highly saline retentate during distillation. 
-* **Low Dietary Sulfur:** Eliminating meat and eggs prevents the formation of volatile sulfur compounds (VSCs), ensuring the resulting Plasma Spirit remains free of necrotic gases.
+* **Low Dietary Sulfur:** Eliminating meat and eggs prevents the formation of volatile sulfur compounds (VSCs), supporting cleaner behavior in the Solar fraction.
 * **Clean Lipids and Carbohydrates:** Relying on ghee, butter, milk, and sweet wheat provides a clean metabolic burn. 
 * **Botanical Support:** The inclusion of non-psychoactive CBD provides gentle nervous system regulation without adding heavy psychoactive volatility to the fluid's energetic signature.
 
@@ -113,14 +113,14 @@ From this dataset, two core thermodynamic patterns emerge. The observed distilla
 #### 2. The Law of the Lunar Yield (The 1/4 Volume Protocol)
 In this workflow, gestation is also linked to a practical equipment constraint: difficulty harvesting a stable earth matrix from fresh fluid. 
 
-When extracting endogenous fluids, the goal is not merely to capture the volatile Spirit and Pure Plasma, but to successfully isolate the final, concentrated organic salts—the structural "Lunar Portion" or earth matrix. Empirical observation reveals a strict divergence in how fresh versus aged residue behaves when concentrated:
+When extracting endogenous fluids, the goal is not merely to capture the volatile and middle-water phases, but to successfully isolate the final, concentrated organic salts—the structural "Saturn Portion" or earth matrix. Empirical observation reveals a strict divergence in how fresh versus aged residue behaves when concentrated:
 
 * **The Fresh Residue (The "Thin Gravy"):** Fresh biological liquid retains its heavy, unhydrolyzed macro-proteins and intact cellular debris. As the water is stripped away during a primary fresh run, this intact organic matter condenses into an unusable, un-integrated "thin gravy weirdness." The fresh earth is biologically locked, structurally unstable, and inaccessible for alchemical recombination.
-* **The Aged Residue (The Lunar Gold):** The gestation process physically dismantles this barrier. The active enzymatic fermentation digests the massive proteins, converting them entirely into highly stable, water-soluble organic salts and minerals. Because the proteins have been broken down, the operator can safely execute the **1/4 Volume Protocol**—intentionally terminating the distillation when exactly one-quarter of the total volume remains in the chamber. 
+* **The Aged Residue (The Saturn Gold):** The gestation process physically dismantles this barrier. The active enzymatic fermentation digests the massive proteins, converting them entirely into highly stable, water-soluble organic salts and minerals. Because the proteins have been broken down, the operator can safely execute the **1/4 Volume Protocol**—intentionally terminating the distillation when exactly one-quarter of the total volume remains in the chamber. 
 
 
 
-This remaining 1/4 volume is labeled "Lunar Gold" in this framework—a concentrated earth-like retentate. In the author's logs, this matrix has been repeatedly retained for ongoing practice context. Within this equipment context, gestation appears to improve practical separation of the *tria prima* (Spirit, Water, and Salt).
+This remaining 1/4 volume is labeled "Saturn Gold" in this framework—a concentrated earth-like retentate. In the author's logs, this matrix has been repeatedly retained for ongoing practice context. Within this equipment context, gestation appears to improve practical separation of the *tria prima* (Spirit, Water, and Salt).
 
 ***
 
@@ -140,7 +140,7 @@ The physical behavior of the fluid perfectly validated the cleanliness of the ma
 | **Reading 3** | Mid-run | 1375 | 576 | -4 | 9.7 | 39.0 | Massive drop in conductivity; Spirit clearing the column. |
 | **Reading 4** | 64 mins | 870 | 433 | +2 | 9.7 | 33.0 | The cut is achieved. ORP flips positive; stable baseline established. |
 
-### Final Cooled Metrics & The Lunar Portion
+### Final Cooled Metrics & The Saturn Portion
 Once the fractions cooled, the analytical numbers were staggering. Every ounce of electrical resistance had been successfully stripped from the fluid.
 
 **1. The Triple-Distilled Pure Plasma (The Universal Solvent)**
@@ -152,7 +152,7 @@ Once the fractions cooled, the analytical numbers were staggering. Every ounce o
 * *Somatic Check:* Highly refined and strongly alkaline, isolated specifically for botanical preparation.
 
 **3. The Final Extraction: The Retentate**
-The remaining concentrate in the chamber dropped to a pH of 6.7 and rose to +142 mV. In this run, deeper thermal extraction for aged inputs carried off heavier tails while leaving a non-volatile retentate (Lunar Portion) in the vessel without the tar-like degradation seen in fresh runs.
+The remaining concentrate in the chamber dropped to a pH of 6.7 and rose to +142 mV. In this run, deeper thermal extraction for aged inputs carried off heavier tails while leaving a non-volatile retentate (Saturn Portion) in the vessel without the tar-like degradation seen in fresh runs.
 
 ***
 
@@ -160,7 +160,7 @@ The remaining concentrate in the chamber dropped to a pH of 6.7 and rose to +142
 
 The realization of Sovereign Biophysics is the seamless integration of these fractions back into the daily architecture of nourishment. The fluid has been removed from analytical observation and applied as a high-performance culinary extraction medium.
 
-**The Plasma Spirit: High-Voltage Botanical Preparation**
+**The Solar Fraction: High-Voltage Botanical Preparation**
 The isolated Triple-Distilled Spirit is logged in personal culinary prep contexts (for example, grain-wash steps before cooking). This is descriptive context only.
 
 **The Universal Solvent: The Zero-Resistance Carrier**
@@ -190,7 +190,7 @@ Working realizations from this dataset:
 In electrochemical terms, an ORP reading near 0 mV indicates near-neutral charge behavior. In this run series, one distilled fraction reached that threshold with low conductivity (133 USCM). In this framework, that event is treated as a notable extraction-state marker rather than a universal claim.
 
 2. **Gestation and Retentate Behavior**
-Fresh and aged inputs behaved differently under heat in this apparatus. Fresh runs more often produced unstable residue behavior, while aged runs more often produced a denser recoverable retentate ("Lunar Gold" in this vocabulary). This pattern supports further comparison of gestation windows in future runs.
+Fresh and aged inputs behaved differently under heat in this apparatus. Fresh runs more often produced unstable residue behavior, while aged runs more often produced a denser recoverable retentate ("Saturn Gold" in this vocabulary). This pattern supports further comparison of gestation windows in future runs.
 
 3. **Dietary Baseline as Process Variable**
 Within this model, diet is treated as an electrical/process variable affecting volatility, foam behavior, and retentate profile. This is a single-subject interpretation and is being carried forward as a testable control-vs-baseline question.
