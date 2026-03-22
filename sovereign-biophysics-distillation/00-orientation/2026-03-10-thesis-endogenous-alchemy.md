@@ -21,21 +21,43 @@ The intention of this paper is to forge a precise, empirical bridge between two 
 
 Boundary note: this document is a single-practitioner observational record and is not medical guidance.
 
-## II. The Core Hypothesis
+## II. Evidence Boundary
 
-This study posits that the intentional aging (fermentation) and subsequent distillation of the aged plasma ultrafiltrate yields two distinct, biologically intelligent fractions, each possessing its own specific energetic lifespan and biophysical function:
+This document intentionally separates three evidence layers:
 
-The Plasma Spirit (The Solar Volatile Purifier & Carrier): Driven by the alchemy of time and the microbial transmutation of urea into ammonia, the volatile distillate will present as a high-voltage, highly alkaline (pH > 10.0), and hyper-conductive fluid carrying a negative Oxidation-Reduction Potential (ORP). It acts as a sovereign, electron-donating solvent.
+* **Recorded Data:** Time-stamped measurements and run outputs.
+* **Single-Subject Observation:** Phenomenological notes from one practitioner context.
+* **Interpretive Language:** Symbolic/alchemical framing used to organize pattern recognition.
 
-The Plasma Serum / Lunar Retentate (The Non-Volatile Concentrate): The dense, undistilled fluid remaining in the distillation chamber will present as a slightly acidic, hyper-dense reservoir of living earth salts. It acts as a bio-available prebiotic sealant and a biological grounding wire for the nervous system.
+Operationally sensitive details are intentionally maintained in private research logs.
 
-## III. The Historical Continuum and Commercial Obfuscation
+## III. Canonical Fraction Glossary (Bridge Language)
 
-In the 17th century, pioneers like Robert Boyle and Hennig Brand dedicated their lives to distilling aged, fermented human biological fluids. They rigorously documented the exact high-voltage, alkaline first fraction captured in this study, revering it as the "Volatile Salt" or the "Spiritus."
+To keep language stable across public documents, this run uses:
 
-Despite this foundational empirical knowledge, the modern era has seen a systematic distancing from sovereign, endogenous alchemy. The Mechanistic Model slowly abstracted these living, biologically intelligent fluids into isolated, dead chemical components, discarding the sovereign practice in favor of synthetic, commercialized replacements. This study reclaims that historical continuum, proving the biophysical validity of the "Spiritus" through modern electrochemical metrics.
+* **Solar Fraction (Volatile):** The first high-activity, fast-rising fraction.
+* **Lunar Fraction (Middle Water):** The stabilizing and transmissive carrier phase.
+* **Saturn Fraction (Retentate/Salt):** The dense structural residue phase.
 
-## IV. Method Notes: The Sovereign Distillation (Non-instructional)
+## IV. The Core Hypothesis
+
+This study posits that the intentional aging (fermentation) and subsequent distillation of the aged plasma ultrafiltrate yields three linked fractions, each with distinct measurable behavior and interpretive function:
+
+The Plasma Spirit / **Solar Fraction** (Volatile Purifier & Carrier): Driven by the alchemy of time and the microbial transmutation of urea into ammonia, the volatile distillate will present as a high-voltage, highly alkaline (pH > 10.0), and hyper-conductive fluid carrying a negative Oxidation-Reduction Potential (ORP). It acts as a sovereign, electron-donating solvent.
+
+The Clear Plasma Water / **Lunar Fraction** (Middle Carrier Water): The stable aqueous body collected after the initial volatile rise, functioning as a transmissive and hydrating carrier phase in this run.
+
+The Plasma Serum / **Saturn Fraction** (Retentate / Structural Concentrate): The dense, undistilled fluid remaining in the distillation chamber, presenting as a slightly acidic, hyper-dense reservoir of living earth salts. It acts as a structural anchor in this single-subject dataset.
+
+## V. The Women's Continuum and Later Obfuscation
+
+The deeper historical root of this work points first to the women of early alchemical lineages, especially those associated with Alexandria and vessel-based distillation traditions. At the beginning of this writing process, the author had not yet fully recognized how central that women-led lineage was to the language and structure now used in this thesis.
+
+Later male-authored records in early modern Europe (including distillation-focused work in the 17th century) preserved important procedural and observational fragments, but often without the embodied and relational framing visible in women-centered streams. In the modern era, these living practices were further abstracted into isolated components and commercial substitutes.
+
+This study is therefore a small corrective gesture: to keep measured modern data while reseeding continuity with the women who carried vessel knowledge earlier, and to document that continuity transparently as an active, single-subject field record.
+
+## VI. Method Notes: The Sovereign Distillation (Non-instructional)
 
 **1. The Biochemical Mechanism (Urea Transmutation)**
 
@@ -63,11 +85,11 @@ The *Prima Materia* (collected February 1) was cured under the following control
 
 **4. Fraction Labels Used in This Run**
 
-* **Fraction 1: The Plasma Spirit (The Volatile Purifier):** The first heavy, foaming fluid to breach the cooling coil, carrying the concentrated alkaline voltage.
-* **Fraction 2: The Clear Plasma Water (The Structural Medium):** The refined, stable aqueous output that follows the initial volatile spike.
-* **Fraction 3: The Plasma Serum / Lunar Retentate:** The dense, non-volatile concentrate remaining in the primary chamber once the distillation is terminated.
+* **Fraction 1: Solar (The Plasma Spirit / Volatile Purifier):** The first heavy, foaming fluid to breach the cooling coil, carrying the concentrated alkaline voltage.
+* **Fraction 2: Lunar (The Clear Plasma Water / Structural Medium):** The refined, stable aqueous output that follows the initial volatile spike.
+* **Fraction 3: Saturn (The Plasma Serum / Retentate):** The dense, non-volatile concentrate remaining in the primary chamber once the distillation is terminated.
 
-## V. Empirical Data Ledger & Electrochemical Metrics
+## VII. Empirical Data Ledger & Electrochemical Metrics
 
 ### 1. Baseline & Equipment Parameters
 * **Date of Distillation:** Sunday, February 22, 2026 (Sun Day / Taurus Moon)
@@ -80,20 +102,20 @@ The *Prima Materia* (collected February 1) was cured under the following control
 | Timestamp | Distillation Phase | Temp | Tester 1 (UIUZMAR) | Tester 2 (PIOUS) | Tester 3 (Unbranded) | Notes & Observations |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | `14:54` | **Heat Applied** | N/A | N/A | N/A | N/A | *Heat initiated on the patio. Sunny, 17°C outside.* |
-| `15:23` | **Fraction 1: The Plasma Spirit** | N/A | N/A | N/A | N/A | *Collected ~300ml. Intensely volatile ("Vicks vapor rub" sensation). Tingling through mouth/tongue.* |
+| `15:23` | **Fraction 1: Solar (Plasma Spirit)** | N/A | N/A | N/A | N/A | *Collected ~300ml. Intensely volatile ("Vicks vapor rub" sensation). Tingling through mouth/tongue.* |
 | `15:47` | **Baseline (Raw Fluid - Control)** | 27.5°C | *pH:* 9.1<br>*TDS:* 7690 ppm<br>*EC:* 15.45 mS/cm<br>*ORP:* -22 mV<br>*H2:* 56 ppb | N/A | N/A | *Measured from un-distilled batch to establish starting matrix.* |
-| `16:02` | **Fraction 2: The Clear Water** | T1: 38.7°C<br>T2: 31.6°C<br>T3: 27.5°C | *pH:* 9.9<br>*TDS:* 307 ppm<br>*EC:* 630 µS/cm<br>*ORP:* -30 mV<br>*H2:* 80 ppb | *pH:* 10.04<br>*TDS:* 345 ppm<br>*EC:* 727 µS/cm<br>*Salt:* 0.03% | *pH:* N/A<br>*TDS:* 434 ppm<br>*EC:* 900 µS/cm | *Distiller off; cooling. Collected ~250ml.* |
+| `16:02` | **Fraction 2: Lunar (Clear Water)** | T1: 38.7°C<br>T2: 31.6°C<br>T3: 27.5°C | *pH:* 9.9<br>*TDS:* 307 ppm<br>*EC:* 630 µS/cm<br>*ORP:* -30 mV<br>*H2:* 80 ppb | *pH:* 10.04<br>*TDS:* 345 ppm<br>*EC:* 727 µS/cm<br>*Salt:* 0.03% | *pH:* N/A<br>*TDS:* 434 ppm<br>*EC:* 900 µS/cm | *Distiller off; cooling. Collected ~250ml.* |
 | `16:29` | **Fraction 2: Final Distillate** | T1: 29.8°C<br>T2: 29°C<br>T3: 22.9°C | *pH:* 9.6<br>*TDS:* 305 ppm<br>*EC:* 616 µS/cm<br>*ORP:* -18 mV<br>*H2:* 54 ppb | *pH:* 9.62<br>*TDS:* 321 ppm<br>*EC:* 667 µS/cm<br>*Salt:* 0.03% | *pH:* N/A<br>*TDS:* 420 ppm<br>*EC:* 838 µS/cm | *Final portion of the distilled water.* |
 | `16:29` | **Fresh Control (Unaged Plasma)** | T1: 26.3°C<br>T2: 23.4°C | *pH:* 7.0<br>*TDS:* 3520 ppm<br>*EC:* 6950 µS/cm<br>*ORP:* +77 mV<br>*H2:* 0 ppb | *pH:* 7.07<br>*TDS:* 3820 ppm<br>*EC:* 7500 µS/cm<br>*Salt:* 0.38% | N/A | *Fresh fluid (~20 min old), physiological baseline.* |
-| `17:02` | **Fraction 1: Plasma Spirit (Re-test)** | T1: 25.0°C<br>T2: 25.7°C | *pH:* 9.9<br>*TDS:* 4420 ppm<br>*EC:* 9.6 mS/cm<br>*ORP:* -37 mV<br>*H2:* 56 ppb | *pH:* 10.09<br>*TDS:* 12.7 ppt<br>*EC:* 18.65 mS/cm<br>*Salt:* 1.46% | N/A | *Verification. Retains extreme alkaline voltage and negative ORP.* |
-| `17:02` | **Fraction 3: The Plasma Serum Lunar Retentate** | T1: 36.5°C<br>T2: 28.2°C | *pH:* 5.9<br>*TDS:* 11.6 ppt<br>*EC:* 22.8 mS/cm<br>*ORP:* +79 mV<br>*H2:* 0 ppb | *pH:* 6.08<br>*TDS:* 13.7 ppt<br>*EC:* 27.5 mS/cm<br>*Salt:* 1.46% | N/A | *Cooled retentate (250ml). Smells like earthy humus and coffee.* |
+| `17:02` | **Fraction 1: Solar (Re-test)** | T1: 25.0°C<br>T2: 25.7°C | *pH:* 9.9<br>*TDS:* 4420 ppm<br>*EC:* 9.6 mS/cm<br>*ORP:* -37 mV<br>*H2:* 56 ppb | *pH:* 10.09<br>*TDS:* 12.7 ppt<br>*EC:* 18.65 mS/cm<br>*Salt:* 1.46% | N/A | *Verification. Retains extreme alkaline voltage and negative ORP.* |
+| `17:02` | **Fraction 3: Saturn (Plasma Serum Retentate)** | T1: 36.5°C<br>T2: 28.2°C | *pH:* 5.9<br>*TDS:* 11.6 ppt<br>*EC:* 22.8 mS/cm<br>*ORP:* +79 mV<br>*H2:* 0 ppb | *pH:* 6.08<br>*TDS:* 13.7 ppt<br>*EC:* 27.5 mS/cm<br>*Salt:* 1.46% | N/A | *Cooled retentate (250ml). Smells like earthy humus and coffee.* |
 
 ### 3. Phenomenological Observations & Variance Summary
 By comparing the Fresh Control to the resulting fractions, the exact separation of the *Prima Materia* was mathematically mapped:
 * **The Inversion of Charge:** The fresh biological baseline possessed a neutral pH (~7.0) and a positive charge (+77 mV ORP). The distilled fluid was completely inverted into an active, high-voltage electron donor (pH 9.6 - 10.09) with a stable negative charge (-18 mV to -37 mV).
 * **Plasma Serum The Descent of the Earth Element:** The heavy biological salts condensed into an acidic pH (5.9) with high density (up to 27.5 mS/cm EC), consistent with a dense retentate fraction in this run.
 
-## VI. Baseline Parameters & Public Context (Non-clinical)
+## VIII. Baseline Parameters & Public Context (Non-clinical)
 
 For the sake of scientific transparency, key biological inputs of the host vessel are documented below.
 Operationally sensitive details are maintained in private research logs.
@@ -116,15 +138,15 @@ Hydration was strictly limited to pure **distilled water** for all drinking, coo
 
 **Safety Boundary:** From a strictly chemical standpoint, a laboratory fluid presenting with a pH of 10.09 would be handled as caustic. Any personal-use notes below are single-subject observations only and do not establish safety or efficacy for others.
 
-* **The Solar Spirit (Fraction 1 & 2 - The High-Voltage Solvent):**
+* **The Solar/Lunar Waters (Fractions 1 & 2 - The High-Voltage Solvent Continuum):**
   * *Topical/Dental (Observed by author):* Reported as strongly active in mouth/skin use contexts.
   * *Operational Detail:* Additional handling and use notes are retained in private logs.
 
-* **The Lunar Retentate (Fraction 3 - The Prebiotic Sealant / "Plasma Serum"):**
+* **The Saturn Retentate (Fraction 3 - The Prebiotic Sealant / "Plasma Serum"):**
   * *Biophysical Lifespan (Observed):* In this log, the dense mineral matrix continued to evolve across approximately one lunar cycle (~30 days).
   * *Topical Notes (Observed by author):* In personal logs over multiple years, this fraction has been associated with a cooling sensation in topical contexts. This is anecdotal observation and not a treatment claim.
 
-## VII. Conclusion & Future Vectors of Research
+## IX. Conclusion & Future Vectors of Research
 
 The empirical data recorded in this run supports the working hypothesis of Sovereign Biophysics within a single-subject context: the human body can produce a *Prima Materia* that, under the logged conditions, separated into a high-voltage fraction and a dense retentate. 
 
