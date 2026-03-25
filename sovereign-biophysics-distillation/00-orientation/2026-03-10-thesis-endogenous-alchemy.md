@@ -125,14 +125,13 @@ Operationally sensitive details are maintained in private research logs.
 ### 1. The Host Baseline (The Zero-Salt Matrix)
 The *Prima Materia* utilized in this protocol was harvested from a vessel operating under the following parameters:
 * **Zero Sodium Chloride:** The dietary intake consisted of mostly no sodium chloride for the preceding year, and *strictly* no sodium chloride for the entire duration of the plasma collection. All mineral density measured is organically derived from the food matrix.
-* **The Sattvic Inputs:** The cellular terrain is built upon specific grains (rice, wheat, oats), split mung beans, and high-quality endogenous fats (homemade ghee, milk, cream, and butter).
-* **Master Botanicals:** Regulated using ashwagandha, brahmi, triphala, fennel, cumin, cinnamon, and asafoetida (*hing*).
+* **The Sattvic Inputs:** The cellular terrain is built on a traditional Sattvic dietary framework: grain-based, dairy-inclusive, zero sodium chloride. Botanical regulation follows classical Ayurvedic practice.
 * **Personal Background Context:** Multi-year personal Amaroli/Shivambu practice history is part of the author context and may influence outcomes in this single-subject dataset.
 
 ### 2. The Hydration Protocol (The Blank Slate)
 Hydration was strictly limited to pure **distilled water** for all drinking, cooking, and the washing of grains.
 * **Endogenous Inference:** With inorganic minerals removed from water inputs, the high electrical conductivity (27.5 mS/cm) measured in the *Saturn Retentate* is interpreted here as predominantly endogenous in this dataset. 
-* **The Recursive Loop (Solar Fraction Context):** In this single-subject log, a small amount of the **Solar Spirit fraction** was included in grain-wash water. This note is descriptive only and not instructional.
+
 
 ### 3. Personal Use Observations (Non-clinical)
 
