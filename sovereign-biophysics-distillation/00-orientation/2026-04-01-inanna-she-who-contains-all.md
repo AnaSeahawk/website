@@ -1,7 +1,7 @@
 ---
 date: 2026-04-01
 sun: 12° Aries
-moon:
+moon: 6° Libra
 moon-phase:
 type: foundation
 visibility: public
