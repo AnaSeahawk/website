@@ -36,7 +36,7 @@ Before the first flame is lit, it is worth understanding *why* the work produces
 
 ***The biological carrier fluid is not a uniform substance. It is a complex mixture of compounds with vastly different molecular weights, polarities, volatility thresholds, and electrochemical behaviors.*** When heat is applied, the components do not all respond identically. The lightest, most kinetically active molecules — those carrying the greatest charge-to-mass ratio, those most capable of interaction and transfer — vaporize first. They are the ones with the lowest boiling points, the highest vapor pressures, the most energetic molecular motion at a given temperature.
 
-This is not metaphor. The first fraction to cross is measurably different from what follows. It behaves differently in solution, has different surface tension characteristics, different ORP readings, different conductivity profiles. The alchemists called this fraction the Soul of the matter — *Sulfur*, the volatile fire principle — because it is the most *active* portion of the whole, the part most capable of acting upon other substances. They were correct. They were describing electrochemical reality in the language available to them.
+This is not metaphor. The first fraction to cross is measurably different from what follows. It behaves differently in solution, has different surface tension characteristics, different ORP readings, different conductivity profiles. The alchemists called this fraction the Spirit of the matter — *Sulfur*, the volatile fire principle — because it is the most *active* portion of the whole, the part most capable of acting upon other substances. They were correct. They were describing electrochemical reality in the language available to them.
 
 Every subsequent distillation pass — every **Cohobation**, every additional **Eagle** — continues this refinement. The first pass separates the volatile from the gross. The second pass separates the volatile from the merely-light. The third from the second-order volatile. Each flight shears away another layer of accumulated history, another stratum of the fixed and the neutral, concentrating what is most essentially active in an ever-smaller, ever-more-charged volume.
 
@@ -52,7 +52,7 @@ The Eagle is not a substance. The Eagle is an *action.*
 
 When heated Prima Materia rises as vapor from the chamber below — shedding density, shedding weight, leaving behind what was too heavy or too fixed to follow — that is the Eagle in flight. The matter takes wing. It crosses over as purified, high-energy spirit and descends again as condensate: lighter, cleaner, carrying more of what was essential and less of what was merely accumulated.
 
-Every redistillation is another flight. Each Cohobation — each pass of the purified distillate back through the fire — shears away more of the fluid's fixed, accumulated history, progressively concentrating what remains until what crosses is almost entirely the volatile soul of the original matter. The multiple-Eagle framework is not decorative language. It is a precise description of iterative fractional distillation, run until the early fractions stabilize in character and no longer yield meaningfully different material with each additional pass. That stabilization is the sign that Rectification is approaching completion.
+Every redistillation is another flight. Each Cohobation — each pass of the purified distillate back through the fire — shears away more of the fluid's fixed, accumulated history, progressively concentrating what remains until what crosses is almost entirely the volatile spirit of the original matter. The multiple-Eagle framework is not decorative language. It is a precise description of iterative fractional distillation, run until the early fractions stabilize in character and no longer yield meaningfully different material with each additional pass. That stabilization is the sign that Rectification is approaching completion.
 
 **The First Cut: Capturing the Solar Aspect**
 
@@ -89,12 +89,14 @@ The alchemists called this the *Tria Prima*: the three primes from which all mat
 
 Every distillation run produces all three. The separation is not imposed — it is revealed.
 
+*A note on naming convention: In this practice, the Solar first fraction (Sulfur) is named the Spirit — animating, initiating, carrying charge — and the Lunar second fraction (Mercury) is named the Soul — receptive, containing, relational. This inverts the Paracelsian convention, in which Sulfur carries the Soul and Mercury the Spirit. This variation is not unique to this practice; the assignment of Soul and Spirit to the fractions differs across multiple alchemical lineages. The naming here follows direct observational experience of the fractions themselves, brought into harmony with the practitioner's own working vocabulary. Where other traditions are referenced, their terminology is noted.*
+
 **The Three Primes in the Flask**
 
 | Your Fraction | Alchemical Prime | Principle | What It Is |
 |:---|:---|:---|:---|
-| First Cut — Volatile / Solar | **Sulfur** *(The Soul)* | Fire · The Sun · Expansion | The lightest, most volatile, most electrochemically active molecules. The energetic signature of the fluid. Its essential activity. What it does when freed from the weight of the body. |
-| Middle Cut — Bulk / Lunar | **Mercury** *(The Spirit)* | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Solar acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. |
+| First Cut — Volatile / Solar | **Sulfur** *(The Spirit)* | Fire · The Sun · Expansion | The lightest, most volatile, most electrochemically active molecules. The energetic signature of the fluid. Its essential activity. What it does when freed from the weight of the body. |
+| Middle Cut — Bulk / Lunar | **Mercury** *(The Soul)* | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Solar acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. |
 | Residue — Fixed / Saturn | **Salt** *(The Body)* | Earth · The Cube · Fixed Matter | The dense minerals and non-volatile compounds remaining in the chamber after the run. Not waste — the crystalline ground from which the fluid was built. The Body waiting for resurrection. |
 
 **The Vessel as Microcosm**
@@ -149,7 +151,7 @@ The filtered liquid is evaporated under gentle, patient heat. As the moisture wi
 
 ***Three purified principles now exist in isolation.***
 
-The high-voltage first cut — ***Solar Sulfur***, the soul of the fluid. The neutral middle bulk — ***Lunar Mercury***, its spirit and medium. The crystalline mineral residue — ***Glorified Salt***, its resurrected body.
+The high-voltage first cut — ***Solar Sulfur***, the spirit of the fluid. The neutral middle bulk — ***Lunar Mercury***, its soul and medium. The crystalline mineral residue — ***Glorified Salt***, its resurrected body.
 
 ***Solve et Coagula*** has been performed completely. The fluid has been taken apart at every level — volatile from fixed, active from neutral, living mineral from dead sediment. Each principle has been brought to its most purified, most essential expression. The final work is their reunion.
 
