@@ -1,26 +1,24 @@
 # Ana Seahawk
 
-Presence as art. Time as devotion.
+Living as Art.
+All true achievements are found inward.
+What matters most is the path of Heart.
 
-This is a living archive — field notes from an ongoing inquiry
-into the body, time, and the intelligence of faithful witness.
+---
 
-What is documented here is real and current:
-dreamwork, plant relationships, seasonal rhythm,
-the philosophy of keeping honest record.
+Ana Seahawk is an Amaroli practitioner and field researcher whose primary site of inquiry is her own living body.
+
+This archive is the record of that inquiry, and home of the original research into the biochemistry and history of endogenous distillation.
+
+The Great Work "Sovereign Biophysics" — the study of what the body already produces, already knows, and already carries. Four years of practice has become the sounding board for research that reaches back five thousand years of Women's Work, and forward into territory that is still being mapped.
+
+There is no curriculum or workshop. It is a living field, kept with precision and devotion.
 
 ---
 
 Deeper in, there is a vessel.
-What it holds is documented honestly —
-evolving research, protected not out of concealment
+What it holds is documented honestly — evolving research, protected not out of concealment
 but because living work deserves a dedicated container.
-
 Entry is by relationship.
 
----
-
-Foundations · Dreamwork · Relationship · The Living Year
-
-anaseahawk.com · mother-spirit.com
-Wise · PayPal
+[The Living Year →](The-Living-Year/portal.md)
