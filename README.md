@@ -22,3 +22,7 @@ but because living work deserves a dedicated container.
 Entry is by relationship.
 
 [The Living Year →](The-Living-Year/portal.md)
+
+---
+
+[Foundations](Foundations/) · [Dreamwork](Dreamwork/) · [Relationship](Relationship/) · [The Living Year](The-Living-Year/) · [Sovereign Biophysics](sovereign-biophysics-distillation/)
