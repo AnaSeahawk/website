@@ -1,6 +1,11 @@
 ---
-status: draft
+date:
+sun:
+moon:
+moon-phase:
+type: foundation
 visibility: community
+status: draft
 claim_tier: interpretation
 ---
 
