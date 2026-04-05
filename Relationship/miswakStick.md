@@ -1,6 +1,11 @@
 ---
-status: reviewed
+date: 2026-04-05
+sun:
+moon:
+moon-phase:
+type: foundation
 visibility: public
+status: reviewed
 claim_tier: interpretation
 ---
 
