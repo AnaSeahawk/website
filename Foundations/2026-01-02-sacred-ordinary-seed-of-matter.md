@@ -1,3 +1,14 @@
+---
+date: 2026-01-02
+sun:
+moon:
+moon-phase:
+type: foundation
+visibility: public
+status: reviewed
+claim_tier: interpretation
+---
+
 # Sacred Ordinary 
 
 ***The Seed of Matter.***

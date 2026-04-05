@@ -1,3 +1,14 @@
+---
+date: 2025-12-10
+sun:
+moon:
+moon-phase:
+type: foundation
+visibility: public
+status: reviewed
+claim_tier: interpretation
+---
+
 # **Plasma — the foundation of a new world.**  
 **The living current that remembers who we truly are.**
 

@@ -1,3 +1,14 @@
+---
+date: 2026-03-14
+sun:
+moon:
+moon-phase:
+type: foundation
+visibility: public
+status: reviewed
+claim_tier: interpretation
+---
+
 # Freedom is Love
 
 **The Glimmering Pathways: The Visceral Archive and Legacy of Helen Humphreys Seargeant**
