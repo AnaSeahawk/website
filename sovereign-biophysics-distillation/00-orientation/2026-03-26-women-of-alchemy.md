@@ -24,7 +24,7 @@ What survived the burning is fragments — a name on a double boiler, a single s
 
 Most have no names at all. Erased.
 
-The record calls the alchemist task *opus mulierum* — women's work — and moves on. Women who distilled, recorded, taught each other, and built apparatus that still carries original names two thousand years later. And then the fires came, the institutions, the long silence of centuries in which what women knew in their hands and hearts was not considered worth preserving in writing.
+The record calls the alchemist task *Opus Mulierum* — Women's Work — and moves on. Women who distilled, recorded, taught each other, and built apparatus that still carries original names two thousand years later. And then the fires came, the institutions, the long silence of centuries in which what women knew in their hands and hearts was not considered worth preserving in writing.
 
 Gone without a trace.
 
@@ -114,7 +114,7 @@ The language the Isis texts use for the primal substance is the language of some
 
 ## Part Two: The Alexandrian School (1st–4th Centuries CE)
 
-Alexandria, Egypt, under Greco-Roman rule, was the intellectual capital of the ancient world. Its tradition of relatively greater autonomy for women made it uniquely fertile ground for the emergence of female alchemists. The work of early female chemists there was so prevalent it was sometimes called ***opus mulierum* — women's work.** Read as diminutive across the centuries of male-authored commentary that followed. It should be read as descriptive. This was work that women did. Work that emerged from women's specific embodied knowledge of the body's own chemistry.
+Alexandria, Egypt, under Greco-Roman rule, was the intellectual capital of the ancient world. Its tradition of relatively greater autonomy for women made it uniquely fertile ground for the emergence of female alchemists. The work of early female chemists there was so prevalent it was sometimes called ***Opus Mulierum* — Women's Work.** Read as diminutive across the centuries of male-authored commentary that followed. It should be read as descriptive. This was work that women did. Work that emerged from women's specific embodied knowledge of the body's own chemistry.
 
 ### Mary the Jewess (fl. 1st–3rd century CE)
 
@@ -280,7 +280,7 @@ On the other side of that threshold, a different relationship with food becomes 
 
 *I still drink coffee. I eat ice cream. I try not to try — only to observe whether something is a habit I'm feeding and/or what emotional support it's giving me. Mostly at this point food is about grounding energy and pleasure.*
 
-This is the *opus mulierum* in its full dimension. Not only the outer distillation — the apparatus, the fractions, the water in the light. The inner distillation too. The emotional prima materia as dense, dark and full of unrealized potential as anything in the flask. The same process. The same heat. The same stages from darkness through the clarity that makes the heart open to pure love.
+This is the *Opus Mulierum* in its full dimension. Not only the outer distillation — the apparatus, the fractions, the water in the light. The inner distillation too. The emotional prima materia as dense, dark and full of unrealized potential as anything in the flask. The same process. The same heat. The same stages from darkness through the clarity that makes the heart open to pure love.
 
 ---
 
