@@ -11,7 +11,7 @@ claim_tier: interpretation
 
 # The Grief That Was Never Recorded
 
-### *On Disenfranchised Loss, the Suppressed Alchemical Record, and What the Female Body Has Always Known*
+### *On Disenfranchised Loss, the Suppressed Alchemical Record, and What the Female Body Has Always Know*
 
 ---
 
@@ -108,6 +108,12 @@ She knew which plants eased the contractions. She knew how to read the progressi
 Then the room changed.
 
 Birth moved from the home to the institution. The woman who knew was replaced by a protocol. And in that replacement, things began to be removed — not all at once, but sequentially, each severance presented as an "improvement" on what came before.
+
+The room that changed had a new authority in it. The institution was male — built by men, credentialed through institutions women could not enter, writing in a language women were not taught to read. The texts that described the female body to the women who inhabited it were authored by people who did not inhabit it. Anatomy, physiology, obstetrics, pharmacology — the knowledge women received about their own biological intelligence arrived already filtered through a framework they had no hand in building.
+
+And the practitioners inside that framework — the doctors, the nurses, the hospital midwives, the pharmacists — were not, in most cases, malicious. Many were genuinely devoted to care. But the structure they operated inside protected them from liability only so long as they followed procedure. Compliance with protocol was legal safety. The body's own intelligence was not a variable the procedure had been written to honour. Cut the cord in thirty seconds and you are covered. Allow it to pulse to completion and something goes wrong — you are exposed. The protocol decides. Not the body. Not the woman. Not the knowledge that lived in the hands of the women who had stood in that room for ten thousand years before the institution entered it.
+
+This is not a simple indictment. The institution also saved lives — births that would have killed mother and child now survive, infections that would have been fatal are treated. That genuine good is real. It is also what makes the pattern so difficult to name. The good functions as cover — not by design in every case, but by effect. You cannot call the whole structure harm without accounting for what it genuinely saves. And that complexity is precisely what makes the underlying question so hard to hold: whose interests shaped the protocols? Whose investments wrote the guidelines? Who benefits when the body cannot manage itself without institutional intervention? These questions do not require a conspiracy to be worth asking. They require only the willingness to notice that the answer is not obvious — and that the people who most needed to ask them were the last to be given the language that would have made asking feel possible.
 
 **The cord.**
 
