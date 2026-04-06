@@ -1,47 +1,55 @@
-# Sovereign Biophysics & Distillation
+# Sovereign Biophysics
 
-## Statement of Intent
-This folder is a chronological archive of endogenous distillation discovery. The structure is organized by phase so the research flow can be read from orientation -> method -> experiments -> analysis -> synthesis.
+*The study of what the body already produces, already knows, and already carries.*
 
-These are living documents and personal field notes. Data and interpretations are snapshots in time and may evolve.
-All records are single-subject unless explicitly noted otherwise.
+This is a living research archive — single-subject, autoethnographic, non-instructional.
+What is documented here is one practitioner's record of endogenous distillation:
+the history behind it, the method, the measurements, and what they mean.
 
-## Boundary & Medical Disclaimer
-This archive is not a medical protocol, teaching curriculum, or guide for others. The metrics and preparations recorded here are specific to one body and context.
+*Nothing here constitutes medical guidance. All records are specific to one body and context.*
 
-**No information in this folder is intended to diagnose, treat, cure, or prevent any disease or medical condition.**
+---
 
-## Reading Path (Discovery Flow)
-1. Orientation: framing, vow, and thesis intent.
-2. Method: process-context notes before the run.
-3. Experiments: run records, measurements, and outcomes.
-4. Analysis: interpretive bridge between data and theory.
-5. Synthesis: integrated model across multiple runs.
+## Reading Path
 
-## Public/Private Split (In Progress)
-The following files are currently transitioning to the private vessel lane:
-- `10-method/2026-02-22-protocol-golden-syphon.md`
-- `20-experiments/2026-02-18-19-experiment-report-aged-plasma-distillation.md`
-- `Method-HarmReduction.md`
-- `40-synthesis/2026-03-11-synthesis-multiday-distillation-fresh-vs-aged.md`
+The archive is organised to be read in sequence:
 
-## Timeline Index
-### 00-orientation
-- `00-orientation/2026-02-22-manifesto-clear-mirror.md`
-- `00-orientation/2026-03-10-thesis-endogenous-alchemy.md`
+**Orientation** — the historical lineage, the philosophical frame, the living context
+**Method** — the practice itself: what is done and how it is approached
+**Experiments** — run records, measurements, outcomes
+**Analysis** — interpretive bridge between data and theory
+**Synthesis** — integrated understanding across multiple runs
 
-### 10-method
-- `10-method/2026-02-22-protocol-golden-syphon.md`
+---
 
-### 20-experiments
-- `20-experiments/2026-02-18-19-experiment-report-aged-plasma-distillation.md`
+## Index
 
-### 30-analysis
-- `30-analysis/2026-03-10-analysis-water-plasma-fourth-phase.md`
+### Orientation
 
-### 40-synthesis
-- `40-synthesis/2026-03-11-synthesis-multiday-distillation-fresh-vs-aged.md`
+- [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
+- [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the foundational argument
+- [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance
+- [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the sovereign vessel
+- [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — what was suppressed and what the body still carries
 
-## License
-© 2026 Ana Seahawk.
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+### Method
+
+- [Amaroli Protocols](10-method/amaroli-protocols.md) — orientations within the practice
+- [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — the alchemical vocabulary mapped to living practice
+
+### Experiments
+
+- [Experiment Report: Aged Plasma Distillation](20-experiments/experiment-report-aged-plasma-distillation.md)
+
+### Analysis
+
+- [Analysis: Water, Plasma, Fourth Phase](30-analysis/analysis-water-plasma-fourth-phase.md)
+
+### Synthesis
+
+- [Synthesis: Multiday Distillation, Fresh vs Aged](40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)
+
+---
+
+*Operational detail, harm reduction notes, and protocol records are held in the private archive.*
+*© 2026 Ana Seahawk — CC BY-NC-ND 4.0*
