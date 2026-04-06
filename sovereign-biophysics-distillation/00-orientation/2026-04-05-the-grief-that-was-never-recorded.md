@@ -159,6 +159,18 @@ Women had blind faith in something that worked and could not be read. They had n
 
 That knowledge is gone. In its place is a solution that works, and a generation of women who were never given the full picture of what the working cost them.
 
+**The anatomy.**
+
+The organ responsible for female sexual sensation was removed from the standard anatomical record for the better part of a century.
+
+The full internal structure of the clitoris — which extends several inches inward, with internal branches wrapping around the vaginal canal — was documented in early anatomy and then progressively omitted from mainstream medical textbooks through most of the twentieth century. Gray's Anatomy, the foundational text from which generations of doctors were trained, described it in diminishing detail across editions while male anatomy was documented in full.
+
+It was not corrected until 1998, when an Australian urologist named Helen O'Connell published formal research in the *Journal of Urology* documenting what had been removed and what the actual structure was. A complete three-dimensional anatomical model did not exist until 2009.
+
+Practitioners trained on those textbooks had no idea anything was missing. The omission was not visible to the people shaped by it. The protocol said this anatomy did not require documentation. The protocol was followed. The women whose bodies contained the undocumented structure were examined and treated by professionals who had studied an edited version of their anatomy — and neither party knew.
+
+This is not metaphor. It is on the record.
+
 **The oldest layer.**
 
 Beneath all of this — older than the hospital protocol, older than the patent system, older than the twentieth century's particular instruments of disconnection — ran a single persistent teaching.
