@@ -131,6 +131,8 @@ In the twentieth century this living conversation was in many cases replaced wit
 
 Dead calories in place of living intelligence.
 
+And the water used to reconstitute it. In most households: tap water — treated with chlorine for pathogen management, fluoride by public health policy, carrying trace compounds from pipes, infrastructure, and agricultural runoff that vary by region and are not disclosed on the tin. None of these substances have any evolutionary relationship with the newborn gut. Breast milk is not reconstituted from municipal water. It is structured from inside a living body, already filtered, already made bioavailable by a system that has been calibrated to this specific infant. The formula-fed newborn in the twentieth century was asked, in its first weeks of life, to process a chemical signature it had no ancestral experience of receiving.
+
 The effects on the developing inner ecology of the infant — the microbial world of the gut, the immune intelligence, the body's deepest regulatory systems — are an active area of research. What is already established is significant. What is not yet fully known is also significant.
 
 What can be said plainly is this: something that was alive was replaced with something that was not. And the hunger that resulted — not only physical but relational, nervous, cellular — is carried in the bodies of an entire generation. The longing for a quality of nourishment that goes beyond measurement. The unnamed ache for a presence and responsiveness that the body was designed to receive and in many cases did not.
