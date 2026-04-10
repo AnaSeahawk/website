@@ -20,9 +20,13 @@ format: 60 min online
 
 Something is already happening in you. It was happening before you had a name for it. This presentation offers a map — not to begin, but to make legible what is already underway.
 
-The body is a distillery. The kidney filters, concentrates, and returns. The cycle closes back to itself. What moves through that loop is not waste. It is a living solution — hormonal, peptide, bioelectric — carrying the specific signature of the body that produced it. Modern measurement can now show what the alchemists encoded: this fluid conducts, holds charge, responds.
+The body is a distillery. The kidney filters, concentrates, and returns. The cycle closes back to itself. What moves through that loop is not waste. It is the living waters — a solution that is hormonal, peptide, bioelectric — carrying the specific signature of the body that produced it. Modern measurement can now show what the alchemists encoded: this fluid conducts, holds charge, responds.
 
-In Ayurveda, this is the domain of *ojas* — the refined essence produced at the end of all metabolic transformation. Not the first product, the last. The most distilled. The biological intelligence that the body makes available to itself when conditions are right. Alchemy called the same substance the *prima materia* — the first matter, the ground of all work. Both traditions are pointing at the same physiology in different languages. This is the translation this presentation offers.
+Three traditions name what is happening. Ayurveda calls it *rasa* — the first refined essence, the body's own juice, from which all deeper refinement proceeds. Alchemy calls the raw material the *prima materia* — the first matter, humble and overlooked, found everywhere, valued by almost no one. Physiology describes a filtrate that is not random waste but a selective portrait of the body's internal state at the moment it was made. Same substance, three ways of knowing it.
+
+The practice has a sequence. The living waters are first allowed to age — what the community calls *evolved* or *aged* material, held over a lunation cycle, approximately twenty-eight days, while the material transforms. This is not waiting. This is the first stage of the work. The alchemists called it *putrefaction* — the necessary dissolution before refinement can begin. Ayurveda has an entire science of fermented preparations, *āsava*, where the most potent medicines are those that have undergone this patient transformation. The material that enters distillation is not the same material that was collected. It has already begun to move.
+
+What distillation does is carry that process further — concentrating, separating, refining. This presentation is about that second stage: the fire, the vessel, the watching.
 
 ---
 
@@ -45,6 +49,7 @@ Three vocabularies, one process.
 | Alchemy | Ayurveda | Physiology |
 |---|---|---|
 | Prima materia | Rasa (fluid / essence) | Body's original biological juice |
+| Putrefaction / nigredo | Āsava (fermented preparation) | Aged / evolved material |
 | Retort | Koshtha (body cavity / vessel) | Kidney / distillation vessel |
 | Fire beneath the retort | Agni (digestive fire) | Metabolic heat |
 | Solve et coagula | Pāka (transformation through heat) | Distillation cycle |
