@@ -62,6 +62,9 @@ The ouroboros — the serpent eating its own tail — is not symbol. It is biolo
 
 *These are observations from my own work. They are offered as orientation, not instruction. Each body is different. The work teaches itself.*
 
+**Prepare your material before it enters the vessel.**
+Syphon or filter your fluid before it goes into the distiller. Biological fluids carry sediment, particulate, and material that does not belong in the distillation vessel. What you put in determines what comes out. A clean starting material gives you a clean process. This is the first act of the work — not the heat, not the watching, but the preparation. The alchemists called it *nigredo*: sorting, separating, beginning with what is actually there.
+
 **Work in small batches.**
 The alchemists did not work at industrial scale. Small batches allow attention. They allow you to stay present with what is happening. The quality of attention is part of the process.
 
