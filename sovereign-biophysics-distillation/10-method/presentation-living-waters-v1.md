@@ -44,12 +44,13 @@ Three vocabularies, one process.
 
 | Alchemy | Ayurveda | Physiology |
 |---|---|---|
-| Prima materia | Āma / raw essence | Unconcentrated biological fluid |
-| Retort | Agni (digestive fire) | Kidney / distillation vessel |
-| Solve et coagula | Separation and refinement | Distillation cycle |
+| Prima materia | Rasa (fluid / essence) | Body's original biological juice |
+| Retort | Koshtha (body cavity / vessel) | Kidney / distillation vessel |
+| Fire beneath the retort | Agni (digestive fire) | Metabolic heat |
+| Solve et coagula | Pāka (transformation through heat) | Distillation cycle |
 | Albedo (whitening) | Śodhana (purification) | Clarification through heat |
 | Solar / lunar separation | Sūrya / Chandra | Volatile and fixed fractions |
-| Flying the eagle | Lifting the subtle | First distillate rising |
+| Flying the eagle | Udāna Vāyu (upward-moving vital force) | First distillate rising |
 | Second distillation | Bhāvana (repeated processing) | Double distillation |
 | Lapis (the stone) | Ojas | Refined, sovereign essence |
 
