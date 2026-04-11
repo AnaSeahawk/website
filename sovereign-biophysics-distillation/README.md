@@ -31,11 +31,14 @@ The archive is organised to be read in sequence:
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance
 - [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the sovereign vessel
 - [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — what was suppressed and what the body still carries
+- [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
+- [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
 
 ### Method
 
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — orientations within the practice
 - [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — the alchemical vocabulary mapped to living practice
+- [Presentation: The Living Waters](10-method/presentation-living-waters-v1.md) — sixty-minute practitioner presentation, draft V3
 
 ### Experiments
 
