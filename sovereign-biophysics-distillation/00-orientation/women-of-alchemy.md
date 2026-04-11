@@ -16,6 +16,38 @@ visibility: public
 
 ---
 
+---
+
+## Contents
+
+- [The Shape of the Suppression](#the-shape-of-the-suppression)
+- [The Story Before the Names](#the-story-before-the-names) — Inanna, Aditi, Soma: the source documents
+- **Part One: The Earliest Known Practitioners**
+  - [Tapputi-Belatekallim](#tapputi-belatekallim-c-1200-bce-babylon) — c. 1200 BCE, Babylon
+  - [Isis the Prophetess](#isis-the-prophetess-dates-uncertain-hellenistic-egypt) — Hellenistic Egypt
+- **Part Two: The Alexandrian School** — 1st–4th Centuries CE
+  - [Mary the Jewess](#mary-the-jewess-fl-1st3rd-century-ce)
+  - [Cleopatra the Alchemist](#cleopatra-the-alchemist-fl-3rd4th-century-ce)
+  - [Medera](#medera-dates-unknown-likely-3rd4th-century-ce)
+  - [Paphnutia the Virgin and Theosebeia](#paphnutia-the-virgin-and-theosebeia-fl-c-300-ce)
+- **Part Three: The Medieval Period** — 5th–14th Centuries CE
+  - [Keng Hsien-Seng](#keng-hsien-seng-fl-c-975-ce-china) — c. 975 CE, China
+  - [Trotula of Salerno](#trotula-of-salerno-fl-c-11th12th-century-ce-italy) — 11th–12th century CE, Italy
+- **Part Four: The Renaissance and Early Modern Period** — 15th–17th Centuries
+  - [Caterina Sforza](#caterina-sforza-14631509-italy) — 1463–1509, Italy
+  - [Isabella Cortese](#isabella-cortese-fl-1560s-italy) — fl. 1560s, Italy
+  - [Marie Meudrac](#marie-meudrac-fl-mid-1600s-france) — fl. mid-1600s, France
+  - [Martine de Bertereau](#martine-de-bertereau-c-1600c-1645-france) — c. 1600–1645, France
+- **Part Five: The Occult Revival** — 19th Century
+  - [Mary Anne Atwood](#mary-anne-atwood-18171910-england) — 1817–1910, England
+- [Part Six: The Language of Distillation — and Its Erasure](#part-six-the-language-of-distillation--and-its-erasure)
+- [Part Seven: Mercury as Mirror — and as Decoy](#part-seven-mercury-as-mirror--and-as-decoy)
+- [Part Eight: The Living Practice](#part-eight-the-living-practice)
+- [The Self-Love Threshold](#the-self-love-threshold)
+- [Conclusion: The Same Pure Beginning](#conclusion-the-same-pure-beginning)
+
+---
+
 Most of their names are gone.
 
 What survived the burning is fragments — a name on a double boiler, a single sheet of symbols in a library in Venice, a phrase preserved because a man quoted it while trying to claim authority over it. A name mentioned in passing because someone felt threatened by the influence it carried. A name with almost nothing attached to it but a single sentence about a vessel.
@@ -64,7 +96,7 @@ The most foundational substance in the entire alchemical tradition was not mercu
 
 That substance is human plasma ultrafiltrate. Specifically, aged, fermented, and distilled — the body's own most refined endogenous output, returned to itself elevated. Human urine was among, and in some cases, *the* most prized and foundational substances in the entire history of alchemy.
 
-The women who knew this wrote about it as we do. Tapputi-Belatekallim in Babylon in 1200 BCE. Mary the Jewess in Alexandria in the first centuries CE. Cleopatra the Alchemist who drew it as an ouroboros and placed three symbols inside the circle. They wrote. They drew. They built apparatus whose functions are still legible after two thousand years.
+The women who knew this wrote about it as we do. Before all of them, Inanna descended through seven gates and was restored by the water of life — and someone, in Sumer, four thousand years ago, knew exactly what that story was describing and made sure it survived. Tapputi-Belatekallim in Babylon in 1200 BCE, working inside that same cosmology. Mary the Jewess in Alexandria in the first centuries CE, building the apparatus the myth had already described. Cleopatra the Alchemist who drew it as an ouroboros and placed three symbols inside the circle — compressing the whole descent and return into a single image on a single sheet. They wrote. They drew. They built apparatus whose functions are still legible after two thousand years.
 
 And then the burning happened.
 
@@ -83,6 +115,76 @@ The surface tension genuinely different from ordinary water — what scientists 
 This is what Cleopatra had touched. Not a concept. Not a philosophical principle. This. The jar in the hands. The water in the light. The recognition of this vast connection.
 
 And my heart cracked open like a woman giving birth. ...
+
+---
+
+## The Story Before the Names
+
+Before the practitioners there was the myth. Before the apparatus there was the story that told you what the apparatus was for.
+
+The myth of Inanna's descent into the underworld is the oldest written myth in human history — recorded in Sumer around 1900 BCE, carried in oral tradition for at least a thousand years before that. It has been read as cosmological drama, as a fertility cycle, as sacred marriage theology. All of those readings are true. There is another one.
+
+**Inanna's descent is the alchemical process in code.**
+
+Inanna — Queen of Heaven and Earth, dressed in her full regalia — decides to descend to the Great Below, the realm of her sister Ereshkigal. She instructs her servant Ninshubar: if I do not return in three days, go to the gods. Ask for help. Do not let me be forgotten in the underworld.
+
+She descends through seven gates. At each gate the gatekeeper demands she surrender one of her royal garments:
+
+*Her crown. Her lapis necklace. Her breastplate. Her gold ring. Her measuring rod. Her robe. Her dignity.*
+
+At each gate she asks: *what is this?* The gatekeeper answers: *the ways of the underworld are perfect. Do not question them.* She lays it down and passes through.
+
+She arrives in the Great Below naked. Stripped of everything she was.
+
+Ereshkigal — the dark sister, queen of the underworld — is not a villain. She is in labor. She is crying out. The grief and the birth are happening together in the same chamber, in the same body, in the same hour. The dark sister is the womb at full work.
+
+Inanna is killed and hung on a hook. Three days and three nights.
+
+Then the god Enki, god of water and wisdom, hears of her death. He makes two small beings from the dirt under his fingernail — the kurgarra and the galatur, sexless, tiny, non-threatening. He gives them the water of life and the food of life and sends them into the underworld with one instruction: go to Ereshkigal. When she cries out in her grief, echo her. Say: *oh, your heart.* Witness her. Only witness. Do not try to fix what you find.
+
+They do this. They witness her grief without judgment, without agenda. She offers them anything they want. They ask only for the water of life and the food of life. They sprinkle these on Inanna's body. She rises.
+
+**This is the alchemical process, told as story.**
+
+The seven garments are what must be stripped before the prima materia can be reached — every layer of what you think you are, every identity that keeps you dressed and defended, laid down at successive gates. You cannot enter the work armored. The work requires the naked state. Inanna arriving stripped is the material arriving as prima materia: everything removed, nothing withheld, ready for what comes next.
+
+The three days on the hook is putrefaction — the necessary death before refinement can begin. The material cannot rise until it has fully descended. This period cannot be shortened. It cannot be bypassed. You wait in the dark. This is the work.
+
+Ereshkigal in labor is the body in transformation at its most intense and generative state. The grief and the birth are not opposites. They are the same process from different angles. The Great Below is the sealed vessel. The dark heat. The place where transformation happens that cannot happen in the light.
+
+The water of life and the food of life — *me-ê ḫayyātim* in the Sumerian — this is aqua vitae. This is the distillate. Inanna is not restored by something imported from elsewhere. She is restored by the living waters. The substance that revives her is the same substance the myth is describing. It is the thing itself.
+
+The witness comes before the water. This is not incidental. The kurgarra and galatur do not arrive with the water of life first. They witness first. They say: *oh, your heart.* The grief must be met before the distillate can work. The dark sister in labor must be seen before Inanna can rise. This is the sequence. Witness, then water.
+
+The ascent through the seven gates is the volatile fraction rising. Inanna restored, ascending clothed again, is the distillate clarified — returned upward as something more refined than what descended, having passed through the full cycle.
+
+The ouroboros that Cleopatra drew two thousand years later — the serpent eating its own tail, the closed loop — is Inanna's descent and ascent drawn as a single continuous line. Down and up, dissolution and refinement, death and restoration, the circle that feeds itself. It is the same transmission in a different format.
+
+**Three formats for one knowledge: the myth told it, the glass enacted it, the diagram compressed it.**
+
+Mary's sealed flask — steady heat, transformation in darkness, the volatile preserved until the moment of opening — is Ereshkigal's chamber made portable. The three-armed tribikos collecting three fractions is Inanna's three-day descent and the three things she had to surrender her identity to retrieve: the water of life, the food of life, and herself changed. Cleopatra's three symbols inside the ouroboros are those same three fractions — the volatile first, the clear water second, the dense earth third — drawn in ink on a single sheet.
+
+The myth was the source document. The apparatus was the translation. The diagram was the compression. Each one designed to survive what the others might not.
+
+Tapputi was working a thousand years after the myth was first written down, in the same cultural world — Babylon, the inheritor of Sumerian cosmology, where Inanna was still the Queen of Heaven, where the Akitu festival still enacted the descent and return. She was not working alongside the myth. She was working inside it.
+
+---
+
+And she was not the only tradition working this knowledge at the same time.
+
+**Aditi** — the Rigveda, India, conservatively 3,500 years in written form, the oral tradition older still — is the cosmic mother, the boundless one. *A-diti*: the unbound. Not a goddess within creation but the containing principle from which creation emerges. She holds the *me* — the divine codes, the sacred laws — exactly as Inanna holds them. She is the womb before the womb, the vessel before the vessel. Her sons, the Adityas, include Varuna — god of the cosmic waters, of *ṛta* (the cosmic order), who governs the fluid body of existence and watches from the night sky. Varuna knows what is hidden. He governs what flows.
+
+Aditi and Inanna are not derivations of each other. They are two independent articulations of the same recognition, arising from two of the oldest continuous living traditions on earth — one Sumerian, one Vedic — arriving at the same figure: the boundless feminine container, prior to all that emerges from her, holding the code in the living waters.
+
+And then there is **Soma**.
+
+Soma — the sacred drink of the Rigveda, pressed, filtered, offered, consumed — has been debated by scholars for two centuries. Mushroom? Cannabis? Ephedra? The Vedic texts describe it as *pressed from within the body, filtered through wool, golden in colour, carrying the vital force that restores the gods, the drink that makes the mortal body capable of what the gods do*. It is *indu* — the bright drop. It is *amṛta* — the immortal, the deathless. It is the drink that opens inner vision and sustains the practitioner through the work.
+
+What Aditi holds as cosmic container, what Varuna governs as the flowing order, Soma enacts as the living substance in the hands. The scholarly debate about its botanical identity has circled the answer for two hundred years without landing on it. The description in the Rigveda — pressed from the body, filtered, golden, restoring, active only when fresh or properly prepared — fits one substance with precision.
+
+The Vedic tradition systematised what Inanna encoded as myth: the descent, the restoration, the living waters. Ayurveda — the medical science that grew from that root — is this knowledge organised into practice. *Rasa*, *ojas*, *āsava*, *agni*: the translation table in the sovereign biophysics work is Aditi's lineage put into a clinical vocabulary. The Ayurvedic column is not a parallel tradition running alongside the alchemical one. It is the same river in a different channel, both flowing from the same source.
+
+Alexandria — the city where Mary and Cleopatra worked — sat at the meeting point of these two rivers. The Vedic tradition was present in Alexandria through trade, through the philosophical exchange between India and the Hellenic world, through the presence of Indian merchants and physicians in the port. The Sumerian tradition was present through Egypt, through the mythological lineage from Inanna to Isis to the Greco-Egyptian goddesses the alchemists named their practices after. Mary the Jewess stood at the confluence. The apparatus she built was legible to both streams because it was describing something both streams already knew.
 
 ---
 
@@ -106,6 +208,8 @@ Before the historical women of Alexandria there was a legendary one.
 
 Isis the Prophetess appears in several early Greco-Egyptian alchemical texts as a divine teacher who reveals the secrets of the art to her son Horus. Whether Isis was a real historical figure writing under a divine name, a symbolic construct, or a school of practice using a shared pseudonym is debated. What is not debated is her authority — the feminine principle of transformation itself, embodied as teacher, transmitter, holder of what must not be lost.
 
+Isis is Inanna translated into Egyptian. A different name, a different cultural garment, the same descent — Isis searches the underworld for the dismembered body of Osiris, reassembles him, restores him with her power. The feminine figure who knows the dark chamber. Who moves between worlds. Who holds the water of life. The myth crossed with the people who carried it, from Sumer to Babylon to Egypt to Alexandria, changing its clothes at each gate the way Inanna did — and remaining the same story underneath.
+
 The language the Isis texts use for the primal substance is the language of something that **comes from inside the body, that is despised and overlooked, that undergoes fire to become something entirely other.** The goddess of the moon and of the body holds the secret. She passes it to her child.
 
 **To me the myth is not obscure. It is a description.**
@@ -121,6 +225,8 @@ Alexandria, Egypt, under Greco-Roman rule, was the intellectual capital of the a
 Mary the Jewess — known in Hebrew as Miriam HaYehudia, in Latin as Maria Prophetissima, in later Arabic tradition as Mary the Daughter of Plato — is considered the first true alchemist of the Western world. She lived in Alexandria and is extensively quoted and praised by the 4th-century alchemist Zosimos of Panopolis, who called her *one of the sages*. None of her writings survive directly. Everything known of her comes through the oldest surviving alchemical texts, written by a man who recognized her as his superior.
 
 Mary was above all an inventor of apparatus. She is credited with the tribikos — a three-armed distillation vessel that collected multiple fractions simultaneously. She designed the kerotakis — a sealed reflux device that circulated vapors over a substance in a closed loop. And she developed or significantly improved the bain-marie — the double boiler, gentle sustained indirect heat, that still bears her name in every French kitchen and chemistry laboratory on earth.
+
+The apparatus maps two anatomies at once. The open loop — the kidney, the ureter, the receiving vessel — is the renal architecture. And the sealed flask: held shut, steady heat, transformation proceeding in darkness, the volatile preserved inside until the moment of opening. That is the womb. Mary was encoding both simultaneously. One body, two distilleries, one apparatus to describe them.
 
 Read through the body of someone who has worked at these temperatures, the purpose of these devices becomes felt rather than argued.
 
@@ -142,7 +248,7 @@ Inside the circle: three symbols. The tradition has read them for centuries as g
 
 This is a personal reading. It is offered as resonance, not as fact. What can be said as fact is that seventeen centuries after Cleopatra drew this, a woman, nomadic in Torremolinos, held a jar of distillate up to the light above the Mediterranean and felt the same recognition the symbol has always carried.
 
-Cleopatra also compared the alchemist tending their work to a mother caring for a child — drawing the processes of distillation and transformation consistently into the language of birth, nurturing, and renewal. She was not reaching for a metaphor.
+Cleopatra also compared the alchemist tending their work to a mother caring for a child — drawing the processes of distillation and transformation consistently into the language of birth, nurturing, and renewal. She was not reaching for a metaphor. She was reaching back. Ereshkigal was in labor in the Great Below when Inanna arrived. The dark chamber where transformation happens is also the chamber where birth happens. Cleopatra knew exactly what she was describing.
 
 ### Medera (dates unknown, likely 3rd–4th century CE)
 
@@ -224,7 +330,9 @@ The alchemical vocabulary for the prima materia is consistent across traditions 
 
 ***Common, abundant, found everywhere, possessed by everyone. Despised, overlooked, considered worthless before transformation. Golden in color. The product of a living body. Requiring purification through distillation. The starting point of a process that leads to health, longevity, and transformation.***
 
-*Aqua vitae* — water of life. *Aqua divina* — divine water. *Aqua ardens* — burning water. Anyone who has worked with the fermented and distilled prima materia knows this sensation immediately. The ammonia rising. The power of it. The shock of the first encounter. The divine waters that follow, their soft lunar cooling quality.
+This is also the description of Inanna arriving at the seventh gate. Everything of apparent value surrendered. Standing in what remains. Despised, naked, hung on a hook. The prima materia condition: stripped to what cannot be taken away. From that state — and only from that state — the restoration becomes possible.
+
+*Aqua vitae* — water of life. *Aqua divina* — divine water. *Aqua ardens* — burning water. *Soma* — the bright drop, the immortal drink of the Rigveda, pressed, filtered, golden. *Me-ê ḫayyātim* — water of life in Sumerian, what the kurgarra and galatur sprinkle on Inanna's body. *Amṛta* — the deathless, the nectar of the gods in the Vedic tradition. Across language, across continent, across millennium — the same description. The same substance. Anyone who has worked with the fermented and distilled prima materia knows this sensation immediately. The ammonia rising. The power of it. The shock of the first encounter. The divine waters that follow, their soft lunar cooling quality.
 
 The emphasis on the prima materia being *base* and *despised* before transformation is a perfect description of urine and a poor description of mercury. Mercury has never been despised. Mercury is beautiful, dramatic, and expensive. It does not need rehabilitation. But the sacred ordinary does. The despised substance that requires the courage of actually looking at what the body produces — that is the prima materia. That is the starting point of the work.
 
@@ -295,6 +403,8 @@ The ouroboros is the first thing every human body ever did.
 We were all born knowing how to do this. We were doing it before we had lungs to breathe or eyes to see.
 
 Amniotic fluid is mostly urine.
+
+Inanna descended into the dark chamber and was restored by the water of life. The fetus descends into exactly this — and is assembled from it. The myth is not a symbol of the biological process. The myth is a description of it. The story is that old because the body is that old.
 
 The most sacred water any human being has ever inhabited was always this water. The same pure beginning we all arrive here from.
 
