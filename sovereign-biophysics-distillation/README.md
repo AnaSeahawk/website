@@ -12,9 +12,10 @@ the history behind it, the method, the measurements, and what they mean.
 
 ## Reading Path
 
-The archive is organised to be read in sequence:
+The archive is organised to be read in sequence.
 
-**Orientation** — the historical lineage, the philosophical frame, the living context
+**Orientation** begins with the lineage and the suppression — who carried this knowledge and what was done to it — before moving into the myth as science, the external practice, and finally the empirical record. A new reader who begins with the thesis (the technical document) will not have the context to receive it. The data lands differently once the lineage is understood.
+
 **Method** — the practice itself: what is done and how it is approached
 **Experiments** — run records, measurements, outcomes
 **Analysis** — interpretive bridge between data and theory
@@ -26,13 +27,15 @@ The archive is organised to be read in sequence:
 
 ### Orientation
 
+*Read in sequence. Each piece prepares the ground for the next.*
+
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
-- [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the foundational argument
-- [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance
-- [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the sovereign vessel
-- [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — what was suppressed and what the body still carries
+- [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters
+- [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression, and what the body still carries
+- [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the myth as science: the sovereign vessel and the alchemical process in code
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
 - [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
+- [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented
 
 ### Method
 
