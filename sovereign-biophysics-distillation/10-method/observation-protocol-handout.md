@@ -103,7 +103,7 @@ You do not need instruments to practice. The body knows the difference. Instrume
 
 **What you notice over the following days** — appetite, sleep, skin, clarity, emotional tone. Not claims — observations.
 
-**Dreaming** — track this specifically. Dream frequency, vividness, and recall often shift noticeably in the days following a run. Lucid dreaming — the state in which you are aware you are dreaming while still inside the dream — has been one of the more consistent and striking enhancements reported in sustained practice. Note whether dreams feel different in quality: more coherent, more present, more available to memory on waking. Note if lucidity arises. This is not a side effect. It is information about the state of the nervous system and the quality of the material.
+**Dreaming** — track this specifically. In this practitioner's experience, dreaming has been one of the most striking areas of change — vividness, recall, and lucidity have all shifted with sustained practice. Whether this is consistent across practitioners is not yet known. Note what you notice: frequency, clarity, whether you are present inside the dream. This field is genuinely open. Your record here is original data.
 
 ---
 
@@ -113,13 +113,9 @@ A single run gives a reading. A month gives a pattern. A full year gives the ran
 
 Track what shifts with the lunar cycle. Track what shifts with the season. Track what correlates with diet, sleep, emotional weather. The pattern is the data the single run cannot give you.
 
-**Dreaming across time** — keep a separate dream record if you can. What changes is not just frequency or vividness but the relationship with the dream state itself. Dreams become more retrievable, more layered, more structured. Lucidity increases — not as a technique acquired, but as a state the nervous system begins to inhabit more naturally. Over months, the boundary between waking observation and dreaming observation begins to feel more continuous. The attentiveness the practice cultivates in waking life carries into sleep. Track this longitudinally — a single vivid night tells you something; six months of records tells you who you are becoming.
+**Dreaming across time** — keep a separate dream record if you can. In this practitioner's experience, the relationship with the dream state itself has shifted over years of practice — not just vivid nights but something more continuous, more available. Lucidity has deepened. Whether this is the practice, the diet, the combination, or something else entirely is genuinely unknown. No historical record we have found speaks to this directly — the women who would have documented it didn't get the chance. This is unmapped territory. Your record here is part of building the first map.
 
-**Meditation and contemplative practice** — if you sit, note what changes. Practitioners consistently report that the quality of stillness deepens over sustained practice: less effort to arrive at quiet, longer natural hold, thoughts passing with less grip. The inner electrical environment the practice is building appears to support meditative states rather than requiring them as a precondition. The body is being refined at a level below technique. What many practitioners spend years trying to produce through discipline begins to arise more naturally — not because the practice replaces contemplative work but because it prepares the ground for it.
-
-Note also what arises in the space that opens: what surfaces in stillness, what becomes visible when the inner environment is cleaner. Emotions that had no language, knowledge that arrives without apparent source, an orientation toward what matters that becomes quieter and more certain over time. These are not claims. They are the observations practitioners return to most often when asked what sustained practice actually changes.
-
-The body being refined is also the body that prays, that sits, that dreams, that listens. The practice does not separate from spiritual life. It moves through the same vessel.
+**Meditation and contemplative practice** — if this is part of your life, note what shifts. What is the quality of stillness? What arises in it? What is different after sustained practice from what was there before? There is no established finding here to reference — only the question, and your honest observation of what your own body and inner life are doing. Record it without conclusion. The conclusions, if they come, come later and from the accumulation.
 
 ---
 
