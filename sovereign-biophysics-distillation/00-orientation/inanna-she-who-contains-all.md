@@ -5,6 +5,8 @@ moon: 6° Libra
 moon-phase:
 type: foundation
 visibility: public
+status: reviewed
+claim_tier: interpretation
 ---
 
 # Inanna: She Who Contains All

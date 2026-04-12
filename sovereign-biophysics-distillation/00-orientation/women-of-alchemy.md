@@ -5,6 +5,8 @@ moon:
 moon-phase:
 type: foundation
 visibility: public
+status: reviewed
+claim_tier: interpretation
 ---
 
 # Women of Alchemy
@@ -185,6 +187,8 @@ What Aditi holds as cosmic container, what Varuna governs as the flowing order, 
 The Vedic tradition systematised what Inanna encoded as myth: the descent, the restoration, the living waters. Ayurveda — the medical science that grew from that root — is this knowledge organised into practice. *Rasa*, *ojas*, *āsava*, *agni*: the translation table in the sovereign biophysics work is Aditi's lineage put into a clinical vocabulary. The Ayurvedic column is not a parallel tradition running alongside the alchemical one. It is the same river in a different channel, both flowing from the same source.
 
 Alexandria — the city where Mary and Cleopatra worked — sat at the meeting point of these two rivers. The Vedic tradition was present in Alexandria through trade, through the philosophical exchange between India and the Hellenic world, through the presence of Indian merchants and physicians in the port. The Sumerian tradition was present through Egypt, through the mythological lineage from Inanna to Isis to the Greco-Egyptian goddesses the alchemists named their practices after. Mary the Jewess stood at the confluence. The apparatus she built was legible to both streams because it was describing something both streams already knew.
+
+*For the full biophysical reading of Inanna's descent — the womb, the sealed vessel, the Me in the plasma, the three days as cohobation — see [Inanna: She Who Contains All →](inanna-she-who-contains-all.md)*
 
 ---
 

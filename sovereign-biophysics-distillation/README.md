@@ -44,6 +44,7 @@ The archive is organised to be read in sequence.
 
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — orientations within the practice
 - [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — the alchemical vocabulary mapped to living practice
+- [Observation Protocol Handout](10-method/observation-protocol-handout.md) — field record template for a distillation run
 - [Presentation: The Living Waters](10-method/presentation-living-waters-v1.md) — sixty-minute practitioner presentation, draft V3
 
 ### Experiments

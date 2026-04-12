@@ -124,14 +124,20 @@ What you are doing is the work. The record you keep is the science.
 
 ## Supporting documents
 
+- [Where to Begin](../00-orientation/where-to-begin.md) — entry point and archive overview for new participants
+- [Women of Alchemy](../00-orientation/women-of-alchemy.md) — suppression history, the full lineage
+- [The Grief That Was Never Recorded](../00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression
+- [The Language of Erasure](../00-orientation/the-language-of-erasure.md) — how the vocabulary was replaced
+- [Inanna: She Who Contains All](../00-orientation/inanna-she-who-contains-all.md) — the myth as science, deep biophysical reading
+- [Two Distillates](../00-orientation/two-distillates.md) — ghee, plasma, and the external circuit
+- [The Distillery in the Field](../00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy
 - [Translation Map](sovereign-biophysics-translation-map.md) — full vocabulary with anatomical grounding
 - [Amaroli Protocols](amaroli-protocols.md) — observation sequence detail
-- [Women of Alchemy](../00-orientation/women-of-alchemy.md) — suppression history, Mary the Jewess lineage
-- [Thesis: Endogenous Alchemy](../00-orientation/thesis-endogenous-alchemy.md) — scientific framing
+- [Thesis: Endogenous Alchemy](../00-orientation/thesis-endogenous-alchemy.md) — the empirical record, one run documented in full
 
 ---
 
 *To be developed:*
 - [ ] Slide outline
 - [ ] Takeaway map (one-page leave-behind)
-- [ ] Observation protocol handout
+- [x] Observation protocol handout — [observation-protocol-handout.md](observation-protocol-handout.md)
