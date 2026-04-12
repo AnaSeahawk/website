@@ -56,6 +56,45 @@ Record each fraction separately.
 
 ---
 
+### What You Are Measuring
+
+**pH — acid/alkaline balance**
+The scale runs from 0 to 14. 7 is neutral — pure water. Below 7 is acidic. Above 7 is alkaline.
+
+Fresh plasma ultrafiltrate sits around pH 6–7: slightly acidic, physiological. After aging and distillation the solar fraction inverts dramatically — pH 9 to 10.5 is typical. The material has been chemically transformed by the fermentation: urea broken down by urease enzymes into ammonia, which is strongly alkaline. The number tells you the inversion has happened and how completely.
+
+The Saturn retentate goes the other way — acidic, pH 5–6 — because the alkaline fraction has risen and left behind the mineral salts. The solve et coagula in numbers: what was one thing is now two, each at opposite poles.
+
+**ORP — oxidation-reduction potential, measured in millivolts (mV)**
+ORP measures whether the fluid is an electron donor or electron receiver.
+
+A positive ORP (e.g. +77 mV) means the fluid will accept electrons from what it contacts — oxidising. Fresh plasma reads positive. Most tap water reads positive. Most commercial drinks read positive.
+
+A negative ORP (e.g. −30 to −200 mV) means the fluid donates electrons — reducing, antioxidant. The distilled solar fraction flips to negative after fermentation. This is the charge inversion the alchemists were describing when they spoke of the volatile spirit carrying fire: a measurable energetic surplus, the fluid arriving ready to give rather than take.
+
+The more negative the number, the higher the electron-donating capacity. This is what the tradition meant by voltage, by charge, by *Tejas* — the electrical fire made visible.
+
+**EC — electrical conductivity, measured in µS/cm or mS/cm**
+EC measures how well the fluid conducts electricity — which depends on what is dissolved in it. Pure distilled water conducts almost nothing. Mineral-rich fluid conducts well.
+
+The solar fraction conducts more than pure water because the ammonia compounds carry charge. The Saturn retentate conducts extremely well — sometimes 20–30 mS/cm — because it holds the full mineral density of what the body processed, concentrated into a small volume. This is the *Caput Mortuum* as a living substance: dense, rich, not dead at all.
+
+EC tells you about concentration and mineral content. Rising EC across distillation runs — as the diet becomes cleaner and the practice deepens — is one of the long-term patterns worth tracking.
+
+**TDS — total dissolved solids, measured in ppm (parts per million)**
+TDS is closely related to EC and measures the total mass of dissolved material in the fluid. High TDS means more is dissolved; low TDS means the fluid is clean and concentrated in the volatile sense rather than the mineral sense.
+
+The solar fraction has low TDS — it has shed its dissolved solids through distillation and carries primarily the volatile ammonia compounds. The Saturn retentate has very high TDS — all the non-volatile solids, concentrated. The gap between the two fractions is the solve in numbers: the separation of the volatile from the fixed made visible as a measurement.
+
+**Reading the numbers together**
+No single number tells the full story. A complete picture of a run looks like this: solar fraction with high pH (9.5+), negative ORP (−20 to −100+ mV), low TDS, moderate EC from the ammonia charge. Saturn retentate with low pH (5.5–6.5), positive ORP, very high TDS and EC from mineral density. The gap between them is the distillation working.
+
+Fresh control measured alongside gives you the baseline — what the body produced before the transformation — and makes the inversion visible by comparison.
+
+You do not need instruments to practice. The body knows the difference. Instruments confirm what the body is already registering and build the record over time.
+
+---
+
 ## After the Run
 
 **Phenomenological notes** — what the body registered during and after working with the material. Taste, sensation, any shifts in state. This is data.
