@@ -113,6 +113,14 @@ A single run gives a reading. A month gives a pattern. A full year gives the ran
 
 Track what shifts with the lunar cycle. Track what shifts with the season. Track what correlates with diet, sleep, emotional weather. The pattern is the data the single run cannot give you.
 
+**Dreaming across time** — keep a separate dream record if you can. What changes is not just frequency or vividness but the relationship with the dream state itself. Dreams become more retrievable, more layered, more structured. Lucidity increases — not as a technique acquired, but as a state the nervous system begins to inhabit more naturally. Over months, the boundary between waking observation and dreaming observation begins to feel more continuous. The attentiveness the practice cultivates in waking life carries into sleep. Track this longitudinally — a single vivid night tells you something; six months of records tells you who you are becoming.
+
+**Meditation and contemplative practice** — if you sit, note what changes. Practitioners consistently report that the quality of stillness deepens over sustained practice: less effort to arrive at quiet, longer natural hold, thoughts passing with less grip. The inner electrical environment the practice is building appears to support meditative states rather than requiring them as a precondition. The body is being refined at a level below technique. What many practitioners spend years trying to produce through discipline begins to arise more naturally — not because the practice replaces contemplative work but because it prepares the ground for it.
+
+Note also what arises in the space that opens: what surfaces in stillness, what becomes visible when the inner environment is cleaner. Emotions that had no language, knowledge that arrives without apparent source, an orientation toward what matters that becomes quieter and more certain over time. These are not claims. They are the observations practitioners return to most often when asked what sustained practice actually changes.
+
+The body being refined is also the body that prays, that sits, that dreams, that listens. The practice does not separate from spiritual life. It moves through the same vessel.
+
 ---
 
 *Personal record only. Not medical guidance. Each body is different.*
