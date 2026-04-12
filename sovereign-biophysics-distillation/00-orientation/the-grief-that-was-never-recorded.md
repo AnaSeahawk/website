@@ -283,4 +283,4 @@ That moment is Now.
 
 ---
 
-*Continue reading: [Inanna: She Who Contains All →](inanna-she-who-contains-all.md)*
+*Continue reading: [The Language of Erasure →](the-language-of-erasure.md)*
