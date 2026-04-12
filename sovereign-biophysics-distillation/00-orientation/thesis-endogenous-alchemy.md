@@ -161,3 +161,7 @@ To further bridge the gap between historical alchemy and empirical biophysics, t
 2. **Longitudinal Maturation Tracking:** The Saturn Retentate ("Plasma Lotion") is an actively evolving prebiotic sealant. Future studies will digitally track the pH, ORP, and conductivity of Fraction 3 over a continuous 30-day lunar cycle to map its biophysical maturation curve.
 3. **Botanical Transmutation (The *Anupana* Protocol):** 
 With this fraction now characterized in this dataset, the next phase of laboratory application is to test it as an extraction solvent for Ayurvedic botanicals. The hypothesis is exploratory and requires controlled validation.
+
+---
+
+*Continue reading: [A Year in the Practice →](a-year-in-the-practice.md)*

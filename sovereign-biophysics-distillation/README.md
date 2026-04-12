@@ -36,6 +36,7 @@ The archive is organised to be read in sequence.
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
 - [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
 - [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented
+- [A Year in the Practice](00-orientation/a-year-in-the-practice.md) — what a full year of observation reveals, and how the practice connects to the Living Year
 
 ### Method
 

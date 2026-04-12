@@ -112,3 +112,7 @@ Inanna's myth is a masterwork of sustained observation. The priests and priestes
 She is the Queen of Heaven because she governs the Philosophical Quicksilver that moves through us all — the cleansed biological code of life itself, animated in a high-voltage solar and lunar plasma, measured by conscious time, refined by the immovable gravity of her dark sister, and returned to the living system through the precise, irreversible logic of equivalent exchange.
 
 ***The Great Work was never metaphor. It was always the body.***
+
+---
+
+*Continue reading: [Two Distillates →](two-distillates.md)*

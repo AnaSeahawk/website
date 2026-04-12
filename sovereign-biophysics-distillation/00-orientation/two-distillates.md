@@ -105,3 +105,7 @@ The body that is running this recognises it not as a theory but as a state. The 
 *Personal observation. Offered as record, not instruction.*
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*Continue reading: [The Distillery in the Field →](the-distillery-in-the-field.md)*

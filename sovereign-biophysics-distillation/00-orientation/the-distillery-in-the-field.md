@@ -129,3 +129,7 @@ The cow in the field is still processing prima materia into panchagavya. The bod
 *Personal observation. Offered as record, not instruction.*
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*Continue reading: [Thesis: Endogenous Alchemy →](thesis-endogenous-alchemy.md)*

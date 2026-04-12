@@ -280,3 +280,7 @@ That moment is Now.
 ---
 
 *© Sovereign Biophysics — Ana Seahawk*
+
+---
+
+*Continue reading: [Inanna: She Who Contains All →](inanna-she-who-contains-all.md)*

@@ -437,3 +437,7 @@ that we remember ourselves again.
 *AnaSeahawk.com — mother-spirit.com*
 
 *Spring Equinox, 5920 AM — Torremolinos, Spain*
+
+---
+
+*Continue reading: [The Grief That Was Never Recorded →](the-grief-that-was-never-recorded.md)*

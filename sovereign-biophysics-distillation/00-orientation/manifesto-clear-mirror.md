@@ -68,3 +68,7 @@ The mirror is clear. The record is open. The second distillation begins.
 
 *Initiated: February 22, 2026 — The Year of the Clear Signal*
 *Ana Seahawk — anaseahawk.com*
+
+---
+
+*Continue reading: [Women of Alchemy →](women-of-alchemy.md)*
