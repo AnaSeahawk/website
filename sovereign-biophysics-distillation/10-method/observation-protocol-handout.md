@@ -15,6 +15,8 @@ format: one-page handout
 
 *A field record template. Nothing here is required. The body teaches itself.*
 
+*What you notice is original data.*
+
 ---
 
 ## Before the Run
@@ -103,7 +105,7 @@ You do not need instruments to practice. The body knows the difference. Instrume
 
 **What you notice over the following days** — appetite, sleep, skin, clarity, emotional tone. Not claims — observations.
 
-**Dreaming** — track this. Note frequency, vividness, recall, whether lucidity arises. No historical record addresses this dimension of the distillation practice — it is an open field. What you notice is original data.
+**Dreaming** — track this. Note frequency, vividness, recall, whether lucidity arises. No historical record addresses this dimension of the distillation practice — it is an open field.
 
 ---
 
