@@ -103,6 +103,8 @@ You do not need instruments to practice. The body knows the difference. Instrume
 
 **What you notice over the following days** — appetite, sleep, skin, clarity, emotional tone. Not claims — observations.
 
+**Dreaming** — track this specifically. Dream frequency, vividness, and recall often shift noticeably in the days following a run. Lucid dreaming — the state in which you are aware you are dreaming while still inside the dream — has been one of the more consistent and striking enhancements reported in sustained practice. Note whether dreams feel different in quality: more coherent, more present, more available to memory on waking. Note if lucidity arises. This is not a side effect. It is information about the state of the nervous system and the quality of the material.
+
 ---
 
 ## Over Time
