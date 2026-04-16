@@ -67,7 +67,7 @@ Double-distilled Lunar fraction used as eye drops. The cleanest available materi
 Gentle daily use. Facial cleansing, hair, skin. Lower activity than the Solar fraction; appropriate for regular contact.
 
 **Dietary nourishment**
-With sustained use of the Lunar fraction as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar fraction relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [The Amaroli Diet →](amaroli-diet.md) *(forthcoming)*
+With sustained use of the Lunar fraction as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar fraction relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [Ambrosia: Food of the Gods →](ambrosia.md)
 
 **Botanical infusion base**
 Combined with dried herbs at low simmer — triphala, ashwagandha, brahmi, cumin, fennel. The structured water carries the medicine differently from tap water. This is observational, not a clinical claim.
