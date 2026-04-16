@@ -60,8 +60,14 @@ The Lunar fraction is what most people would recognize as the distillate. It is 
 **Internal use**
 Drinking water, primary daily use. Used in cooking, coffee preparation, herbal infusions. In this practitioner's experience, the quality of this water as a culinary medium is noticeably different from tap or commercial water — how it extracts flavor, how it feels in the body.
 
+**Eye drops**
+Double-distilled Lunar fraction used as eye drops. The cleanest available material is appropriate here — double-distilled specifically, not the first pass. Observed to be immediately relieving after extended screen time or travel. In one documented instance, three applications over the course of several hours for an intense migraine-like headache — each application two to three hours apart. By the third application a sensation of penetration was noticed. Slept, woke refreshed. The headache had resolved. This is a single episode, one practitioner. It is in the record because the observation was striking and the protocol — repeated application at intervals — is specific enough to be worth noting.
+
 **Topical**
 Gentle daily use. Facial cleansing, hair, skin. Lower activity than the Solar fraction; appropriate for regular contact.
+
+**Dietary nourishment**
+With sustained use of the Lunar fraction as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar fraction relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [The Amaroli Diet →](amaroli-diet.md) *(forthcoming)*
 
 **Botanical infusion base**
 Combined with dried herbs at low simmer — triphala, ashwagandha, brahmi, cumin, fennel. The structured water carries the medicine differently from tap water. This is observational, not a clinical claim.

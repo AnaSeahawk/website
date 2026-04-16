@@ -44,6 +44,7 @@ The archive is organised to be read in sequence.
 
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — the raw and aged practice: what amaroli is, preparation (syphoning, filtering), applications, household and historical uses
 - [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, and Saturn as distinct substances: what each is and how each is worked
+- [The Amaroli Diet](10-method/amaroli-diet.md) — ghee, grain, and Lunar water: what the practice asks for when the circuit is running
 - [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — the alchemical vocabulary mapped to living practice
 - [Observation Protocol Handout](10-method/observation-protocol-handout.md) — field record template for a distillation run
 - [Presentation: The Living Waters](10-method/presentation-living-waters-v1.md) — sixty-minute practitioner presentation, draft V3
