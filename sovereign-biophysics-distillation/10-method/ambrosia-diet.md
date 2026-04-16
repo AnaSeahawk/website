@@ -126,6 +126,50 @@ This is the beginning of the record. Future entries will build on it.
 
 ---
 
+## Where to Begin — A Simple Preparation
+
+For those who want to try this directly: rice is the easiest starting point. Simple, fast to cook, universally available.
+
+**The base recipe:**
+
+- 1 part well-washed grain
+- 5 to 6 parts pure water — or milk if the body needs more sustaining energy, or for those working toward weight gain
+- 1 teaspoon of ghee per serving, added at the end
+
+Wash the grain thoroughly before cooking. Cook slowly until genuinely soft — not al dente, fully cooked. Add the ghee at the end, not during. That is the whole preparation.
+
+Rice is fastest and most accessible. For those working toward weight gain or needing more density, wheat berries cooked in milk with ghee will carry further — though they require longer preparation. The principle is the same: one grain, good fat, enough liquid, cooked well.
+
+Simplicity is the point. The body does not need elaboration. It needs what it can recognise.
+
+---
+
+## What Two People Are Observing
+
+This practice is being lived by two people. What is being observed is not a controlled study — it is two bodies, two histories, responding to the same diet and the same practice simultaneously.
+
+One body has always tended toward easy weight gain. The other has always struggled to hold weight. Both are finding the opposite of what they expected — not a convergence toward one body type, but a movement toward what each body needed. A calibration. As though the body, finally receiving what it actually required, is finding its own equilibrium rather than compensating for what was missing.
+
+This is two-person observation from a practice in its early months. It is named here because the pattern is striking enough to be worth recording. It is not a claim about what the diet does.
+
+---
+
+## The Wound Underneath the Hunger
+
+The grief piece in this archive documents what was taken at birth for an entire generation: the cord cut before it finished its work, the placenta removed, the living milk replaced with formula — the deep nourishment of the first days interrupted before it completed what it came to do. That piece is about collective loss. This one is about the return.
+
+Ghee and milk — warm, fat, grounding, feminine — reach something in the body that other food does not. Something older than preference. The quality of nourishment they carry is not only caloric. It is relational. The body that did not receive this at the beginning recognises it now and responds to it at a depth that is difficult to name and impossible to mistake.
+
+One of the two practitioners here never received breast milk. What this diet is doing for that body is not something that can be described without feeling the inadequacy of the words. It is being received as something that was always owed. Something the body had been waiting for without knowing it was waiting.
+
+The anger that some bodies carry — the unnamed restlessness, the irritability that lives under hunger and is not satisfied by food — quiets with this diet. Not suppressed. Genuinely settled. The body no longer at war with its own hunger because the hunger is finally being met at its actual level.
+
+This connects directly to what the grief piece names: the hunger that resulted — not only physical but relational, nervous, cellular — carried in the bodies of an entire generation. The longing for a quality of nourishment that goes beyond measurement.
+
+The Ambrosia diet is not the complete answer to that longing. But it is, in this practitioner's experience, the closest thing to it that food has ever been.
+
+---
+
 *Personal observation. Offered as record, not instruction.*
 
 *Ana Seahawk — Sovereign Biophysics*
