@@ -32,9 +32,13 @@ This is not a dietary programme. It is an observation: as the practice deepens, 
 
 The external distillate. The refined fat that penetrates to the deepest tissue, already recognised by the body as processed, already speaking its language. Ghee carries medicine. It carries flavour. It carries the quality of whatever was cooked in it into the tissue that receives it. In Ayurvedic understanding, ghee is the highest ojas-building substance in the materia medica — it nourishes at the subtlest level.
 
+The Rig-veda names it directly: *ghṛtasya nābhim amṛtasya dhāma* — "Ghee is the navel of immortality." The Caraka Samhita is equally direct: "If ojas is destroyed, all living beings perish." These are not metaphors. They are precise claims about what the body requires at its deepest register, made by practitioners who understood what that register was.
+
 Used generously in cooking. Added at the end of a dish. Present in every meal not as a condiment but as a structural element. The body that is running the internal distillation practice and receiving ghee simultaneously is being fed from both directions at once — the external distillate and the internal distillate meeting in the same body, completing the same circuit. This is the ojas meeting ojas described in [Two Distillates →](../00-orientation/two-distillates.md).
 
 **Well-cooked grains**
+
+The Taittiriya Upanishad states it in two directions: *"From anna arises the human being"* — and then, after a life's contemplation: *"He realised anna as Brahman."* The same substance that builds the body is, at the limit of understanding, the ground of being itself. Anna is the word. Usually translated as food. More precisely: grain, cooked food, that which sustains the body's form.
 
 The carbohydrate base of the diet. Rice, wheat berries, oats — cooked fully, cooked slowly, cooked until they are genuinely soft and digestible. Not undercooked for texture. Not raw or minimally processed. The Ayurvedic tradition is specific: grain must be properly cooked to be properly received. The body's digestive fire — *agni* — processes what has been prepared. Raw or undercooked grain asks the digestion to do work that heat could have done in the pot.
 
@@ -45,6 +49,16 @@ Wheat berries soaked in Solar fraction diluted in pure water before cooking have
 Used as the daily drinking water. In cooking, a small amount is combined with ghee to carry plant medicine — herbs held briefly in the ghee and Lunar water together before the grains and pure water are added. This is the medicine-carrying step, not the cooking water itself. The grains cook in pure water. The Lunar fraction enters at the point where it functions as an *anupana* — a carrier — not as bulk liquid.
 
 In this practitioner's experience, introducing the Lunar water as the primary drinking water has been one of the most significant shifts in the practice — the deep nourishment it produces quieting the restless appetite more completely than any dietary restriction had. The body stops reaching urgently because it is being met at the level it was reaching for.
+
+---
+
+## The Two Pillars and the Floor
+
+The Vedic framing, articulated in a companion study: the practice rests on two pillars and a floor.
+
+The first pillar is the Solar — amaroli, shivambu, the body's own endogenous substance returned. The internal distillate. The second pillar is the Lunar — ghee, the clarified fat, the external distillate refined to the same depth of nourishment. The floor beneath both pillars is anna: grain, cooked food, the substance that builds and sustains the body's form.
+
+The floor is not secondary. Without it the pillars stand in air. Anna is what carries the practice into the body's physical ground — the tissues, the weight, the sustained energy. The Ambrosian diet is not two things and a supplement. It is a three-part structure, each element load-bearing.
 
 ---
 
@@ -110,6 +124,8 @@ Strip the surrounding. What remains is simpler than expected and more sustaining
 
 The Ayurvedic tradition called this *mitāhāra* — moderate, measured eating. Not a caloric calculation. A quality of relationship with food: eating what the body needs, in the form the body can receive, at the time the body is ready. Mitāhāra is not sparseness from the outside. It is precision from the inside. The body self-regulating in real time, asking clearly rather than urgently.
 
+The Hatha Yoga Pradipika gives the quantity in anatomical terms: half the stomach with food, a quarter with water, and a quarter left free for air. A physical prescription that names presence as the fourth element — space left for the breath to move.
+
 The classical mitāhāra diet — grain, ghee, legumes, seasonal vegetables, herbs used as medicine rather than flavour — makes complete sense from inside a body running both distillation streams. It is what the body asks for when the circuit is closed. It was developed by practitioners who understood what the circuit was and built the diet around what the running circuit wanted.
 
 The Theravada Buddhist monastic tradition names ghee, fresh butter, oil, honey, and molasses as the *extra allowances* — the specific refined fats permitted alongside the basic monastic support. The same cluster of substances. The same understanding of what a body running the closed-loop practice needs from the outside to remain in its clearest state.
@@ -127,6 +143,8 @@ This is the beginning of the record. Future entries will build on it.
 ---
 
 ## Where to Begin — A Simple Preparation
+
+The Caraka Samhita describes grain gruel — rice cooked with water until soft — as "wholesome in all conditions." Not most conditions. All conditions. The clinical literature of Ayurveda, across thousands of pages of specificity about what to eat when and for whom, names this preparation as universally appropriate. That is a remarkable statement about a very simple thing.
 
 For those who want to try this directly: rice is the easiest starting point. Simple, fast to cook, universally available.
 
@@ -167,6 +185,14 @@ The anger that some bodies carry — the unnamed restlessness, the irritability 
 This connects directly to what the grief piece names: the hunger that resulted — not only physical but relational, nervous, cellular — carried in the bodies of an entire generation. The longing for a quality of nourishment that goes beyond measurement.
 
 The Ambrosia diet is not the complete answer to that longing. But it is, in this practitioner's experience, the closest thing to it that food has ever been.
+
+---
+
+---
+
+## A Note on Sources
+
+Several of the textual sources in this piece — the Rig-veda ghee verse, the Taittiriya Upanishad anna passages, the Caraka Samhita grain gruel reference, and the HYP mitahara measure — were identified and documented in a companion study by Olivier Goldragon, co-practitioner in this work. His document, *The Book of Sol: The Ambrosian Diet*, covers the textual lineage in more detail. What appears here is drawn from both his research and the lived practice we share.
 
 ---
 
