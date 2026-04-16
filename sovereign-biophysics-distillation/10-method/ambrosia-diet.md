@@ -9,7 +9,7 @@ status: draft
 claim_tier: practice
 ---
 
-# The Amaroli Diet
+# The Ambrosia Diet
 ## Ghee, Grain, and the Lunar Water
 
 ---
@@ -70,7 +70,7 @@ This is a practical observation from practice, not a formula. The body signals w
 
 ## The Sherpa Parallel
 
-The Sherpas and high-altitude porters of the Himalayas are among the most physically capable people documented in modern endurance research. They carry extraordinary loads — sometimes 30 to 40 kilograms — to extreme altitudes, sustained over days and weeks. What they eat is this: tsampa (roasted barley flour mixed with yak butter tea or water into a simple dough), butter tea (yak butter, fermented tea, salt, drunk throughout the day), and yak dairy products. Occasionally dried meat at lower altitudes. The diet is fat-forward, grain-based, minimal in complexity, and very easy to digest.
+The Sherpas and high-altitude porters of the Himalayas are among the most physically capable people documented in modern endurance research. They carry extraordinary loads — sometimes 30 to 40 kilograms — to extreme altitudes, sustained over days and weeks. What they eat is this: tsampa (roasted barley flour mixed with yak butter tea or water into a simple dough), butter tea (yak butter, fermented tea, drunk throughout the day), and yak dairy products. Occasionally dried meat at lower altitudes. The diet is fat-forward, grain-based, minimal in complexity, and very easy to digest.
 
 The output relative to the input is remarkable by any modern nutritional framework. A body fuelled on tsampa and butter tea doing what those bodies do should not be possible according to the logic of caloric complexity. But it is. And the observation that practitioners of this diet make — that the bowels remain free and light, that digestion is not burdened, that the body is deeply nourished without being heavily occupied — matches what is being observed here.
 
