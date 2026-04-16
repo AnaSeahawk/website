@@ -122,7 +122,7 @@ These orientations are named for completeness and are approached only with matur
 1. **Śivāmbhu Yoga** — breath and amaroli paired, emphasizing retention and release.
 2. **Sauna Application** — the practice extended into steam environments.
 3. **Extended Aging** — portions allowed to mature over longer periods, introducing deeper fermentation.
-4. **Sun Exposure** — the collected portion exposed to sunlight before use, integrating light and time.
+4. **Sun and Moon Exposure** — the collected portion exposed to sunlight or moonlight before use, integrating light and time. Solar exposure is activating; lunar exposure is quieter, more receptive. Both are legitimate orientations depending on what the practice is asking for.
 5. **Infused Fabrics** — cloth soaked in the collected portion worn, allowing prolonged contact.
 6. **Culinary Inclusion** — small amounts included in food or broths, without emphasis.
 7. **Spiritual Orientation** — the practice held within a wider contemplative life.
