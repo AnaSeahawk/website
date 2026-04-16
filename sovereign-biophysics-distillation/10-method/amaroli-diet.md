@@ -60,6 +60,52 @@ The answer the practice gives is worth discovering directly.
 
 ---
 
+## Milk Instead of Water
+
+On days of high activity, or the day before the body will be working hard, rice and oats cooked in milk rather than pure water — still with ghee. The milk replaces the cooking water entirely. The result is a richer, denser preparation that sustains differently from the same grain cooked in water. Not heavier in the sense of burdening digestion — the opposite. The nourishment goes deeper and holds longer.
+
+This is a practical observation from practice, not a formula. The body signals when it wants this preparation and when it does not.
+
+---
+
+## The Sherpa Parallel
+
+The Sherpas and high-altitude porters of the Himalayas are among the most physically capable people documented in modern endurance research. They carry extraordinary loads — sometimes 30 to 40 kilograms — to extreme altitudes, sustained over days and weeks. What they eat is this: tsampa (roasted barley flour mixed with yak butter tea or water into a simple dough), butter tea (yak butter, fermented tea, salt, drunk throughout the day), and yak dairy products. Occasionally dried meat at lower altitudes. The diet is fat-forward, grain-based, minimal in complexity, and very easy to digest.
+
+The output relative to the input is remarkable by any modern nutritional framework. A body fuelled on tsampa and butter tea doing what those bodies do should not be possible according to the logic of caloric complexity. But it is. And the observation that practitioners of this diet make — that the bowels remain free and light, that digestion is not burdened, that the body is deeply nourished without being heavily occupied — matches what is being observed here.
+
+The Sherpa diet and the amaroli diet are not the same practice. But they are recognising the same principle: the body fed on simple, well-prepared fat and grain, with nothing interfering with its own processing intelligence, performs at a level that complexity cannot explain and cannot replicate.
+
+*Note: this parallel is drawn from general knowledge of documented Sherpa diet and performance. Specific sourcing is not included here — this is a working observation, held as such.*
+
+---
+
+## Ambrosia
+
+The word has a history worth naming.
+
+In Greek mythology, ambrosia is the food of the gods — the substance that confers immortality on those who consume it. The word traces to the Greek *ambrotos*: immortal, deathless. *A-* (not) + *brotos* (mortal). The same root reaches into Sanskrit as *amṛta* — *a-* (not) + *mṛta* (dead). Amrita. The deathless substance. The immortal nectar.
+
+Amaroli comes from *amara* — the same root. Deathless. Immortal.
+
+The food of the gods and the practice of the deathless substance share an etymology. This may not be coincidence. The tradition that named the practice also named the diet it arrives at, and they gave both the same name because they understood they were pointing at the same thing: a quality of nourishment that does not burden, does not accumulate, does not occupy the body's intelligence in processing cost. It feeds at a deeper level than food usually reaches and leaves the body free.
+
+The Ambrosian diet is not a prescription or a programme. It is the name for what the body moves toward when the circuit is running. Simple grain, clarified fat, living water, plant medicine carried in ghee. The body nourished at depth, the bowels light, the energy available for what is not digestion.
+
+---
+
+## A Note on the Direction
+
+In this practitioner's experience — from a practice that began in February 2026 — the body is moving noticeably toward less. Not through restriction. Through a kind of sufficiency that was not there before. Stronger, more energy, a fraction of the intake. The comparison to before is genuinely difficult to make because the before feels like a different body.
+
+The direction this points — toward the body needing progressively less external input to sustain itself at a high level — is a direction some traditions have described as a destination. That destination is held here as a direction, not a claim. The record is too new to say more than: the body is moving this way, and the movement feels coherent with everything the practice is pointing toward.
+
+What gets in the way, when it does, is not appetite. It is everything else piled on top of the Ambrosian diet that buries it — the culinary complexity, the social eating, the food as entertainment and comfort and stimulus. People may be eating this way at the centre of their diet and not knowing it because it is surrounded by everything else, and the body is spending its available energy processing the surrounding rather than receiving the centre.
+
+Strip the surrounding. What remains is simpler than expected and more sustaining than expected.
+
+---
+
 ## The Older Framework
 
 The Ayurvedic tradition called this *mitāhāra* — moderate, measured eating. Not a caloric calculation. A quality of relationship with food: eating what the body needs, in the form the body can receive, at the time the body is ready. Mitāhāra is not sparseness from the outside. It is precision from the inside. The body self-regulating in real time, asking clearly rather than urgently.
