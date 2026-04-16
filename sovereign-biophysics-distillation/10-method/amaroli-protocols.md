@@ -124,7 +124,7 @@ These orientations are named for completeness and are approached only with matur
 3. **Extended Aging** — portions allowed to mature over longer periods, introducing deeper fermentation.
 4. **Sun and Moon Exposure** — the collected portion exposed to sunlight or moonlight before use, integrating light and time. Solar exposure is activating; lunar exposure is quieter, more receptive. Both are legitimate orientations depending on what the practice is asking for.
 5. **Infused Fabrics** — cloth soaked in the collected portion worn, allowing prolonged contact.
-6. **Culinary Inclusion** — small amounts included in food or broths, without emphasis.
+6. **Culinary Inclusion** — small amounts included in food or broths, without emphasis. Aged material diluted in pure water may also be used for washing or soaking grains, nuts, and seeds before cooking — the same preparatory step the Solar distillate is used for, here with aged rather than distilled material.
 7. **Spiritual Orientation** — the practice held within a wider contemplative life.
 
 ---
