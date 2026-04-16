@@ -42,7 +42,7 @@ Wheat berries soaked in Solar fraction diluted in pure water before cooking have
 
 **The Lunar water**
 
-Used as the daily drinking water and in all cooking. What the body is receiving as hydration is no longer mineral-laden tap water or neutral filtered water — it is structured, alkaline, electrochemically active. The water in the food, the water in the body, and the water the body is producing are increasingly from the same source. The closed loop extends into the kitchen.
+Used as the daily drinking water. In cooking, a small amount is combined with ghee to carry plant medicine — herbs held briefly in the ghee and Lunar water together before the grains and pure water are added. This is the medicine-carrying step, not the cooking water itself. The grains cook in pure water. The Lunar fraction enters at the point where it functions as an *anupana* — a carrier — not as bulk liquid.
 
 In this practitioner's experience, introducing the Lunar water as the primary drinking water has been one of the most significant shifts in the practice — the deep nourishment it produces quieting the restless appetite more completely than any dietary restriction had. The body stops reaching urgently because it is being met at the level it was reaching for.
 
