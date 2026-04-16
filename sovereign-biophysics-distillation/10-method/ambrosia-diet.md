@@ -74,7 +74,7 @@ The Sherpas and high-altitude porters of the Himalayas are among the most physic
 
 The output relative to the input is remarkable by any modern nutritional framework. A body fuelled on tsampa and butter tea doing what those bodies do should not be possible according to the logic of caloric complexity. But it is. And the observation that practitioners of this diet make — that the bowels remain free and light, that digestion is not burdened, that the body is deeply nourished without being heavily occupied — matches what is being observed here.
 
-The Sherpa diet and the amaroli diet are not the same practice. But they are recognising the same principle: the body fed on simple, well-prepared fat and grain, with nothing interfering with its own processing intelligence, performs at a level that complexity cannot explain and cannot replicate.
+The Sherpa diet and the Ambrosia diet are not the same practice. But they are recognising the same principle: the body fed on simple, well-prepared fat and grain, with nothing interfering with its own processing intelligence, performs at a level that complexity cannot explain and cannot replicate.
 
 *Note: this parallel is drawn from general knowledge of documented Sherpa diet and performance. Specific sourcing is not included here — this is a working observation, held as such.*
 
