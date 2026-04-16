@@ -44,10 +44,10 @@ May be taken in small amounts. The alkalinity is significant — approach with a
 Applied to skin, teeth, scalp. The activity is noticeable. Used in spot applications. May be diluted.
 
 **Botanical extraction**
-The high pH and conductivity make this fraction effective as an extraction medium for plant material. Alkaloids and medicinal compounds are pulled from plant matrix more aggressively than in neutral water. This is an area of active observation, not established protocol.
+The high pH and conductivity make this fraction effective as an extraction medium for plant material. Alkaloids and medicinal compounds are pulled from plant matrix more aggressively than in neutral water. In this practitioner's experience: small batches only — what would be consumed in a single serving. The plant material is added to the Solar fraction in a sealed container and left to soak for a few hours or overnight. The organic material is then filtered out. The resulting preparation is left open to the air, or covered with a cloth, to allow the ammonia to evaporate before consuming. This step matters — the ammonia needs to off-gas before the preparation is ready. This is an area of active observation, not established protocol.
 
-**Grain washing**
-Used in culinary preparation — washing grains before cooking. Observed to alter extraction behavior and flavor profile.
+**Grain washing and soaking**
+Used heavily diluted in pure water for washing and soaking grains before cooking. The Solar fraction is too active to use undiluted here — dilution is the practice. The effect observed is a softening of the grain: wheat berries in particular cook noticeably differently when soaked this way — more tender, the texture altered in a way that suggests the structure of the grain has been opened. This is single-practitioner observation.
 
 ---
 
