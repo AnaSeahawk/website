@@ -83,7 +83,7 @@ External orientations are understood as extensions of the same field. Fresh or a
 9. **Oral Rinse** — held or swished in the mouth before release.
 10. **Dental Application** — teeth brushed using the collected fluid as part of routine care.
 11. **Enema** — rectal use, approached with readiness and restraint.
-12. **Intimate Cleansing** — gentle cleansing of intimate areas, emphasizing continuity rather than correction.
+12. **Intimate Cleansing** — gentle cleansing of intimate areas. Only warm, fresh material is appropriate here — pleasant in taste and character, not aged or sharp. Emphasizing continuity rather than correction.
 13. **Compresses** — cloth soaked in the collected portion applied to areas of the body.
 14. **Spot Application** — the aged portion used in targeted ways for the skin.
 15. **Open Applications** — direct application for minor openings of the skin, according to readiness.
