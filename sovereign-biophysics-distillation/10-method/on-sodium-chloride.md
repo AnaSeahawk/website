@@ -13,7 +13,7 @@ claim_tier: personal-account
 
 It took me approximately two years to genuinely come off sodium chloride. Not two weeks. Not two months. Two years — with long gaps between exposures, with sincere commitment, with a body that was already moving in the direction of distillation and simplification. Two years before I felt what I would call recovered. I am writing this in April 2026, and it is only now, with access to the distilled Lunar fraction as daily drinking water, that the remaining pull has finally dissolved.
 
-I want to be precise about what I mean by "come off." I don't mean I stopped adding salt to food. I mean the body stopped requiring it as a scaffold for normal function. That is a different thing entirely, and the difference is why this takes so long.
+I want to be precise about what I mean by "come off." I don't mean I stopped adding sodium chloride to food. I mean the body stopped requiring it as a scaffold for normal function. That is a different thing entirely, and the difference is why this takes so long.
 
 ---
 
@@ -21,7 +21,7 @@ I want to be precise about what I mean by "come off." I don't mean I stopped add
 
 The agent is chloride. Not sodium — chloride. This distinction matters and is routinely obscured. Food labels list "sodium," which sounds like a mineral the body needs, and it does need sodium in various organic forms. But sodium bicarbonate and sodium citrate — other sodium salts — do not produce the same harm. The controlled substitution studies are clear on this: replace sodium chloride with sodium bicarbonate in equivalent amounts and the cardiovascular and renal damage does not occur. The chloride ion is the problem. Naming it "sodium" on labels keeps attention on the wrong element.
 
-Chloride is not food. It is not a nutrient in the sense that the body can assimilate and use it. It enters as an irritant and leaves as chloride — unchanged, unintegrated. Dr. G. J. Drew observed this plainly: *"Salt is ingested as salt and excreted as salt."* Justus von Liebig demonstrated the mechanism on flesh: salt strewn over fresh meat produces brine within 24 hours, no water added. The water came from the meat. That is what chloride does to living tissue.
+Chloride is not food. It is not a nutrient in the sense that the body can assimilate and use it. It enters as an irritant and leaves as chloride — unchanged, unintegrated. Dr. G. J. Drew observed this plainly: *"Sodium chloride is ingested as sodium chloride and excreted as sodium chloride."* Justus von Liebig demonstrated the mechanism on flesh: sodium chloride strewn over fresh meat produces brine within 24 hours, no water added. The water came from the meat. That is what chloride does to living tissue.
 
 At sufficient dose, this is undisputed. Excess chloride is a cardiovascular-renal toxicant with a clear dose-response relationship — proven across controlled trials, animal models, and population studies. The SSaSS trial (2021) replaced sodium chloride in 600 villages in China and found 14% fewer strokes, 13% fewer major cardiovascular events. The Yanomami of the Amazon have virtually no dietary chloride — blood pressure low across an entire lifespan, hypertension essentially absent. These are not alternative health claims. They are mainstream medicine's own data, pointing at the right substance for once.
 
@@ -37,7 +37,7 @@ Sodium chloride follows this pattern precisely.
 
 It irritates tissue. The body contracts and responds — producing a transient settling of agitation that the nervous system interprets as stability. Appetite learns this pattern. The relief was real, so it seeks the same relief again. Tolerance builds. More is required. The injury compounds while the compensation continues.
 
-The dopamine mechanism is real and documented — the same D2 receptor downregulation seen in cocaine and opioid dependency. The renin-angiotensin-aldosterone system adapts to high dietary sodium until the body can no longer regulate blood pressure, electrolyte balance, or neuroendocrine function without it. When you remove sodium chloride from a body that has been running on it since infancy, the kidneys, cardiovascular system, and nervous system have to rebuild regulatory capacity that was never asked to develop.
+The dopamine mechanism is real and documented — the same D2 receptor downregulation seen in cocaine and opioid dependency. The renin-angiotensin-aldosterone system adapts to high dietary chloride until the body can no longer regulate blood pressure, electrolyte balance, or neuroendocrine function without it. When you remove sodium chloride from a body that has been running on it since infancy, the kidneys, cardiovascular system, and nervous system have to rebuild regulatory capacity that was never asked to develop.
 
 Olivier writes it plainly: *"Spread across meals, chloride's toxicity is hidden by forced compensation. If the average two-day intake were consumed at once, collapse would be expected. The only difference between 'safe' and lethal exposure is distribution. A poison does not become nourishment because it is administered slowly."*
 
@@ -49,7 +49,7 @@ This is the dimension that makes it hardest.
 
 You cannot eat in a restaurant. You cannot eat at most family tables. You cannot eat the food your culture considers normal, healthy, or even virtuous — the home-cooked meal, the celebration dish, the grandmother's recipe. Sodium chloride is in all of it. Not as an additive but as a structural element, the thing that makes the food taste like food to a palate that has never known its absence.
 
-The social ostracism is real. I have sat at family tables where my plate was different from everyone else's and explained, again, that I don't eat salt — and felt the particular loneliness of a dietary decision that cannot be abbreviated or justified quickly, that sounds extreme to people for whom the substance is as natural as breathing.
+The social ostracism is real. I have sat at family tables where my plate was different from everyone else's and explained, again, that I don't eat sodium chloride — and felt the particular loneliness of a dietary decision that cannot be abbreviated or justified quickly, that sounds extreme to people for whom the substance is as natural as breathing.
 
 And I have caved. When I returned home to see my family, I ate to fit in — to feel part of something, to not be the difficult one at the table, to close the distance that the practice had opened between me and the people I love. The emotional pressure of that moment was stronger than the commitment. I don't judge that now. Belonging is a real need. The longing to be accepted at the table where you were first fed is not weakness — it is one of the oldest human hungers there is. What I notice is that it would be different now. The practice is more grounded, the body more certain of what it is doing. But in that earlier stage, the emotional scaffold was not yet strong enough to hold against the pull of the family table.
 
@@ -61,17 +61,17 @@ This is by design. The substance is in the earliest food a child receives at the
 
 The fasting gap is real and important to name.
 
-During extended fasting, the withdrawal does not announce itself clearly. The body is not eating, so the absence of salt is not felt as absence. When eating returns — this is when the full weight of what is missing becomes apparent. The body expected salt when food arrived. The food arrives without it and the body does not know what to do. The salivation is wrong. The appetite is confused. The palatability signals that were always calibrated to include sodium are suddenly calibrating to something else, and that recalibration is uncomfortable, long, and not linear.
+During extended fasting, the withdrawal does not announce itself clearly. The body is not eating, so the absence of chloride is not felt as absence. When eating returns — this is when the full weight of what is missing becomes apparent. The body expected sodium chloride when food arrived. The food arrives without it and the body does not know what to do. The salivation is wrong. The appetite is confused. The palatability signals that were always calibrated to include chloride are suddenly calibrating to something else, and that recalibration is uncomfortable, long, and not linear.
 
 There is fatigue. There is anhedonia — a flatness, a loss of pleasure in eating that feels like something is wrong. There is a period where food that should be satisfying is not, and the body interprets this as hunger and asks for more, and more doesn't help because more of the wrong thing is not the missing thing.
 
-This can last weeks. The full restoration of the RAAS system and the ENaC channels throughout the nervous system — the body rebuilding its own electrical scaffolding — takes months. My own experience suggests two years is not an exaggeration for a body that has had high dietary sodium since childhood.
+This can last weeks. The full restoration of the RAAS system and the ENaC channels throughout the nervous system — the body rebuilding its own electrical scaffolding — takes months. My own experience suggests two years is not an exaggeration for a body that has had high dietary chloride since childhood.
 
 ---
 
 ## What the Priests of Isis Knew
 
-The dietary restrictions of the temple priestesses of Isis — documented by Plutarch in the second century CE — included a strict prohibition on sodium chloride. Salt was named *the spume of Typhon* — the exudate of chaos and destruction. No salt on the table. No sea fish. No products of the sea.
+The dietary restrictions of the temple priestesses of Isis — documented by Plutarch in the second century CE — included a strict prohibition on sodium chloride. Chloride was named *the spume of Typhon* — the exudate of chaos and destruction. No sodium chloride on the table. No sea fish. No products of the sea.
 
 Reading this now, from the other side of the transition, the prohibition is not mystical. It is pharmacological. A body preparing for the work of endogenous distillation — producing the cleanest, most volatile, most bioavailable fluid — cannot be running on a substance that hardwires the organism to an external source of electrical charge.
 
@@ -87,13 +87,13 @@ Food began to taste differently. Not bland — differently. The actual flavour o
 
 The diet simplified. Not from discipline but from the body losing interest in complexity. The ambrosia diet — well-cooked grains, good ghee, clean water — was not an imposition. It was what the body asked for when it was no longer compensating for a chronic irritant.
 
-And the distilled Lunar fraction, as daily drinking water, finally resolved the remaining pull toward salt and sugar that I hadn't been able to fully dissolve before. Something about that water — its purity, its negative ORP, the way it meets the body's own chemistry — addressed whatever the sodium chloride had been silencing. I don't have a complete explanation. I have the observation.
+And the distilled Lunar fraction, as daily drinking water, finally resolved the remaining pull toward sodium chloride and sugar that I hadn't been able to fully dissolve before. Something about that water — its purity, its negative ORP, the way it meets the body's own chemistry — addressed whatever the sodium chloride had been silencing. I don't have a complete explanation. I have the observation.
 
 ---
 
 ## A Note on Sugar and Coffee
 
-Sugar and coffee are not this document's subject, but they belong in the same family and the trajectory is worth noting. Sugar followed salt in my practice — difficult, with a similar dopamine pattern, but easier once the sodium chloride scaffolding was already gone. Coffee followed that. These substances are not identical but they are kin — each suppressing something the body should be generating itself, each requiring the body to adapt compensation as baseline.
+Sugar and coffee are not this document's subject, but they belong in the same family and the trajectory is worth noting. Sugar followed chloride in my practice — difficult, with a similar dopamine pattern, but easier once the sodium chloride scaffolding was already gone. Coffee followed that. These substances are not identical but they are kin — each suppressing something the body should be generating itself, each requiring the body to adapt compensation as baseline.
 
 They are addressed separately. This piece is about sodium chloride because sodium chloride is the foundation. It was the first wall and the highest one.
 
@@ -103,7 +103,7 @@ They are addressed separately. This piece is about sodium chloride because sodiu
 
 Start slowly. The two-year timeline is not failure. It is physiology.
 
-Do not attempt to remove salt and sugar simultaneously if you can avoid it. The collapse of both dopamine scaffolds at once is a significant physiological event.
+Do not attempt to remove sodium chloride and sugar simultaneously if you can avoid it. The collapse of both dopamine scaffolds at once is a significant physiological event.
 
 Expect the fasting gap to be harder than the fast itself.
 
