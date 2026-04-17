@@ -1,6 +1,6 @@
 ---
 status: reviewed
-visibility: community
+visibility: public
 claim_tier: mixed
 ---
 

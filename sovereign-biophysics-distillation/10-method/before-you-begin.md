@@ -7,9 +7,11 @@ claim_tier: practice
 
 # Before You Begin
 
-This archive is a single-subject observational record. What is documented here is one practitioner's experience — in one body, with one dietary baseline, in one set of circumstances. It is offered as a map drawn from direct observation, not as a universal protocol.
+This archive is a single-subject observational record — one practitioner's experience, in one body, under one dietary baseline. It is offered as a map drawn from direct observation, not as a universal protocol.
 
-The most important thing to understand before working with distillation is that you are working with your own biology. The fluid carries the direct electrochemical imprint of your life — your diet, your environment, your current state. Two people following the same process will not produce the same result. This is not a flaw in the method. It is the method. What you distill is a precise portrait of where you are right now.
+The most important thing to understand before working with distillation is this: we are distilling different oceans.
+
+The fluid carries the direct electrochemical imprint of your life — your diet, your environment, your current state, your history. Two people following the same process will not produce the same result, and that is not a flaw. It is the nature of the material. What you distill is a precise and unrepeatable portrait of where you are right now. No one else's record can tell you what yours will show. This is why documentation matters — your observations are original data that belongs to no one else.
 
 ---
 
