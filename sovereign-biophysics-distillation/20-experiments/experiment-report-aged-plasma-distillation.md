@@ -1,6 +1,6 @@
 ---
 status: reviewed
-visibility: community
+visibility: public
 claim_tier: mixed
 ---
 
@@ -13,10 +13,6 @@ claim_tier: mixed
 
 *Note: For the purposes of this entry, "ultra-filtered blood plasma" will be referred to simply as "plasma" for ease of reading.*
 *Boundary note: single-subject observational record; not medical guidance.*
-
-## Private Lane Notice
-This page is in transition to the private vessel lane.
-The public archive will keep bounded summaries and selected metrics; full operational logs will be maintained privately.
 
 ### The Biological Baseline: A Four-Year Isopathic Closed Loop
 

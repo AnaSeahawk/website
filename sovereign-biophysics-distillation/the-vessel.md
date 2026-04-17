@@ -80,6 +80,24 @@ And in that moment I did not care what the numbers were going to show. I did not
 
 ---
 
+## February 22 — The Golden Syphon
+
+Before the vow, the preparation.
+
+The batch I would distill that day had been incubating since February 1st — Sun in Aquarius, Moon in Leo. Twenty-one days of gestation. Before I ran it through the distiller I spent time with it in a way that I wouldn't necessarily call ritual but that isn't quite the right word to avoid.
+
+I began with my own internal alignment — the same practice, the same lineage, meeting itself across the internal and external. Then I brought the fluid into the light: two days of direct sun exposure, kept warm through the night, returned to morning sun. The solar incubation.
+
+Then the syphon. Elevated, undisturbed, gravity doing the separation — heavier sediment sinking, the upper layer clarifying. The syphon lifts from the top. Only what is clear proceeds.
+
+And then the altar.
+
+Beneath the vessel I placed what I think of as the ancestral battery: a handmade gold bracelet from Yellowknife, gifted at twenty-one, carrying my father's lineage — pharmacist and goldsmith both, chemistry and noble metals in the same hands. A citrine teardrop in gold on silver. A 20-franc gold rooster coin. These objects are not decoration. They are memory made material — lineage as anchor while the heat does its work.
+
+Then distillation.
+
+The measurements and outcomes from that run are in the [experiment record](20-experiments/experiment-report-aged-plasma-distillation.md). What belongs here is the context in which they happened.
+
 ## February 22 — The Vow
 
 My own first formal distillation came four days later. On that morning I wrote what became the founding document of this archive: a vow to observe without bias, to record without inflation, to treat the body as the laboratory and the record simultaneously.
