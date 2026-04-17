@@ -56,7 +56,8 @@ The archive is organised to be read in sequence.
 
 ### Experiments
 
-- [Experiment Report: Aged Plasma Distillation](20-experiments/experiment-report-aged-plasma-distillation.md)
+- [Experiment Report: Olivier's First Distillation — Feb 18–19, 2026](20-experiments/experiment-report-aged-plasma-distillation.md)
+- [Experiment Report: Ana's First Distillation — Feb 22, 2026](20-experiments/experiment-report-ana-distillation-feb22.md)
 
 ### Analysis
 
