@@ -43,6 +43,7 @@ The archive is organised to be read in sequence.
 ### Method
 
 - [Before You Begin](10-method/before-you-begin.md) — practical notes on working with a home distiller: ventilation, fill levels, shutdown, fraction labelling
+- [On Sodium Chloride](10-method/on-sodium-chloride.md) — the single hardest dietary transition: what it is, why it takes years, and what is waiting on the other side
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — the raw and aged practice: what amaroli is, preparation (syphoning, filtering), applications, household and historical uses
 - [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, and Saturn as distinct substances: what each is and how each is worked
 - [The Ambrosia Diet](10-method/ambrosia-diet.md) — ghee, grain, and Lunar water: the food of the gods and what the practice asks for when the circuit is running
