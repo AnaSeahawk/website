@@ -55,6 +55,14 @@ And I have caved. When I returned home to see my family, I ate to fit in — to 
 
 This is by design. The substance is in the earliest food a child receives at the family table — the innocent bite, the spoonful from the same pot. The dependency is established before there is any capacity to evaluate it. By the time there is — if there ever is — the habit is decades old and entirely normalised by every social structure around eating.
 
+The pushback you will encounter when you try to remove sodium chloride is not really about sodium chloride. It is about everything sodium chloride is carrying. The celebration. The comfort. The memory of being fed. The grandmother's recipe. The dish left on the doorstep by a neighbour who wanted to welcome you. When you decline, people do not hear "I don't eat sodium chloride." They hear something closer to "I reject what you offered me." And in many cultures that is not a dietary choice — it is a social wound.
+
+I have sat and watched myself eat food I did not want because the alternative was to hurt someone who had offered it from genuine care. I have felt the trap of that moment acutely — the food on the doorstep, the plate set in front of me, the eyes watching to see if I would receive the gift. In those moments the pressure is not coming from anywhere you can argue with. It is coming from the oldest human contract: I feed you, therefore I love you, therefore if you refuse the food you refuse the love.
+
+This is the emotional weight on the substance. It is real and it is not small.
+
+If you are attempting this transition without the understanding of the people you live with and eat with, you will spend enormous energy managing this pressure on top of everything else the body is already navigating. Some people will come around. Some will not. It is worth being honest with yourself early about which relationships can hold this change and which ones will require you to find new company — not because those people are wrong, but because the practice needs a different container than most social environments currently provide.
+
 ---
 
 ## The Withdrawal Reality
