@@ -49,6 +49,10 @@ The archive is organised to be read in sequence.
 - [Observation Protocol Handout](10-method/observation-protocol-handout.md) — field record template for a distillation run
 - [Presentation: The Living Waters](10-method/presentation-living-waters-v1.md) — sixty-minute practitioner presentation, draft V3
 
+### The Living Record
+
+- [The Vessel](the-vessel.md) — the practitioner's account: fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos, Spain in February 2026
+
 ### Experiments
 
 - [Experiment Report: Aged Plasma Distillation](20-experiments/experiment-report-aged-plasma-distillation.md)

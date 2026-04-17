@@ -124,3 +124,7 @@ Track what shifts with the lunar cycle. Track what shifts with the season. Track
 *Personal record only. Not medical guidance. Each body is different.*
 
 *Ana Seahawk — Sovereign Biophysics — anaseahawk.com*
+
+---
+
+*To see what a practitioner's record looks like over months of real practice: [The Vessel →](../the-vessel.md)*
