@@ -51,6 +51,8 @@ You cannot eat in a restaurant. You cannot eat at most family tables. You cannot
 
 The social ostracism is real. I have sat at family tables where my plate was different from everyone else's and explained, again, that I don't eat salt — and felt the particular loneliness of a dietary decision that cannot be abbreviated or justified quickly, that sounds extreme to people for whom the substance is as natural as breathing.
 
+And I have caved. When I returned home to see my family, I ate to fit in — to feel part of something, to not be the difficult one at the table, to close the distance that the practice had opened between me and the people I love. The emotional pressure of that moment was stronger than the commitment. I don't judge that now. Belonging is a real need. The longing to be accepted at the table where you were first fed is not weakness — it is one of the oldest human hungers there is. What I notice is that it would be different now. The practice is more grounded, the body more certain of what it is doing. But in that earlier stage, the emotional scaffold was not yet strong enough to hold against the pull of the family table.
+
 This is by design. The substance is in the earliest food a child receives at the family table — the innocent bite, the spoonful from the same pot. The dependency is established before there is any capacity to evaluate it. By the time there is — if there ever is — the habit is decades old and entirely normalised by every social structure around eating.
 
 ---
