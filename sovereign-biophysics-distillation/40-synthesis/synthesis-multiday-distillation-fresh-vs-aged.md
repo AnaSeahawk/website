@@ -164,13 +164,15 @@ In personal sensory notes, using this water in coffee preparation was associated
 
 ***
 
-### Future Integration: The Beloeil Control Group
+### Future Integration: Two Waiting Batches
 
-With the pure, zero-resistance Torremolinos dietary baseline successfully mapped and its liquid crystal isolated at 0 MV, the next phase of empirical validation requires a controlled contrast. 
+Two significant contrast runs are waiting — each under a different baseline, each in a different country.
 
-Currently gestating in Beloeil, Quebec, is a deeply aged batch of endogenous fluid produced under a distinctly different physiological baseline. This specific harvest captures a transitional dietary period containing residual sodium chloride and occasional sulfur (egg) consumption. 
+**Beloeil, Quebec.** A deeply aged batch has been gestating since before the Torremolinos period, produced during a transitional dietary phase that still included residual sodium chloride and occasional sulfur. Return timing is uncertain as of April 2026, but the batch continues aging. When the run happens, it will serve as a direct dietary contrast against the zero-sodium, low-sulfur Torremolinos baseline — side-by-side comparison of electrochemical resistance, volatile behaviour, and retentate salinity under measurably different inputs.
 
-Upon returning to Beloeil to collect and process this batch, it will be distilled and logged as a comparative control case. The goal is side-by-side comparison of electrochemical resistance, volatile behavior, and retentate salinity under different dietary baselines.
+**Torremolinos, Spain.** Approximately 60 litres currently in storage, produced during and after the period documented in this synthesis — the same clean dietary baseline, continued practice, continued accumulation. This is the largest single reserve in the archive and represents months of distillation work waiting to happen. Upon return to Spain, this will be the primary run series.
+
+Both batches are noted here as open experimental threads, not conclusions.
 
 ***
 
