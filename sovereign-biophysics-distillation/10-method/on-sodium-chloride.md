@@ -5,7 +5,7 @@ visibility: public
 claim_tier: personal-account
 ---
 
-# On Sodium Chloride
+# On Sodium Chloride — On Chloride
 
 *This is the piece nobody prepares you for.*
 
@@ -19,11 +19,13 @@ I want to be precise about what I mean by "come off." I don't mean I stopped add
 
 ## What It Actually Is
 
-Sodium chloride is not food. It is not a nutrient in the sense that the body can assimilate and use it. It enters as an irritant and leaves as salt — unchanged, unintegrated. Dr. G. J. Drew observed this plainly: *"Salt is ingested as salt and excreted as salt."* Justus von Liebig demonstrated the mechanism on flesh: salt strewn over fresh meat produces brine within 24 hours, no water added. The water came from the meat. That is what it does to living tissue.
+The agent is chloride. Not sodium — chloride. This distinction matters and is routinely obscured. Food labels list "sodium," which sounds like a mineral the body needs, and it does need sodium in various organic forms. But sodium bicarbonate and sodium citrate — other sodium salts — do not produce the same harm. The controlled substitution studies are clear on this: replace sodium chloride with sodium bicarbonate in equivalent amounts and the cardiovascular and renal damage does not occur. The chloride ion is the problem. Naming it "sodium" on labels keeps attention on the wrong element.
 
-At sufficient dose, this is undisputed. Excess sodium chloride is a cardiovascular-renal toxicant with a clear dose-response relationship — proven across controlled trials, animal models, and population studies. The SSaSS trial (2021) removed sodium chloride from 600 villages in China and found 14% fewer strokes, 13% fewer major cardiovascular events. The only variable was the chloride. The Yanomami of the Amazon have virtually no dietary sodium — blood pressure low across an entire lifespan, hypertension essentially absent. These are not alternative health claims. They are mainstream medicine's own data.
+Chloride is not food. It is not a nutrient in the sense that the body can assimilate and use it. It enters as an irritant and leaves as chloride — unchanged, unintegrated. Dr. G. J. Drew observed this plainly: *"Salt is ingested as salt and excreted as salt."* Justus von Liebig demonstrated the mechanism on flesh: salt strewn over fresh meat produces brine within 24 hours, no water added. The water came from the meat. That is what chloride does to living tissue.
 
-What mainstream medicine does not discuss is the lower end of the dose-response curve — what happens when you are not consuming enough to cause measurable cardiovascular damage, but still consuming enough to outsource your body's electrical regulation to an external substance. That is the question this archive is concerned with.
+At sufficient dose, this is undisputed. Excess chloride is a cardiovascular-renal toxicant with a clear dose-response relationship — proven across controlled trials, animal models, and population studies. The SSaSS trial (2021) replaced sodium chloride in 600 villages in China and found 14% fewer strokes, 13% fewer major cardiovascular events. The Yanomami of the Amazon have virtually no dietary chloride — blood pressure low across an entire lifespan, hypertension essentially absent. These are not alternative health claims. They are mainstream medicine's own data, pointing at the right substance for once.
+
+What mainstream medicine does not discuss is the lower end of the dose-response curve — what happens when you are not consuming enough chloride to cause measurable cardiovascular damage, but still consuming enough to outsource your body's electrical regulation to an external substance. That is the question this archive is concerned with.
 
 ---
 
