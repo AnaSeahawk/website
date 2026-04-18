@@ -116,7 +116,7 @@ The diet simplified. This is not discipline — it was not an effort. The desire
 
 The body became more sensitive to external chemical input. I could smell processed food at a distance and feel the response in my gum tissue — not an idea about it, a physical sensation. This sensitivity is information. I treat it as a reading of what the body actually tolerates rather than as a problem to be managed.
 
-The dreaming in Spain was extraordinary. This is the dimension I am most careful about claiming, because it is the most subjective and the most easily inflated. What I will say plainly: the quality of sleep changed register. The dreaming became more coherent, more architecturally complex, more available to waking recall. I had a rebirthing experience in dream that I have written about elsewhere in this archive. It belongs to the record. I include it because it is honest — it happened and it seemed connected to the practice and I do not know more than that.
+The dreaming in Spain was extraordinary. This is the dimension I am most careful about claiming, because it is the most subjective and the most easily inflated. What I will say plainly: the quality of sleep changed register. The dreaming became more coherent, more architecturally complex, more available to waking recall. I had a rebirthing experience in dream during this period — vivid, architectural, arriving with the force of something that needed to be recorded. That record is coming. It belongs to the record. I include it because it is honest — it happened and it seemed connected to the practice and I do not know more than that.
 
 The eyes responded to the double-distilled Lunar fraction. I use it as eye drops, particularly after screen time and on days of travel. One episode — a severe migraine, the kind I have had rarely in the past — resolved through three applications over several hours. By the third application something shifted. I slept and woke free of it. I note this as a single documented episode. I do not know what it means beyond what it was.
 
@@ -167,5 +167,7 @@ This archive is my form.
 ---
 
 *The raw distillation records — measurements, dates, observations — are held in the original field notes. The protocols and methods derived from this practice are documented in the [Method →](10-method/) section of this archive. The historical lineage this practice belongs to is in the [Orientation →](00-orientation/) sequence.*
+
+*To book time with me directly — for conversation, not content — visit [cal.com/anaseahawk](https://cal.com/anaseahawk).*
 
 *Ana Seahawk — Sarandë, Albania — April 2026*
