@@ -17,6 +17,20 @@ I want to be precise about what I mean by "come off." I don't mean I stopped add
 
 ---
 
+## How It Begins
+
+Commercial infant food — the jarred and pouched products sold specifically for babies — is legally prohibited from containing added sodium chloride in the EU and restricted under strict guidelines in the UK. The regulatory reasoning is straightforward: the developing body is being calibrated during this window, and early chloride exposure shapes sodium appetite trajectories that persist into adulthood. The taste preference for sodium chloride develops between two and six months of age. Whatever the palate learns to expect in that period, it continues to seek.
+
+The regulation exists. The logic is sound. And then a toddler sits at the family table and someone mashes a bit of food off their plate and hands it across.
+
+This is how it actually begins for most children — not from a jar but from the family meal. The jar food is chloride-free because the law requires it. The food on the plate beside it is not, because no law governs that moment. The transition happens naturally, invisibly, in the most ordinary act of care: a parent sharing their food with their child. The intention is love. The substance arrives anyway.
+
+By the time a child is old enough to have a preference, the preference is already formed. By the time they are old enough to question it, it has been reinforced at every meal, in every social setting, across every culture they have been part of. The dependency is decades old before anyone thinks to examine it.
+
+This is not blame. The people who fed us this way were fed the same way themselves. But it is worth understanding clearly: the body that arrives at this practice as an adult has been running on chloride since before it had language. The two-year timeline is not slow. It is the time required to undo something that old.
+
+---
+
 ## What It Actually Is
 
 The agent is chloride. Not sodium — chloride. This distinction matters and is routinely obscured. Food labels list "sodium," which sounds like a mineral the body needs, and it does need sodium in various organic forms. But sodium bicarbonate and sodium citrate — other sodium salts — do not produce the same harm. The controlled substitution studies are clear on this: replace sodium chloride with sodium bicarbonate in equivalent amounts and the cardiovascular and renal damage does not occur. The chloride ion is the problem. Naming it "sodium" on labels keeps attention on the wrong element.
