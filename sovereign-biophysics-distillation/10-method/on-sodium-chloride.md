@@ -45,6 +45,12 @@ What mainstream medicine does not discuss is the lower end of the dose-response 
 
 ## The Narcotic Pattern
 
+The experience of trying to remove sodium chloride sent me into a deeper investigation than I expected. I found myself reading addiction literature — including Alcoholics Anonymous material — not because I thought of myself as an addict in the conventional sense, but because the pattern I was encountering in my own body matched what that literature described precisely. The craving that arrived with food. The relief that followed giving in. The rationalisation. The social permission — everyone around me was consuming the same substance so how could it be a problem. The shame of the struggle itself.
+
+The AA framework offered something the nutritional literature did not: an honest account of what it feels like from the inside to be dependent on a substance that your culture regards as harmless. That recognition was useful.
+
+One irony that emerged from this investigation: the vegan diet — defined by its refusal of animal products on ethical grounds, a diet often associated with consciousness and care — freely includes sodium chloride. Packaged vegan food is frequently among the most heavily chloride-loaded food available. The ethical scrutiny that extends to every animal-derived ingredient does not reach the inorganic mineral that has no biological home in the living body. This is not a criticism of veganism. It is an observation about how completely normalised this substance is — that even a diet built on questioning assumptions does not question this one.
+
 A narcotic is defined not by intoxication but by suppression. It dulls sensation, masks imbalance, creates dependence through relief that conceals injury.
 
 Sodium chloride follows this pattern precisely.
