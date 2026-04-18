@@ -19,7 +19,7 @@ I want to be precise about what I mean by "come off." I don't mean I stopped add
 
 ## How It Begins
 
-Commercial infant food — the jarred and pouched products sold specifically for babies — is legally prohibited from containing added sodium chloride in the EU and restricted under strict guidelines in the UK. The regulatory reasoning is straightforward: the developing body is being calibrated during this window, and early chloride exposure shapes sodium appetite trajectories that persist into adulthood. The taste preference for sodium chloride develops between two and six months of age. Whatever the palate learns to expect in that period, it continues to seek.
+Commercial infant food — the jarred and pouched products sold specifically for babies — is legally prohibited from containing added sodium chloride in the EU and restricted under strict guidelines in the UK. The regulatory reasoning is straightforward: the developing body is being calibrated during this window, and early chloride exposure shapes chloride appetite trajectories that persist into adulthood. The taste preference for sodium chloride develops between two and six months of age. Whatever the palate learns to expect in that period, it continues to seek.
 
 The regulation exists. The logic is sound. And then a toddler sits at the family table and someone mashes a bit of food off their plate and hands it across.
 
