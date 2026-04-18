@@ -152,7 +152,7 @@ For those who want to try this directly: rice is the easiest starting point. Sim
 
 - 1 part well-washed grain
 - 5 to 6 parts pure water — or milk if the body needs more sustaining energy, or for those working toward weight gain
-- 1 teaspoon of ghee per serving, added at the end
+- 1 teaspoon of ghee per serving, added at the end — this is a minimum; add more freely
 
 Wash the grain thoroughly before cooking. Cook slowly until genuinely soft — not al dente, fully cooked. Add the ghee at the end, not during. That is the whole preparation.
 

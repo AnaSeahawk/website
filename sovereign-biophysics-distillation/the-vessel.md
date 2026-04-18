@@ -12,7 +12,7 @@ claim_tier: personal-account
 
 ---
 
-I am writing this from a small apartment in Albania, looking out toward the Ionian Sea. Three months ago I was in Spain. Before that, Montenegro. Before that, Canada. Before that, Latin America, and before that, Asia. Fourteen years of motion. My partner and I carry what we need. A laptop. A camera. A microphone. A countertop water distiller that cost less than a week's rent and has changed everything.
+I am writing this from a small apartment in Albania, looking out toward the Ionian Sea. We arrived here on the 14th of April — four days ago I was still in Spain. Before that, Montenegro. Before that, Canada. Before that, Latin America, and before that, Asia. Fourteen years of motion. My partner and I carry what we need. A laptop. A camera. A microphone. A countertop water distiller that cost less than a week's rent and has changed everything.
 
 This is not the place for the theory. The theory is in the archive. This is the place where I tell you what actually happened — in a real body, in real time, in a rented apartment in Torremolinos, Spain, looking out over the Mediterranean that the priests of Isis called the spume of Typhon and refused to touch.
 
@@ -20,7 +20,7 @@ This is not the place for the theory. The theory is in the archive. This is the 
 
 ## Fourteen Years
 
-We left Canada in 2012. Both of us. No permanent address, no fixed country, no plan beyond the next place. Mostly Asia in the early years — Thailand, Malaysia, Bali, Vietnam, back and forth. The kind of life that strips away what you thought you needed and leaves you with a clearer picture of what actually matters.
+We left Canada in 2012. Both of us. No permanent address, no fixed country, no plan beyond the next place. Mostly Asia in the early years — Thailand, Malaysia, Bali, Vietnam, China, back and forth. The kind of life that strips away what you thought you needed and leaves you with a clearer picture of what actually matters.
 
 What actually matters is very simple. Health. Attention. The quality of what you put in your body and the quality of what your body produces from it. Everything else is furniture.
 
