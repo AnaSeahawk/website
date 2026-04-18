@@ -11,45 +11,36 @@ visibility: public
 
 This is the threshold.
 
-On the other side of the public archive, there is a vessel.
-It holds the work that cannot be left in the open —
-not because it is dangerous,
-but because it is alive,
-and living research deserves a protected container.
+The archive is open. The record is public.
+What lives beyond the writing is contact —
+with the work, with the practice, with the person behind it.
 
 ---
 
-## What lives in the vessel
+## One on one
 
-Ongoing distillation records and sovereign biophysics documentation.
-Astrological field notes and inner alchemy journals.
-The raw, current, unfinished truth of a practice in motion.
+If something in the archive has moved you,
+or you are working with something and want to think it through —
+book a call.
 
-This material is not a course.
-It is not a programme with outcomes.
+This is not a consultation in the clinical sense.
+It is a conversation between people who take the body seriously.
 
-It is a living archive, shared with those
-who choose to fund the work that generates it.
-
----
-
-## Who this is for
-
-Those who have moved through the public work
-and feel something pulling them deeper.
-
-Those who understand that record-keeping is devotion —
-and want to be part of sustaining it.
+**[cal.com/anaseahawk](https://cal.com/anaseahawk)**
 
 ---
 
-## How to enter
+## Community
 
-Entry is by relationship.
+Mother Spirit is the ongoing gathering —
+people sharing practice, observation, and company
+while this work continues to unfold.
 
-Read the work. Sit with it.
-If something in you recognises it, reach out.
+For now it lives on Telegram.
 
-**anaseahawk.com**
+**[Join Mother Spirit](https://t.me/+Mu1S-BHUelMxZDZh)**
 
-We will find the right form of exchange from there.
+---
+
+The work is shared freely.
+The time is not — but it is available.
