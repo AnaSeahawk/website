@@ -112,7 +112,7 @@ This is still the operating principle. Everything in this archive is accountable
 
 I am not going to make a list of effects and call it a protocol. The archive has protocols. What I can offer here is more specific and more personal: what I have actually noticed in my own body, in the months since February, framed exactly as what it is — one practitioner's account, four years into the amaroli practice, three months into working with the distilled fractions.
 
-The diet simplified. This is not discipline — it was not an effort. The desire for complexity fell away. The ambrosia diet, as I now call it, emerged naturally: well-cooked grains, good ghee, clean water. The Lunar fraction — the clear distillate — became my daily drinking water. I started feeling nourished at a level I don't have adequate language for. Not full. Not satisfied. Nourished. The distinction matters.
+The diet simplified. This is not discipline — it was not an effort. The desire for complexity fell away. The ambrosia diet, as I now call it, emerged naturally: well-cooked grains, good ghee, clean water. The Lunar fraction — the clear distillate — became my daily drinking water. I started feeling nourished and grounded at a level I don't have adequate language for. Not full. Not satisfied. Nourished. Grounded. The distinction matters.
 
 The body became more sensitive to external chemical input. I could smell processed food at a distance and feel the response in my gum tissue — not an idea about it, a physical sensation. This sensitivity is information. I treat it as a reading of what the body actually tolerates rather than as a problem to be managed.
 
@@ -138,7 +138,7 @@ The grief piece in this archive is about the erasure of women's knowledge from t
 
 ## Albania, April 2026
 
-The practice continues here. The distiller runs. The archive grows. Fiona, a researcher in the community, has her own distiller and we have our first conversation scheduled for Saturday. Megan has just received hers. Others in the private community on Telegram have been working with the raw practice for longer. The network is small and real and building.
+The practice continues here. The distiller runs. The archive grows. Others in the community are working with their own distillers now. Some have been with the raw practice longer than the distillation. The network is small and real and building.
 
 The electric countertop distiller auto-shuts at approximately 100°C. This is — I was pleased to realise — exactly within the biological distillation range documented in the apparatus section of this archive. It is not a compromise. It is calibrated. It is also accessible: no glass laboratory equipment required, no specialist knowledge, no infrastructure. A rental kitchen and a countertop appliance. This was the condition I was working in and it produced what you see documented in the archive.
 
