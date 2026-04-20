@@ -1,7 +1,7 @@
 ---
 date: 2026-04-20
 type: orientation
-status: draft
+status: approved
 visibility: public
 claim_tier: synthesis
 ---
@@ -36,7 +36,7 @@ These experiments would have failed entirely with a monastic baseline. There wou
 
 ## The Modern Baseline
 
-The 17th-century pub patron consumed a heavy, acidic diet. But those inputs were at least biologically recognisable — organic materials the human system had evolved to process.
+The 17th-century pub patron consumed a heavy, acidic diet. But those inputs were at least biologically recognisable — organic materials the human system had evolved to process. With one exception: sodium chloride. NaCl is not organic. It is a mined rock. The body does not recognise it as food — it deals with it, which is a different thing entirely. That distinction matters, and it was already embedded in the pub baseline long before the modern food system made it universal.
 
 The contemporary standard baseline introduces something different: compounds with no evolutionary precedent. Synthetic emulsifiers, petroleum-derived dyes, pharmaceutical residues from conventional agriculture, microplastics from packaging. The body has no established pathway for processing these. They accumulate. They create what Ayurvedic medicine calls *Ama* — dense, sticky, stagnant metabolic residue that the system cannot fully clear.
 
@@ -58,7 +58,7 @@ The logic is consistent across traditions:
 
 **Chinese medical alchemy** maps an equivalent process: the three treasures — *Jing* (essence), *Qi* (vital force), *Shen* (spirit) — in a sequence of progressive refinement. *Jing hua Qi, Qi hua Shen*: essence transforms into vital force, vital force transforms into spirit. The foundational premise is that the quality of *Jing* — the densest, most material of the three — determines what the entire refinement sequence can produce. Jerry Alan Johnson's *Chinese Medical Qigong* (five volumes, Vol. 2: *Energetic Alchemy*) documents this system in full technical detail, mapping the alchemical operations that prepare the internal environment for this transformation.
 
-**Hermetic alchemy** uses different language for the same structure: *tria prima* — Mercury (volatile, first cut), Sulfur (the middle nature), Salt (the fixed, enduring base). The preparation of the prima materia — the raw substance before distillation — is understood as the critical work. You cannot refine what has not been prepared.
+**Hermetic alchemy** uses different language for the same structure: *tria prima* — Solar Sulfur (Spirit, the volatile first cut), Lunar Mercury (Essence, the middle nature), Saturn Salt (Matrix, the fixed enduring base). The preparation of the prima materia — the raw substance before distillation — is understood as the critical work. ***You cannot refine what has not been prepared.***
 
 ---
 
@@ -76,7 +76,7 @@ This is the mechanism behind the ancient claim. The Universal Medicine is not ma
 
 Run the process on an unprepared baseline and you learn what the body has been carrying. Run it on a prepared baseline and you learn what the body can produce when that burden is removed.
 
-Both are information. Neither is wrong to observe. But only one of them is preparing the Universal Medicine.
+Both are information. Neither is wrong to observe. But only one of them is preparing the ***Universal Medicine.***
 
 The year of dietary and practice preparation that precedes serious distillation work is not waiting. It is the first, slowest phase of the process — the rectification happening at the level of food and time, before the heat is ever applied.
 
