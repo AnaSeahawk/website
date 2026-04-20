@@ -164,15 +164,17 @@ In personal sensory notes, using this water in coffee preparation was associated
 
 ***
 
-### Future Integration: Two Waiting Batches
+### Future Integration: Three Contrast Baselines
 
-Two significant contrast runs are waiting — each under a different baseline, each in a different country.
+Three significant batches are now waiting — each produced under a distinct dietary baseline, each representing a different chapter of the practice.
 
-**Beloeil, Quebec.** A deeply aged batch has been gestating since before the Torremolinos period, produced during a transitional dietary phase that still included residual sodium chloride and occasional sulfur. Return timing is uncertain as of April 2026, but the batch continues aging. When the run happens, it will serve as a direct dietary contrast against the zero-sodium, low-sulfur Torremolinos baseline — side-by-side comparison of electrochemical resistance, volatile behaviour, and retentate salinity under measurably different inputs.
+**Torremolinos, Spain.** Approximately 60 litres in storage, produced during the period documented in this synthesis — zero sodium chloride, low sulfur, with daily coffee and non-psychoactive CBD as part of the baseline architecture. Both coffee and CBD were discontinued before departure from Spain and have not resumed. This batch therefore carries the signature of that specific period: cleaner than Beloeil, but distinct from the post-coffee, post-CBD baseline that follows. Return to Spain is planned, and is expected before Quebec. That run series will produce a direct before/after comparison — same practitioner, same storage location, measurably reduced volatile load.
 
-**Torremolinos, Spain.** Approximately 60 litres currently in storage, produced during and after the period documented in this synthesis — the same clean dietary baseline, continued practice, continued accumulation. This is the largest single reserve in the archive and represents months of distillation work waiting to happen. Upon return to Spain, this will be the primary run series.
+**Beloeil, Quebec.** A deeply aged batch gestating since before the Torremolinos period, produced at an earlier stage of the practice — before the dietary baseline had reached its current refinement. Return to Quebec follows Spain on current trajectory. The extended aging and the earlier baseline make it a distinct contrast: same zero-sodium foundation, different stage of practice, different geography and season.
 
-Both batches are noted here as open experimental threads, not conclusions.
+**Current baseline (post-Spain).** Coffee and CBD discontinued before leaving Spain, maintained since. Any runs from this point represent the cleanest dietary baseline in the archive to date — lower volatile potential, reduced stimulant metabolites, continued zero sodium chloride and low sulfur. The practice continues.
+
+All three are noted here as open experimental threads, not conclusions.
 
 ***
 
