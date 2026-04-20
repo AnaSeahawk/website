@@ -116,3 +116,7 @@ The practice of combining the purified fractions — the alchemical *Chymical We
 *Personal observation. Offered as record, not instruction.*
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*Continue reading: [Sovereign Biophysics Translation Map →](sovereign-biophysics-translation-map.md)*

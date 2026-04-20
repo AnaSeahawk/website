@@ -48,3 +48,7 @@ The runs measure these properties directly: ORP, conductivity, pH across fractio
 ---
 
 *Run data: [Olivier's distillation — Feb 18–19 →](../20-experiments/experiment-report-aged-plasma-distillation.md) | [Ana's distillation — Feb 22 →](../20-experiments/experiment-report-ana-distillation-feb22.md)*
+
+---
+
+*Continue reading: [Synthesis: Multiday Distillation, Fresh vs Aged →](../40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)*

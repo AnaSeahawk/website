@@ -144,3 +144,7 @@ Expect that the body will need to learn something it has not had to do since bef
 *For the science behind this transition: Olivier Goldragon's companion essays — "Chloride: The Quiet Narcotic" and "Chloride: A Protoplasmic Poison and Social Narcotic" — provide the toxicological and historical documentation.*
 
 *Ana Seahawk — Sovereign Biophysics — April 2026*
+
+---
+
+*Continue reading: [The Ambrosia Diet →](ambrosia-diet.md)*

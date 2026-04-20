@@ -195,3 +195,7 @@ Within this model, diet is treated as an electrical/process variable affecting v
 
 4. **Culinary/Botanical Reintegration**
 Selected fractions are logged in personal culinary and botanical preparation contexts as part of a closed-loop practice model. These logs are descriptive and non-instructional, and they remain within a single-practitioner framework.
+
+---
+
+*Continue reading: [The Vessel — The Practitioner's Account →](../the-vessel.md)*

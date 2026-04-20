@@ -65,3 +65,7 @@ This is not a course. There is no curriculum, no programme, no outcome promised.
 
 *Ana Seahawk — Sovereign Biophysics*
 *Torremolinos, Spain — 2026*
+
+---
+
+*Continue reading: [Manifesto of the Clear Mirror →](manifesto-clear-mirror.md)*

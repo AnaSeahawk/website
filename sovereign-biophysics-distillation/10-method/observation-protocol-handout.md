@@ -127,4 +127,6 @@ Track what shifts with the lunar cycle. Track what shifts with the season. Track
 
 ---
 
-*To see what a practitioner's record looks like over months of real practice: [The Vessel →](../the-vessel.md)*
+*Continue reading: [Experiment Report: Olivier's First Distillation →](../20-experiments/experiment-report-aged-plasma-distillation.md)*
+
+*To see the practitioner's full account behind this archive: [The Vessel →](../the-vessel.md)*

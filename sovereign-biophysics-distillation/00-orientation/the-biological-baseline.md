@@ -83,3 +83,7 @@ The year of dietary and practice preparation that precedes serious distillation 
 ---
 
 *Personal synthesis. Cross-referenced with Johnson, J.A. — Chinese Medical Qigong, Vols. 1–5 (esp. Vol. 2: Energetic Alchemy); Sharma, P.V. — Charaka Samhita; Armstrong, J.W. — The Water of Life.*
+
+---
+
+*Continue reading: [Thesis: Endogenous Alchemy →](thesis-endogenous-alchemy.md)*

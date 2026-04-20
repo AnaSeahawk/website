@@ -74,4 +74,4 @@ This was the first formal distillation of Ana's own plasma — four days after O
 
 ---
 
-*Continue reading: [Synthesis — Multiday Distillation, Fresh vs Aged →](../40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)*
+*Continue reading: [Analysis: Water, Plasma, Fourth Phase →](../30-analysis/analysis-water-plasma-fourth-phase.md)*

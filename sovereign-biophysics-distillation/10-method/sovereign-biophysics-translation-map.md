@@ -202,3 +202,5 @@ The Hidden Stone was always here. In the interior of the earth. In the body. In 
 ***Visita Interiora Terrae Rectificando Invenies Occultum Lapidem.***
 
 ---
+
+*Continue reading: [Observation Protocol →](observation-protocol-handout.md)*

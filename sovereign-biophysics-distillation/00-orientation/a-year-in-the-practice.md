@@ -88,3 +88,7 @@ The Living Year is the map. The practice is the territory.
 *Personal observation. Offered as record, not instruction.*
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*Continue reading: [Before You Begin →](../10-method/before-you-begin.md)*

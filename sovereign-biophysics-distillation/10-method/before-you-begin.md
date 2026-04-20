@@ -34,3 +34,7 @@ The fluid carries the direct electrochemical imprint of your life — your diet,
 ---
 
 *Everything else is in the practice. Start slowly. Record what you notice. The body will tell you what it needs.*
+
+---
+
+*Continue reading: [On Sodium Chloride — On Chloride →](on-sodium-chloride.md)*

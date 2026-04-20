@@ -80,5 +80,9 @@ In the author's interpretive frame, plasma separation can be read as a Solar/Lun
 ## 5. Archival Notes & Next Steps
 * **Labeling:** The batch is cataloged as *"Olivier’s Plasma. 1st decan Aquarius"*.
 * **Visual Archive:** Photographic records (including the active distillate stage) are archived here: [Google Photos Gallery](https://photos.app.goo.gl/WhErNQPusHMMV8WU9). Images document the dark retentate against the light to capture exact color density and texture, as well as the initial volatile output.
-* **Theoretical Expansion:** For a deeper dive into the biophysics and internal Daoist alchemy of this process, read the accompanying essay: [The Alchemy of Plasma: The Fourth Phase of Water and the Refinement of Inner Energy](../30-analysis/2026-03-10-analysis-water-plasma-fourth-phase.md).
+* **Theoretical Expansion:** For a deeper dive into the biophysics and internal Daoist alchemy of this process, read the accompanying essay: [Analysis: Water, Plasma, Fourth Phase →](../30-analysis/analysis-water-plasma-fourth-phase.md).
 * **Future Exploration:** Continue controlled observation of Fraction 1 as an extraction solvent in personal research logs.
+
+---
+
+*Continue reading: [Experiment Report: Ana's First Distillation →](experiment-report-ana-distillation-feb22.md)*
