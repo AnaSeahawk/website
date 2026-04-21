@@ -372,7 +372,7 @@ The distillate came later, as a result of needing more of the salt. The decision
 
 The silver spoon cleaned by contact with the Saturn salts — and this effect absent during periods of high dietary sulfur intake. The body's diet legible in what the concentrated salt does to metal. No laboratory required. The silver is the instrument.
 
-This is not a research project arriving at a conclusion. It is a living practice discovering its lineage.
+**This is not a research project arriving at a conclusion. It is a living practice discovering its lineage.**
 
 ---
 
