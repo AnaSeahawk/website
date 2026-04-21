@@ -164,7 +164,7 @@ The ouroboros that Cleopatra drew two thousand years later — the serpent eatin
 
 **Three formats for one knowledge: the myth told it, the glass enacted it, the diagram compressed it.**
 
-Mary's sealed flask — steady heat, transformation in darkness, the volatile preserved until the moment of opening — is Ereshkigal's chamber made portable. The three-armed tribikos collecting three fractions is Inanna's three-day descent and the three things she had to surrender her identity to retrieve: the water of life, the food of life, and herself changed. Cleopatra's three symbols inside the ouroboros are those same three fractions — the volatile first, the clear water second, the dense earth third — drawn in ink on a single sheet.
+Mary's sealed flask — steady heat, transformation in darkness, the volatile preserved until the moment of opening — is Ereshkigal's chamber made portable. The three-armed tribikos collecting three fractions is Inanna's three-day descent and the three things she had to surrender her identity to retrieve: the water of life, the food of life, and herself changed. Cleopatra's ouroboros — the serpent half-light, half-dark, the words ΕΝ ΤΟ ΠΑΝ at its centre — encodes those same three fractions in a single image: the volatile nature of the first, the neutral carrier of the second, the fixed salt of the third, all held inside the one continuous loop.
 
 The myth was the source document. The apparatus was the translation. The diagram was the compression. Each one designed to survive what the others might not.
 
