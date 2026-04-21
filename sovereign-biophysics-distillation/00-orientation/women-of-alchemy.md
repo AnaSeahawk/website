@@ -142,7 +142,7 @@ Ereshkigal — the dark sister, queen of the underworld — is not a villain. Sh
 
 Inanna is killed and hung on a hook. Three days and three nights.
 
-Then the god Enki, god of water and wisdom, hears of her death. He makes two small beings from the dirt under his fingernail — the kurgarra and the galatur, sexless, tiny, non-threatening. He gives them the water of life and the food of life and sends them into the underworld with one instruction: go to Ereshkigal. When she cries out in her grief, echo her. Say: *oh, your heart.* Witness her. Only witness. Do not try to fix what you find.
+Then the god Enki, god of water and wisdom, hears of her death. He makes two small beings from the dirt under his fingernail — the kurgarra and the galatur, sexless, tiny, non-threatening. He gives them the water of life and the food of life — the two fractions: the Solar Spirit and the Lunar Essence — and sends them into the underworld with one instruction: go to Ereshkigal. When she cries out in her grief, echo her. Say: *oh, your heart.* Witness her. Only witness. Do not try to fix what you find.
 
 They do this. They witness her grief without judgment, without agenda. She offers them anything they want. They ask only for the water of life and the food of life. They sprinkle these on Inanna's body. She rises.
 
