@@ -29,8 +29,7 @@ The fluid carries the direct electrochemical imprint of your life — your diet,
 
 **Label everything and keep fractions separate.** The Solar fraction (first cut) is highly alkaline and volatile. It looks like water. Label clearly and do not store it near drinking water or gentler fractions.
 
-**The first fraction of any run is not for drinking directly.** Allow it to off-gas in an open or cloth-covered container before any internal use. The ammonia dissipates. Time is the tool.
-
+**The first fraction of any run is not for direct internal use.** Keep it sealed — the volatile compounds are what make it active for topical application. Label it clearly as the Solar fraction and store it separately. Do not allow it to off-gas into the air.
 ---
 
 *Everything else is in the practice. Start slowly. Record what you notice. The body will tell you what it needs.*
