@@ -74,6 +74,22 @@ The answer the practice gives is worth discovering directly.
 
 ---
 
+## What the Body Unlearns
+
+Not all appetites are appetites. Some are dependencies — substances the body has learned to rely on as external energy sources because they reliably produce the chemical signal for nourishment without actually providing it.
+
+Refined sugar operates through the same mechanism as sodium chloride: it downregulates the dopamine receptor systems responsible for recognising internal sufficiency. The D2 receptor — the same receptor implicated in stimulant dependency — becomes habituated to the spike. Ordinary levels of endogenous satisfaction no longer register as adequate. The body reaches not because it is depleted but because the receptor threshold has shifted. This is physiological, not psychological. It is a predictable outcome of sustained use of any substance that generates a reward signal in excess of what the body's own processes produce.
+
+Refined sugar — stripped of the fibre, mineral, and enzymatic matrix of its whole-food form — delivers the glucose signal without the context that would moderate the response. The liver processes it as a flood rather than a flow. The pancreas responds to repeated spikes with repeated insulin surges. The same pattern applies to caffeine, to isolated sodium chloride, to any substance the body learns to use as a substitute for what it was designed to generate internally.
+
+The pattern is not about these substances being inherently destructive. It is about the body progressively outsourcing its energy production to an external source — and in doing so, losing contact with what it can produce from within.
+
+The withdrawal is the recalibration. Headaches, fatigue, the disproportionate sense of depletion — these are receptor systems returning to baseline sensitivity. The body relearning that its own production is sufficient. This takes time because the habituation took time.
+
+What the Ambrosia diet and the internal practice do together is build the actual substrate that the dependency was imitating: genuine nourishment at the cellular level. When that substrate is present, the appetite for the imitators quiets of its own accord. Not through discipline. Through sufficiency.
+
+---
+
 ## Milk Instead of Water
 
 On days of high activity, or the day before the body will be working hard, rice and oats cooked in milk rather than pure water — still with ghee. The milk replaces the cooking water entirely. The result is a richer, denser preparation that sustains differently from the same grain cooked in water. Not heavier in the sense of burdening digestion — the opposite. The nourishment goes deeper and holds longer.
