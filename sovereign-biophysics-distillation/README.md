@@ -52,6 +52,7 @@ Each document links to the next at the bottom.
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — the raw and aged practice: what amaroli is, preparation (syphoning, filtering), applications, household and historical uses
 - [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, and Saturn as distinct substances: what each is and how each is worked
 - [The Apothecary Balm](10-method/apothecary-balm.md) — the Saturn retentate reduced and emulsified: why aged plasma, why this diet, ratios and method for the plasma mineral salve
+- [Oral Care Protocol](10-method/oral-care-protocol.md) — the two-phase application of Solar spirit and Saturn serum: sequencing, mechanism, safety parameters, and observations
 - [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — the alchemical vocabulary mapped to living practice
 - [Observation Protocol](10-method/observation-protocol-handout.md) — field record template for a distillation run
 

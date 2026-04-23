@@ -190,4 +190,4 @@ The scent of the finished balm: earthy, clean, medicinal. When the shea first me
 
 ---
 
-*Continue reading: [Distilled Fraction Protocols →](distilled-fraction-protocols.md)*
+*Continue reading: [Oral Care Protocol →](oral-care-protocol.md)*
