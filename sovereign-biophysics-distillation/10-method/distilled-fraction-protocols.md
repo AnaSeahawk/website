@@ -119,4 +119,4 @@ The practice of combining the purified fractions — the alchemical *Chymical We
 
 ---
 
-*Continue reading: [Sovereign Biophysics Translation Map →](sovereign-biophysics-translation-map.md)*
+*Continue reading: [The Apothecary Balm →](apothecary-balm.md)*
