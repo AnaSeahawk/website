@@ -77,15 +77,33 @@ The gum response is the alkaline environment removing the conditions in which th
 
 ## Safety Parameters
 
-**Distilled fractions are for tooth enamel and tough external skin only.**
+The three fractions are not interchangeable. Each has a different concentration profile and is appropriate for different tissue types.
 
-The Solar spirit and Saturn serum are hyper-concentrated. They have been deliberately separated from the isotonic balance of the original fluid. They are not appropriate for the eyes, the nasal passage, or the inner ear — tissues that require a perfectly neutral, isotonic environment and have no keratinised barrier to protect them.
+**The Solar spirit and Saturn serum are for tooth enamel and tough external skin only.**
 
-- **Eyes:** The alkalinity of the spirit causes liquefactive damage to corneal tissue. The mineral concentration of the serum causes osmotic shock. Neither is safe for ocular application.
+These two fractions are hyper-concentrated. They have been deliberately separated from the isotonic balance of the original fluid. They are not appropriate for the eyes, the nasal passage, or the inner ear.
+
+- **Eyes:** The alkalinity of the Solar spirit causes liquefactive damage to corneal tissue. The mineral concentration of the Saturn serum causes osmotic shock. Neither is safe for ocular application.
 - **Nose:** The ammonia vapour of the spirit inflames the olfactory receptors and sinus lining. The serum density clogs and irritates the nasal cilia.
-- **Ears:** The inner ear is exposed neural tissue. Both fractions would cause immediate chemical damage, especially with any perforation of the eardrum.
+- **Ears:** Both the spirit and the serum would cause immediate chemical damage to the inner ear's exposed neural tissue, especially with any perforation of the eardrum.
 
-**Fresh, raw fluid** — which is isotonic, balanced, and unconcentrated — is what traditional practice describes for application to delicate mucous membranes. The distilled fractions are a separate category: apothecary-grade concentrates for hard tissue applications.
+**The Lunar fraction is the appropriate fraction for delicate mucous membranes.**
+
+The Lunar — the pure middle-water cut of the distillation — is a fundamentally different substance. At approximately 133 USCM, near-neutral ORP, and a mild pH of 9.4–9.7, it is essentially hyper-purified water: stripped of the ammonia volatiles that make the Solar fraction caustic, and stripped of the heavy mineral concentration that makes the Saturn serum osmotically aggressive. It is the fraction closest in character to deuterium-depleted water — light, structurally clean, and gentle on sensitive tissue.
+
+---
+
+## The Lunar Fraction — Eyes and Ears
+
+In this practitioner's experience, the Lunar fraction has been in consistent daily use as eye and ear drops.
+
+**Eyes:** A few drops of the Lunar fraction applied directly to the eye. The mild alkalinity — well within the range that ocular tissue tolerates — is soothing rather than caustic. The ultra-low conductivity means the drop carries almost no dissolved load, making it non-irritating and easily absorbed. The eyes respond well: the sensation is cooling and clean.
+
+**Ears:** A few drops warmed slightly and applied to the ear canal. Pure, warm water is the standard recommendation for gentle ear hygiene; the Lunar fraction is functionally this, with the structural properties of triple-distilled biological water rather than tap or filtered water.
+
+The Lunar fraction for these applications should be fresh from a clean run and stored sealed in dark glass. The same fraction should not be left open or contaminated — it carries very little mineral load and no preservative chemistry, so hygiene in storage and application matters.
+
+**Raw fluid** — fresh, unconcentrated, isotonic — is what the broader traditional practice describes for mucous membrane application. The Lunar fraction occupies a middle position: it is distilled and therefore stripped of the original fluid's full mineral and biological complexity, but it is also stripped of the concentration that makes the Solar and Saturn fractions inappropriate for these tissues. Its simplicity is what makes it suitable here.
 
 ---
 
