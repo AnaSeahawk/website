@@ -10,6 +10,8 @@ claim_tier: practice
 
 *Single-practitioner record. What follows is one person's process, specific to one dietary baseline and one distillation practice. It is offered as documentation, not instruction.*
 
+![The Saturn serum — the filtered retentate before reduction](../assets/balm-01-saturn-serum.jpg)
+
 ---
 
 ## Why This Works
@@ -56,6 +58,12 @@ When the source material is aged plasma distilled without dietary sodium chlorid
 
 Together, these compounds are hygroscopic: they attract and hold moisture. Applied to skin, they pull hydration from the air and from the deeper dermal layers to the surface, plumping tissue rather than depleting it. This is the mechanism behind the immediate sensation of smooth, full skin on first contact.
 
+![Sun-drying the serum — concentrating by solar evaporation](../assets/balm-02-solar-drying-serum.jpg)
+
+![The sun-dried crystals — dendritic mineral formations, deliquescent on contact](../assets/balm-03-solar-dried-serum.jpg)
+
+*The branching, fern-like crystalline structures visible in the dried serum are a function of the mineral purity. Because the diet contains no sodium chloride, the crystals that form are not the aggressive cubic lattice of table salt but a smoother, more complex biological mineral matrix — predominantly phosphates, potassium, and calcium. These crystals are so hygroscopic they begin to dissolve on contact with skin, instantly pulling moisture from the air and the fingertips.*
+
 ---
 
 ## Extracting the Saturn Fraction: The 1/4 Volume Protocol
@@ -70,11 +78,17 @@ This is the 1/4 Volume Protocol documented in the distillation logs: intentional
 
 Filtering is done by gravity through an unbleached coffee filter set in a glass funnel over a clean jar. The serum is dense and filters slowly — do not squeeze the filter or force it. As the filter blinds with trapped organic matter, it is replaced with a fresh one and filtering continues until the serum has passed through cleanly. The filtered serum at this stage is a dark, clear liquid, stored in amber glass until ready for further work.
 
-**Further reduction on the stovetop:** The filtered serum is a dark, concentrated liquid — already rich, but still carrying significant water. This liquid is decanted into a heat-safe glass bowl and placed over a pot of gently simmering water: a bain-marie. The steam heats the glass from beneath, slowly drawing off the remaining water without ever bringing the material to a direct boil.
+**Further reduction on the stovetop:** The filtered serum is decanted into a heat-safe glass bowl and placed over a pot of gently simmering water: a bain-marie. The steam heats the glass from beneath, slowly drawing off the remaining water without ever bringing the material to a direct boil.
 
-This stage is watched continuously. The liquid moves through predictable stages: dark and flowing like syrup, then slowing, then coating the glass, then pulling away from a silver spoon in thick trails. When the spoon dragged across the bottom of the bowl parts the paste and the track fills back slowly — when the bubbles at the surface become heavy and viscous rather than quick and light — the reduction has reached the paste stage. This is the window. What follows must happen immediately.
+![The bain-marie setup — filtered serum beginning the stovetop reduction](../assets/balm-04-serum-water-bath.jpg)
 
-*Note on images: a photo record of this process exists — the molasses stage, the lanolin drop and emulsion shift, the break and rescue, and the final whipped balm. These will be embedded here once formatting is confirmed.*
+This stage is watched continuously. The liquid moves through predictable stages: dark and flowing like syrup, then slowing, then coating the glass, then pulling away from a silver spoon in thick trails.
+
+![The reduction in progress — syrup stage](../assets/balm-05-serum-reduction.jpg)
+
+![Close-up of the trailing paste stage — the spoon leaves clear tracks](../assets/balm-06-serum-reduction-closeup.jpg)
+
+When the spoon dragged across the bottom of the bowl parts the paste and the track fills back slowly — when the bubbles at the surface become heavy and viscous rather than quick and light — the reduction has reached the paste stage. This is the window. What follows must happen immediately.
 
 ---
 
@@ -110,13 +124,49 @@ The moringa and castor oils are added last, off the heat, to protect their cold-
 
 ## The Process
 
-**The lanolin drop:** The moment the paste reaches the trailing stage on the bain-marie — take the bowl off the active steam but keep it warm. Drop the lanolin directly into the warm paste. Stir vigorously. The residual heat melts the lanolin. As the lanolin encapsulates the minerals, the mixture shifts from dark, translucent molasses to an opaque, lighter caramel or chocolate colour. This is the emulsion forming. Continue stirring until the mixture is completely uniform and glossy with no dark streaks.
+**The lanolin drop:** The moment the paste reaches the trailing stage — take the bowl off the active steam but keep it warm. Drop the lanolin directly into the warm paste. Stir vigorously. The residual heat melts the lanolin.
 
-**Adding the shea:** Once the lanolin and paste are fully married, fold in the shea butter. Add it in stages rather than all at once — a cold dollop of shea into a warm emulsion can cause temperature shock, which breaks the emulsion. If separation occurs (dark speckles reappearing in the fats), return the bowl to the steam, add a small additional squeeze of lanolin, and whip vigorously. If the emulsion remains stubborn after reheating, add 2–3 drops of warm water or liquid serum directly to the bowl and whisk aggressively with a metal fork. The moisture gives the lanolin what it needs to rebuild the bridge between the minerals and the fats.
+![The lanolin ribbon dropping into the warm paste](../assets/balm-07-lanolin-ribbon.jpg)
+
+As the lanolin encapsulates the minerals, the mixture shifts from dark, translucent molasses to an opaque, lighter caramel or chocolate colour. This is the emulsion forming. Continue stirring until the mixture is completely uniform and glossy with no dark streaks.
+
+![The emulsion formed — dark syrup transformed to glossy caramel](../assets/balm-08-lanolin-blended.jpg)
+
+**Adding the shea:** Once the lanolin and paste are fully married, fold in the shea butter. Add it in stages rather than all at once — a cold dollop of shea into a warm emulsion can cause temperature shock, which breaks the emulsion.
+
+![Shea butter folded into the lanolin base](../assets/balm-09-shea-added.jpg)
+
+If separation occurs (dark speckles reappearing in the fats), return the bowl to the steam, add a small additional squeeze of lanolin, and whip vigorously.
+
+![The broken emulsion — dark speckles separating from the fats](../assets/balm-10-emulsion-break.jpg)
+
+If the emulsion remains stubborn after reheating, add 2–3 drops of warm water or liquid serum directly to the bowl and whisk aggressively with a metal fork. The moisture gives the lanolin what it needs to rebuild the bridge between the minerals and the fats.
+
+![The emulsion rescued — uniform caramel cream restored](../assets/balm-11-break-recovered.jpg)
+
+![Close-up of the rescued emulsion](../assets/balm-11b-recovery-closeup.jpg)
 
 **The oils:** Once shea is fully incorporated and the bowl is off the heat, pour in the moringa and castor oils. Whisk until the mixture is completely uniform. If whisked as it begins to cool and firm, trapped air creates a lighter, whipped texture — this is a good outcome for a barrier cream.
 
+![The complete balm — moringa and castor incorporated](../assets/balm-12-complete-balm.jpg)
+
 **Setting:** Transfer immediately into a wide-mouth dark glass jar. Leave open to cool to room temperature before sealing. The balm will firm as it cools. Store in a cool, dark place.
+
+![The finished balm set in the jar](../assets/balm-13-final-balm.jpg)
+
+---
+
+## A Note on the Silver Spoon
+
+A pure silver spoon was used throughout the reduction and emulsification. Two observations from the process are worth recording.
+
+![The silver spoon — face](../assets/balm-17-silver-spoon-a.jpg)
+
+![The silver spoon — reverse, showing the polished spot](../assets/balm-18-silver-spoon-b.jpg)
+
+**The absence of tarnish:** Silver tarnishes on contact with sulfur compounds — a silver spoon in contact with eggs turns dark almost immediately. After extended contact with the hot mineral paste from a low-sulfur diet, the spoon showed minimal tarnishing. The mineral matrix simply did not carry enough sulfur to react aggressively with the metal. This is a direct, physical readout of the dietary baseline — the body's chemistry visible in what the silver did not do.
+
+**The polished spot:** The back of the spoon, where it made sustained contact with the glass bowl during stirring, was buffed to a high shine. The phosphate and calcium crystals in the paste acted as an ultra-fine mineral abrasive — the same mechanism as jeweller's rouge, applied inadvertently. Trace particles of pure silver were folded into the finished balm as a result, adding a natural antimicrobial element to the final preparation.
 
 ---
 
@@ -126,7 +176,7 @@ Applied topically, the mineral matrix acts as a humectant — pulling moisture u
 
 In this practitioner's record, the most significant observed application was a severe oven burn — contact at high temperature, full-thickness. Continuous application of the Saturn serum (before the balm formula was developed) prevented any blistering, allowed the damaged tissue to shed as dry flakes rather than form a scab, and produced no scarring. This is logged as a personal observation, not a claim.
 
-The balm has been used for oral care in combination with the Solar fraction — detailed in the [Oral Care Protocol →](oral-care-protocol.md). The remineralisation mechanism is the same: phosphates and potassium in an alkaline environment, delivered directly to porous enamel.
+The balm has been used for oral care in combination with the Solar fraction — detailed in the Oral Care Protocol. The remineralisation mechanism is the same: phosphates and potassium in an alkaline environment, delivered directly to porous enamel.
 
 Lips on first contact: immediate plumping. The skin there is thin and has no oil glands of its own — the hygroscopic pull is immediate and visible.
 
