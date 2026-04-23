@@ -140,7 +140,7 @@ If separation occurs (dark speckles reappearing in the fats), return the bowl to
 
 ![The broken emulsion — dark speckles separating from the fats](../assets/balm-10-emulsion-break.jpg)
 
-If the emulsion remains stubborn after reheating, add 2–3 drops of warm water or liquid serum directly to the bowl and whisk aggressively with a metal fork. The moisture gives the lanolin what it needs to rebuild the bridge between the minerals and the fats.
+If the emulsion remains stubborn after reheating, add 2–3 drops of warm water or liquid serum directly to the bowl and whisk aggressively. The moisture gives the lanolin what it needs to rebuild the bridge between the minerals and the fats.
 
 ![The emulsion rescued — uniform caramel cream restored](../assets/balm-11-break-recovered.jpg)
 
