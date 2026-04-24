@@ -128,7 +128,7 @@ Aging plasma is stored in plastic — practical choice given the volumes involve
 *Torremolinos, Spain — mini storage unit:*
 60 litres plasma in three 20-litre plastic containers (Olivier's, Ana's, combined). Spirit and essence from previous runs in glass jars. Return planned July 2026.
 
-*Beloeil, Quebec, Canada — basement of Olivier's mother:*
+*Beloeil, Quebec, Canada — in storage with family:*
 Plasma collected during the summer 2025 stay. Plastic, labeled. Left in trust with family when the move to Europe was made.
 
 *Tivat, Montenegro — in the forest outside the city:*
@@ -142,18 +142,14 @@ Any excess that cannot travel is deposited into the local environment before mov
 
 ---
 
-## The Monthly Practice
+## Distillation — When and How
 
-*(Fill in: distillation runs, fraction management, when to run vs. when to age longer)*
-
-**Distillation runs:**
-[Fill in: current frequency, batch sizes, what the equipment setup looks like in different environments — patio in Torremolinos vs. small apartment in Sarandë.]
+There is no monthly rhythm to the distillation. The runs happen when there is aged material ready and a place to run — daily or every other day when the practice is active and the setup is in place. The flow depends entirely on the context: how much has been collected, how long it has aged, what space is available.
 
 **Fraction management:**
-Solar spirit in cobalt or amber glass, airtight seal. Lunar essence in dark glass, stored for drinking, topical, cooking. Saturn serum in wide-mouth amber, refrigerated or cool and dark. [Expand on current storage quantities and rotation.]
+Solar spirit in cobalt or amber glass with an airtight seal. Lunar essence in dark glass, used for drinking, topical, cooking. Saturn serum in wide-mouth amber, cool and dark. The balm is made when sufficient retentate has accumulated — it requires a fixed period with a stove and the right conditions, not something that happens on a schedule.
 
-**The balm:**
-Made from the Saturn retentate when a sufficient reduction has accumulated. [Fill in: frequency, current supply, what conditions make this possible or difficult.]
+In a nomadic context the fractions are managed in small volumes. What is produced gets used; there is rarely surplus. The large-scale fraction management — filling proper storage, rotating stock — belongs to the fixed-place practice.
 
 ---
 
@@ -164,15 +160,17 @@ The first two years of this practice were different.
 Fixed location. An outdoor bath area. Space to move and collect at scale.
 
 **Plasma baths:**
-The full-body immersion practice. The tub filled — or partly filled — with aged plasma. The body soaking in what it had produced. Every pore in contact with the living water. This was among the most powerful applications of the practice: the full-surface absorption, the body recognising what it was returning to.
+The bath was diluted — not a tub of undiluted plasma but a standard bath with a litre or two of aged plasma added to the water. Sometimes more, particularly towards the end of the two-year farmhouse period when the practice was well established and the stock was larger. The body soaking in what it had produced, dispersed through the water, every surface in contact. This was among the most powerful applications of the practice.
 
-[Fill in: how often, what was observed, what the body did in and after, how this differed from the topical fraction applications.]
+The bath water afterward went directly onto the garden. Nothing was lost.
 
 **Rubber boots:**
-Boots filled with shivambu — walking through the day with the feet in continuous contact with the aged fluid. The soles of the feet are among the most absorbent surfaces the body has. [Fill in: observations, how long, what changed.]
+Boots filled with shivambu — walking through the day with the feet in continuous contact with the aged fluid. The soles of the feet are among the most absorbent surfaces the body has.
 
 **Laundry:**
-All laundry washed with aged plasma. The cleaning properties — the enzymatic activity of the aged fluid, the mild alkalinity, the mineral content — produced a result different from detergent. The fabric came out differently. [Fill in: observations, what the practice looked like at scale, how much volume this required.]
+Done by hand, outside, at the farmhouse — no washing machine for those two years. Aged plasma in the wash water. The laundry water, like the bath water, went onto the garden when done.
+
+The loop extended past the body into the land. Body → bath → garden. Body → laundry → garden. The farmhouse system was not designed this way deliberately — it was the natural result of having a garden, doing laundry outside, and having a practice that produced more liquid than the body alone could use. The garden received everything the body passed through.
 
 **Windows and surfaces:**
 Aged plasma as a cleaning agent for glass and surfaces. [Fill in: specific observations, comparisons to commercial products, what the clarity of the glass looked like.]
