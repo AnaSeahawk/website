@@ -29,13 +29,41 @@ After four years, this is not a discipline. It is simply how a day moves.
 *(Fill in: morning routine, drinking, oral care, skin, what changes by season and location)*
 
 **Drinking:**
-The primary drinking fluid is distilled plasma. The Lunar fraction — the clear middle water of the distillation — replaces tap water, mineral water, and most other liquids. On travel days when no fresh distillate is available: [fill in].
+The primary drinking fluid is now the Lunar fraction — what we call, in our own language, the essence. It replaces tap water, mineral water, and most other liquids in the daily domestic context.
+
+This was not always the case. The drinking practice has moved through several distinct phases across four years:
+
+*Year one (four years ago):* Fresh plasma — always the early morning collection, always. This was the anchor. Beyond this, bottled spring water was the secondary fluid; the knowledge of distilled water had not yet arrived. Coffee was a daily habit, consumed at cafes without concern for the water quality being used. The practice was inconsistent in almost everything except one thing: the fresh morning plasma was never missed.
+
+*Year two into three:* The knowledge of distilled water and the knowledge of sodium chloride arrived at approximately the same time — each recognition reinforcing the other. The spring water gave way to distilled. The cafe coffee began to carry a different weight. The practice was still, by any honest account, consistently inconsistent — but the anchor held. Morning plasma. Every day.
+
+*Travel days, then and now:* Travel became plasma fasting days by natural consequence — looping the fresh plasma as the primary fluid, often with coffee, sometimes without. The distillate cannot easily travel. A litre of essence was brought on the journey to Albania; almost all of it had to be consumed before airport security, which does not distinguish between water and living water. What passed the gate: the practice itself. That cannot be confiscated.
+
+*Now:* Still looping on travel days. The essence is the daily drinking fluid when in a place with a still running. The morning fresh plasma remains — four years later, the same anchor it always was.
 
 **Oral care:**
-Solar spirit as mouthwash and teeth cleaning, followed by Saturn serum applied to the gumline. The sequence matters. [Expand with current timing and frequency.]
+The oral practice has also moved through phases.
+
+*Early practice:* Aged plasma used directly in the mouth — as mouthwash, for teeth. Found to be a little harsh for daily use at that concentration. Fresh plasma was used as an alternative when aged was too strong, or simply when aged was not available.
+
+*Now:* Raw aged plasma is no longer used orally. The current sequence uses only distilled fractions: Solar spirit first — swished, held along the gumline — followed by Lunar essence as a finishing rinse. The spirit prepares and shifts the pH; the essence follows and settles. When only one fraction is available, either works independently, but the sequence has become the preference.
+
+*When travelling or without distillate:* Fresh plasma is the fallback. This is true across every protocol — oral, skin, eyes, cooking. Fresh plasma is the foundation the entire practice is built on. The distilled fractions are a refinement of what is always available. Whatever the context, the practice continues.
 
 **Skin:**
-Lunar essence applied liberally. [Fill in: timing, areas, observations on texture and change.]
+The topical practice also moved through phases — and one of those phases produced the most important safety lesson the practice has generated.
+
+*Start:* Fresh plasma applied to skin. Then aged plasma as the practice developed.
+
+*After approximately one year:* The Saturn serum was born — not through distillation but through simple reduction: the aged plasma simmered down over low heat until the water had largely driven off, leaving the concentrated mineral salts and organic compounds. This was the first form of what the distillation would later produce as the retentate. Used liberally: as a skin conditioner in the sun, for wound support, for general skin application.
+
+*The alkaline burn:* My partner applied aged plasma directly and repeatedly to an open wound. The concentration built up over the tissue and produced an alkaline chemical burn. This was the event that made us take seriously what the Damar Tantra actually says about topical application — that concentration matters, that open tissue and intact skin are not the same, that there are conditions under which the body's own substance becomes caustic to it. The serum — the reduced, controlled form — emerged directly from this. The aged plasma applied to intact skin is one thing. Concentrated, repeated application to broken tissue is another.
+
+This is documented here because it is real safety information, not a theoretical caution. The burn was painful and took time to resolve.
+
+*Three years of serum, then the still:* The reduction serum was the primary concentrated fraction for approximately three years. It was this — the desire for a more refined version of what the stovetop reduction was producing — that led directly to the first distillation in February 2026. The still was not a theoretical experiment. It was the next step in a three-year practice of concentrating the body's own salts for the skin. What came out of the still was different from what the simmering had produced. That difference is what changed everything.
+
+*Now:* The Lunar essence has become the primary topical fluid — kept in a spray bottle and used liberally, especially after the shower while the skin is still warm and the pores are open. The Solar spirit is used on the face and neck. The Saturn serum is still used but less as the primary daily topical and more for specific applications. Fresh plasma remains the fallback when no distillate is available.
 
 **Eyes and ears:**
 Lunar fraction used daily as eye drops. A few drops warmed and applied to the ear canal for hygiene. [Fill in: frequency, any changes in practice.]
