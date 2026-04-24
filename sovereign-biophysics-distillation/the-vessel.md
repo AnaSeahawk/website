@@ -171,3 +171,7 @@ This archive is my form.
 *To book time with me directly — for conversation, not content — visit [cal.com/anaseahawk](https://cal.com/anaseahawk).*
 
 *Ana Seahawk — Sarandë, Albania — April 2026*
+
+---
+
+*Continue reading: [Practice Log 2026 →](practice-log-2026.md)*

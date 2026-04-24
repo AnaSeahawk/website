@@ -163,3 +163,7 @@ The electrochemical measurements documented in this body of work — fresh basel
 - *Shivambu Kalpa Vidhi* (from the Damar Tantra — traditional dating contested; text available in several modern translations)
 - Armstrong, J.W. (1944). *The Water of Life*. London: True Health Publishing.
 - van der Kroon, C. (1996). *The Golden Fountain*. Banyan Books.
+
+---
+
+*Continue reading: [Synthesis: Multiday Distillation, Fresh vs Aged →](../40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)*

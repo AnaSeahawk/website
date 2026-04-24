@@ -49,3 +49,7 @@ Three things have been controlled for, informally but clearly. He has been using
 My own oral health and skin texture have also shifted. A different quality of clean. Softer. This was among the first things to change, and it is one of the more reliable signals that something is genuinely shifting rather than fluctuating — when the mouth changes in a positive direction, it tends to reflect what is happening in the body that you cannot yet see.
 
 *Practitioner observations that relate to plasma composition and distillation runs are tracked separately in the practice log.*
+
+---
+
+*Continue reading: [Portal →](../portal.md)*

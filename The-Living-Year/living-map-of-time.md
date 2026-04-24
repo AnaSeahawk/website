@@ -124,3 +124,8 @@ It is an orientation.
 You may notice everything.
 You may notice nothing.
 Time continues either way.
+
+
+---
+
+*Continue reading: [Journal — The Cord and the Curtain →](journal/2026-03-08-the-cord.md)*

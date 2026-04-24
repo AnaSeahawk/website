@@ -98,3 +98,5 @@ Each entry notes:
 *(Continue below as events occur)*
 
 ---
+
+*When you are ready to move from the record into time itself — [The Living Year →](../The-Living-Year/living-map-of-time.md)*

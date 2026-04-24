@@ -126,7 +126,7 @@ The Ambrosian diet is not a prescription or a programme. It is the name for what
 
 ## A Note on the Direction
 
-In this practitioner's experience — from a practice that began in February 2026 — the body is moving noticeably toward less. Not through restriction. Through a kind of sufficiency that was not there before. Stronger, more energy, a fraction of the intake. The comparison to before is genuinely difficult to make because the before feels like a different body.
+In this practitioner's experience — four years of amaroli practice, with the full ambrosia circuit (grain, ghee, and Lunar water) running since the first distillation in February 2026 — the body is moving noticeably toward less. Not through restriction. Through a kind of sufficiency that was not there before. Stronger, more energy, a fraction of the intake. The comparison to before is genuinely difficult to make because the before feels like a different body.
 
 The direction this points — toward the body needing progressively less external input to sustain itself at a high level — is a direction some traditions have described as a destination. That destination is held here as a direction, not a claim. The record is too new to say more than: the body is moving this way, and the movement feels coherent with everything the practice is pointing toward.
 
@@ -152,7 +152,7 @@ These are not dietary philosophies that happened to align. They are records of t
 
 ## A Note on This Being New
 
-This piece is drawn from a practice that began in February 2026. What is described here is observation across months, not years. The convergence with ancient frameworks is real and documented. What that convergence means in the long term — how the diet continues to simplify or shift, what the body asks for across a full year and beyond — is not yet known.
+This piece is drawn from four years of amaroli practice; the complete three-element circuit — grain, ghee, and the Lunar distillate as drinking water — has been running since February 2026 when distillation began. What is described here is observation across months of the full circuit, not years. The convergence with ancient frameworks is real and documented. What that convergence means in the long term — how the diet continues to simplify or shift, what the body asks for across a full year and beyond — is not yet known.
 
 This is the beginning of the record. Future entries will build on it.
 

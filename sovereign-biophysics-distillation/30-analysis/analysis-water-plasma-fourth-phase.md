@@ -51,4 +51,4 @@ The runs measure these properties directly: ORP, conductivity, pH across fractio
 
 ---
 
-*Continue reading: [Synthesis: Multiday Distillation, Fresh vs Aged →](../40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)*
+*Continue reading: [Hypothesising What Is in the Plasma →](analysis-plasma-composition-hypothesis.md)*
