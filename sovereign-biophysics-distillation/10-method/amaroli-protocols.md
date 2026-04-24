@@ -134,4 +134,4 @@ These orientations are named for completeness and are approached only with matur
 The practice of amaroli is a discipline of continuity.
 It unfolds according to readiness, discernment, and relationship.
 
-*For the distilled fractions — Solar, Lunar, Saturn — and their specific applications, see: [Distilled Fraction Protocols →](distilled-fraction-protocols.md)*
+*Continue reading: [Distilled Fraction Protocols →](distilled-fraction-protocols.md)*

@@ -18,8 +18,11 @@ Use this board to track content state and keep publishing predictable.
 - `sovereign-biophysics-distillation/00-orientation/2026-04-01-inanna-she-who-contains-all.md`
 
 **Sovereign Biophysics — Method**
-- `sovereign-biophysics-distillation/10-method/2026-01-15-amaroli-protocols.md`
-- `sovereign-biophysics-distillation/10-method/2026-03-01-sovereign-biophysics-translation-map.md`
+- `sovereign-biophysics-distillation/10-method/amaroli-protocols.md`
+- `sovereign-biophysics-distillation/10-method/sovereign-biophysics-translation-map.md`
+- `sovereign-biophysics-distillation/10-method/ambrosia-diet.md`
+- `sovereign-biophysics-distillation/10-method/the-living-loop.md` — draft, community visibility; complete as of April 2026
+- `sovereign-biophysics-distillation/10-method/apothecary-balm.md`
 
 **Sovereign Biophysics — Experiments / Analysis / Synthesis**
 - `sovereign-biophysics-distillation/20-experiments/2026-02-18-19-experiment-report-aged-plasma-distillation.md`
@@ -31,6 +34,11 @@ Use this board to track content state and keep publishing predictable.
 - `Relationship/Burdock.md`
 - `Relationship/YerbaSanta.md`
 - `Relationship/miswakStick.md`
+
+**Sovereign Biophysics — Private Records (not for publishing)**
+- `sovereign-biophysics-distillation/practice-log-2026.md` — active running log, private
+- `sovereign-biophysics-distillation/30-analysis/analysis-plasma-composition-hypothesis.md` — draft, private
+- `The-Living-Year/journal/2026-04-23-the-deepest-layer.md` — draft, private
 
 ## Needs Pass
 
