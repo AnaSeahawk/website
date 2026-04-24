@@ -28,7 +28,7 @@ This retentate is different. Eliminating sodium chloride from the diet does not 
 
 The same principle holds for dietary sulfur. Low sulfur intake — no meat, no eggs, reduced alliums — means the retentate carries less of the volatile sulfur compounds that make reduction harsh and the final material irritating. What remains is cleaner.
 
-The balm described here is specific to this baseline: zero sodium chloride, low sulfur, long-term practice. A different dietary history produces a different Saturn fraction, and a different result.
+The balm described here is specific to this baseline: zero sodium chloride, no meat or eggs, dairy present (milk, yogurt, ghee), reduced alliums — low to moderate sulfur overall, long-term practice. A different dietary history produces a different Saturn fraction, and a different result.
 
 ### Why This Requires Aged Plasma
 
@@ -176,7 +176,7 @@ Applied topically, the mineral matrix acts as a humectant — pulling moisture u
 
 In this practitioner's record, the most significant observed application was a severe oven burn — contact at high temperature, full-thickness. Continuous application of the Saturn serum (before the balm formula was developed) prevented any blistering, allowed the damaged tissue to shed as dry flakes rather than form a scab, and produced no scarring. This is logged as a personal observation, not a claim.
 
-The balm has been used for oral care in combination with the Solar fraction — detailed in the Oral Care Protocol. The remineralisation mechanism is the same: phosphates and potassium in an alkaline environment, delivered directly to porous enamel.
+The balm has not yet been used for oral care — this remains a proposed application. The remineralisation mechanism is the same in principle: phosphates and potassium in an alkaline environment, delivered directly to porous enamel. Protocol to be developed from practice, not ahead of it.
 
 Lips on first contact: immediate plumping. The skin there is thin and has no oil glands of its own — the hygroscopic pull is immediate and visible.
 
