@@ -239,11 +239,19 @@ What is being built at Torremolinos is not new. It is a return to a place where 
 
 A trust — or its equivalent in legal form — so that the knowledge and the place outlive the practitioner. The women of Alexandria built apparatus whose names survive two thousand years later. The knowledge being documented here should not require any single person to be alive for it to continue. The trust holds the land, the archive, the practice, and the mandate to keep it open.
 
-[Fill in: what form this takes legally, what the funding model looks like, who the early stewards are.]
+This is early stage. What is clear is this: the structure must outlive its founder. In Spain, the appropriate legal form is a *fundación* — a non-profit foundation that holds assets (land, archive, practice documentation) for a defined public purpose. It does not generate profit. It does not belong to its founder. It belongs to its mandate. The mandate is the preservation and transmission of this knowledge in living form — not as text only, but as a working place where the practice continues to be practised.
+
+The early stewards are those who understand what is at stake, who have direct relationship with the practice, and who will hold the land and the archive with the same seriousness with which they were built. These people have not all arrived yet. This document is here so that when they do, they know what they are walking into.
 
 **Investment and stewardship:**
 
-This is not a commercial project. It is an infrastructure project for knowledge that has no other home. [Fill in: what is needed, what the invitation to investors looks like, what the relationship between investor and trust would be.]
+This is not a commercial project. It is an infrastructure project for knowledge that has no other home.
+
+What is needed in concrete terms: land in the Torremolinos area, a structure that can hold a kitchen, a laboratory, a bath, and space for people to stay. The legal formation of the foundation. The animals. That is the material requirement. It is not abstract.
+
+What investors receive is not a financial return. It is participation in a restoration that has been five centuries in the making — since the last alchemical laboratories of Al-Andalus were shuttered and the women who held this knowledge were called witches for holding it. The people who bring this place into being are making it possible for knowledge that has survived underground, in fragments, in the bodies of practitioners who never stopped — to have a home again. A physical, permanent, documented home.
+
+That is the invitation. Not a product. Not a retreat programme. A place that holds what has been kept alive at great cost, and makes it available to those who are ready to receive it.
 
 ---
 
@@ -253,7 +261,19 @@ The two years in a fixed location showed what the practice becomes when it has s
 
 The difference is not discipline. When the bath is there, you use it. When the garden is there, you tend it. When the storage space is there, you fill it. The practice self-organises around the conditions available to it. The task is to create the conditions.
 
-[Fill in: anything else the practice has taught about place, land, permanence, and what it means to carry this knowledge without a home for it.]
+What the practice has taught — slowly, over four years, layer by layer — is that the body was never as dependent on external intervention as it was designed to believe.
+
+This is the deeper wound this practice is addressing. Not the Inquisition, not the suppression of Andalusian alchemy — those are the historical record. The wound alive in bodies right now is something more intimate. It is the severing that happened at birth. The cord cut before it finished its work. The milk replaced by formula. The birth moved from home to hospital, from the hands of women who had attended thousands of births to a managed medical event. The body's first nourishment — the one it produces for itself, the first living water — displaced by industrial substitutes. That severing did not begin five hundred years ago. It happened to the generation alive now. It is encoded in the nervous systems of people walking around today who cannot locate the origin of their restlessness, their insatiable hunger, their inability to feel genuinely met by anything they consume.
+
+This is what we are calling the Mother Wound. Not a metaphor. A physiological, generational, documented interruption of the body's own nourishing intelligence — and the consequences of that interruption distributed invisibly across a culture that normalised the interruption and called it progress.
+
+The wound is not only women's. It is carried by all her children. Every person born into the modern birth system has been, to some degree, severed from this. Men carry it. Children carry it. The anger that has no name, the hunger that food does not reach, the immune systems that cannot find their equilibrium — these are not individual failures of constitution. They are the inherited signal of a system that interrupted the loop at the very beginning, before the person was even a person, and never told them what was taken.
+
+The practice documented here is not a cure. It is a demonstration. The body, given access to what it actually produces, given the conditions to run the loop it was designed to run, moves toward its own equilibrium without being told how. The loop does not require belief. It requires conditions.
+
+The permanent place at Torremolinos is for that demonstration to be visible. Not in a laboratory, not in a paper — but in a kitchen, in a garden, in a living body that people can sit across from and observe. In a place where the knowledge is not stored but practised. Where the transmission happens the way it always happened: through presence, through proximity, through the body learning from another body what its own nature already knows.
+
+This is what needs a home. Not a theory. A living practice, with land and animals and a still running and someone to open the door.
 
 ---
 
