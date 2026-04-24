@@ -74,7 +74,7 @@ Each entry notes:
 - Solar spirit used for washing grains, vegetables, fruits before consumption
 - Lunar essence introduced to cooking process occasionally, particularly with ayurvedic medicinals
 - Dairy: warm milk, yogurt, ghee
-- Grain present: wheat, rice, oats — washed with distilled water and Solar spirit, soaked up to ~1 hour (longer = better results), then cooked. Grain breaks apart more readily since introducing Spirit to the soak. Distilled water alone also cleans and soaks better than tap or bottled water. Effect of Spirit appears amplified by distilled water — fewer competing ions means the Spirit's alkaline compounds act more directly on the grain.
+- Grain present: wheat and rice — washed with distilled water and Solar spirit, soaked up to ~1 hour (longer = better results), then cooked. Oats are not soaked or washed in this way. Grain breaks apart more readily since introducing Spirit to the soak. Distilled water alone also cleans and soaks better than tap or bottled water. Effect of Spirit appears amplified by distilled water — fewer competing ions means the Spirit's alkaline compounds act more directly on the grain.
 - Fruit and vegetables: occasional and intentional, not daily — cooked apple or fresh juice used medicinally to support sugar transition or cool digestion
 - Coffee: removed (last few weeks)
 - CBD: removed (last few weeks)

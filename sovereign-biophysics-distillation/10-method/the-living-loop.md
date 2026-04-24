@@ -66,10 +66,37 @@ This is documented here because it is real safety information, not a theoretical
 *Now:* The Lunar essence has become the primary topical fluid — kept in a spray bottle and used liberally, especially after the shower while the skin is still warm and the pores are open. The Solar spirit is used on the face and neck. The Saturn serum is still used but less as the primary daily topical and more for specific applications. Fresh plasma remains the fallback when no distillate is available.
 
 **Eyes and ears:**
-Lunar fraction used daily as eye drops. A few drops warmed and applied to the ear canal for hygiene. [Fill in: frequency, any changes in practice.]
+The same arc as the other protocols — fresh first, then aged, then the distilled fractions. For both eyes and ears, the preference was always for what we call soft aged: lighter batches, not too concentrated, not too alkaline. Fresh was the default when soft aged wasn't available or when the aged felt too strong.
+
+Now: Lunar essence for both. The eyes are strictly essence only — no spirit, no aged, nothing else. The ears will take a single drop of spirit on occasion, but the primary application here is also essence. The gentleness of the Lunar fraction is what makes it appropriate for both tissues — it carries almost nothing beyond the structured water itself.
+
+**Nasal:**
+This section was missing from the original outline and belongs here.
+
+Nasal application — snorting fresh or aged plasma directly — has been a significant part of the practice for a long time. Almost daily at some periods, or at least several times a week. The go-to when breathing became difficult, when the sinuses were blocked, when the airways felt congested by season or environment. It always brought relief. Not sometimes. Always.
+
+My partner used to sleep slightly inclined because of a chronically compromised airway. The nasal practice resolved this. He no longer needs the incline. This was not a gradual improvement — it was a clear change, and it held.
+
+The need for nasal application has decreased over time as the practice has deepened and the body has cleared. This seems consistent with other areas where the body is doing less work against itself and therefore needs less intervention. We still use it from time to time — fresh or aged, with a preference for aged — and have begun experimenting with the Lunar essence for this. The essence has not yet been needed in the same urgent way the aged was needed in earlier years, but it clears a block cleanly when used.
+
+Note on concentrations: fresh and soft aged plasma are appropriate for nasal application because they are close to the body's own osmotic balance. The Solar spirit and Saturn serum are not appropriate for nasal use — the spirit's ammonia vapour would inflame the olfactory receptors and sinus lining; the serum's mineral concentration is too dense for the nasal cilia. The Lunar essence sits between these — structurally clean, very low mineral load, and gentle enough for the nasal passage.
 
 **Cooking:**
-Distilled water for all cooking. Solar spirit added to grain soaking water — wheat, rice, oats soaked up to one hour before cooking. Lunar essence introduced occasionally into the cooking process, particularly when working with ayurvedic medicinals. [Expand.]
+Distilled water for all cooking. Wheat and rice are washed with distilled water and Solar spirit and soaked up to one hour before cooking — the alkalinity breaks down the grain structure and the result cooks differently. Oats are not soaked or washed this way.
+
+The use of plasma in cooking goes back to the beginning of the practice. In the early period, fresh plasma was used directly in some preparations — not as the main cooking liquid but worked into certain dishes. Flatbreads in particular: fresh plasma used instead of water in the dough for a period, which was very common. Now the diet has shifted — milk has become the liquid in flatbreads where plasma once was — and the essence is not currently used in bread-making.
+
+**Herbal extracts — aged plasma:**
+For approximately a year, aged plasma was used as the base for herbal extracts — consumed as tinctures, not added to food. The aged plasma as a menstruum drew out the medicinal compounds differently from alcohol or water. These were a real and significant part of the practice during that period.
+
+**Spirit infusions:**
+The Solar spirit as an extraction medium is more recent and still being explored. The method: seal the herb in the spirit and allow it to infuse, then open the vessel to let the spirit off-gas — the volatile ammonia and alcohol-like compounds evaporate, leaving the medicinal extract behind in a concentrated, gentler form. The flavour of the medicinal prepared this way was exceptional. This is a direction that wants more exploration when the conditions for it are there again.
+
+**Essence in coffee:**
+While still drinking coffee, the Lunar essence was added to the distilled water going into the moka pot — a small amount, not the whole water volume. The flavour was noticeably improved. The practice of adding essence to distilled water for coffee continued for the period when coffee was still part of the daily routine.
+
+**Current state:**
+The diet is stripped down. When herbs are used in small meals they are held in spirit or essence as they're prepared — on the spot, no advanced preparation at the moment. The essence is used in small amounts in cooking when carrying a medicinal compound into the process, but there is no active medicinal work happening right now. This is a quieter period, and the cooking reflects that. The deeper exploration of spirit infusions and aged plasma extracts is something the next fixed period of practice will return to.
 
 ---
 

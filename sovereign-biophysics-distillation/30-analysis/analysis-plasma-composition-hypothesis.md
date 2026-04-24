@@ -37,7 +37,7 @@ This is a closed loop. The fractions produced by distillation re-enter the body 
 
 **Diet:**
 - Dairy present: warm milk, yogurt, ghee.
-- Grain present: wheat, rice, and oats — washed with distilled water and Solar spirit before cooking.
+- Grain present: wheat and rice — washed with distilled water and Solar spirit, soaked before cooking. Oats are not soaked or washed in this way.
 - Fruit and vegetables: occasional and intentional, not daily — used medicinally (fresh pressed juice or cooked apple to cool digestion or support transition off sugar).
 - No meat, no eggs, no alliums, zero NaCl.
 
