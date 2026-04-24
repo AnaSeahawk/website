@@ -167,35 +167,47 @@ The bath water afterward went directly onto the garden. Nothing was lost.
 **Rubber boots:**
 Boots filled with shivambu — walking through the day with the feet in continuous contact with the aged fluid. The soles of the feet are among the most absorbent surfaces the body has.
 
+The boots grew out of the foot bath. The foot bath required sitting; the boots made it possible to move through the day while soaking. A practical evolution toward something that could actually be maintained.
+
+My partner had a severely blackened toenail at the time. It cleared. The change was not slow — it did not take long. The boots were the main intervention. The feet were the first place in the practice where the material showed what it could do on a visible, contained problem.
+
+What the boots produced in the feet — a particular softness, a quality of clean that is difficult to describe but immediately recognisable in the skin — stayed with me as a reference point. I still treat my feet with aged plasma regularly. The form has adapted: with this much movement, a spray bottle of aged plasma and a hands-on rubbing-in replaces the soak as the daily default. When a mop bucket is available in a place we're staying, that becomes the vessel — fill it, soak, use what's there. The practice self-organises around the infrastructure available. The principle has not changed.
+
 **Laundry:**
 Done by hand, outside, at the farmhouse — no washing machine for those two years. Aged plasma in the wash water. The laundry water, like the bath water, went onto the garden when done.
 
 The loop extended past the body into the land. Body → bath → garden. Body → laundry → garden. The farmhouse system was not designed this way deliberately — it was the natural result of having a garden, doing laundry outside, and having a practice that produced more liquid than the body alone could use. The garden received everything the body passed through.
 
+This has continued into the nomadic period. Where there is a machine in the place we're staying, aged plasma goes into the wash. The garden is gone; the practice continues.
+
 **Windows and surfaces:**
-Aged plasma as a cleaning agent for glass and surfaces. [Fill in: specific observations, comparisons to commercial products, what the clarity of the glass looked like.]
+Aged plasma diluted in warm water in place of all-purpose cleaner. A generous splash in a bucket — for floors, windows, mirrors, general surfaces. It functions the same. The glass is as clear; the mirrors are as clean. You cannot tell the difference from the result. What you do notice is your hands — the skin does not come out of the cleaning the way it does with commercial product. It comes out better.
 
 **Garden and fertilizer:**
-The understanding of plasma as fertilizer came before the amaroli practice itself — one of the earliest recognitions, before the internal practice was established. [Fill in: what was applied, what grew, what was observed. This was the entry point.]
+The understanding of plasma as fertilizer came before the amaroli practice itself — one of the earliest recognitions, before the internal practice was established.
+
+The results are obvious. Garden plants respond visibly. House plants respond. A splash in the watering can is enough — this does not require volume or precision, just inclusion.
+
+One distinction that matters: aged only, always diluted. Fresh plasma will burn roots and kill plants — the urea load is too high, too concentrated, not yet broken down. Aged plasma has gone through the fermentation that converts that load. The same material, weeks later, is what the plant can receive. This is one of the cleaner demonstrations that aging is a transformation, not merely a wait.
 
 **Storage at scale:**
-[Fill in: the volumes collected during the two-year fixed period, how the storage was managed, what happened to the large stock in Torremolinos — still waiting there, returning in July 2026.]
+Storage is dynamic. The large containers are the backbone — the 20-litre vessels, the labeled aging batches. But alongside these there are always special collections: smaller containers set aside from fasting states, or from moments when the intuition signals that this particular batch should be kept separate. The practice generates its own sense of what to hold and how.
+
+The storage in Torremolinos is convenient and temporary. What happens next will show itself. Being nomadic means learning that flexibility is not a compromise of the practice — it is part of it. Things change. The way shows itself. The future is not something to secure against; it is something to move into. The practice has always found its form in the conditions available, and this is no different.
 
 ---
 
 ## The Nomadic Practice — What Adapts
 
-The practice has continued through fourteen years of nomadic life, and through every move.
+Fourteen years nomadic. The amaroli practice is four years old — it began inside the nomadic life, has continued through every move, and has shaped itself entirely around conditions that change.
 
-What travels: the distiller, the meter, the amber glass, the understanding.
+What travels: the distiller, the meter, the small amber and clear glass dropper bottles, a length of aquarium tubing for syphoning, the understanding.
 
 What requires land: the bath, the boots, the garden, the scale of collection that makes the full practice possible. The bath cannot travel. The garden cannot travel. The large-scale storage requires a place to store.
 
-What the nomadic practice looks like now — in a small apartment in Sarandë, Albania, with the plasma collected in modest quantities, the distiller on the counter, no outdoor space:
-[Fill in: the current stripped version, what is maintained, what is waiting to be restored when there is land again.]
+The nomadic life taught what the practice requires at its irreducible minimum. That minimum is small: the body, a container, time. Everything else is amplification. Knowing the minimum is what makes the amplification legible — the bath and the garden are not luxuries added to an already complete practice. They are what the practice becomes when it has space to grow into.
 
-**The storage in Torremolinos:**
-Approximately [fill in volume] of aged plasma collected over the Torremolinos period, held in storage, waiting. Return planned for July 2026. This is not a pause in the practice. It is a fermentation period. The material is aging toward the next phase of work.
+Now, plans are forming to transition to a permanent dwelling. Fourteen years of movement arriving at the recognition that the practice — and the knowledge it is generating — wants a home.
 
 ---
 
@@ -203,7 +215,7 @@ Approximately [fill in volume] of aged plasma collected over the Torremolinos pe
 
 The practice has always pointed toward a place.
 
-Not a clinic. Not a school. Not a retreat centre in any commercial sense. A working laboratory — with a kitchen, a garden, a bath, a still, and the full infrastructure for the practice to run at its natural scale. A place where people can come and see what this actually looks like — the diet, the distillation, the daily relationship with the body's own living waters.
+Not a clinic. Not a school. Not a retreat centre in any commercial sense. A working laboratory — with a kitchen, a garden, a bath, a still, the animals that make the diet possible, and the full infrastructure for the practice to run at its natural scale. A place where people can come and see what this actually looks like — the diet, the distillation, the animals that feed the body that produces the practice, the daily relationship with the body's own living waters. There is no body without what feeds it. The cows are not separate from the practice. They are part of the same living relationship.
 
 The women of the past had this. Caterina Sforza had her herb garden and laboratory. The Alexandrian women had the apparatus and the space to use it. Mary Meudrac had students. The knowledge moved because there was a place for it to move through.
 
@@ -211,7 +223,17 @@ The women of the past had this. Caterina Sforza had her herb garden and laborato
 
 A kitchen where the ambrosia diet is cooked and shared. A laboratory where distillation is visible and legible — where visitors can see the still, smell the fractions, understand what happens at each stage. A garden producing the herbs and foods that feed the practice. A bath. Space for people to stay — not as a course with an outcome, but as an immersion in a way of living that most people have no context for.
 
-The land in question: the Torremolinos area, Andalusia, Spain — Mediterranean coast, warmth, light, a geography already resonant with the practice's history in that location.
+And cows. The diet is built on dairy — warm milk, yogurt, ghee. To live this practice at its full scale, at a place that can sustain and demonstrate it, requires the source. Not purchased and delivered. Present. The cow is not a detail of the vision; it is a structural requirement of the diet the practice arrives at.
+
+The land in question: the Torremolinos area, Andalusia, Spain — Mediterranean coast, warmth, light, a geography that carries the full weight of this knowledge tradition's history on the continent.
+
+Al-Andalus — the Muslim civilisation that governed this region from 711 to 1492 — was the centre of alchemy and practical chemistry in Europe. The word alchemy comes directly from Arabic: *al-kīmiyā'*. Distillation as a refined art — of perfumes, medicinal oils, essential extracts — was practiced in the cities of Al-Andalus centuries before it reached northern Europe. The alchemical work *Rutbat al-Hakim* (The Sage's Step) was written in Al-Andalus. Maslama al-Majriti, working in Córdoba around 950–1007 CE, was one of the most significant alchemists and chemists in the medieval world. Málaga — the province in which Torremolinos sits — was part of the last Nasrid Muslim kingdom, which fell in 1487. Torremolinos takes its name from the Arab-built Torre Molinos, a watchtower that still stands in the city. The land has been walked by people carrying this knowledge.
+
+After the Reconquista, the knowledge was driven underground. Moriscos — Muslims forced to convert — were eventually expelled entirely from Spain between 1609 and 1614. What survived survived in fragments: orally, privately, in the practices of women who continued doing what they had always done while the official record erased their names. The translations of Andalusian medical texts into Spanish systematically omitted the names of their Andalusian authors. The erasure was deliberate.
+
+The Spanish Inquisition, which had targeted Muslims and Jews first, then turned its attention explicitly to women in healthcare. Midwives and healers were called witches for the same knowledge that had been practised openly and honourably in Al-Andalus. Leonor "la Camacha" Rodríguez — one of the most documented of Andalusia's persecuted healers — was tried and sentenced for witchcraft in 1572. Cervantes knew her name. The *Malleus Maleficarum*, the primary inquisitorial text on witchcraft, singled out midwives as among the most dangerous: *"surpassing in malignity all others."* What they were calling malignity was empirical knowledge. The women did not stop. They practiced on the margins. The knowledge contracted but did not disappear.
+
+What is being built at Torremolinos is not new. It is a return to a place where this work was once public, practised, and honoured — and from which it was then violently removed. The permanent place is not a beginning. It is a restoration.
 
 **The structure:**
 
