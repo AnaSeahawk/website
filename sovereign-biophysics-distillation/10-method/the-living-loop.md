@@ -105,13 +105,40 @@ The diet is stripped down. When herbs are used in small meals they are held in s
 *(Fill in: collection, filtering, storage rotation, what requires planning)*
 
 **Collection:**
-[Fill in: the syphoning practice, timing, what volumes are realistic in a nomadic context vs. a fixed place.]
+Collection has always been done separately — Ana's and Olivier's kept distinct, labeled with date. Practical containers: plastic food containers, reused water bottles or milk containers. Not amber glass at this stage — practical over ideal. Batches stay small. Sometimes several small containers are combined into a larger one when volume allows.
 
-**Aging batches:**
-[Fill in: current fermentation windows, how the practice has adapted from the early two-year period of large-scale collection to the current more portable approach.]
+This has been the practice throughout: two practitioners, two streams, labeled and dated, managed separately.
+
+Recently this has shifted. We have begun combining our collections into a single shared container — again for practical reasons, the nomadic context making separate storage increasingly cumbersome. The initial collection still goes into individual containers. What either of us wants to consume that day is kept separate and personal. The rest — the aging batch — goes into one shared vessel.
+
+The combined aging batch is a new development. What it produces in the distillation, and whether it differs from single-practitioner batches in any measurable way, remains to be seen.
+
+In Torremolinos, waiting for our return in July 2026: three 20-litre containers — 60 litres total. One is Olivier's. One is Ana's. One is combined. All aging in the same conditions, the same space, the same period of time. The July runs will be the first opportunity to distil all three and compare directly — single-practitioner against single-practitioner against the shared vessel. This is the most controlled comparison the practice has produced so far.
+
+**Syphoning and aging:**
+Plasma is routinely syphoned during the aging process whenever sediment collects at the base of the container — the clear aging liquid drawn off the top, the sediment discarded. This has been regular practice for over two years. Filtering is done but time-consuming; it's now reserved for specific purposes rather than routine maintenance.
+
+No strict time limit on aging. A full lunation cycle — approximately 28 days — is the ideal minimum, but less is workable when needed. Shaking the container advances the process and has been used when arriving somewhere new and wanting to move the fermentation forward quickly.
 
 **Storage:**
-Amber glass, sealed, labeled. In a nomadic context this means [fill in: what travels, what gets left, the Torremolinos cache waiting for return in July 2026].
+Aging plasma is stored in plastic — practical choice given the volumes involved and the logistics of moving. 20-litre plastic water containers are the standard vessel for large batches. The distilled fractions are different: spirit and essence are stored in glass wherever possible — repurposed yogurt jars, purchased glass — because the volatile and concentrated nature of these fractions warrants better containment than plastic.
+
+**Storage locations as of April 2026:**
+
+*Torremolinos, Spain — mini storage unit:*
+60 litres plasma in three 20-litre plastic containers (Olivier's, Ana's, combined). Spirit and essence from previous runs in glass jars. Return planned July 2026.
+
+*Beloeil, Quebec, Canada — basement of Olivier's mother:*
+Plasma collected during the summer 2025 stay. Plastic, labeled. Left in trust with family when the move to Europe was made.
+
+*Tivat, Montenegro — in the forest outside the city:*
+A few litres, plastic, labeled. Left when leaving Montenegro for Spain.
+
+**What travels:**
+Only a small amount moves with us between locations. For this trip to Albania: 300ml spirit and 100ml essence in glass dropper bottles, some serum and the balm in a small glass jar — mostly clear glass, what was available. Plus one litre of essence in a plastic water bottle for the journey itself, most of which had to be consumed before airport security.
+
+**What stays behind:**
+Any excess that cannot travel is deposited into the local environment before moving — fertilizing the land and community in the place being left. What goes into the roadside is a gift to the soil. Nothing is wasted.
 
 ---
 

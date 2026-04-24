@@ -64,6 +64,7 @@ Each entry notes:
 **2026-04-03** — Four-year mark of amaroli practice.
 
 **2026-04-14** — Arrived in Sarandë, Albania. Move taken as opportunity for deeper dietary change.
+- In storage, Torremolinos: 60 litres total — three 20-litre containers (Olivier's, Ana's, combined). All aging in place. Return planned July 2026 for first three-way distillation comparison.
 
 **2026-04-~01 to 2026-04-23** — Removal of coffee, CBD, and refined sugar. Staged over several weeks. Practitioner in Sarandë, Albania from April 14.
 
