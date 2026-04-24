@@ -218,4 +218,4 @@ Several of the textual sources in this piece — the Rig-veda ghee verse, the Ta
 
 ---
 
-*Continue reading: [Amaroli Protocols →](amaroli-protocols.md)*
+*Continue reading: [The Living Loop →](the-living-loop.md)*
