@@ -123,6 +123,4 @@ Store in a wide-mouth amber glass jar with a tight-fitting lid. The serum is hyg
 
 ---
 
-*Reference: [Sovereign Biophysics Translation Map](sovereign-biophysics-translation-map.md) — terminology cross-reference across traditions.*
-
-*Continue reading: [Experiment Report: Olivier's First Distillation →](../20-experiments/experiment-report-aged-plasma-distillation.md)*
+*Continue reading: [Sovereign Biophysics Translation Map →](sovereign-biophysics-translation-map.md)*

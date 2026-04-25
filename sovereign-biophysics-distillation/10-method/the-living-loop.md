@@ -26,8 +26,6 @@ After four years, this is not a discipline. It is simply how a day moves.
 
 ## The Daily Practice
 
-*(Fill in: morning routine, drinking, oral care, skin, what changes by season and location)*
-
 **Drinking:**
 The primary drinking fluid is now the Lunar fraction — what we call, in our own language, the essence. It replaces tap water, mineral water, and most other liquids in the daily domestic context.
 
@@ -71,8 +69,6 @@ The same arc as the other protocols — fresh first, then aged, then the distill
 Now: Lunar essence for both. The eyes are strictly essence only — no spirit, no aged, nothing else. The ears will take a single drop of spirit on occasion, but the primary application here is also essence. The gentleness of the Lunar fraction is what makes it appropriate for both tissues — it carries almost nothing beyond the structured water itself.
 
 **Nasal:**
-This section was missing from the original outline and belongs here.
-
 Nasal application — snorting fresh or aged plasma directly — has been a significant part of the practice for a long time. Almost daily at some periods, or at least several times a week. The go-to when breathing became difficult, when the sinuses were blocked, when the airways felt congested by season or environment. It always brought relief. Not sometimes. Always.
 
 My partner used to sleep slightly inclined because of a chronically compromised airway. The nasal practice resolved this. He no longer needs the incline. This was not a gradual improvement — it was a clear change, and it held.
@@ -101,8 +97,6 @@ The diet is stripped down. When herbs are used in small meals they are held in s
 ---
 
 ## The Weekly Practice
-
-*(Fill in: collection, filtering, storage rotation, what requires planning)*
 
 **Collection:**
 Collection has always been done separately — Ana's and Olivier's kept distinct, labeled with date. Practical containers: plastic food containers, reused water bottles or milk containers. Not amber glass at this stage — practical over ideal. Batches stay small. Sometimes several small containers are combined into a larger one when volume allows.

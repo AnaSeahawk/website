@@ -11,7 +11,7 @@ claim_tier: interpretation
 
 # The Grief That Was Never Recorded
 
-### *On Disenfranchised Loss, the Suppressed Alchemical Record, and What the Female Body Has Always Know*
+### *On Disenfranchised Loss, the Suppressed Alchemical Record, and What the Female Body Has Always Known*
 
 ---
 

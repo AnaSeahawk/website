@@ -18,8 +18,6 @@ claim_tier: interpretation
 
 ---
 
----
-
 ## Contents
 
 - [The Shape of the Suppression](#the-shape-of-the-suppression)
