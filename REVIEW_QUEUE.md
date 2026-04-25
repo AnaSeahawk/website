@@ -42,23 +42,8 @@ Use this board to track content state and keep publishing predictable.
 
 ## Needs Pass
 
-**Metadata / content polish**
-- `The-Living-Year/README.md` — metadata + boundary line
-- `The-Living-Year/2026-02-06-living-map-of-time.md` — metadata + visibility tag
-- `Dreamwork/README.md` — metadata
-- `Dreamwork/2025-12-10-threshold-dreaming.md` — metadata
-- `Dreamwork/2025-12-12-kernel-of-sight-corn-dream.md` — metadata
-- `Dreamwork/2025-12-26-what-no-longer-needs-carrying.md` — metadata
-- `Relationship/index.md` — metadata + nav clarity
-- `Relationship/FieldGuide_Relationship.md` — date + content in progress
-- `Relationship/Living_Equilibrium.md` — date + content in progress
-- `Relationship/Moringa.md` — light language pass + metadata
-
-**Sun/moon blanks (need astro.com verification for Torremolinos)**
-- `Foundations/2025-12-10-plasma-foundation-of-a-new-world.md`
-- `Foundations/2026-01-02-sacred-ordinary-seed-of-matter.md`
-- `Foundations/2026-03-14-freedom-is-love-lineage-of-record.md`
-- `sovereign-biophysics-distillation/10-method/2026-01-15-amaroli-protocols.md`
+**Metadata / content polish — completed 2026-04-25**
+- The Living Year, Dreamwork, Relationship folders — all done this session
 
 ## Private / Moved
 
