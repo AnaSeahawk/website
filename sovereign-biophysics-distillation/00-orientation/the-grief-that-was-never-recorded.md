@@ -29,6 +29,14 @@ That moment is now.
 
 ---
 
+The archetype for grief that has no container is La Llorona — the weeping woman of Mexican and Southwestern tradition, the one who wanders the riverbanks calling for her lost children, unable to rest, unable to enter peace. Clarissa Pinkola Estés, in *Women Who Run With the Wolves*, reads La Llorona as what happens when a woman's most vital productions — the things she has made and loved — are lost, and the grief of that loss has no witness, no ritual container, no way to transform. The woman falls to the riverbank and dies of grief. Her soul cannot enter heaven until she recovers what was taken from the river. So she weeps. She searches. Forever.
+
+Estés's reading is specifically about creative life — the children as ideals, as generative potential. But the structural logic is identical to what this document describes. Without witness, grief does not transform. It circles. It searches the riverbank, year after year, calling the names of what it cannot find. The absence of ritual container does not make the grief smaller. It makes it permanent — turned inward, turned devouring, unable to distil into something that can be passed forward.
+
+The river that La Llorona searches is the same river the practice describes: clear water, once. Nourishing. The water that held what was made and could have returned it. What pollutes it is not the grief itself but the absence of witness — the culture that removed the midwife from the room, took the placenta in a bag, sent the woman home alone without a name for what had occurred. La Llorona is the archetype of what that removal produces. She is not a ghost story. She is a clinical description.
+
+---
+
 ## The Record That Was Never Kept
 
 Across continents and across religions, the story is the same.
@@ -46,6 +54,8 @@ She said nothing. Because saying anything was the end of her.
 This silence has not entirely lifted. Something stirs in the body of anyone trained to be present at the raw threshold of life and death — when the cord is cut before it finishes its work, when the mother is not shown what her body produced, when the grief in the room is managed rather than witnessed. The intuition remains. The permission to follow it has been trained out.
 
 The wise women, the root-gatherers, the midwives that Paracelsus himself named as his true teachers — the ones he said understood the alchemy of the human body more completely than any university had taught him — these women operated under the permanent threat of accusation. Their knowledge was dangerous precisely because it was embodied. It lived in the hands, in the nose, in the intuition intact and uncompromised, in the capacity to read what the body produced and know what it meant.
+
+Ehrenreich and English's *Witches, Midwives, and Nurses* names exactly what made that knowledge threatening. The witch-healer was a "triple threat to the Church: She was a woman, and not ashamed of it. She appeared to be part of an organized underground of peasant women. She was a healer whose practice was based in empirical study. In the face of the repressive fatalism of Christianity, she held out the hope of change in this world." She was dangerous not because her medicine failed but because it worked — outside institutional control, without permission, through methods grounded in what the senses and the hands could verify. The organized campaign against her was not hysteria. It was policy. "Witch-healers were often the only general medical practitioners for a people who had no doctors and no hospitals." The institution's offer to the people she served, as Ehrenreich and English quote Michelet: *"You have sinned, and God is afflicting you. Thank him; you will suffer so much less torment in the life to come. Endure, suffer, die."* That offer has not changed. Only its language has.
 
 The disenfranchised grief and the suppressed alchemical knowledge are not two separate stories. They are one story. The grief was made nameless because naming it would have required acknowledging what the body had done — and what the body had done was the Great Work.
 
@@ -94,6 +104,12 @@ The three days on the hook is putrefaction — the necessary dark stage, the fer
 The Sumerians who encoded this myth understood what the midwives understood. That the passage through death — literal or biological — strips the vessel of everything it was carrying that was not essential. That the hanging, the suspension, the time of dissolution in the dark, is not punishment. It is the necessary stage. The *Nigredo* has a duration. It is not permanent. But it cannot be shortened, and it cannot be skipped.
 
 What resurrects Inanna is not heroic action. Two small, sexless beings descend into the Underworld and do nothing but witness Ereshkigal's pain. They hold space for the grief of the place where death lives. They say: *oh, your heart.* They do not try to fix what they find. The witness comes before the water. This is the sequence the myth insists on. And because the grief is finally witnessed — because the dark sister's labor is seen and held without flinching — Inanna's corpse is sprinkled with the Water of Life and the Food of Life. *Me-ê ḫayyātim*. Aqua vitae. The living waters.
+
+Sylvia Brinton Perera, in *Descent to the Goddess*, reads the mourners' witness as the key act of the entire myth — and articulates what the witness actually does. Her translation of the litany:
+
+> *When Ereshkigal says "Woe! Oh my inside!" they echo her with, "Woe! You who sigh our queen. Oh, your inside!" When she says "Woe! Oh my outside!" they echo her with, "Woe! You who sigh our queen. Oh, your outside!" Their echoing makes a litany, transforms the pain into poetry and prayer. It makes out of life's dark misery a song of the goddess.*
+
+The echoing does not argue with the grief. It does not name it, frame it, or offer to solve it. It mirrors it. This is the function the archive is trying to perform — not for Ereshkigal, but for the women who have carried grief in the exact form this document describes. The kurgarra and galatur do not arrive with the living waters first. They witness first. They make the litany first. The distillate works because the witness came before it.
 
 She is not restored by something imported from elsewhere. She is restored by the living waters — the same substance the myth is describing. The distillate applied to the matter that has passed through the full descent.
 
