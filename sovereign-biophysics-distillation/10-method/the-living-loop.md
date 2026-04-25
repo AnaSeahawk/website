@@ -229,23 +229,11 @@ The Spanish Inquisition, which had targeted Muslims and Jews first, then turned 
 
 What is being built at Torremolinos is not new. It is a return to a place where this work was once public, practised, and honoured — and from which it was then violently removed. The permanent place is not a beginning. It is a restoration.
 
-**The structure:**
+What is being built is not a school, not a programme, not a product. It is a place that holds what has been kept alive at great cost — so that it can be lived, demonstrated, and passed forward in the only form that has ever actually worked: body to body, presence to presence, practice to practice.
 
-A trust — or its equivalent in legal form — so that the knowledge and the place outlive the practitioner. The women of Alexandria built apparatus whose names survive two thousand years later. The knowledge being documented here should not require any single person to be alive for it to continue. The trust holds the land, the archive, the practice, and the mandate to keep it open.
+The women of Alexandria built apparatus whose names survive two thousand years later. The knowledge does not require any single person to remain alive for it to continue. It requires a place. A kitchen. A garden. A still. Cows. The conditions for the practice to run at its natural scale, visible to whoever is ready to see it.
 
-This is early stage. What is clear is this: the structure must outlive its founder. In Spain, the appropriate legal form is a *fundación* — a non-profit foundation that holds assets (land, archive, practice documentation) for a defined public purpose. It does not generate profit. It does not belong to its founder. It belongs to its mandate. The mandate is the preservation and transmission of this knowledge in living form — not as text only, but as a working place where the practice continues to be practised.
-
-The early stewards are those who understand what is at stake, who have direct relationship with the practice, and who will hold the land and the archive with the same seriousness with which they were built. These people have not all arrived yet. This document is here so that when they do, they know what they are walking into.
-
-**Investment and stewardship:**
-
-This is not a commercial project. It is an infrastructure project for knowledge that has no other home.
-
-What is needed in concrete terms: land in the Torremolinos area, a structure that can hold a kitchen, a laboratory, a bath, and space for people to stay. The legal formation of the foundation. The animals. That is the material requirement. It is not abstract.
-
-What investors receive is not a financial return. It is participation in a restoration that has been five centuries in the making — since the last alchemical laboratories of Al-Andalus were shuttered and the women who held this knowledge were called witches for holding it. The people who bring this place into being are making it possible for knowledge that has survived underground, in fragments, in the bodies of practitioners who never stopped — to have a home again. A physical, permanent, documented home.
-
-That is the invitation. Not a product. Not a retreat programme. A place that holds what has been kept alive at great cost, and makes it available to those who are ready to receive it.
+That is the dream. It is enough.
 
 ---
 
