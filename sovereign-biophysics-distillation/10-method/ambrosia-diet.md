@@ -20,7 +20,7 @@ claim_tier: practice
 
 ## What Changes
 
-When the Lunar fraction becomes the daily drinking water, something in the appetite changes. Not through willpower or restriction — through satiation at a register that food was not previously reaching. The urgency quiets. The compulsive reach for stimulation, complexity, flavor intensity settles. What the body asks for becomes simpler and clearer. And what it asks for, when the asking is clear, turns out to be a small number of things used well.
+When the Lunar essence becomes the daily drinking water, something in the appetite changes. Not through willpower or restriction — through satiation at a register that food was not previously reaching. The urgency quiets. The compulsive reach for stimulation, complexity, flavor intensity settles. What the body asks for becomes simpler and clearer. And what it asks for, when the asking is clear, turns out to be a small number of things used well.
 
 This is not a dietary programme. It is an observation: as the practice deepens, the diet the body wants converges on something that the ancient traditions had already named and structured. The convergence is not coincidence. The traditions that developed these dietary frameworks were working with the same practice and arrived at the same conclusions from the inside.
 
@@ -42,7 +42,7 @@ The Taittiriya Upanishad states it in two directions: *"From anna arises the hum
 
 The carbohydrate base of the diet. Rice, wheat berries, oats — cooked fully, cooked slowly, cooked until they are genuinely soft and digestible. Not undercooked for texture. Not raw or minimally processed. The Ayurvedic tradition is specific: grain must be properly cooked to be properly received. The body's digestive fire — *agni* — processes what has been prepared. Raw or undercooked grain asks the digestion to do work that heat could have done in the pot.
 
-Wheat berries soaked in Solar fraction diluted in pure water before cooking have a noticeably different quality — more tender, the structure opened before the heat touches it. The preparation is part of the cooking, not preliminary to it.
+Wheat berries soaked in Solar spirit diluted in pure water before cooking have a noticeably different quality — more tender, the structure opened before the heat touches it. The preparation is part of the cooking, not preliminary to it.
 
 **Why this works — the alkaline soak**
 
@@ -58,13 +58,13 @@ Traditional lye preparations were made with well water, spring water, or river w
 
 Distilled water carries none of this. No carbonate buffer. No competing divalent ions. No chlorine reacting with the ammonia fraction or with the grain's surface compounds. When Solar spirit is added to distilled water, the alkalinity is fully available — every active molecule goes directly to the grain surface, unimpeded. A weaker agent in a clean medium operates with greater precision and efficiency than a stronger agent working against the mineral resistance of spring or tap water.
 
-This is not a claim of equivalence with nixtamalization. The traditions that used calcium hydroxide achieved something additional: the calcium itself entered the grain, fortifying it in ways that pure alkaline softening does not replicate. What is being described here is more modest and more specific: a preparation that opens the grain's outer structure and reduces the phytic acid barrier, using the body's own distilled fraction in a medium that allows it to do its work cleanly.
+This is not a claim of equivalence with nixtamalization. The traditions that used calcium hydroxide achieved something additional: the calcium itself entered the grain, fortifying it in ways that pure alkaline softening does not replicate. What is being described here is more modest and more specific: a preparation that opens the grain's outer structure and reduces the phytic acid barrier, using the spirit in a medium that allows it to do its work cleanly.
 
-**The Lunar water**
+**The Lunar essence**
 
-Used as the daily drinking water. In cooking, a small amount is combined with ghee to carry plant medicine — herbs held briefly in the ghee and Lunar water together before the grains and pure water are added. This is the medicine-carrying step, not the cooking water itself. The grains cook in pure water. The Lunar fraction enters at the point where it functions as an *anupana* — a carrier — not as bulk liquid.
+Used as the daily drinking water. In cooking, a small amount is combined with ghee to carry plant medicine — herbs held briefly in the ghee and Lunar essence together before the grains and pure water are added. This is the medicine-carrying step, not the cooking water itself. The grains cook in pure water. The Lunar essence enters at the point where it functions as an *anupana* — a carrier — not as bulk liquid.
 
-In this practitioner's experience, introducing the Lunar water as the primary drinking water has been one of the most significant shifts in the practice — the deep nourishment it produces quieting the restless appetite more completely than any dietary restriction had. The body stops reaching urgently because it is being met at the level it was reaching for.
+In this practitioner's experience, introducing the Lunar essence as the primary drinking water has been one of the most significant shifts in the practice — the deep nourishment it produces quieting the restless appetite more completely than any dietary restriction had. The body stops reaching urgently because it is being met at the level it was reaching for.
 
 ---
 
@@ -80,7 +80,7 @@ The floor is not secondary. Without it the pillars stand in air. Anna is what ca
 
 ## What Falls Away
 
-With the circuit running — ghee, grain, Lunar water — certain things stop being wanted. Not forbidden, not restricted. Simply no longer called for with the same urgency.
+With the circuit running — ghee, grain, Lunar essence — certain things stop being wanted. Not forbidden, not restricted. Simply no longer called for with the same urgency.
 
 The appetite for intense flavour, for complexity, for stimulation through food — this is often the deep tissue reaching toward the surface, hunting for nourishment at the register of sensation because the actual register is not being fed. When the actual register is fed, the hunting quiets.
 
@@ -142,7 +142,7 @@ The Ambrosian diet is not a prescription or a programme. It is the name for what
 
 ## A Note on the Direction
 
-In this practitioner's experience — four years of amaroli practice, with the full ambrosia circuit (grain, ghee, and Lunar water) running since the first distillation in February 2026 — the body is moving noticeably toward less. Not through restriction. Through a kind of sufficiency that was not there before. Stronger, more energy, a fraction of the intake. The comparison to before is genuinely difficult to make because the before feels like a different body.
+In this practitioner's experience — four years of amaroli practice, with the full ambrosia circuit (grain, ghee, and Lunar essence) running since the first distillation in February 2026 — the body is moving noticeably toward less. Not through restriction. Through a kind of sufficiency that was not there before. Stronger, more energy, a fraction of the intake. The comparison to before is genuinely difficult to make because the before feels like a different body.
 
 The direction this points — toward the body needing progressively less external input to sustain itself at a high level — is a direction some traditions have described as a destination. That destination is held here as a direction, not a claim. The record is too new to say more than: the body is moving this way, and the movement feels coherent with everything the practice is pointing toward.
 
