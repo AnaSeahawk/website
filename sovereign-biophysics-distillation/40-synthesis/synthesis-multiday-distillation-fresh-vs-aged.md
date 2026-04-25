@@ -39,7 +39,7 @@ To achieve this, the raw material must be broken down and reconstructed, a physi
 > *"One becomes two, two becomes three, and out of the third comes the one as the fourth."*
 
 * **The One:** The single, unified baseline of the endogenous fluid.
-* **The Two:** The fluid divides into the volatile Solar fraction and the stable Lunar middle-water fraction.
+* **The Two:** The fluid divides into the volatile Solar spirit and the stable Lunar essence.
 * **The Three:** Left behind in the boiling chamber is The Non-Volatile Concentrate / Retentate (Saturn Portion). 
 * **The Fourth:** By intentionally recombining the fractions, a new, elevated singularity is created.
 
@@ -52,7 +52,7 @@ The alchemical process begins within the biological vessel itself. The quality, 
 **The Low-Resistance Baseline**
 Cultivating the ideal fluid requires a strict, zero-resistance dietary baseline:
 * **Zero Sodium Chloride:** Removing added salt lowers the baseline electrical resistance, preventing the formation of a highly saline retentate during distillation. 
-* **Low Dietary Sulfur:** Eliminating meat and eggs prevents the formation of volatile sulfur compounds (VSCs), supporting cleaner behavior in the Solar fraction.
+* **Low Dietary Sulfur:** Eliminating meat and eggs prevents the formation of volatile sulfur compounds (VSCs), supporting cleaner behavior in the Solar spirit.
 * **Clean Lipids and Carbohydrates:** Relying on ghee, butter, milk, and sweet wheat provides a clean metabolic burn. 
 * **Botanical Support:** The inclusion of non-psychoactive CBD provides gentle nervous system regulation without adding heavy psychoactive volatility to the fluid's energetic signature.
 
@@ -154,7 +154,7 @@ The remaining concentrate in the chamber dropped to a pH of 6.7 and rose to +142
 
 The realization of Sovereign Biophysics is the seamless integration of these fractions back into the daily architecture of nourishment. The fluid has been removed from analytical observation and applied as a high-performance culinary extraction medium.
 
-**The Solar Fraction: High-Voltage Botanical Preparation**
+**The Solar Spirit: High-Voltage Botanical Preparation**
 The isolated Triple-Distilled Spirit is logged in personal culinary prep contexts (for example, grain-wash steps before cooking). This is descriptive context only.
 
 **The Universal Solvent: The Zero-Resistance Carrier**

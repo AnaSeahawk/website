@@ -27,9 +27,9 @@ The fluid carries the direct electrochemical imprint of your life — your diet,
 
 **Allow the machine to cool before opening.** At least 30 minutes. The concentrated steam inside is hot.
 
-**Label everything and keep fractions separate.** The Solar fraction (first cut) is highly alkaline and volatile. It looks like water. Label clearly and do not store it near drinking water or gentler fractions.
+**Label everything and keep fractions separate.** The Solar spirit (first cut) is highly alkaline and volatile. It looks like water. Label clearly and do not store it near drinking water or gentler fractions.
 
-**The first fraction of any run is not for direct internal use.** Keep it sealed — the volatile compounds are what make it active for topical application. Label it clearly as the Solar fraction and store it separately. Do not allow it to off-gas into the air.
+**The first fraction of any run is not for direct internal use.** Keep it sealed — the volatile compounds are what make it active for topical application. Label it clearly as the Solar spirit and store it separately. Do not allow it to off-gas into the air.
 ---
 
 *Everything else is in the practice. Start slowly. Record what you notice. The body will tell you what it needs.*

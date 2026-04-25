@@ -39,19 +39,19 @@ The batch was prepared using the Golden Syphon ritual documented in [The Vessel]
 | Timestamp | Phase | Temp | UIUZMAR | PIOUS | Unbranded | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | `14:54` | Heat applied | — | — | — | — | Patio. Sunny, 17°C outside. |
-| `15:23` | **Solar fraction** | — | — | — | — | ~300ml collected. Intensely volatile — "Vicks vapor rub" sensation. Tingling through mouth and tongue. |
+| `15:23` | **Solar spirit** | — | — | — | — | ~300ml collected. Intensely volatile — "Vicks vapor rub" sensation. Tingling through mouth and tongue. |
 | `15:47` | **Baseline (raw aged — control)** | 27.5°C | pH 9.1 / TDS 7690 ppm / EC 15.45 mS/cm / ORP -22 mV / H₂ 56 ppb | — | — | Measured from un-distilled batch to establish starting matrix. |
-| `16:02` | **Lunar fraction** | T1: 38.7°C / T2: 31.6°C / T3: 27.5°C | pH 9.9 / TDS 307 ppm / EC 630 µS/cm / ORP -30 mV / H₂ 80 ppb | pH 10.04 / TDS 345 ppm / EC 727 µS/cm / Salt 0.03% | TDS 434 ppm / EC 900 µS/cm | Distiller off; cooling. ~250ml collected. |
-| `16:29` | **Lunar fraction — final cut** | T1: 29.8°C / T2: 29°C / T3: 22.9°C | pH 9.6 / TDS 305 ppm / EC 616 µS/cm / ORP -18 mV / H₂ 54 ppb | pH 9.62 / TDS 321 ppm / EC 667 µS/cm / Salt 0.03% | TDS 420 ppm / EC 838 µS/cm | Final portion of distilled water. |
+| `16:02` | **Lunar essence** | T1: 38.7°C / T2: 31.6°C / T3: 27.5°C | pH 9.9 / TDS 307 ppm / EC 630 µS/cm / ORP -30 mV / H₂ 80 ppb | pH 10.04 / TDS 345 ppm / EC 727 µS/cm / Salt 0.03% | TDS 434 ppm / EC 900 µS/cm | Distiller off; cooling. ~250ml collected. |
+| `16:29` | **Lunar essence — final cut** | T1: 29.8°C / T2: 29°C / T3: 22.9°C | pH 9.6 / TDS 305 ppm / EC 616 µS/cm / ORP -18 mV / H₂ 54 ppb | pH 9.62 / TDS 321 ppm / EC 667 µS/cm / Salt 0.03% | TDS 420 ppm / EC 838 µS/cm | Final portion of distilled water. |
 | `16:29` | **Fresh control (unaged — same day)** | T1: 26.3°C / T2: 23.4°C | pH 7.0 / TDS 3520 ppm / EC 6950 µS/cm / ORP +77 mV / H₂ 0 ppb | pH 7.07 / TDS 3820 ppm / EC 7500 µS/cm / Salt 0.38% | — | Fresh fluid (~20 min old). Physiological baseline for comparison. |
-| `17:02` | **Solar fraction — re-test** | T1: 25.0°C / T2: 25.7°C | pH 9.9 / TDS 4420 ppm / EC 9.6 mS/cm / ORP -37 mV / H₂ 56 ppb | pH 10.09 / TDS 12.7 ppt / EC 18.65 mS/cm / Salt 1.46% | — | Verification. Retains extreme alkaline voltage and negative ORP. |
+| `17:02` | **Solar spirit — re-test** | T1: 25.0°C / T2: 25.7°C | pH 9.9 / TDS 4420 ppm / EC 9.6 mS/cm / ORP -37 mV / H₂ 56 ppb | pH 10.09 / TDS 12.7 ppt / EC 18.65 mS/cm / Salt 1.46% | — | Verification. Retains extreme alkaline voltage and negative ORP. |
 | `17:02` | **Saturn fraction (retentate)** | T1: 36.5°C / T2: 28.2°C | pH 5.9 / TDS 11.6 ppt / EC 22.8 mS/cm / ORP +79 mV / H₂ 0 ppb | pH 6.08 / TDS 13.7 ppt / EC 27.5 mS/cm / Salt 1.46% | — | Cooled retentate, ~250ml. Smells like earthy humus and coffee. |
 
 ---
 
 ## Key Observations
 
-**The charge inversion.** Fresh baseline: pH 7.0, ORP +77 mV — neutral, slightly positive. Distilled Solar fraction: pH 9.9–10.09, ORP -18 to -37 mV — strongly alkaline, electron-donating. The distillation does not just purify. It inverts the electrochemical signature entirely.
+**The charge inversion.** Fresh baseline: pH 7.0, ORP +77 mV — neutral, slightly positive. Distilled Solar spirit: pH 9.9–10.09, ORP -18 to -37 mV — strongly alkaline, electron-donating. The distillation does not just purify. It inverts the electrochemical signature entirely.
 
 **The Saturn density.** EC of 27.5 mS/cm in the retentate — produced by a body on zero dietary sodium chloride for the entire collection period. All mineral density is endogenous. The body generated this from its own metabolic processes.
 

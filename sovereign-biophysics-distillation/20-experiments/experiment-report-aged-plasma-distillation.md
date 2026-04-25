@@ -32,7 +32,7 @@ The host's terrain is actively saturated with its own biological resonance throu
 
 This distinction is interpreted by the author as structurally significant. In the study of organic fluid biocrystallization, some researchers describe contrast between conditioned and unconditioned biology. This section is included as interpretive context, not causal proof.
 
-In the author's working model, long-term closed-loop practice may influence the electrochemical profile observed in this run. The voltage and conductivity captured in the Solar fraction are treated here as single-subject findings requiring broader comparison before general conclusions.
+In the author's working model, long-term closed-loop practice may influence the electrochemical profile observed in this run. The voltage and conductivity captured in the Solar spirit are treated here as single-subject findings requiring broader comparison before general conclusions.
 
 
 ## 1. Equipment & Process Methodology

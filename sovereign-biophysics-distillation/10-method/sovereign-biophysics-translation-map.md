@@ -56,11 +56,11 @@ Every redistillation is another flight. Each Cohobation — each pass of the pur
 
 **The First Cut: Capturing the Solar Aspect**
 
-The earliest vapor to cross is the lightest. The most volatile. ***The most electrochemically active.*** This is the solar fraction — the fire principle — and how it is taken determines what you are working with.
+The earliest vapor to cross is the lightest. The most volatile. ***The most electrochemically active.*** This is the Solar spirit — the fire principle — and how it is taken determines what you are working with.
 
 - **The Rule of Thirds:** One third of total volume (e.g., 750 mL from a 2,250 mL run). This captures the bulk of the solar aspect with a softer, more integrated character — the whole spectrum of volatility, blended.
 - **The High-Voltage Cut:** The first 10–15% only (225–350 mL from the same run). This isolates the most concentrated, most active solar expression — the pure leading edge of what crosses first. Measurably distinct in surface tension, ORP, and conductivity from what follows.
-- **The Sensory Method:** Collect in 100 mL increments and read the liquid itself. The solar fraction announces its ending: surface tension shifts, scent changes, the behavior of the drops at the receiver alters. The fluid tells you when it has become something else. Trust that transmission.
+- **The Sensory Method:** Collect in 100 mL increments and read the liquid itself. The Solar spirit announces its ending: surface tension shifts, scent changes, the behavior of the drops at the receiver alters. The fluid tells you when it has become something else. Trust that transmission.
 
 **Lexicon of Operations**
 
@@ -89,14 +89,14 @@ The alchemists called this the *Tria Prima*: the three primes from which all mat
 
 Every distillation run produces all three. The separation is not imposed — it is revealed.
 
-*A note on naming convention: In this practice, the Solar first fraction (Sulfur) is named the Spirit — animating, initiating, carrying charge — and the Lunar second fraction (Mercury) is named the Soul — receptive, containing, relational. This inverts the Paracelsian convention, in which Sulfur carries the Soul and Mercury the Spirit. This variation is not unique to this practice; the assignment of Soul and Spirit to the fractions differs across multiple alchemical lineages. The naming here follows direct observational experience of the fractions themselves, brought into harmony with the practitioner's own working vocabulary. Where other traditions are referenced, their terminology is noted.*
+*A note on naming convention: In this practice, the Solar first fraction (Sulfur) is named the Spirit — animating, initiating, carrying charge — and the Lunar second fraction (Mercury) is named the Essence — receptive, containing, relational. This inverts the Paracelsian convention, in which Sulfur carries the Soul and Mercury the Spirit. This variation is not unique to this practice; the assignment of names to the fractions differs across multiple alchemical lineages. The naming here follows direct observational experience of the fractions themselves, brought into harmony with the practitioner's own working vocabulary. Where other traditions are referenced, their terminology is noted.*
 
 **The Three Primes in the Flask**
 
 | Your Fraction | Alchemical Prime | Principle | What It Is |
 |:---|:---|:---|:---|
 | First Cut — Volatile / Solar | **Sulfur** *(The Spirit)* | Fire · The Sun · Expansion | The lightest, most volatile, most electrochemically active molecules. The energetic signature of the fluid. Its essential activity. What it does when freed from the weight of the body. |
-| Middle Cut — Bulk / Lunar | **Mercury** *(The Soul)* | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Solar acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. |
+| Middle Cut — Bulk / Lunar | **Mercury** *(The Essence)* | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Solar acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. |
 | Residue — Fixed / Saturn | **Salt** *(The Body)* | Earth · The Cube · Fixed Matter | The dense minerals and non-volatile compounds remaining in the chamber after the run. Not waste — the crystalline ground from which the fluid was built. The Body waiting for resurrection. |
 
 **The Vessel as Microcosm**
@@ -151,7 +151,7 @@ The filtered liquid is evaporated under gentle, patient heat. As the moisture wi
 
 ***Three purified principles now exist in isolation.***
 
-The high-voltage first cut — ***Solar Sulfur***, the spirit of the fluid. The neutral middle bulk — ***Lunar Mercury***, its soul and medium. The crystalline mineral residue — ***Glorified Salt***, its resurrected body.
+The high-voltage first cut — ***Solar Sulfur***, the spirit of the fluid. The neutral middle bulk — ***Lunar Mercury***, its essence and medium. The crystalline mineral residue — ***Glorified Salt***, its resurrected body.
 
 ***Solve et Coagula*** has been performed completely. The fluid has been taken apart at every level — volatile from fixed, active from neutral, living mineral from dead sediment. Each principle has been brought to its most purified, most essential expression. The final work is their reunion.
 

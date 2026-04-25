@@ -48,7 +48,7 @@ Each document links to the next at the bottom.
 
 - [Before You Begin](10-method/before-you-begin.md) — practical notes on working with a home distiller: ventilation, fill levels, shutdown, fraction labelling
 - [On Sodium Chloride — On Chloride](10-method/on-sodium-chloride.md) — the agent is chloride, not sodium: the hardest dietary transition, why it takes years, and what is waiting on the other side
-- [The Ambrosia Diet](10-method/ambrosia-diet.md) — ghee, grain, and Lunar water: the food of the gods and what the practice asks for when the circuit is running
+- [The Ambrosia Diet](10-method/ambrosia-diet.md) — ghee, grain, and Lunar essence: the food of the gods and what the practice asks for when the circuit is running
 - [The Living Loop](10-method/the-living-loop.md) — cohobation as daily practice: four years of the closed loop across changing conditions and geographies, and the vision for a permanent place
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — the raw and aged practice: what amaroli is, preparation (syphoning, filtering), applications, household and historical uses
 - [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, and Saturn as distinct substances: what each is and how each is worked

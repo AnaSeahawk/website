@@ -96,19 +96,19 @@ What rises first under low heat is determined by boiling points. Water vapour (1
 - **Short-chain volatile organic acids** — acetic acid and related fermentation products, if present.
 - **Indole, skatole, and other nitrogen heterocycles** — trace volatile metabolites of amino acid catabolism. Identified in urine distillate studies.
 
-The Solar fraction is the most volatile and arguably the least mineral-rich. In alchemical framing, it is the spirit — that which the material could not hold. Biochemically, it is the portion most altered by fermentation and most dominated by volatile nitrogen compounds.
+The Solar spirit is the most volatile and arguably the least mineral-rich. In alchemical framing, it is the spirit — that which the material could not hold. Biochemically, it is the portion most altered by fermentation and most dominated by volatile nitrogen compounds.
 
-The alkalinity of the Solar fraction (measured at pH 9.9–10.09) has a documented effect on grain prepared with it: wheat, rice, and oats soaked in distilled water with Solar spirit added break apart more readily during cooking than grain soaked in water alone, with longer soaking producing better results. The most likely mechanism is alkaline hydrolysis of hemicellulose and structural proteins in the grain — the same principle as nixtamalization, where an alkaline soak (traditionally lime or wood ash) structurally transforms corn. Ammonia present in the Solar fraction would contribute to this effect.
+The alkalinity of the Solar spirit (measured at pH 9.9–10.09) has a documented effect on grain prepared with it: wheat, rice, and oats soaked in distilled water with Solar spirit added break apart more readily during cooking than grain soaked in water alone, with longer soaking producing better results. The most likely mechanism is alkaline hydrolysis of hemicellulose and structural proteins in the grain — the same principle as nixtamalization, where an alkaline soak (traditionally lime or wood ash) structurally transforms corn. Ammonia present in the Solar spirit would contribute to this effect.
 
 The use of distilled water as the soaking medium appears to amplify the Spirit's effect. Tap and bottled water contain calcium, magnesium, chlorine, and other dissolved ions that compete with and buffer the Spirit's alkaline compounds. In distilled water — very low TDS, few competing ions — the Spirit's active compounds act directly on the grain without interference. A cleaner solvent allows the active compounds more unimpeded contact. Distilled water alone also cleans grain surfaces more effectively than tap or bottled water, consistent with the behaviour of low-TDS water, which has greater capacity to pull soluble compounds off surfaces.
 
 These are practitioner observations, not controlled comparisons, but each is consistent with known chemistry.
 
-**What is uncertain:** exact volatile composition without gas chromatography. The character of the Solar fraction will vary substantially with fermentation duration and starting material.
+**What is uncertain:** exact volatile composition without gas chromatography. The character of the Solar spirit will vary substantially with fermentation duration and starting material.
 
 ### The Lunar Water (bulk aqueous distillate)
 
-The Lunar fraction is predominantly water — that is the point of distillation. The question is what it carries.
+The Lunar essence is predominantly water — that is the point of distillation. The question is what it carries.
 
 Pure water distillate would carry nothing. But water distilled from a complex biological matrix carries:
 
@@ -116,7 +116,7 @@ Pure water distillate would carry nothing. But water distilled from a complex bi
 - **Low-molecular-weight organic compounds** that can steam-distil or partition into the vapour phase
 - **No fixed salts** — sodium, potassium, phosphate, calcium, and sulfate have boiling points well above anything reached in a simple still; they remain behind
 
-The Lunar water is mineral-depleted but not completely inert. The documented low ORP (oxidation-reduction potential) and slight alkalinity suggest it is carrying something that affects its electrochemical character — most likely dissolved ammonia from the early ferment, or other reduced nitrogen species.
+The Lunar essence is mineral-depleted but not completely inert. The documented low ORP (oxidation-reduction potential) and slight alkalinity suggest it is carrying something that affects its electrochemical character — most likely dissolved ammonia from the early ferment, or other reduced nitrogen species.
 
 The Ayurvedic tradition's characterisation of this fraction as having a distinct energetic quality — "unctuous," having passed through a living system — is a qualitative observation. What it corresponds to biochemically is an open question.
 
@@ -141,9 +141,9 @@ The above is reasoning from population-level biochemistry applied to an inferred
 
 1. **We do not have a 24-hour urinalysis** for the practitioner. Exact starting concentrations are unknown.
 2. **The water input is uncharacterised beyond its observable properties.** The distilled water used for all cooking and washing has distinct visual clarity and behaviour consistent with structured or deuterium-depleted water, but has not been tested. If it is meaningfully deuterium-depleted or carries a negative ORP baseline (see Pollack), it is itself an active variable in what enters the body — and therefore in what the plasma carries. This is not a minor footnote; the water is a primary input.
-3. **We do not have GC/MS data** on the Solar or Lunar fractions. What volatile compounds are present, and at what concentrations, is inferred not measured.
+3. **We do not have GC/MS data** on the Solar or Lunar essences. What volatile compounds are present, and at what concentrations, is inferred not measured.
 4. **The aging process is not controlled or characterised** in terms of microbial community, pH trajectory, or fermentation endpoint. Duration is tracked; chemistry is not.
-5. **The interaction effects between fractions are unknown.** Whether the Lunar water carries something biologically active beyond its electrochemical measurements is an open question.
+5. **The interaction effects between fractions are unknown.** Whether the Lunar essence carries something biologically active beyond its electrochemical measurements is an open question.
 6. **The alchemical and Ayurvedic interpretive layer is not resolved by this analysis.** The claim that the aged, distilled material has distinct properties as *a practice substance* — beyond what biochemistry can currently describe — belongs in a separate register. This document does not confirm or refute that claim.
 
 The electrochemical measurements documented in this body of work — fresh baseline (pH 7.0, ORP +77 mV), aged raw baseline (pH 9.1, ORP -22 mV), and the three distilled fractions — are the available bridge between the biochemical hypothesis and the observed material. They characterise the electrical and ionic state of each fraction without requiring resolution of the interpretive frame.

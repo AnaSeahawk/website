@@ -16,7 +16,7 @@ claim_tier: practice
 
 ## Why This Works
 
-The Saturn fraction — what remains in the chamber after the volatile Solar spirit and the clear Lunar water have been drawn off — is not waste. It is the most concentrated, biologically dense fraction of the entire run. Everything the distillation could not lift into vapour is still here: the fixed salts, the structural minerals, the organic compounds the body built and used and did not surrender to evaporation.
+The Saturn fraction — what remains in the chamber after the volatile Solar spirit and the clear Lunar essence have been drawn off — is not waste. It is the most concentrated, biologically dense fraction of the entire run. Everything the distillation could not lift into vapour is still here: the fixed salts, the structural minerals, the organic compounds the body built and used and did not surrender to evaporation.
 
 What those compounds are, and what they are capable of, depends entirely on two things: the dietary baseline that produced them, and whether the source material was fresh or aged.
 

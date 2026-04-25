@@ -64,7 +64,7 @@ The logic is consistent across traditions:
 
 ## What the Clean Baseline Produces
 
-When the inputs are reduced to simple, neutral elements — grain, clean fats, pure water, no sodium chloride, no volatile sulfur load — the body ceases producing the volatile compounds that contaminate the solar fraction. The kidneys are not burdened with excess urea from a high-toxin diet. The steam that rises and condenses is clean: sweet, odourless, structurally refined.
+When the inputs are reduced to simple, neutral elements — grain, clean fats, pure water, no sodium chloride, no volatile sulfur load — the body ceases producing the volatile compounds that contaminate the Solar spirit. The kidneys are not burdened with excess urea from a high-toxin diet. The steam that rises and condenses is clean: sweet, odourless, structurally refined.
 
 More significantly: what remains in the retentate shifts character entirely. The crystallised deposits of a monastic baseline are not the baked salt-scaling of a processed-food diet. They are the endogenous mineral concentrates the body actually built — a different category of matter, carrying the signature of an internal environment that has been running in coherence rather than in crisis.
 

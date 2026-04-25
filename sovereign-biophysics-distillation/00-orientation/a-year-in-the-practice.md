@@ -45,9 +45,9 @@ The lunar calendar and the menstrual cycle share the same period. This is not co
 
 Each season asks something different of the body, and the body responds.
 
-**Winter** is the inward season. The body is consolidating, holding close, metabolising slowly. The material produced in deep winter tends toward density — heavier Saturn fraction, slower volatilisation, the solar fraction less immediately volatile than in warmer months. This is not a limitation. Winter material has a quality of depth, of the body having held what it processed for longer before releasing it. The aged winter preparation carries something that summer cannot produce.
+**Winter** is the inward season. The body is consolidating, holding close, metabolising slowly. The material produced in deep winter tends toward density — heavier Saturn fraction, slower volatilisation, the Solar spirit less immediately volatile than in warmer months. This is not a limitation. Winter material has a quality of depth, of the body having held what it processed for longer before releasing it. The aged winter preparation carries something that summer cannot produce.
 
-**Spring** is the season of initiation. The body is waking up, the digestion quickening, the electrical charge of the system increasing as the light increases. The Aries-season distillate — late March through April — often shows the most vivid solar fraction of the year: bright, active, high-charge. The body has emerged from its winter consolidation and is moving. What it produces reflects that movement.
+**Spring** is the season of initiation. The body is waking up, the digestion quickening, the electrical charge of the system increasing as the light increases. The Aries-season distillate — late March through April — often shows the most vivid Solar spirit of the year: bright, active, high-charge. The body has emerged from its winter consolidation and is moving. What it produces reflects that movement.
 
 **Summer** is the season of the fully running system. Heat supports the practice — the external temperature assists the aging process, the body's own metabolic fire is running high. Summer material tends to be abundant and active, the fermentation faster, requiring closer attention and shorter aging windows in very hot weather. The practice runs hot in summer. The material knows it.
 

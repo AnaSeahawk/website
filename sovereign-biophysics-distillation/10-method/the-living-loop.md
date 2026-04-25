@@ -27,7 +27,7 @@ After four years, this is not a discipline. It is simply how a day moves.
 ## The Daily Practice
 
 **Drinking:**
-The primary drinking fluid is now the Lunar fraction — what we call, in our own language, the essence. It replaces tap water, mineral water, and most other liquids in the daily domestic context.
+The primary drinking fluid is now the Lunar essence — the clear middle distillate, the water the body produces from itself. It replaces tap water, mineral water, and most other liquids in the daily domestic context.
 
 This was not always the case. The drinking practice has moved through several distinct phases across four years:
 
@@ -66,7 +66,7 @@ This is documented here because it is real safety information, not a theoretical
 **Eyes and ears:**
 The same arc as the other protocols — fresh first, then aged, then the distilled fractions. For both eyes and ears, the preference was always for what we call soft aged: lighter batches, not too concentrated, not too alkaline. Fresh was the default when soft aged wasn't available or when the aged felt too strong.
 
-Now: Lunar essence for both. The eyes are strictly essence only — no spirit, no aged, nothing else. The ears will take a single drop of spirit on occasion, but the primary application here is also essence. The gentleness of the Lunar fraction is what makes it appropriate for both tissues — it carries almost nothing beyond the structured water itself.
+Now: Lunar essence for both. The eyes are strictly essence only — no spirit, no aged, nothing else. The ears will take a single drop of spirit on occasion, but the primary application here is also essence. The gentleness of the Lunar essence is what makes it appropriate for both tissues — it carries almost nothing beyond the structured water itself.
 
 **Nasal:**
 Nasal application — snorting fresh or aged plasma directly — has been a significant part of the practice for a long time. Almost daily at some periods, or at least several times a week. The go-to when breathing became difficult, when the sinuses were blocked, when the airways felt congested by season or environment. It always brought relief. Not sometimes. Always.

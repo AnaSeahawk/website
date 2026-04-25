@@ -41,8 +41,8 @@ Each entry notes:
 **2026-02-01** — Batch origin for first distillation. Aged plasma collected, solar activation begun.
 
 **2026-02-22** — First distillation run. Full data recorded in `experiment-report-ana-distillation-feb22.md`.
-- Solar fraction: pH 10.26–10.28, conductivity 12.75 MS/CM, salt 0.66–0.68%
-- Lunar fraction: pH 10.14–10.15, conductivity 904 µS/CM, PPM 453
+- Solar spirit: pH 10.26–10.28, conductivity 12.75 MS/CM, salt 0.66–0.68%
+- Lunar essence: pH 10.14–10.15, conductivity 904 µS/CM, PPM 453
 - Saturn retentate: pH 7.17, conductivity 46.6–46.8 MS/CM
 
 ---

@@ -31,49 +31,49 @@ For the empirical data — measurements, yields, electrochemical profiles — se
 
 ---
 
-## The Solar Fraction
+## The Solar Spirit
 
 The first fraction to rise. Volatile, light, fast. High alkaline — pH typically 9.5 to 10.5 or above depending on aging duration and dietary baseline. Negative ORP. The ammonia produced during fermentation concentrates here. The smell is sharp and active; the character is strongly solvent.
 
-The Solar fraction is the most volatile and the most chemically active of the three. It carries the charge the fermentation built and concentrates it in a small volume.
+The Solar spirit is the most volatile and the most chemically active of the three. It carries the charge the fermentation built and concentrates it in a small volume.
 
 **Internal use**
-May be taken in small amounts. The alkalinity is significant — approach with attention, begin small, observe. This is not the same substance as the Lunar fraction.
+May be taken in small amounts. The alkalinity is significant — approach with attention, begin small, observe. This is not the same substance as the Lunar essence.
 
 **Topical**
 Applied to skin, teeth, scalp. The activity is noticeable. Used in spot applications. May be diluted.
 
 **Botanical extraction**
-The high pH and conductivity make this fraction effective as an extraction medium for plant material. Alkaloids and medicinal compounds are pulled from plant matrix more aggressively than in neutral water. In this practitioner's experience: small batches only — what would be consumed in a single serving. The plant material is added to the Solar fraction in a sealed container and left to soak for a few hours or overnight. The organic material is then filtered out. The resulting preparation is left open to the air, or covered with a cloth, to allow the ammonia to evaporate before consuming. This step matters — the ammonia needs to off-gas before the preparation is ready. This is an area of active observation, not established protocol.
+The high pH and conductivity make this fraction effective as an extraction medium for plant material. Alkaloids and medicinal compounds are pulled from plant matrix more aggressively than in neutral water. In this practitioner's experience: small batches only — what would be consumed in a single serving. The plant material is added to the Solar spirit in a sealed container and left to soak for a few hours or overnight. The organic material is then filtered out. The resulting preparation is left open to the air, or covered with a cloth, to allow the ammonia to evaporate before consuming. This step matters — the ammonia needs to off-gas before the preparation is ready. This is an area of active observation, not established protocol.
 
 **Grain washing and soaking**
-Used heavily diluted in pure water for washing and soaking grains before cooking. The Solar fraction is too active to use undiluted here — dilution is the practice. The effect observed is a softening of the grain: wheat berries in particular cook noticeably differently when soaked this way — more tender, the texture altered in a way that suggests the structure of the grain has been opened. This is single-practitioner observation.
+Used heavily diluted in pure water for washing and soaking grains before cooking. The Solar spirit is too active to use undiluted here — dilution is the practice. The effect observed is a softening of the grain: wheat berries in particular cook noticeably differently when soaked this way — more tender, the texture altered in a way that suggests the structure of the grain has been opened. This is single-practitioner observation.
 
 ---
 
-## The Lunar Fraction
+## The Lunar Essence
 
-The clear middle water. What follows the Solar fraction after the initial volatile surge settles. Lower conductivity, still alkaline, quiet in character. If the Solar is the charge, the Lunar is the carrier — stable, refined, the bulk of the distillate.
+The clear middle water. What follows the Solar spirit after the initial volatile surge settles. Lower conductivity, still alkaline, quiet in character. If the Solar is the charge, the Lunar is the carrier — stable, refined, the bulk of the distillate.
 
-The Lunar fraction is what most people would recognize as the distillate. It is the clear, frictionless water that the practice produces. In repeated distillation runs, it becomes progressively cleaner — conductivity dropping toward the 100–200 µS/cm range and below.
+The Lunar essence is what most people would recognize as the distillate. It is the clear, frictionless water that the practice produces. In repeated distillation runs, it becomes progressively cleaner — conductivity dropping toward the 100–200 µS/cm range and below.
 
 **Internal use**
 Drinking water, primary daily use. Used in cooking, coffee preparation, herbal infusions. In this practitioner's experience, the quality of this water as a culinary medium is noticeably different from tap or commercial water — how it extracts flavor, how it feels in the body.
 
 **Eye drops**
-Double-distilled Lunar fraction used as eye drops. The cleanest available material is appropriate here — double-distilled specifically, not the first pass. Observed to be immediately relieving after extended screen time or travel. In one documented instance, three applications over the course of several hours for an intense migraine-like headache — each application two to three hours apart. By the third application a sensation of penetration was noticed. Slept, woke refreshed. The headache had resolved. This is a single episode, one practitioner. It is in the record because the observation was striking and the protocol — repeated application at intervals — is specific enough to be worth noting.
+Double-distilled Lunar essence used as eye drops. The cleanest available material is appropriate here — double-distilled specifically, not the first pass. Observed to be immediately relieving after extended screen time or travel. In one documented instance, three applications over the course of several hours for an intense migraine-like headache — each application two to three hours apart. By the third application a sensation of penetration was noticed. Slept, woke refreshed. The headache had resolved. This is a single episode, one practitioner. It is in the record because the observation was striking and the protocol — repeated application at intervals — is specific enough to be worth noting.
 
 **Topical**
-Gentle daily use. Facial cleansing, hair, skin. Lower activity than the Solar fraction; appropriate for regular contact.
+Gentle daily use. Facial cleansing, hair, skin. Lower activity than the Solar spirit; appropriate for regular contact.
 
 **Dietary nourishment**
-With sustained use of the Lunar fraction as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar fraction relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [The Ambrosia Diet →](ambrosia-diet.md)
+With sustained use of the Lunar essence as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar essence relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [The Ambrosia Diet →](ambrosia-diet.md)
 
 **Botanical infusion base**
 Combined with dried herbs at low simmer — triphala, ashwagandha, brahmi, cumin, fennel. The structured water carries the medicine differently from tap water. This is observational, not a clinical claim.
 
 **Combined with ghee**
-The Lunar fraction used with ghee in soft-simmer preparation. This is the Two Distillates circuit in practice: the internal distillate and the external distillate meeting in the same preparation. See: [Two Distillates →](../00-orientation/two-distillates.md)
+The Lunar essence used with ghee in soft-simmer preparation. This is the Two Distillates circuit in practice: the internal distillate and the external distillate meeting in the same preparation. See: [Two Distillates →](../00-orientation/two-distillates.md)
 
 ---
 

@@ -31,9 +31,9 @@ Native urease enzymes catalyse the hydrolysis of dormant urea into ammonia and c
 
 $$(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$$
 
-When heat is applied, the volatile ammonia vaporises first. As it crosses the cooling coil and condenses, it forms ammonium hydroxide (NH₄OH) — which produces the extreme alkaline spike and the strong negative ORP of the Solar fraction. This is the mechanism. Not hypothesis. Documented biochemistry.
+When heat is applied, the volatile ammonia vaporises first. As it crosses the cooling coil and condenses, it forms ammonium hydroxide (NH₄OH) — which produces the extreme alkaline spike and the strong negative ORP of the Solar spirit. This is the mechanism. Not hypothesis. Documented biochemistry.
 
-The dietary baseline changes what the body produces. A body on zero sodium chloride, low dietary sulfur, and clean lipids produces a measurably cleaner and more volatile Solar fraction. The priests of Isis, the Buddhist Vinaya, the Damar Tantra — all describe dietary restrictions that make precise biochemical sense when the substance being prepared is understood.
+The dietary baseline changes what the body produces. A body on zero sodium chloride, low dietary sulfur, and clean lipids produces a measurably cleaner and more volatile Solar spirit. The priests of Isis, the Buddhist Vinaya, the Damar Tantra — all describe dietary restrictions that make precise biochemical sense when the substance being prepared is understood.
 
 ---
 
@@ -41,7 +41,7 @@ The dietary baseline changes what the body produces. A body on zero sodium chlor
 
 The first documented distillation of Ana's plasma — February 22, 2026, Torremolinos — confirmed the hypothesis in a single run:
 
-- Solar fraction: pH 10.09 / ORP -37 mV — strongly alkaline, electron-donating
+- Solar spirit: pH 10.09 / ORP -37 mV — strongly alkaline, electron-donating
 - Fresh baseline (same day): pH 7.0 / ORP +77 mV — neutral, slightly positive
 - Saturn retentate: EC 27.5 mS/cm — dense mineral matrix, entirely endogenous (zero dietary sodium chloride throughout collection)
 

@@ -11,7 +11,7 @@ claim_tier: personal-account
 
 ---
 
-It took me approximately two years to genuinely come off sodium chloride. Not two weeks. Not two months. Two years — with long gaps between exposures, with sincere commitment, with a body that was already moving in the direction of distillation and simplification. Two years before I felt what I would call recovered. I am writing this in April 2026, and it is only now, with access to the distilled Lunar fraction as daily drinking water, that the remaining pull has finally dissolved.
+It took me approximately two years to genuinely come off sodium chloride. Not two weeks. Not two months. Two years — with long gaps between exposures, with sincere commitment, with a body that was already moving in the direction of distillation and simplification. Two years before I felt what I would call recovered. I am writing this in April 2026, and it is only now, with access to the distilled Lunar essence as daily drinking water, that the remaining pull has finally dissolved.
 
 I want to be precise about what I mean by "come off." I don't mean I stopped adding sodium chloride to food. I mean the body stopped requiring it as a scaffold for normal function. That is a different thing entirely, and the difference is why this takes so long.
 
@@ -115,7 +115,7 @@ Food began to taste differently. Not bland — differently. The actual flavour o
 
 The diet simplified. Not from discipline but from the body losing interest in complexity. The ambrosia diet — well-cooked grains, good ghee, clean water — was not an imposition. It was what the body asked for when it was no longer compensating for a chronic irritant.
 
-And the distilled Lunar fraction, as daily drinking water, finally resolved the remaining pull toward sodium chloride and sugar that I hadn't been able to fully dissolve before. Something about that water — its purity, its negative ORP, the way it meets the body's own chemistry — addressed whatever the sodium chloride had been silencing. I don't have a complete explanation. I have the observation.
+And the distilled Lunar essence, as daily drinking water, finally resolved the remaining pull toward sodium chloride and sugar that I hadn't been able to fully dissolve before. Something about that water — its purity, its negative ORP, the way it meets the body's own chemistry — addressed whatever the sodium chloride had been silencing. I don't have a complete explanation. I have the observation.
 
 ---
 
