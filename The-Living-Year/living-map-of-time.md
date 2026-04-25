@@ -1,4 +1,5 @@
 ---
+date: 2026-02-06
 status: draft
 visibility: community
 claim_tier: interpretation

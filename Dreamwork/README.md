@@ -9,9 +9,9 @@ claim_tier: interpretation
 This folder groups dream-centered entries in chronological order so symbolic development can be tracked over time.
 
 ## Discovery Timeline
-1. `2025-12-10-threshold-dreaming.md`
-2. `2025-12-12-kernel-of-sight-corn-dream.md`
-3. `2025-12-26-what-no-longer-needs-carrying.md`
+1. `threshold-dreaming.md` — December 10, 2025
+2. `kernel-of-sight-corn-dream.md` — December 12, 2025
+3. `what-no-longer-needs-carrying.md` — December 26, 2025
 
 ## Notes
 - Entries are named `YYYY-MM-DD-title.md` for sequence clarity.
