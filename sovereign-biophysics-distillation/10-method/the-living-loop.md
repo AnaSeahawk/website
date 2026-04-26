@@ -100,8 +100,6 @@ The Lunar essence alone is clear. Everything that made the returned fluid white 
 
 The taste confirmed it. The returned fluid was sweet. I gave some to my partner; he said it tasted like me. I drank the rest.
 
-The two nights of unusually vivid dreams followed immediately after.
-
 *On concentrations for internal tissue:* The same principle that governs nasal application applies here, more strongly. Aged plasma is too concentrated for internal mucosal tissue — the alkalinity and mineral load that makes it effective on intact external skin becomes caustic in contact with the thinner, more permeable membrane of the vaginal canal. The Solar spirit is not appropriate here. The Lunar essence is the appropriate fraction for somatic infusion — very low mineral load, structurally clean, close to the body's own fluid chemistry. Fresh plasma, when genuinely mild and sweet, is the appropriate starting point and remains a usable option. The sweetness of the plasma is the indicator, not a schedule.
 
 **Cooking:**
