@@ -84,11 +84,9 @@ The yoni's mucosal membrane is the living surface of *rasa dhatu* — the body's
 
 The somatic infusion has been part of the practice at different periods, and the history of it follows the same arc as every other application: the concentrated form was tried first, the lesson came through the body, and the practice refined itself from there.
 
-The first attempt was with aged plasma. It was immediately and significantly painful — a burning sensation from the alkalinity and mineral concentration. Not the kind of pain that signals harm; the tissue felt intact and there were no lasting effects. But it was not something to repeat. Fresh plasma was used straight after to cool and balance the tissue. The response was immediate relief.
+The first attempt was with aged plasma, approximately three years ago — early in the practice, before the distillation had begun and while aged plasma was still the primary concentrated fraction being explored. It was immediately and significantly painful — a burning sensation from the alkalinity and mineral concentration. Not the kind of pain that signals harm; the tissue felt intact and there were no lasting effects. But it was not something to repeat. Fresh plasma was used straight after to cool and balance the tissue. The response was immediate relief.
 
-After that experience the rule became simple: yoni infusion only with fresh plasma, and only when the plasma itself was warm and sweet-tasting. In Ayurvedic terms the sweet taste — *madhura rasa* — is the taste of *brimhana*, the taste of *ojas*. If the morning collection had that quality — mild, clean, no sharpness — the infusion was appropriate. If it did not, the practice was skipped entirely. The sweetness of the plasma is not a preference. It is the body's indicator that the application will be received as nourishment rather than something the tissue has to manage.
-
-This went on intermittently for some time. The application was always gentle, never prolonged, and the body's response was the guide.
+After that, the rule became simple: yoni infusion only with fresh plasma, and only when the plasma itself was warm and sweet-tasting. In Ayurvedic terms the sweet taste — *madhura rasa* — is the taste of *brimhana*, the taste of *ojas*. If the morning collection had that quality — mild, clean, no sharpness — the infusion was appropriate. If it did not, the practice was skipped. This never became a regular practice. It was occasional — something the body indicated rather than something scheduled — and the application was always brief, always gentle, always with the body's response as the only guide.
 
 Then a long gap. The practice was not used for a significant period.
 
