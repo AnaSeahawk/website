@@ -212,7 +212,6 @@ One distinction that matters: aged only, always diluted. Fresh plasma will burn 
 **Storage at scale:**
 Storage is dynamic. The large containers are the backbone — the 20-litre vessels, the labeled aging batches. But alongside these there are always special collections: smaller containers set aside from fasting states, or from moments when the intuition signals that this particular batch should be kept separate. The practice generates its own sense of what to hold and how.
 
-The storage in Torremolinos is convenient and temporary. What happens next will show itself. Being nomadic means learning that flexibility is not a compromise of the practice — it is part of it. Things change. The way shows itself. The future is not something to secure against; it is something to move into. The practice has always found its form in the conditions available, and this is no different.
 
 ---
 
@@ -279,10 +278,6 @@ The wound is not only women's. It is carried by all her children. Every person b
 Marion Woodman's depth-psychological work names the archetype that answers this wound: the Pregnant Virgin — the woman who is pregnant with herself. Not dependent on an external source to generate new life, but containing the capacity for renewal within her own resources, her own vessel. Woodman's work traces this through the body — the body as the container for unconscious material, the vessel that must be held intact through transformation. What she calls the inner marriage — the union of the opposites within a single vessel — is the closed loop from the inside. The body that runs the cohobation on itself, distils from its own productions, returns what it makes to itself refined. Not a metaphor borrowed from alchemy. The same process, recognised simultaneously from a psychological direction and a biological one.
 
 The practice documented here is not a cure. It is a demonstration. The body, given access to what it actually produces, given the conditions to run the loop it was designed to run, moves toward its own equilibrium without being told how. The loop does not require belief. It requires conditions. The Pregnant Virgin is not waiting for something outside herself to complete the work. She has always been the vessel. She is sufficient.
-
-The permanent place at Torremolinos is for that demonstration to be visible. Not in a laboratory, not in a paper — but in a kitchen, in a garden, in a living body that people can sit across from and observe. In a place where the knowledge is not stored but practised. Where the transmission happens the way it always happened: through presence, through proximity, through the body learning from another body what its own nature already knows.
-
-This is what needs a home. Not a theory. A living practice, with land and animals and a still running and someone to open the door.
 
 ---
 
