@@ -56,6 +56,7 @@ Each document links to the next at the bottom.
 - [Oral Care Protocol](10-method/oral-care-protocol.md) — the two-phase application of Solar spirit and Saturn serum: sequencing, mechanism, safety parameters, and observations
 - [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — the alchemical vocabulary mapped to living practice
 - [Observation Protocol](10-method/observation-protocol-handout.md) — field record template for a distillation run
+- [Sediment Field Guide](10-method/sediment-field-guide.md) — a visual reference for what forms in aging plasma: crystal types, wet and dry sludge, surface phenomena, and how dietary variables (dairy fats, refined oils, alcohol) each leave their signature in the jar
 
 ### Experiments
 

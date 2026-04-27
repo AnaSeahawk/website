@@ -223,3 +223,7 @@ These sediment patterns represent the readable traces of your body's ongoing bio
 The sediments in your jars are not waste products to be discarded, but information-rich materials that document the living chemistry of your system in real time. They are the physical manifestation of sovereign biophysics in practice — the body's own intelligence made visible through patient, methodical observation.
 
 The jar does not lie. It simply records.
+
+---
+
+*Continue reading: [Experiment Report: Olivier's First Distillation →](../20-experiments/experiment-report-aged-plasma-distillation.md)*
