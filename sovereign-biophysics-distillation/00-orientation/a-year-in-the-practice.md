@@ -91,4 +91,5 @@ The Living Year is the map. The practice is the territory.
 
 ---
 
-*Continue reading: [Before You Begin →](../10-method/before-you-begin.md)*
+*Optional: [A Related Body of Work →](a-related-body-of-work.md) — the classical-lineage track running parallel to this archive*  
+*Continue to method: [Before You Begin →](../10-method/before-you-begin.md)*

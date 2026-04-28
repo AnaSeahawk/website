@@ -26,6 +26,7 @@ Use this board to track content state and keep publishing predictable.
 - `sovereign-biophysics-distillation/00-orientation/the-biological-baseline.md`
 - `sovereign-biophysics-distillation/00-orientation/thesis-endogenous-alchemy.md`
 - `sovereign-biophysics-distillation/00-orientation/a-year-in-the-practice.md`
+- `sovereign-biophysics-distillation/00-orientation/a-related-body-of-work.md`
 
 **Sovereign Biophysics — Method**
 - `sovereign-biophysics-distillation/10-method/before-you-begin.md`

@@ -43,6 +43,7 @@ Each document links to the next at the bottom.
 - [The Biological Baseline](00-orientation/the-biological-baseline.md) — diet as the first phase of distillation: the 17th-century proof, the monastic architecture, and the Universal Medicine
 - [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented
 - [A Year in the Practice](00-orientation/a-year-in-the-practice.md) — what a full year of observation reveals, and how the practice connects to the Living Year
+- [A Related Body of Work](00-orientation/a-related-body-of-work.md) — the classical-lineage track running parallel to this archive: Olivier Francoeur's *The Book of Sol*, and where the two bodies of work converge
 
 ### Method
 
