@@ -228,4 +228,8 @@ The jar does not lie. It simply records.
 
 ---
 
+The experiment reports that follow put this guide to use. Each one documents a first distillation run — specific jars, specific dates, specific instruments — with observations structured by the same categories this guide describes. What the field guide names in principle, the reports show in particular.
+
+---
+
 *Continue reading: [Experiment Report: Olivier's First Distillation →](../20-experiments/experiment-report-aged-plasma-distillation.md)*
