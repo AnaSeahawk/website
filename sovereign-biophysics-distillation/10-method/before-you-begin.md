@@ -1,6 +1,6 @@
 ---
 title: "Before You Begin"
-status: draft
+status: reviewed
 visibility: public
 claim_tier: practice
 ---

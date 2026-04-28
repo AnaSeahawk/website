@@ -5,7 +5,7 @@ moon:
 moon-phase:
 type: foundation
 visibility: public
-status: draft
+status: reviewed
 claim_tier: orientation
 ---
 
@@ -65,6 +65,12 @@ This is not a course. There is no curriculum, no programme, no outcome promised.
 
 *Ana Seahawk — Sovereign Biophysics*
 *Torremolinos, Spain — 2026*
+
+---
+
+## Sharing This Work
+
+If you are introducing this practice to others, a presentation outline is available: [The Living Waters — 60-minute talk outline →](../50-presentations/presentation-living-waters-v1.md)
 
 ---
 

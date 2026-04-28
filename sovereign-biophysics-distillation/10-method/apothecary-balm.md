@@ -1,6 +1,6 @@
 ---
 date: 2026-03-12
-status: draft
+status: reviewed
 visibility: public
 claim_tier: practice
 ---

@@ -59,7 +59,7 @@ Use this board to track content state and keep publishing predictable.
 ## In Progress / Needs Pass
 
 **Presentations**
-- `sovereign-biophysics-distillation/10-method/presentation-living-waters-v1.md` — draft, community; active working document
+- `sovereign-biophysics-distillation/50-presentations/presentation-living-waters-v1.md` — draft, community; active working document
 
 ---
 

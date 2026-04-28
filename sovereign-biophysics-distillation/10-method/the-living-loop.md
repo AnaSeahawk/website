@@ -1,6 +1,6 @@
 ---
 date: 2026-04-24
-status: draft
+status: reviewed
 visibility: community
 claim_tier: personal-account
 ---

@@ -77,6 +77,12 @@ Each document links to the next at the bottom.
 - [The Vessel](the-vessel.md) — the practitioner's account: fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos, Spain in February 2026
 - [Practice Log 2026](practice-log-2026.md) — running log of diet baseline, distillation events, and practitioner state from February 2026 onward
 
+### Presentations
+
+*For practitioners sharing this work with others.*
+
+- [The Living Waters: Sovereign Biophysics and the Body's Original Distillation](50-presentations/presentation-living-waters-v1.md) — 60-minute talk outline; draft V3; covers the ground, the lineage, the translation, and the process from practice
+
 ---
 
 *© 2026 Ana Seahawk — CC BY-NC-ND 4.0*

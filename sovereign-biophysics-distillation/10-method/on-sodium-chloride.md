@@ -1,6 +1,6 @@
 ---
 title: "On Sodium Chloride"
-status: draft
+status: reviewed
 visibility: public
 claim_tier: personal-account
 ---

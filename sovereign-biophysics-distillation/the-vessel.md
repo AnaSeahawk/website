@@ -1,7 +1,7 @@
 ---
 title: "The Vessel"
 subtitle: "A Personal Record of the Distillation Practice"
-status: draft
+status: reviewed
 visibility: public
 claim_tier: personal-account
 ---
