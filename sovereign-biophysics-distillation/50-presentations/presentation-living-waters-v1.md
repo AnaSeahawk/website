@@ -80,17 +80,26 @@ The alchemists did not work at industrial scale. Small batches allow attention. 
 **Headspace is not optional.**
 Leaving space in the vessel is a foundation of alchemy. A vessel filled to the top cannot breathe. The work needs room to move, to rise, to separate. This is true in glass and true in the body.
 
+Biological material foams as it heats. The foam rises. If you have not left enough space in the chamber, it reaches the condenser — and what arrives in your collection vessel is not clear distillate. It is contaminated. A clean run produces a completely clear fluid. If foam has entered the condenser, the run is not ruined — it can be corrected by running the distillate through again. The second pass clears what the first pass carried over. The alchemists called this flying the second eagle. It is not a failure. It is part of the process. But starting with adequate headspace — filling the chamber to half capacity at most — gives the work room to foam without that foam becoming the distillate.
+
+The start of the run requires the most attention. As the material first comes to heat, the foaming is at its most active. You can manage this directly: remove the machine from the heat — switch it off — and allow the foam to settle back down. Then return the heat. Repeat this a few times in the opening phase until the material has stabilised and the foaming subsides. After that, the run proceeds smoothly on its own. The opening minutes are the part that needs you present.
+
 **Stay with the work.**
 Alchemy is presence. This is not bread in an oven with a timer. You cannot walk away and return when it is ready. The work asks you to watch — the temperature, the behaviour of the condensate, the quality of what is rising. Women work like this naturally. The attentive, relational mode of knowing is not a softness. It is the method.
 
 **Watch what comes into the condenser.**
 If anything other than clear condensate rises into the distillation chamber, you are getting a dirty distillation. This is information. It tells you the temperature ran too high, or the batch was not ready, or the vessel was overfilled. The response is not to push through — it is to reduce heat, allow things to calm, and let the separation complete itself cleanly.
 
-**The second eagle — why to fly it.**
+**The second eagle — why to fly it, and how to read the run.**
 A single distillation concentrates. A second distillation refines. This is why the alchemists spoke of flying the second eagle — running the distillate back through the process again. The subtle becomes more subtle. The Solar spirit and the Lunar essence become distinct. What was mixed becomes legible as two things. In Ayurvedic terms this is *bhāvana* — repeated processing to refine the essence at each pass. The body itself works this way: nothing is refined in a single pass.
+
+In practice, the distillate separates into two distinct fractions and the run itself tells you when to capture them separately. Around the twenty-percent mark — when roughly a fifth of the total distillate has collected — take a taste with a clean spoon. The first fraction carries a sharp, solvent quality: strong, fast, unmistakable. This is the Solar portion — the volatile leading fraction, high alkalinity, the most active of the three streams. When the character softens and the sharpness lifts, the run has moved into the Lunar fraction: lighter, cleaner, more refined. The aroma shifts as well — the quality of what is rising becomes noticeably quieter. Swap the collection vessel at that transition and you have captured two distinct substances from a single run. What you do with each of them is different. Label both.
 
 **The solar and lunar separation.**
 The first fraction that rises is volatile, light, fast. The later fraction is slower, heavier, more fixed. The alchemists named these solar and lunar — not as mysticism but as description. They behave differently. They have different qualities. Noticing when the character of what is coming over changes is one of the core skills of this work. You learn it by watching.
+
+**Know when to stop — and how to stop cleanly.**
+The machine has an automatic shutoff, and it will halt the run when the chamber is nearly dry. This is useful. But there are reasons to stop manually: to preserve a portion of the Saturn retentate while it is still fluid and workable, or simply to make cleaning easier before the residue has baked onto the chamber walls. The difficulty is knowing how much remains inside without opening the vessel mid-run. The solution is simple: measure your input volume before you begin, and make a mark on the collection jar at that volume. As the distillate accumulates in the jar, you are watching the mirror image of what remains in the chamber. When the distillate reaches your mark, you have distilled your full input volume — the chamber is effectively empty. If you want to stop earlier and retain a Saturn fraction, mark the jar at a lower volume accordingly and halt the run when it hits that line.
 
 **Temperature is the instrument.**
 The alchemists did not have thermometers. They read the work — the sound of the liquid, the behaviour of the condenser, the quality of the vapour. You can use modern measurement and still develop this sensitivity. They are not opposed. If something is rising that should not be rising, remove the heat. Let it settle. Return slowly. Stay in control of the process — the process does not control you.

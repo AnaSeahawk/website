@@ -29,31 +29,31 @@ This is the Living Year as metric. Not a calendar to fill in. Not a programme to
 
 ## The Monthly Rhythm
 
-The body runs a complete alchemical cycle every month.
+The body runs a complete alchemical cycle every month. The lunation cycle — new moon to full moon to new moon — is the external rhythm that tracks it. Whatever the body's own monthly cycle, the moon is always running, and the practice can be oriented to it directly.
 
-Menstruation is the *nigredo* — the blackening, the release, the dissolution of what was held. The follicular phase that follows is the *albedo* — the clearing, the brightening, the return of lightness and forward movement. Ovulation is the *citrinitas* — the golden moment, the peak of electrical charge and generative force. The luteal phase that follows is the *rubedo* — the reddening, the deepening, the integration of what the cycle produced.
+The four phases map onto the alchemical sequence regardless of how you are tracking them. **New moon** is the *nigredo* — darkness, release, the dissolution of what was held, the reset before the new begins. The **waxing phase** is the *albedo* — the clearing, the brightening, forward movement, increasing charge. **Full moon** is the *citrinitas* — peak light, peak electrical charge, the highest point of the cycle's generative force. The **waning phase** is the *rubedo* — the deepening, the integration, the body moving back toward its own interior. Four stages. One month. Approximately thirteen complete cycles across a full year.
 
-Four stages. One month. Approximately thirteen times across a full year.
+For practitioners who also track a menstrual cycle, these two rhythms often mirror each other — or drift in and out of phase across the year, which is itself information. When they align, the signals amplify. When they diverge, the divergence is worth noting. Neither is the authority; both are running, both are legible.
 
-The quality of the material changes across this arc. What is distilled in the luteal phase has a different character from what is distilled in the follicular phase — denser, slower, heavier with what the body is processing. Neither is better. They are different fractions of the same ongoing work. Learning to notice the difference — to read the quality of what you are working with in relation to where you are in the cycle — is one of the refinements that only time teaches.
+The quality of the material changes across this arc. What is distilled at the full moon has a different character from what is distilled at the new moon — the charge profile is different, the volatility is different, the body is at a different point in what it is processing. Learning to notice this difference — to read the material in relation to where the moon is — is something the record builds over time. A single run tells you what the body produced on one day. A year of runs tells you the range, the pattern, and what correlates with what.
 
-The lunar calendar and the menstrual cycle share the same period. This is not coincidence. The body's monthly alchemical sequence runs in attunement with the same rhythm that governs the aging of the material — the twenty-eight day hold mirrors the cycle that produced the material being held. The practice is already in conversation with the body's own timing. The year of observation makes that conversation legible.
+The twenty-eight day aging hold is not arbitrary convention. It mirrors the lunation cycle exactly — the material held for one complete moon, transformed in attunement with the same rhythm that governed the body that produced it. When you distill material aged from one new moon to the next, the practice is already in conversation with this timing. The year of observation makes that conversation legible.
 
 ---
 
 ## The Seasonal Character
 
-Each season asks something different of the body, and the body responds.
+Each season asks something different of the body. Four years of amaroli have made that much clear — the quality of the material shifts across the year, the body's rhythms are real, the seasonal character is not imagined. What distillation will reveal across those same seasons is an open question. The first runs are from winter and early spring. The rest of the year is still ahead.
 
-**Winter** is the inward season. The body is consolidating, holding close, metabolising slowly. The material produced in deep winter tends toward density — heavier Saturn fraction, slower volatilisation, the Solar spirit less immediately volatile than in warmer months. This is not a limitation. Winter material has a quality of depth, of the body having held what it processed for longer before releasing it. The aged winter preparation carries something that summer cannot produce.
+**Spring** is where this record begins. The body coming out of winter's consolidation, the light returning, the digestion quickening. Whether that movement shows in the distillate — in the charge of the Solar spirit, in the volatility of the first fraction — is something the runs will tell. The hypothesis is there. The data is accumulating.
 
-**Spring** is the season of initiation. The body is waking up, the digestion quickening, the electrical charge of the system increasing as the light increases. The Aries-season distillate — late March through April — often shows the most vivid Solar spirit of the year: bright, active, high-charge. The body has emerged from its winter consolidation and is moving. What it produces reflects that movement.
+**Summer** introduces variables that raw practice did not have to contend with in the same way: external heat affecting the aging process, shorter fermentation windows, the body's own metabolic fire running higher. What that does to the fractions is unknown. It may accelerate. It may require adjustment. The practice will need closer attention.
 
-**Summer** is the season of the fully running system. Heat supports the practice — the external temperature assists the aging process, the body's own metabolic fire is running high. Summer material tends to be abundant and active, the fermentation faster, requiring closer attention and shorter aging windows in very hot weather. The practice runs hot in summer. The material knows it.
+**Autumn** is transitional — the body beginning to move inward, the accumulated quality of a full season of runs behind it by then. Whether the material carries something different in the turn toward winter is one of the things a full year will begin to answer.
 
-**Autumn** is the harvest and the turn. The body begins its inward movement, the light contracting, the system beginning to consolidate toward winter. Autumn material sits between summer's activity and winter's depth — transitional, rich, carrying the accumulated quality of a year of practice if you have been at it that long.
+**Winter** is the inward season, the body consolidating. Four years of amaroli suggests the winter material has a different density, a different weight to it. Whether that shows as a heavier Saturn fraction, a slower volatilisation, something different in the Solar spirit — that is the record that does not yet exist. Winter 2026–2027 will be the first distillation winter.
 
-A year of practice gives you one complete seasonal rotation. The second year gives you comparison. By the third year you know your body's seasonal character — what it consistently produces in each quarter, what is specific to the season and what is specific to you.
+A year of practice gives you one complete seasonal rotation. The second year gives you comparison. That is the horizon this archive is working toward.
 
 ---
 
@@ -90,6 +90,8 @@ The Living Year is the map. The practice is the territory.
 *Ana Seahawk — Sovereign Biophysics*
 
 ---
+
+*The practitioner's own account — fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos in February 2026: [The Vessel →](../the-vessel.md)*
 
 *Optional: [A Related Body of Work →](a-related-body-of-work.md) — the classical-lineage track running parallel to this archive*  
 *Continue to method: [Before You Begin →](../10-method/before-you-begin.md)*

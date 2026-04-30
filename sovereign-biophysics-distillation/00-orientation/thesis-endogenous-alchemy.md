@@ -2,7 +2,7 @@
 date: 2026-02-22
 status: reviewed
 visibility: public
-claim_tier: interpretation
+claim_tier: synthesis
 ---
 
 # Thesis: Endogenous Alchemy
