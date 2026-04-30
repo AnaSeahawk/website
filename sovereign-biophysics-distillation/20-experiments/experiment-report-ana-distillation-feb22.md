@@ -25,7 +25,7 @@ The batch was prepared using the Golden Syphon ritual documented in [The Vessel]
 
 ## Equipment
 
-- **Distiller:** Standard 3000ml stainless steel unit (chamber filled to 50% — 1500ml)
+- **Distiller:** Vevor YMK40202 stainless steel unit, 4000ml / 4.0L capacity (chamber loaded to approximately 37.5% — ~1500ml estimated input; chamber has a maximum fill line, no graduated markings)
 - **Meters:**
   - UIUZMAR 6-in-1 (pH, TDS, EC, ORP, H₂, Temp)
   - PIOUS 5-in-1 (pH, TDS, EC, Salt%, Temp)

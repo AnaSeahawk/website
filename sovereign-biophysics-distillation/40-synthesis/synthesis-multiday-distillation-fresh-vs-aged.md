@@ -60,7 +60,7 @@ Cultivating the ideal fluid requires a strict, zero-resistance dietary baseline:
 
 ## Chapter 2: The Initial Extractions: Fresh Fluid & Thermal Hydrolysis
 
-To successfully isolate the liquid crystal, the thermodynamic behavior of the fluid must be mapped. The distillation cycle utilizing a home 3000ml apparatus provided the foundational empirical data for distilling *fresh* endogenous fluid (< 24 hours old). 
+To successfully isolate the liquid crystal, the thermodynamic behavior of the fluid must be mapped. The distillation cycle utilizing a home 4000ml / 4.0L stainless steel apparatus (Vevor YMK40202) provided the foundational empirical data for distilling *fresh* endogenous fluid (< 24 hours old). 
 
 Fresh distillation presents a distinctly different biophysical timeline than aged inputs. Because fresh liquid contains chemically intact urea, it requires sustained exposure to boiling temperatures to break down. This process—thermal hydrolysis—forces the urea to degrade into carbon dioxide and highly volatile ammonia gas. 
 

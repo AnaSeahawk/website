@@ -36,14 +36,14 @@ In the author's working model, long-term closed-loop practice may influence the 
 
 
 ## 1. Equipment & Process Methodology
-**Apparatus:** * Vevor Distillation Unit (3000 ml capacity, vevor.com)
+**Apparatus:** * Vevor Distillation Unit YMK40202 (4000 ml / 4.0L capacity, 750W, vevor.com)
 * PIOUS 5-in-1 Water Quality Meter (measuring pH, PPM, Salt %, MS/CM / US/CM, and PPT)
 
 **Starting Volume:** Approximately 2.5 liters of syphoned aged plasma. Syphoned to eliminate the naturally forming sediment that accumulates during fermentation.
 
 The distillation of the aged plasma resulted in a multi-stage separation, fractionating the liquid into active volatile distillate (Solar), a clearer middle-water phase (Lunar), and a non-volatile concentrate (Saturn). 
 
-*Operational Note:* During this run, the 3000 ml chamber was filled to capacity. The boiling process of the 2500 ml dense plasma created a heavy foam, leading to an overflow that naturally separated the volatile distillate into two distinct stages. For future iterations, the distillation chamber will only be filled to half capacity. The beginning stage must be closely monitored to scoop off the rising foam as needed; a wooden spoon was utilized effectively for this purpose.
+*Operational Note:* During this run, 2500 ml of dense plasma was loaded into the 4000 ml chamber (approximately 63% of capacity). The boiling process created a heavy foam that rose to overflow despite the available headspace, naturally separating the volatile distillate into two distinct stages. For future iterations, the distillation chamber will only be filled to half capacity. The beginning stage must be closely monitored to scoop off the rising foam as needed; a wooden spoon was utilized effectively for this purpose.
 
 ## 2. The Volatile Distillate Fractions (Solar Portions)
 
