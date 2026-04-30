@@ -35,6 +35,10 @@ Each document links to the next at the bottom.
 - [Where to Begin](00-orientation/where-to-begin.md) — an entry point for new readers: what this archive is, how to read it, where to start
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters
+- [Sun Bu-er and the Inner Furnace](00-orientation/sun-bu-er-and-the-inner-furnace.md) — the Taoist women's tradition of cyclical refinement: xue, qi, shen, and the heart as inner furnace
+- [Beauty and the Binding](00-orientation/beauty-and-the-binding.md) — how every civilization found its own way to close the question: foot binding, leblouh, chhaupadi, and the mechanism that ran through women's hands
+- [In the Name of Love](00-orientation/in-the-name-of-love.md) — the psychology of the cycle: love as concealment, shame as the enforcement, and the fracture running through contemporary families
+- [Why the Distillation Is Missing](00-orientation/why-the-distillation-is-missing.md) — three silences that make the sophisticated end of this practice invisible: heat-aversion, the alchemical wall, and official suppression
 - [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression, and what the body still carries
 - [The Language of Erasure](00-orientation/the-language-of-erasure.md) — how a word closes a question before it can be asked: the mechanism of suggestion applied to the body's own vocabulary
 - [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the myth as science: the sovereign vessel and the alchemical process in code
