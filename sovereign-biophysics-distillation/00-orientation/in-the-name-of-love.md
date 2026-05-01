@@ -54,7 +54,7 @@ The punishment that enforces the silence is withdrawal of love and belonging. Th
 
 The mother. The doctor. The teacher. The institution.
 
-The authority figure who told you what your body is and what it requires — who defined its productions as waste, its instincts as dangerous, its autonomous knowledge as something to be managed rather than consulted — is also caught in this. Not differently caught. The same trap, the same mechanism.
+The authority figure who told you what your body is and what it requires — who defined its productions as waste, its instincts as dangerous, its autonomous knowledge as something to be managed rather than trusted and lived from — is also caught in this. Not differently caught. The same trap, the same mechanism.
 
 The doctor who recommended a procedure for thirty years, who told a hundred mothers that their daughters needed something done to them, faces the same retroactive indictment the mother faces. Abandoning the practice is not only a scientific update. It is a self-confrontation. It requires becoming, overnight, the person who caused harm in the name of medicine — who administered the wound in the name of care. The institution will not do this willingly. It will find reasons. It will commission studies. It will move slowly, protect its members, protect its past. Not from malice. From the same unbearable mathematics that keeps the mother silent.
 
