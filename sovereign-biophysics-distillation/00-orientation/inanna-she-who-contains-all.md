@@ -29,6 +29,10 @@ claim_tier: interpretation
 
 ---
 
+*A note on method: the readings that follow approach Inanna's myth the way a practitioner approaches an alchemical text — looking for what it describes when read through a body that has held the material. These are interpretive readings, not archaeological claims about what the ancient Sumerians intended. They rest on phonological and functional correspondence, and on the precision with which the myth's language maps onto biological and chemical reality at the operating temperatures of distillation. They are offered as recognition, not proof — the way the alchemical vocabulary becomes a field guide rather than a mystical system once the body finally has something to read it through.*
+
+---
+
 ## The Union of the Morning and the Evening
 
 Before any formal science was named, the most undeniable truth of existence was duality. Female and Male. Light and dark. Activity and rest. The dissolving fire and the life-giving water. Inanna holds the eight-pointed star — the Morning and the Evening, the Solar and the Lunar, the martial and the fertile — not because she stands between these forces, but because she contains them. ***She is the alchemical Coniunctio made flesh: the perfect, simultaneous presence of both poles within a single vessel.***

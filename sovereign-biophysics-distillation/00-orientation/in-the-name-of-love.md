@@ -48,6 +48,8 @@ The emotion that enforces this on both sides is shame. Not guilt — guilt says 
 
 The punishment that enforces the silence is withdrawal of love and belonging. This is the lever. It works because love was the original delivery vehicle — the harm and the love arrived together, before the body had any capacity to separate them. Love as the weapon that keeps its own wound in place.
 
+The mechanism described here assumes a context where refusal is possible but psychologically costly — where the primary coercion is the threat of love withdrawal. In contexts where refusal carries material consequences — loss of home, loss of community, loss of the means of survival — the architecture is different. The shame is still present, but it is layered under fear of immediate material harm, and that coercion is more urgent and more visible. This piece is focused on the internal enforcement that persists even after external force has lifted: the part of the cycle that runs itself.
+
 ---
 
 ## The Same Trap in Every Room

@@ -18,6 +18,10 @@ claim_tier: interpretation
 
 ---
 
+The grief documented in the previous piece sits in the body as a real and specific weight. This piece moves into the mechanism underneath it — not the loss itself but the operation that made the loss so thorough. The fire cleared the library. A second operation ensured it would not be rebuilt: before the knowledge became invisible, the words that would have allowed the question to form were replaced with words that made the question feel unnecessary. This is how suppression finishes its work.
+
+---
+
 ## The Mechanism
 
 There is a process by which a question stops being asked.
@@ -89,6 +93,8 @@ It is worth naming them precisely, because the mechanism only becomes visible wh
 **Inefficient.** The word that reclassified traditional animal husbandry — the keeping of cows not as production units but as the external pharmacy the panchagavya tradition understood them to be — as economically backward. Factory farming is efficient. The sacred cow is inefficient. The vocabulary of productivity determines what practices survive institutional support and what practices are left to die as the communities that held them are urbanised, relocated, their land use restructured. The word does not need to engage with what was lost. Efficiency does not ask what the practice was for.
 
 **Anecdotal.** The word that reclassifies experiential knowledge — the knowledge that lived in the hands of midwives, the knowledge accumulated across generations of women observing their own bodies, the direct phenomenological record of practitioners — as a lower category of evidence, disqualified from serious consideration before it can be evaluated. The word does not engage with the observation. It reclassifies the observer. Once the observer is classified as merely anecdotal, what she observed does not require examination. The question closes before it opens.
+
+*A note on the legitimate use:* "Anecdotal" does describe something real about the epistemic weight of single observations in isolation. A single practitioner's account is not a clinical trial, and it should not be presented as one. This archive does not present it as one. But the word's function in practice is rarely this careful. It is deployed not to describe the evidence accurately but to foreclose the inquiry before the evidence can accumulate — before the observations can be compared, before the pattern can be seen, before the question can form. A word that means "lower tier of evidence, requiring further study" has been used to mean "not worth studying." The distinction is the difference between science and suppression.
 
 ---
 

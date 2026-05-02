@@ -295,6 +295,10 @@ That moment is Now.
 
 ---
 
+The grief runs in the body's tissue. It is legitimate and it is real. But it has a companion story — one that explains why the grief was so hard to name, why the question of what the body produces would not even form, why the reconstruction feels like archaeology rather than memory. Before the knowledge was burned, something else was taken first. The words in which the knowledge could be thought. The language that made inquiry feel natural — *soma, aqua vitae, prima materia, the living waters* — was not merely forgotten. It was replaced. The next document is about the replacement.
+
+---
+
 *© Sovereign Biophysics — Ana Seahawk*
 
 ---

@@ -46,7 +46,7 @@ In Ayurvedic terms this is the meeting of *ojas with ojas*. Ghee is among the hi
 
 ## What Happens to Appetite
 
-When ojas is genuinely met — when the deepest tissue of the body is nourished at its own level, not approximated through sensation — the restless craving for stimulation settles. Not through discipline. Not through willpower or the effortful management of desire. Through satiation at a register that food was never actually reaching.
+When ojas is genuinely met — when the deepest tissue of the body is nourished at its own level, not approximated through sensation — the restless craving for stimulation settles. Not through discipline. Not through willpower or the effortful management of desire. The transition to running both streams does require commitment and time — the recalibration does not happen in a week. But what holds it together is not effort. What holds it together is that the body is genuinely fed. The satiation is real and it arrives at a register that food was never actually reaching.
 
 The compulsive seeking of culinary complexity — stronger flavours, richer combinations, the lust for pleasure through eating — is often the body's deep tissue trying to fill itself through the mouth. The ojas depletion reaching toward the surface, hunting in sensation for what it cannot find there. The mouth conducting a search the tongue cannot complete because the substance being sought does not arrive through taste.
 
