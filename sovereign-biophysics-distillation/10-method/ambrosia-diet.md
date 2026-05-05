@@ -234,4 +234,4 @@ Several of the textual sources in this piece — the Rig-veda ghee verse, the Ta
 
 ---
 
-*Continue reading: [The Living Loop →](the-living-loop.md)*
+*Continue reading: [The Living Grain →](the-living-grain.md)*

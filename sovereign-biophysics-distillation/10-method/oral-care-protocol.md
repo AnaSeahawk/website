@@ -34,7 +34,7 @@ The sequencing is the point: the spirit prepares the surface. The serum delivers
 
 **Material:** Solar spirit — the clear, alkaline, ammonia-carrying first cut of an aged distillation run.
 
-**Application:** Take a small sip. Swish vigorously around the teeth and along the gumline for 30 to 60 seconds.
+**Application:** Take a small sip. Swish vigorously around the teeth and along the gumline for 15 to 30 seconds.
 
 **What is happening:** The alkaline shift neutralises acid and lifts surface stains through the same mild bleaching action as the ammonia chemistry. The enamel pores open in response to the pH change, becoming receptive to mineral uptake. Bacteria in acid pockets at the gumline cannot survive the alkaline environment.
 
@@ -69,7 +69,7 @@ After several days of the two-phase protocol using fractions from the February d
 
 The brightness comes from the ammonia in the spirit acting as a mild bleaching agent — it lifts staining compounds from the enamel without the abrasive scraping that commercial whitening products rely on.
 
-The smoothness is remineralisation: phosphate and calcium drawn into the enamel's crystalline structure, filling microscopic gaps.
+The smoothness may be remineralisation — phosphate and calcium drawn into the enamel's crystalline structure — or it may reflect something else in the alkaline-mineral interaction. What is observed is the surface change. The mechanism is not confirmed.
 
 The gum response is the alkaline environment removing the conditions in which the inflammation was sustained.
 
@@ -113,7 +113,7 @@ The Lunar essence for these applications should be fresh from a clean run and st
 Store in dark amber or cobalt glass with an airtight seal — a polycone cap or PTFE-lined lid. The volatile ammonia will escape through any imperfect seal and the fraction will lose its alkaline potency. Keep cool and dark. Do not store near other liquids that could be mistaken for it.
 
 **Saturn serum (liquid reduction):**
-Store in a wide-mouth amber glass jar with a tight-fitting lid. The serum is hygroscopic — in coastal or humid environments, an open jar will begin pulling moisture from the air immediately, diluting the concentration. Use a small dedicated spoon to remove what is needed; do not introduce a wet toothbrush or wet fingers into the master jar.
+Store in a dark amber dropper bottle with an airtight cap. The serum is hygroscopic — in coastal or humid environments, an open bottle will begin pulling moisture from the air immediately, diluting the concentration. Replace the cap between uses.
 
 ---
 
