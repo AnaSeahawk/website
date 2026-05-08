@@ -166,4 +166,4 @@ The electrochemical measurements documented in this body of work — fresh basel
 
 ---
 
-*Continue reading: [Synthesis: Multiday Distillation, Fresh vs Aged →](../40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)*
+*Continue reading: [The Circulatio Hypothesis: Microscopic Evidence for the Living Loop →](analysis-circulatio-microscopy.md)*

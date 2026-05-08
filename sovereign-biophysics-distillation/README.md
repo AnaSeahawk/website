@@ -41,8 +41,11 @@ Each document links to the next at the bottom.
 - [Why the Distillation Is Missing](00-orientation/why-the-distillation-is-missing.md) — three silences that make the sophisticated end of this practice invisible: heat-aversion, the alchemical wall, and official suppression
 - [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression, and what the body still carries
 - [The Language of Erasure](00-orientation/the-language-of-erasure.md) — how a word closes a question before it can be asked: the mechanism of suggestion applied to the body's own vocabulary
+- [The Moving Sky and the Stationary Earth](00-orientation/the-moving-sky.md) — seven wanderers, the sky as clock, the calendar as convenience: why the solar return is what a birthday actually is, and why agriculture never stopped using the sky
 - [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the myth as science: the sovereign vessel and the alchemical process in code
+- [Inanna, Venus and the Seven Gates](00-orientation/inanna-venus-and-the-seven-gates.md) — the astronomical record behind the myth: Venus's seven-day disappearance, the pentagram she draws across eight years, and the seven-fold body across traditions
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
+- [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, and the temperature the body holds
 - [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
 - [The Biological Baseline](00-orientation/the-biological-baseline.md) — diet as the first phase of distillation: the 17th-century proof, the monastic architecture, and the Universal Medicine
 - [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented
@@ -51,6 +54,7 @@ Each document links to the next at the bottom.
 
 ### Method
 
+- [Shivambu](10-method/shivambu.md) — where the practice actually begins: naming the substance, the Damar Tantra starting point, the natural progression, and the social reality of a practice many people carry privately
 - [Before You Begin](10-method/before-you-begin.md) — practical notes on working with a home distiller: ventilation, fill levels, shutdown, fraction labelling
 - [On Sodium Chloride — On Chloride](10-method/on-sodium-chloride.md) — the agent is chloride, not sodium: the hardest dietary transition, why it takes years, and what is waiting on the other side
 - [The Ambrosia Diet](10-method/ambrosia-diet.md) — ghee, grain, and Lunar essence: the food of the gods and what the practice asks for when the circuit is running
@@ -74,6 +78,8 @@ Each document links to the next at the bottom.
 
 - [Analysis: Water, Plasma, Fourth Phase](30-analysis/analysis-water-plasma-fourth-phase.md)
 - [Hypothesising What Is in the Plasma](30-analysis/analysis-plasma-composition-hypothesis.md) — composition across raw, aged, and the three distillate streams: what the fractions likely contain and where the evidence ends
+- [The Circulatio Hypothesis: Microscopic Evidence for the Living Loop](30-analysis/analysis-circulatio-microscopy.md) — collaborative research (Fiona Gardner, microscopy): crystal geometry in practitioner vs non-practitioner vs infant samples, and the textual traditions that encoded lifelong practice
+- [Shivambu as Menstruum: Historical Grounding for Herbal Extraction and Cohobation](30-analysis/analysis-shivambu-as-menstruum.md) — the Indic and European alchemical lineages for using shivambu as an active solvent for plant extractions, the cohobation operation, and the undocumented synthesis the practice crosses into
 
 ### Synthesis
 

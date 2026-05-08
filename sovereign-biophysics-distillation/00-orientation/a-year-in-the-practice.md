@@ -94,4 +94,4 @@ The Living Year is the map. The practice is the territory.
 *The practitioner's own account — fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos in February 2026: [The Vessel →](../the-vessel.md)*
 
 *Optional: [A Related Body of Work →](a-related-body-of-work.md) — the classical-lineage track running parallel to this archive*  
-*Continue to method: [Before You Begin →](../10-method/before-you-begin.md)*
+*Continue to method: [Shivambu: Beginning the Relationship →](../10-method/shivambu.md)*

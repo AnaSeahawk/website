@@ -85,6 +85,16 @@ The vilepi — the shortbread that needs no recipe — belongs to this system no
 
 ---
 
+## The Krama in Both Directions
+
+The Samsarjana Krama moves in one direction in the classical texts: from manda toward odana, from depletion toward restoration, from the ember toward the restored flame. This is what the protocol describes and what the protocol was designed to do.
+
+But the principle the krama enacts — agni responding accurately to what can genuinely be received and transformed — is not directional. When agni is sama, balanced and clear, it reports honestly in both directions: whether the body needs more, or whether it has arrived at a sufficiency from within that requires less. The practitioner who finds the ambrosia diet asking for even less over time is not experiencing depletion. They are experiencing the krama running the other way — toward progressive refinement of input as the internal production deepens. The same agni intelligence. The opposite movement.
+
+The key to reading which direction is operative is the four states of agni: sama (balanced, trustworthy signals), vishama (variable, unreliable), tikshna (sharp, burning through reserves), manda (slow, unable to transform). A body moving toward less food from sama agni is a body in genuine sufficiency. A body moving toward less food from manda agni is a body in accumulation and shutdown. The word "less" is the same. The underlying state is entirely different. The full account of these distinctions — and of agni as something that has no adequate English translation — is in [Agni: The Fire That Knows →](../00-orientation/agni.md).
+
+---
+
 *Personal observation and interpretation. Offered as record, not instruction.*
 
 *Ana Seahawk — Sovereign Biophysics*

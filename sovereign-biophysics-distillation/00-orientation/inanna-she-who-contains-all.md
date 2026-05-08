@@ -203,4 +203,4 @@ She is the Queen of Heaven because she governs the Philosophical Quicksilver tha
 
 ---
 
-*Continue reading: [Two Distillates →](two-distillates.md)*
+*Continue reading: [Inanna, Venus and the Seven Gates →](inanna-venus-and-the-seven-gates.md)*

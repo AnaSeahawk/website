@@ -37,4 +37,4 @@ His archive is the classical-lineage track. This archive is the contemporary-bio
 ---
 
 *Back to orientation: [← A Year in the Practice](a-year-in-the-practice.md)*  
-*Continue to method: [Before You Begin →](../10-method/before-you-begin.md)*
+*Continue to method: [Shivambu: Beginning the Relationship →](../10-method/shivambu.md)*

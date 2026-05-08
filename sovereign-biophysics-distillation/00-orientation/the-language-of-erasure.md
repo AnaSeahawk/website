@@ -144,4 +144,4 @@ The body answers. It has been answering all along.
 
 ---
 
-*Continue reading: [Inanna: She Who Contains All →](inanna-she-who-contains-all.md)*
+*Continue reading: [The Moving Sky and the Stationary Earth →](the-moving-sky.md)*
