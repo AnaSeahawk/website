@@ -82,9 +82,11 @@ The consumption — drinking — happens when the body has arrived at it, not be
 
 Many people who practice Shivambu do so in secret. They have not told their families. They have not told their partners. They carry this knowledge privately and navigate its implications in their own time. That is not ideal — ideally this practice would have the social container it deserves — but it is the workable reality of where we are, and many people do it successfully in exactly these conditions.
 
-People who smoke find ways to smoke despite social disapproval. People who drink find ways to drink. The body's own intelligence does not require less protection than those habits. Give it whatever space is available.
+A private practice is a complete practice. Many of the most significant things a person does with their own body and their own inner life are never witnessed by anyone else — they do not need to be. The practice belongs to you first. What you share of it, with whom, and when, is yours to decide. Begin in the space that is already yours, tend it there, and let it grow into visibility only as that feels right.
 
 The names help here. Shivambu, living waters, the golden fountain — language that can travel in spaces where the unadorned word would not. Communities around the world have been finding these languages for a long time. You are not alone in navigating this.
+
+This is also why private practitioner communities exist — and why they are worth finding. Not communities built on secrecy or shame, but spaces where people speak from actual experience, where questions can be asked without having to first defend the premise, and where the conversation does not have to pass through the noise of those who have never engaged with the practice and are responding only to the idea of it. The quality of that exchange is different. There is a shorthand available between people who have sat with the same jar, noticed the same things, and had the same quiet realisations. That community is already here, and it is growing.
 
 ---
 
