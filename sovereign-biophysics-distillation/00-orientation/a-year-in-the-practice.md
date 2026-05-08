@@ -95,3 +95,5 @@ The Living Year is the map. The practice is the territory.
 
 *Optional: [A Related Body of Work →](a-related-body-of-work.md) — the classical-lineage track running parallel to this archive*  
 *Continue to method: [Shivambu: Beginning the Relationship →](../10-method/shivambu.md)*
+
+*[← Back to Index](../README.md)*

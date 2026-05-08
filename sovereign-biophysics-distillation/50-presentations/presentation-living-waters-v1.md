@@ -150,3 +150,5 @@ What you are doing is the work. The record you keep is the science.
 - [ ] Slide outline
 - [ ] Takeaway map (one-page leave-behind)
 - [x] Observation protocol handout — [observation-protocol-handout.md](observation-protocol-handout.md)
+
+*[← Back to Index](../README.md)*

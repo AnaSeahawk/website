@@ -87,3 +87,5 @@ The year of dietary and practice preparation that precedes serious distillation 
 ---
 
 *Continue reading: [Thesis: Endogenous Alchemy →](thesis-endogenous-alchemy.md)*
+
+*[← Back to Index](../README.md)*

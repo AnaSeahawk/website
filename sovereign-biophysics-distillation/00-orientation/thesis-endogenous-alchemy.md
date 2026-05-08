@@ -60,3 +60,5 @@ The body that has been prepared — through diet, through years of closed-loop p
 ---
 
 *Continue reading: [A Year in the Practice →](a-year-in-the-practice.md)*
+
+*[← Back to Index](../README.md)*

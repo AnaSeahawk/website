@@ -101,3 +101,5 @@ Each entry notes:
 ---
 
 *When you are ready to move from the record into time itself — [The Living Year →](../The-Living-Year/living-map-of-time.md)*
+
+*[← Back to Index](README.md)*

@@ -86,3 +86,5 @@ In the author's interpretive frame, plasma separation can be read as a Solar/Lun
 ---
 
 *Continue reading: [Experiment Report: Ana's First Distillation →](experiment-report-ana-distillation-feb22.md)*
+
+*[← Back to Index](../README.md)*

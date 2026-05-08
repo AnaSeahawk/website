@@ -148,3 +148,5 @@ Expect that the body will need to learn something it has not had to do since bef
 ---
 
 *Continue reading: [The Ambrosia Diet →](ambrosia-diet.md)*
+
+*[← Back to Index](../README.md)*

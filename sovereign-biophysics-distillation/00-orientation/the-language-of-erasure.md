@@ -145,3 +145,5 @@ The body answers. It has been answering all along.
 ---
 
 *Continue reading: [The Moving Sky and the Stationary Earth →](the-moving-sky.md)*
+
+*[← Back to Index](../README.md)*

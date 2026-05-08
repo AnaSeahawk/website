@@ -115,3 +115,5 @@ This archive exists so that the next person does not have to.
 *Part of the orientation to Sovereign Biophysics. See also: [Women of Alchemy →](women-of-alchemy.md) | [Beauty and the Binding →](beauty-and-the-binding.md) | [The Language of Erasure →](the-language-of-erasure.md)*
 
 *Continue reading: [The Grief That Was Never Recorded →](the-grief-that-was-never-recorded.md)*
+
+*[← Back to Index](../README.md)*

@@ -204,3 +204,5 @@ The Hidden Stone was always here. In the interior of the earth. In the body. In 
 ---
 
 *Continue reading: [Observation Protocol →](observation-protocol-handout.md)*
+
+*[← Back to Index](../README.md)*

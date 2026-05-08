@@ -37,3 +37,5 @@ The fluid carries the direct electrochemical imprint of your life — your diet,
 ---
 
 *Continue reading: [On Sodium Chloride — On Chloride →](on-sodium-chloride.md)*
+
+*[← Back to Index](../README.md)*

@@ -75,3 +75,5 @@ If you are introducing this practice to others, a presentation outline is availa
 ---
 
 *Continue reading: [Manifesto of the Clear Mirror →](manifesto-clear-mirror.md)*
+
+*[← Back to Index](../README.md)*

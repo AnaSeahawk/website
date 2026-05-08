@@ -135,3 +135,5 @@ The practice of amaroli is a discipline of continuity.
 It unfolds according to readiness, discernment, and relationship.
 
 *Continue reading: [Distilled Fraction Protocols →](distilled-fraction-protocols.md)*
+
+*[← Back to Index](../README.md)*

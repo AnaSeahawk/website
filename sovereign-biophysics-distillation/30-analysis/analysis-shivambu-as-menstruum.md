@@ -62,3 +62,5 @@ The specific combination — distilled shivambu fraction as the first-pass menst
 ---
 
 *Continue reading: [Synthesis: Multiday Distillation, Fresh vs Aged →](../40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)*
+
+*[← Back to Index](../README.md)*

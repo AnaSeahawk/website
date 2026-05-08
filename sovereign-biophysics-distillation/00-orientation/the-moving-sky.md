@@ -130,3 +130,5 @@ The practice is the return of the morning star.
 ---
 
 *Continue reading: [Inanna: She Who Contains All →](inanna-she-who-contains-all.md)*
+
+*[← Back to Index](../README.md)*

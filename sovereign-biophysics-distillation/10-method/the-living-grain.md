@@ -140,3 +140,5 @@ Roast a batch. Keep it sealed. Keep the ghee alongside it. That is all.
 ---
 
 *Continue reading: [Vilepi and the Permanent Krama →](vilepi-and-the-krama.md)*
+
+*[← Back to Index](../README.md)*

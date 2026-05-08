@@ -133,3 +133,5 @@ The cow in the field is still processing prima materia into panchagavya. The bod
 ---
 
 *Continue reading: [The Biological Baseline →](the-biological-baseline.md)*
+
+*[← Back to Index](../README.md)*

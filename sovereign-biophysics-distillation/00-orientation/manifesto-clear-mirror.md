@@ -72,3 +72,5 @@ The mirror is clear. The record is open. The second distillation begins.
 ---
 
 *Continue reading: [Women of Alchemy →](women-of-alchemy.md)*
+
+*[← Back to Index](../README.md)*

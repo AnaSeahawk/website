@@ -120,3 +120,5 @@ The practice of combining the purified fractions — the alchemical *Chymical We
 ---
 
 *Continue reading: [The Apothecary Balm →](apothecary-balm.md)*
+
+*[← Back to Index](../README.md)*

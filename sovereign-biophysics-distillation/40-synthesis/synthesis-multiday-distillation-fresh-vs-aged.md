@@ -199,3 +199,5 @@ Selected fractions are logged in personal culinary and botanical preparation con
 ---
 
 *Continue reading: [The Vessel — The Practitioner's Account →](../the-vessel.md)*
+
+*[← Back to Index](../README.md)*

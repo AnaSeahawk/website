@@ -286,3 +286,5 @@ The practice documented here is not a cure. It is a demonstration. The body, giv
 ---
 
 *Continue reading: [Amaroli Protocols →](amaroli-protocols.md)*
+
+*[← Back to Index](../README.md)*

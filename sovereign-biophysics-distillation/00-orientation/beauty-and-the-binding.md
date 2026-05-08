@@ -158,3 +158,5 @@ The bones remember what the binding tried to prevent. They hold the shape the sh
 *Part of the Women of Alchemy lineage. See also: [Women of Alchemy →](women-of-alchemy.md) | [Sun Bu-er and the Inner Furnace →](sun-bu-er-and-the-inner-furnace.md) | [The Grief That Was Never Recorded →](the-grief-that-was-never-recorded.md)*
 
 *Continue reading: [In the Name of Love →](in-the-name-of-love.md)*
+
+*[← Back to Index](../README.md)*

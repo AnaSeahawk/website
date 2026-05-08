@@ -111,3 +111,5 @@ Beginning, interruption, restoration — the complete arc, in three slides.
 ---
 
 *Continue reading: [Shivambu as Menstruum: Historical Grounding for Herbal Extraction and Cohobation →](analysis-shivambu-as-menstruum.md)*
+
+*[← Back to Index](../README.md)*

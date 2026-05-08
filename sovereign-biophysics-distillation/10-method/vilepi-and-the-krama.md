@@ -102,3 +102,5 @@ The key to reading which direction is operative is the four states of agni: sama
 ---
 
 *Continue reading: [The Living Loop →](the-living-loop.md)*
+
+*[← Back to Index](../README.md)*

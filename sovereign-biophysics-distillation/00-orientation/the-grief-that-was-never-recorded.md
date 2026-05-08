@@ -304,3 +304,5 @@ The grief runs in the body's tissue. It is legitimate and it is real. But it has
 ---
 
 *Continue reading: [The Language of Erasure →](the-language-of-erasure.md)*
+
+*[← Back to Index](../README.md)*

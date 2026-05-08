@@ -167,3 +167,5 @@ The electrochemical measurements documented in this body of work — fresh basel
 ---
 
 *Continue reading: [The Circulatio Hypothesis: Microscopic Evidence for the Living Loop →](analysis-circulatio-microscopy.md)*
+
+*[← Back to Index](../README.md)*

@@ -191,3 +191,5 @@ The scent of the finished balm: earthy, clean, medicinal. When the shea first me
 ---
 
 *Continue reading: [Oral Care Protocol →](oral-care-protocol.md)*
+
+*[← Back to Index](../README.md)*

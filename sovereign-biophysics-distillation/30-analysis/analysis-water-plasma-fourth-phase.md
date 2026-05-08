@@ -52,3 +52,5 @@ The runs measure these properties directly: ORP, conductivity, pH across fractio
 ---
 
 *Continue reading: [Hypothesising What Is in the Plasma →](analysis-plasma-composition-hypothesis.md)*
+
+*[← Back to Index](../README.md)*

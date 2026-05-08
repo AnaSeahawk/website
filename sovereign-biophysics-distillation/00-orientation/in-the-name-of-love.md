@@ -123,3 +123,5 @@ It produces, for the first time, the possibility of a different relationship to 
 *Part of the Women of Alchemy lineage. See also: [Beauty and the Binding →](beauty-and-the-binding.md) | [The Grief That Was Never Recorded →](the-grief-that-was-never-recorded.md)*
 
 *Continue reading: [Why the Distillation Is Missing →](why-the-distillation-is-missing.md)*
+
+*[← Back to Index](../README.md)*

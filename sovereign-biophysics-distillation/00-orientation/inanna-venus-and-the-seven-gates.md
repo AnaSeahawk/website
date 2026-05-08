@@ -145,3 +145,5 @@ The practice is the return of the morning star.
 ---
 
 *Continue reading: [Two Distillates →](two-distillates.md)*
+
+*[← Back to Index](../README.md)*

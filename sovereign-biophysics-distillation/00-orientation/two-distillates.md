@@ -109,3 +109,5 @@ The body that is running this recognises it not as a theory but as a state. The 
 ---
 
 *Continue reading: [Agni →](agni.md)*
+
+*[← Back to Index](../README.md)*
