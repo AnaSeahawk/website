@@ -127,10 +127,6 @@ What you are doing is the work. The record you keep is the science.
 
 ---
 
-> **Presenter note:** The science, the history, and the translation are each compelling on their own. But the moment you speak from your own experience — the moment of recognition, what became legible, what changed — that is what lands for practitioners. They will recognise it. Don't hold that back.
-
----
-
 ## Supporting documents
 
 - [Where to Begin](../00-orientation/where-to-begin.md) — entry point and archive overview for new participants
@@ -143,12 +139,6 @@ What you are doing is the work. The record you keep is the science.
 - [Translation Map](sovereign-biophysics-translation-map.md) — full vocabulary with anatomical grounding
 - [Amaroli Protocols](amaroli-protocols.md) — observation sequence detail
 - [Thesis: Endogenous Alchemy](../00-orientation/thesis-endogenous-alchemy.md) — the empirical record, one run documented in full
-
----
-
-*To be developed:*
-- [ ] Slide outline
-- [ ] Takeaway map (one-page leave-behind)
-- [x] Observation protocol handout — [observation-protocol-handout.md](observation-protocol-handout.md)
+- [Observation protocol handout](observation-protocol-handout.md) — field record template for a distillation run
 
 *[← Back to Index](../README.md)*

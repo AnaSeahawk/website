@@ -20,7 +20,7 @@ claim_tier: interpretation
 
 Something has been opened that cannot be closed.
 
-I stand at the threshold not as a scholar but as one who has already crossed — who has tasted the first distillation and felt the body answer back with a recognition older than language. I vow to cultivate *Shen-Ming:* the Clear Mirror, the Radiant Spirit — not as an aspiration but as a discipline of sight. To observe these biological waters with the precision of a balanced scale. To let the mirror reflect exactly what is, without the sediment of what I wished to find.
+I stand at the threshold not as a scholar but as one who has already crossed — who has tasted the first distillation and felt the body answer back with a recognition older than language. The discipline I hold here is *Shen-Ming:* the Clear Mirror, the Radiant Spirit — not as an aspiration but as a practice of sight. To observe these biological waters with the precision of a balanced scale. To let the mirror reflect exactly what is, without the sediment of what I wished to find.
 
 This is not belief. This is the beginning of a record.
 
@@ -40,7 +40,7 @@ I am learning that I am not separate from this process. I am the vessel *and* th
 
 As the distillations accumulate, something shifts in what can be measured.
 
-I am watching the concentration of *Tejas* — the subtle electrical fire, the charge that animates rather than merely conducts — increase within the fluid base. Every reading of conductivity is a reading of *Prana:* the vital force made legible, the invisible given a number. The instrument confirms what the body already sensed. The macrocosmic charge is held inside the microcosmic drop — and the drop does not diminish it. It *concentrates* it.
+I am watching the concentration of *Tejas* — the subtle electrical fire, the charge that animates rather than merely conducts — increase within the fluid base. In the Ayurvedic frame, a reading of conductivity can be read as *Prana:* the vital force made legible, the invisible given a number. The instrument records what the body already sensed. In that framing, the macrocosmic charge is held inside the microcosmic drop — and the drop does not diminish it. It *concentrates* it.
 
 This is the holographic principle made wet. Made real.
 
@@ -50,7 +50,7 @@ This is the holographic principle made wet. Made real.
 
 The ultra-filtered plasma remembers.
 
-What the traditions named *Samskara* — the energetic imprint, the cellular memory carved by experience — I find encoded here as electrical potential. The specific conductivity of what I have distilled carries the signature of the moment it was made: the Visionary Waters of Pisces, the Grounded Vessel of Taurus, the particular conjunction of sky and body that will not repeat. Time is not lost. It is concentrated into charge, held in suspension, waiting for the instrument that can read it.
+What the traditions named *Samskara* — the energetic imprint, the cellular memory carved by experience — I recognise in the electrical character of what was measured. The specific conductivity of what I have distilled carries something of the moment it was made: the Visionary Waters of Pisces, the Grounded Vessel of Taurus, the particular conjunction of sky and body that will not repeat. In this framing, time is not lost. It is concentrated into charge, held in suspension, waiting for the instrument that can read it.
 
 I distilled that moment. I now carry its measurement.
 
@@ -60,9 +60,9 @@ I distilled that moment. I now carry its measurement.
 
 Pandora's vessel was not a punishment. It was a laboratory.
 
-What rises from these waters — what has already begun to rise — belongs first to the record, and then to the world that is ready to receive it. I open the channels not from abundance but from *overflow:* because the vessel, once properly charged, cannot hold its contents in silence. What I have distilled will be shared in sovereignty, in precision, and without apology — as nourishment for those who have already felt this recognition stirring, and as witness for those who have not yet dared to look.
+What rises from these waters belongs first to the record — and through the record, to anyone for whom the question is already alive. The sharing is not announcement. It is the knowledge doing what knowledge does when it has room to move: passing from hand to hand, from body to body, in precision and without performance.
 
-The mirror is clear. The record is open. The second distillation begins.
+The mirror is clear. The record is open.
 
 ---
 

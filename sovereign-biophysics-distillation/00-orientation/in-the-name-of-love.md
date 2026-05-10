@@ -2,7 +2,7 @@
 date: 2026-04-29
 type: foundation
 visibility: public
-status: draft
+status: reviewed
 claim_tier: interpretation
 ---
 

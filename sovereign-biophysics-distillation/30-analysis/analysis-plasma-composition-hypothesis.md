@@ -1,7 +1,7 @@
 ---
 date: 2026-04-23
-status: draft
-visibility: private
+status: reviewed
+visibility: community
 claim_tier: hypothesis
 ---
 

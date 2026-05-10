@@ -1,8 +1,9 @@
 ---
 date: 2026-02-22
+type: foundation
 status: reviewed
 visibility: public
-claim_tier: synthesis
+claim_tier: practice
 ---
 
 # Thesis: Endogenous Alchemy
@@ -13,13 +14,13 @@ claim_tier: synthesis
 
 ---
 
-## The Hypothesis
+## The Observation
 
-The intentional aging and distillation of the body's own plasma ultrafiltrate yields three linked fractions with distinct measurable electrochemical behaviour — and those three fractions correspond precisely to the *tria prima* of alchemical tradition: mercury, sulfur, salt. Solar, Lunar, Saturn.
+The intentional aging and distillation of the body's own plasma ultrafiltrate yields three linked fractions with distinct measurable electrochemical behaviour — and those three fractions correspond to the *tria prima* of alchemical tradition: mercury, sulfur, salt. Solar, Lunar, Saturn.
 
-This is not a metaphor. The apparatus the female alchemists of Alexandria designed — the tribikos, the kerotakis, the bain-marie — operates in the temperature range of biological fluid distillation, not metallic chemistry. The three-fraction vessel was designed for exactly this process. The language of the tradition — prima materia, solve et coagula, the ouroboros as cohobation — describes what happens when the body's own fluid is distilled over itself.
+The correspondence is not incidental. The apparatus the female alchemists of Alexandria designed — the tribikos, the kerotakis, the bain-marie — operates in the temperature range of biological fluid distillation, not metallic chemistry. The three-fraction vessel was built for exactly this material. The language of the tradition — prima materia, solve et coagula, the ouroboros as cohobation — reads as a description of what happens when the body's own fluid is distilled over itself.
 
-The thesis is simple: the body is the laboratory. The fluid is the prima materia. Distillation reveals what the body is already doing internally, at a visible scale and a measurable register.
+The central observation: the body is the laboratory. The fluid is the prima materia. Distillation makes visible what the body is already doing internally — at a measurable scale and a legible register.
 
 ---
 
@@ -31,7 +32,7 @@ Native urease enzymes catalyse the hydrolysis of dormant urea into ammonia and c
 
 $$(NH_2)_2CO + H_2O \rightarrow 2NH_3 + CO_2$$
 
-When heat is applied, the volatile ammonia vaporises first. As it crosses the cooling coil and condenses, it forms ammonium hydroxide (NH₄OH) — which produces the extreme alkaline spike and the strong negative ORP of the Solar spirit. This is the mechanism. Not hypothesis. Documented biochemistry.
+When heat is applied, the volatile ammonia vaporises first. As it crosses the cooling coil and condenses, it forms ammonium hydroxide (NH₄OH) — which produces the extreme alkaline spike and the strong negative ORP of the Solar spirit. This is a proposed mechanism, consistent with documented biochemistry and the measured alkalinity of the Solar spirit across runs.
 
 The dietary baseline changes what the body produces. A body on zero sodium chloride, low dietary sulfur, and clean lipids produces a measurably cleaner and more volatile Solar spirit. The priests of Isis, the Buddhist Vinaya, the Damar Tantra — all describe dietary restrictions that make precise biochemical sense when the substance being prepared is understood.
 
