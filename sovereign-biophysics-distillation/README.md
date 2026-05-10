@@ -36,6 +36,7 @@ Each document links to the next at the bottom.
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters
 - [Sun Bu-er and the Inner Furnace](00-orientation/sun-bu-er-and-the-inner-furnace.md) — the Taoist women's tradition of cyclical refinement: xue, qi, shen, and the heart as inner furnace
+- [A Related Body of Work](00-orientation/a-related-body-of-work.md) — the classical-lineage track running parallel to this archive: Olivier Francoeur's *The Book of Sol*, and where the two bodies of work converge
 - [Beauty and the Binding](00-orientation/beauty-and-the-binding.md) — how every civilization found its own way to close the question: foot binding, leblouh, chhaupadi, and the mechanism that ran through women's hands
 - [In the Name of Love](00-orientation/in-the-name-of-love.md) — the psychology of the cycle: love as concealment, shame as the enforcement, and the fracture running through contemporary families
 - [Why the Distillation Is Missing](00-orientation/why-the-distillation-is-missing.md) — three silences that make the sophisticated end of this practice invisible: heat-aversion, the alchemical wall, and official suppression
@@ -50,7 +51,6 @@ Each document links to the next at the bottom.
 - [The Biological Baseline](00-orientation/the-biological-baseline.md) — diet as the first phase of distillation: the 17th-century proof, the monastic architecture, and the Universal Medicine
 - [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented
 - [A Year in the Practice](00-orientation/a-year-in-the-practice.md) — what a full year of observation reveals, and how the practice connects to the Living Year
-- [A Related Body of Work](00-orientation/a-related-body-of-work.md) — the classical-lineage track running parallel to this archive: Olivier Francoeur's *The Book of Sol*, and where the two bodies of work converge
 
 ### Method
 
