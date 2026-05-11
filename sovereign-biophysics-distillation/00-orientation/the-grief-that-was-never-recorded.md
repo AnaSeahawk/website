@@ -211,6 +211,36 @@ The cord was cut. The placenta was taken. The living milk was replaced. The cycl
 
 These are not unconnected events. They form a recognisable pattern across time — one that consistently moved women away from direct knowledge of their own biological intelligence and toward dependence on external authority to interpret and manage it. Whether by design or by the accumulated logic of systems that benefited from that dependence, the effect was the same.
 
+**The first somatic memory.**
+
+Before the word arrived, the body received its instruction.
+
+Toilet training is where the disgust response is installed — not in language but in the body, at the earliest point where the body's own productions can be pointed to, named, and given an emotional charge. The child has not yet formed the critical faculty that could question what it is receiving. The expression on the caregiver's face, the tone of the voice, the speed with which the fluid is made to disappear — these arrive as the child's first somatic education in what its own body produces. Before *waste* can be a word, it is a feeling. A contraction. A turning away that the nervous system records as truth because it comes from the person the body trusts most completely.
+
+The installation does not require cruelty. It does not require awareness. The caregiver passes on what they received, in the same preverbal channel, to a body that is in the maximum receptivity of the earliest years of life. The child who is taught that what it produces is to be managed, disposed of, made invisible — absorbs this as something prior to teaching. Prior to belief. It arrives as the body's own verdict on itself.
+
+And the child who is not taught this — whose body's productions are received without flinching, noted with attention, named without shame — carries a completely different somatic baseline into every inquiry that follows. The question *what is this?* can form in that body. The word *waste* has no ground to land on. The critical faculty, when it finally develops, finds the territory still open.
+
+The women of Alexandria who studied anatomy at the threshold where life and death met — who had access to cadavers, who were present at birth, who handled what the body produced at every stage — had this knowledge. Not the clinical record. The embodied understanding of what was passing through their hands. They knew what the amniotic fluid was and what it contained. They knew what the infant's first waters signified. They knew, from the same pharmacological intelligence that gave them the tribikos and the kerotakis, that the body they had just received into the world was built from that fluid — refined from it, cycled through it, carrying its signature in every cell.
+
+That knowledge would have changed how they received the infant's first productions.
+
+It is not a large inference. It is what knowing does. A midwife who understands the placenta handles it differently from a midwife who has been told to remove it. A practitioner who has held the distillate and felt what it is looks at the infant's waters through different eyes. What you know informs what you can give. The Alexandrian women, at the leading edge of the ancient world's most rigorous study of the body — they were moving toward exactly this. A transmission was developing. The infant's waters were beginning to be received as what they were.
+
+And then the burning happened.
+
+What was interrupted was not only the written record. It was the somatic transmission — the way one generation's embodied knowledge meets the next generation's first experience of its own body. The practitioner who receives the infant's productions with reverence installs something different from shame. The child receives both the fluid and the knowledge that it is not waste. That it came from the same body that built it. That it can be returned.
+
+This is what the burning prevented from being passed forward. Not a doctrine. Not a set of instructions. A quality of reception at the earliest possible point — before language, before thought, before any critical faculty exists to question what is being given. The disgust response that has been installed in its place is not more natural or more true. It is simply what was put in the room when the women who might have received things differently were no longer permitted to be there.
+
+As a practitioner who has held the distillate and worked with these waters for years — I cannot imagine a child of mine receiving their first waters in the way I received mine. The somatic truth of what this substance is makes the alternative feel like something that could not survive the contact. Not with an argument. Simply with what is known in the body. I cannot arrive at a moment where a child of my body produces its first waters and what I carry in my hands does not meet it with recognition.
+
+And I cannot imagine that some of the women at Alexandria — handling what they handled, knowing what they knew, working at the precise intersection of anatomy and the body's living chemistry — did not feel the same.
+
+That transmission was alive. It was moving. It would have changed what the infant received in the first hours of its life. The burning did not only destroy a library. It cut a thread that was reaching toward the child's first somatic memory of its own body — toward the installation, before any word could arrive, that what the body produces is not waste.
+
+That thread is what we are attempting to recover.
+
 ---
 
 ## The Language That Replaced the Library
