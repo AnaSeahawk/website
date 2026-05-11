@@ -93,6 +93,22 @@ The bulk of daily drinking has shifted toward the Lunar essence and some Solar s
 
 Subjectively: old energy is still clearing. Both the body fluids and the solid outputs indicate it. The process is moving but has not reached its new equilibrium. That equilibrium will not be knowable until it has been stable for some time. This document is written from inside the transition, not from the other side of it.
 
+### The Clearing at Depth: Recapitulation Through Dream
+
+The clearing has a layer the physical observations do not fully capture.
+
+Since the removal of CBD and cannabis generally, and with the distilled plasma fractions entering daily practice, the dreaming has shifted in a way that has no prior parallel. Lucid dreaming was a childhood tendency — present and gone across the years, specifically and consistently diminished by cannabis. With the substance removed and the fractions in, it has returned at a sustained intensity and vividness that is entirely new for this practitioner's adult life. The correlation is direct and has been consistent across weeks.
+
+What arrives in those dreams is emotional recapitulation — old material surfacing and moving through in a register that waking life cannot fully hold. This is the clearing at depth. It is the same process that shows in the jar and in the digestion, running at the level of the nervous system and the stored emotional body. The Nigredo — the dissolution stage in which what has been held must surface before it can release — is happening through the night.
+
+This is also another layer of why the body is reaching for food density. It is not only the agni seeking stimulation in place of the removed substances. It is the body wanting something to land in — a floor to return to after what the dreaming requires. The grounding pull and the dream intensity are part of the same process, pulling in opposite directions. Food as anchor during an unusually active night life.
+
+The agni document names medhagni — the flame of intelligence and perception — as the fire that operates in the mind: the capacity to discriminate what is real from what is rationalised, what the body is reporting from what the conditioning is narrating. What the dreaming may be doing is exactly this: running medhagni through the stored material while the physical body is still. The fractions appear to be supporting that process. Cannabis suppressed it. Their removal, and the fractions' presence, has opened it.
+
+There is a call to fast on the Lunar essence — to move into an essence-only period and observe what it does to the dreaming. The body is not offering the right conditions for that yet. The living environment is still in transition. The correct container for that experiment has not been found. This is being listened to carefully. The call is held, not dismissed.
+
+Dream records, where they are kept, belong in [Dreamwork →](../../Dreamwork/).
+
 ---
 
 ## IV. The Shivambu-as-Menstruum Line of Work
