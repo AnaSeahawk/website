@@ -5,15 +5,13 @@ moon:
 moon-phase:
 type: synthesis
 visibility: community
-status: draft
+status: reviewed
 claim_tier: synthesis
 ---
 
 # Current State of the Work — May 2026
 
 *A synthesis of what the archive now holds: what has been confirmed, what is still being mapped, and where the practice stands after the April/May dietary clearing.*
-
-*Draft for review — sections marked* [YOUR OBSERVATION] *are placeholders for direct practitioner input.*
 
 ---
 
@@ -52,6 +50,16 @@ Fiona Gardner's microscopy findings are the most significant collaborative obser
 This finding holds across both raw and distilled material, which means it is a property of the source fluid, not a distillation effect.
 
 The microscopy work is in its first steps. One non-practitioner sample has been examined alongside the practitioner and infant samples. That is the complete dataset at present. The temptation is to qualify this heavily; the approach taken here is different: one step is one step, and it is worth documenting as exactly that. Nothing is left out because it is small. The research direction is established. The evidentiary depth will come with time and additional samples.
+
+### The Fractions in Daily Use
+
+No new formal electrochemical readings have been taken since the Torremolinos baseline. Informal observation continues: the Solar spirit, allowed to sit for several days after distillation, does change in charge character — the negative ORP diminishes over time — but it holds its negative posture throughout and continues to act with the same solar energy on oral health and topical application. The diminishment is a matter of degree, not a reversal of character.
+
+The topical practice has expanded significantly during the Sarandë period, in part because the moringa oil that had been a daily skin practice for years was confiscated at airport security on arrival. The fractions have moved into that role — and are showing something the moringa could not.
+
+The Solar spirit on the feet: dead skin peels from rubbing the spirit in. No soaking required, no abrasion, no preparation — the alkaline action does the work. This is consistent with the proposed mechanism (alkaline hydrolysis dissolving the structural proteins of hardened skin), and it is one of the cleaner demonstrations of the spirit's chemistry in direct practice. The legs, which have been dry for an extended period, have responded similarly. The property the spirit leaves behind: deep cleanliness, softness, no residue, no sticky layer. Nothing added — only what the skin itself becomes.
+
+The Lunar essence is being used from a spray bottle throughout daily sun bathing. The cooling quality is immediate and notable. The skin tone and texture are visibly changing — most clearly on the face, which receives the most consistent attention and the highest dose of both fractions. The face, then the feet, then the body: this is the practical order that has emerged from observation of impact and response. Spirit is primary on the face and feet; essence covers all of the body including the face. The skin is responding in ways that read as different in kind, not just degree, from any other topical practice.
 
 ---
 
@@ -93,7 +101,7 @@ The historical research document (May 2026) establishes that using the distilled
 
 The significance: this is an open research direction, not a documented one. The archive can claim historical grounding for the principle (shivambu as active menstruum) and technical precedent for the operation (cohobation), but not a transmitted protocol for the specific practice.
 
-*[YOUR OBSERVATION: Has any experimental work begun with aromatic herb cohobation using the Solar or Lunar fraction as the menstruum? Any preliminary observations from the laboratory notes referenced in the analysis document? If yes, brief description of materials and what was observed. If not yet, when does this feel like the right direction to move?]*
+The experimental work has not yet begun with formal plant distillation — that is planned for the next settled period. What has begun is culinary: the Lunar essence warmed with fresh dill, fennel greens, or triphala as part of meals. The flavor of the essence is present and distinct when prepared this way. This is the ground floor of the menstruum line — not cohobation yet, but the body already in relationship with the essence as a medium that carries herbs. The plan after the next move is to document a distillation of fresh plasma alongside plant distillations, bringing the experimental record forward into this territory.
 
 ---
 
@@ -124,7 +132,9 @@ From the current position, several directions are in view:
 
 **The microscopy depth.** Duration-of-practice correlation, SEM examination of crystal margins, broader sample pool — these would move the Fiona Gardner findings from preliminary observation toward a publishable finding. The framework for understanding them (circulatio, the biological loop) is complete; the evidentiary depth is not yet there.
 
-*[YOUR OBSERVATION: Which of these feels most alive as the next direction? Is there anything not captured in the above that is currently in active development?]*
+The most immediate next step is already named: another move in a few days, and after that a documented distillation of fresh plasma alongside plant distillations — bringing the experimental record into the menstruum territory the historical research has now grounded. The post-clearing stable baseline run remains the clearest future reference point: when the transition has settled, a measured run on the same protocol as February will be the cleanest statement of what the clearing accomplished.
+
+What feels most alive is the embodied practice rather than the laboratory work — the topical applications, the essence in food, the daily contact with the material as a living practice rather than a documented experiment. The laboratory record catches up to the body. That is the correct order.
 
 ---
 
