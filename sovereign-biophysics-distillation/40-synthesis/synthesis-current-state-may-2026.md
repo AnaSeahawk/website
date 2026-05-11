@@ -71,7 +71,7 @@ The dhatvagni chain — seven tissue fires operating in sequence from rasa (plas
 
 The four states of agni (sama, vishama, tikshna, manda) provide a diagnostic vocabulary that the archive has been reaching for without having had the language. The distinction that matters most for this practice: a body with manda agni eating less is not the same condition as a body with sama agni eating less. The former is pathological; the latter is a signal that the chain is completing at a finer level of input. Without the agni framework, this distinction is invisible — and practitioners in both states look, from the outside, like they're doing the same thing.
 
-The current state reads as vishama — variable. The body lost its previous stimulant scaffolding (coffee, CBD, refined sugar from ice cream in Spain) and reached for what was available: ghee. The overconsumption was visible before it was named — the plasma showed it first, cloudy with a thin layer of fat on the surface after standing. The jar as diagnostic instrument, which is what this framework predicts.
+The current state reads as vishama — variable. The body lost its previous stimulant scaffolding (coffee, CBD, refined sugar from ice cream in Spain) and reached for what was available: ghee. The overconsumption was visible before it was named — the plasma showed it first. The jar as diagnostic instrument, which is what this framework predicts.
 
 The appetite signals are present but not yet fully trustworthy as guides. What presents as hunger reads, on examination, more often as a grounding pull — the body wanting something to do with its hands, something to anchor to, something familiar and dense. The recognition is: the body is not yet ready to channel the energy that would come from eating less, so it calls for food as a stabiliser rather than as nourishment. The distinction between these two is becoming legible. The approach is allowing rather than forcing — observing what the body signals, giving it time before deciding whether to respond. This is sama agni's discipline applied to a vishama agni phase: not override, not compliance, but watching.
 
@@ -144,7 +144,7 @@ From the current position, several directions are in view:
 
 **Post-clearing stable baseline.** When the April/May clearing settles and the plasma returns to the new baseline, a documented run — with the same measurement protocol as February 2026 — will be the clearest statement of what the dietary clearing accomplished at the level of the material.
 
-**The menstruum line.** If the aromatic herb cohobation work is beginning, it represents a new experimental direction that the archive framework is ready to receive — the historical grounding is documented, the operation is named, the question is what the body-derived menstruum does to specific plants that a neutral aqueous menstruum would not.
+**The menstruum line.** When the aromatic herb cohobation work begins, it represents a new experimental direction that the archive framework is ready to receive — the historical grounding is documented, the operation is named, the question is what the body-derived menstruum does to specific plants that a neutral aqueous menstruum would not.
 
 **The microscopy depth.** Duration-of-practice correlation, SEM examination of crystal margins, broader sample pool — these would move the Fiona Gardner findings from preliminary observation toward a publishable finding. The framework for understanding them (circulatio, the biological loop) is complete; the evidentiary depth is not yet there.
 
