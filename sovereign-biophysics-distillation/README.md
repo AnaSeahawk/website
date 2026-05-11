@@ -88,6 +88,7 @@ Each document links to the next at the bottom.
 
 ### The Living Record
 
+- [The Dream Body](the-dream-body.md) — what the physical practice prepares the way for: the dream body, recapitulation, the daytime and night-time halves of the same work, and the call toward a permanent container
 - [The Vessel](the-vessel.md) — the practitioner's account: fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos, Spain in February 2026
 - [Practice Log 2026](practice-log-2026.md) — running log of diet baseline, distillation events, and practitioner state from February 2026 onward
 

@@ -160,6 +160,6 @@ What feels most alive is the embodied practice rather than the laboratory work �
 
 ---
 
-*Continue reading: [The Vessel — The Practitioner's Account →](../the-vessel.md)*
+*Continue reading: [The Dream Body →](../the-dream-body.md)*
 
 *[← Back to Index](../README.md)*
