@@ -88,6 +88,8 @@ The names help here. Shivambu, living waters, the golden fountain — language t
 
 This is also why private practitioner communities exist — and why they are worth finding. Not communities built on secrecy or shame, but spaces where people speak from actual experience, where questions can be asked without having to first defend the premise, and where the conversation does not have to pass through the noise of those who have never engaged with the practice and are responding only to the idea of it. The quality of that exchange is different. There is a shorthand available between people who have sat with the same jar, noticed the same things, and had the same quiet realisations. That community is already here, and it is growing.
 
+[Mother Spirit](https://mother-spirit.com) is the gathering point for these spaces — where to find the active channels and how to enter them. The most direct conversation currently lives in a Telegram group; regular practitioner calls are shared there. The spaces are closely tended for conduct, which is part of what makes the exchange worth finding.
+
 ---
 
 ## What Varies
@@ -112,7 +114,7 @@ Distillation is a deeper layer of the same work: the separation of the fluid int
 
 *Personal observation and community record. Offered as a starting point, not a protocol. Every practitioner's beginning is their own.*
 
-*Ana Seahawk — Sovereign Biophysics*
+*Ana Seahawk — Sovereign Biophysics — [anaseahawk.com](https://anaseahawk.com)*
 
 ---
 
