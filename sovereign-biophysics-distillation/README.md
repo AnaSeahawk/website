@@ -42,6 +42,7 @@ Each document links to the next at the bottom.
 - [Why the Distillation Is Missing](00-orientation/why-the-distillation-is-missing.md) — three silences that make the sophisticated end of this practice invisible: heat-aversion, the alchemical wall, and official suppression
 - [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression, and what the body still carries
 - [The Language of Erasure](00-orientation/the-language-of-erasure.md) — how a word closes a question before it can be asked: the mechanism of suggestion applied to the body's own vocabulary
+- [The First Water](00-orientation/the-first-water.md) — the amniotic fact, the inversion, and what the block overrides: we were built from this water before any word arrived to close the question
 - [The Moving Sky and the Stationary Earth](00-orientation/the-moving-sky.md) — seven wanderers, the sky as clock, the calendar as convenience: why the solar return is what a birthday actually is, and why agriculture never stopped using the sky
 - [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the myth as science: the sovereign vessel and the alchemical process in code
 - [Inanna, Venus and the Seven Gates](00-orientation/inanna-venus-and-the-seven-gates.md) — the astronomical record behind the myth: Venus's seven-day disappearance, the pentagram she draws across eight years, and the seven-fold body across traditions
