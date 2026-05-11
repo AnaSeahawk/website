@@ -4,8 +4,8 @@ sun: 17° Taurus
 moon:
 moon-phase:
 type: foundation
-visibility: community
-status: draft
+visibility: public
+status: reviewed
 claim_tier: observation
 series: Cosmological & Textual Cross-Reference Series
 ---

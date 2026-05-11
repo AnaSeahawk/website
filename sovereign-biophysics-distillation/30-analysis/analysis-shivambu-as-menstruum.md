@@ -1,8 +1,8 @@
 ---
 date: 2026-05-08
 type: analysis
-visibility: community
-status: draft
+visibility: public
+status: reviewed
 claim_tier: hypothesis
 ---
 

@@ -198,6 +198,6 @@ Selected fractions are logged in personal culinary and botanical preparation con
 
 ---
 
-*Continue reading: [The Vessel — The Practitioner's Account →](../the-vessel.md)*
+*Continue reading: [Current State of the Work — May 2026 →](synthesis-current-state-may-2026.md)*
 
 *[← Back to Index](../README.md)*

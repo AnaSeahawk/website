@@ -4,8 +4,8 @@ sun: 17° Taurus
 moon:
 moon-phase:
 type: analysis
-visibility: community
-status: draft
+visibility: public
+status: reviewed
 claim_tier: preliminary-observation
 collaborators: Fiona Gardner (microscopy), Ana Seahawk (framework)
 ---

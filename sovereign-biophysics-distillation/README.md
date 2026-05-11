@@ -84,6 +84,7 @@ Each document links to the next at the bottom.
 ### Synthesis
 
 - [Synthesis: Multiday Distillation, Fresh vs Aged](40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)
+- [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
 
 ### The Living Record
 
