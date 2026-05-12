@@ -36,6 +36,8 @@ Mother Spirit is the ongoing gathering —
 people sharing practice, observation, and company
 while this work continues to unfold.
 
+**[mother-spirit.com](https://mother-spirit.com)**
+
 For now it lives on Telegram.
 
 **[Join Mother Spirit](https://t.me/+Mu1S-BHUelMxZDZh)**
