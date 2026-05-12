@@ -156,7 +156,7 @@ I have been away from my family for most of these fourteen years. They do not fu
 
 The women of Alexandria whose work I have spent months recovering left their knowledge in symbols because direct statement was not safe. I live in a different moment. Direct statement is possible, though it comes with its own forms of resistance — platform restrictions, automated systems that flag home laboratory work, the soft erasure of invisibility.
 
-I am choosing to be as public as possible, precisely and specifically because I believe that what I have found is not mine to withhold. If someone with the means and the vision reads this and wants to help build the space in southern Spain — that is why I am writing it down. If someone in another part of the world reads this and begins their own practice and their own documentation — that is why I am writing it down.
+I am choosing to be as public as possible, precisely and specifically because I believe that what I have found is not mine to withhold. If someone in another part of the world reads this and begins their own practice and their own documentation — that is why I am writing it down.
 
 The knowledge is in the body. Every human body. It cannot be permanently suppressed because it cannot be permanently separated from the people who carry it.
 
