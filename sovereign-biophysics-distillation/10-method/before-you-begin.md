@@ -39,7 +39,7 @@ In a 4L distiller, working volume is 500ml or less for a first distillation — 
 
 **Allow the machine to cool before opening.** Once the run is complete, give it time before opening the chamber fully — there is still heat and steam inside.
 
-**Label everything and keep fractions separate.** The Solar spirit (first cut) is highly alkaline and volatile. It looks like water. Label clearly and do not store it near drinking water or gentler fractions.
+**Label everything and keep fractions separate.** The Solar spirit (first cut) is highly alkaline and volatile. It looks like water — and so does the Lunar essence, and so does pure distilled water. Held up to the light they are visually indistinguishable. Label everything clearly and store the Solar spirit separately from the Lunar essence and from any pure water you are drinking. They are all waters, but they are not the same water.
 
 **The first fraction of any run is not for direct internal use.** Keep it sealed — the volatile compounds are what make it active for topical application. Label it clearly as the Solar spirit and store it separately. Do not allow it to off-gas into the air.
 ---
