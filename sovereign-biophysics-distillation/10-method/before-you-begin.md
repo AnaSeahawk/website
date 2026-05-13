@@ -20,8 +20,16 @@ The fluid carries the direct electrochemical imprint of your life — your diet,
 **Work outside or in a well-ventilated space.** Volatile compounds off-gas before the liquid reaches a boil. This is especially true in the first fraction of the first run. Fresh air is the simplest solution.
 
 **Do not overfill the chamber.** Biological material foams significantly under heat. Overfilling pushes material into the condenser and compromises the unit.
-- Fresh material: fill to no more than 1/3 capacity
-- Aged material: fill to no more than 1/2 capacity
+
+In a 4L distiller, working volume is 500ml or less for a first distillation — often considerably less. The difference between fresh and aged material is not significant for fill volume when the material has been stored capped: both foam actively under heat, and small volumes protect the unit.
+
+*Capped vs open storage matters here.* Material aged in sealed containers retains all the ammonia produced during fermentation. When heat is applied, that ammonia volatilises rapidly and drives hard foaming at the start of the run — another reason to work small. Material aged in open containers with a cloth cover (or otherwise breathable) loses ammonia gradually to the air during aging: less volatile content at the time of distillation, gentler behaviour, and potentially workable at higher fill volumes. The Solar spirit from open-aged material will also be weaker, because much of the first-fraction volatile content has already left the jar. Neither method is wrong — they produce different material. Know which one you are working with before setting your fill level.
+
+**Second distillation can fill to half capacity.** Once you have run several small first-distillation batches and collected the combined essence, you have a starting material that no longer carries the same foaming risk. Running a larger bulk second distillation at up to 1/2 chamber capacity is workable. This is also where the fraction separation becomes precise.
+
+**Measure your starting volume.** Recording how much you load at the start of a run gives you a reference point for timing the separation — you have a sense of when the bulk of the first fraction has crossed over and the character is shifting toward the second.
+
+**For the second distillation: taste as you go.** Keep a small spoon beside the distiller. Once roughly a quarter of the expected volume has collected, begin tasting periodically. The Solar spirit has a distinct character — alkaline, sharp, ammonic. When that character softens and what is coming through begins to taste closer to water, the bulk of the spirit has finished. Swap jars at that point to collect the Lunar fraction cleanly.
 
 **Shut the machine down manually.** Standard distillers are designed to run until the chamber is empty. Do not let this happen — biological solids will scorch onto the steel. Stop the run while a clear layer of liquid remains at the bottom. This is the Saturn fraction; pour it off and clean the chamber immediately with warm water while it is still warm.
 
