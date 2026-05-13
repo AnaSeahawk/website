@@ -31,7 +31,7 @@ In a 4L distiller, working volume is 500ml or less for a first distillation — 
 
 **Second distillation can fill to half capacity.** Once you have run several small first-distillation batches and collected the combined first-run distillate, you have a starting material that no longer carries the same foaming risk. Running a larger bulk second distillation at up to 1/2 chamber capacity is workable. This is also where the fraction separation becomes precise.
 
-**Measure your starting volume.** Recording how much you load at the start of a run gives you a reference point for timing the separation — you have a sense of when the bulk of the Solar spirit has crossed over and the character is shifting toward the Lunar essence.
+**Measure your starting volume.** Recording how much you load at the start of a run gives you a reference point for timing the separation — you have a sense of when the bulk of the Solar spirit (first fraction) has crossed over and the character is shifting toward the Lunar essence (second).
 
 **For the second distillation: taste as you go.** Keep a small spoon beside the distiller. Once roughly a quarter of the expected volume has collected, begin tasting periodically. The Solar spirit has a distinct character — alkaline, sharp, ammonic. When that character softens and what is coming through begins to taste closer to water, the bulk of the spirit has finished. Swap jars at that point to collect the Lunar fraction cleanly.
 
