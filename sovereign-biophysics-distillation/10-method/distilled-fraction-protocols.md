@@ -41,7 +41,7 @@ The Solar spirit is the most volatile and the most chemically active of the thre
 May be taken in small amounts. The alkalinity is significant — approach with attention, begin small, observe. This is not the same substance as the Lunar essence.
 
 **Topical**
-Applied to skin, teeth, scalp. The activity is noticeable. Used in spot applications. May be diluted.
+Applied to skin, teeth, scalp, feet. The activity is noticeable. Used in spot applications. May be diluted. Applied to the feet and worked in gradually, the Solar spirit acts as a strong exfoliator — dead skin lifts and peels away with light friction, with the quality of a slow pedicure done a little at a time. The same effect is available across any area of skin that holds dead cell buildup.
 
 **Botanical extraction**
 The high pH and conductivity make this fraction effective as an extraction medium for plant material. Alkaloids and medicinal compounds are pulled from plant matrix more aggressively than in neutral water. In this practitioner's experience: small batches only — what would be consumed in a single serving. The plant material is added to the Solar spirit in a sealed container and left to soak for a few hours or overnight. The organic material is then filtered out. The resulting preparation is left open to the air, or covered with a cloth, to allow the ammonia to evaporate before consuming. This step matters — the ammonia needs to off-gas before the preparation is ready. This is an area of active observation, not established protocol.
@@ -64,7 +64,7 @@ Drinking water, primary daily use. Used in cooking, coffee preparation, herbal i
 Double-distilled Lunar essence used as eye drops and ear drops. The cleanest available material is appropriate here — double-distilled specifically, not the first pass. Observed to be immediately relieving after extended screen time or travel. In one documented instance, three applications over the course of several hours for an intense migraine-like headache — each application two to three hours apart. By the third application a sensation of penetration was noticed. Slept, woke refreshed. The headache had resolved. This is a single episode, one practitioner. It is in the record because the observation was striking and the protocol — repeated application at intervals — is specific enough to be worth noting.
 
 **Topical**
-Gentle daily use. Facial cleansing, hair, skin, feet — anywhere on the body. Lower activity than the Solar spirit; appropriate for regular contact. Applied to the feet and worked in gradually, the Lunar essence acts as a gentle exfoliator — dead skin lifts and peels away with light friction. This has the quality of a pedicure done slowly, a little at a time. The same effect is available across any area of skin that holds dead cell buildup.
+Gentle daily use. Facial cleansing, hair, skin — anywhere on the body. Lower activity than the Solar spirit; appropriate for regular contact.
 
 **Dietary nourishment**
 With sustained use of the Lunar essence as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar essence relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [The Ambrosia Diet →](ambrosia-diet.md)
