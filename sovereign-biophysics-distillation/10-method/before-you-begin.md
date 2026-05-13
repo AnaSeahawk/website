@@ -35,7 +35,7 @@ In a 4L distiller, working volume is 500ml or less for a first distillation — 
 
 **For the second distillation: taste as you go.** Keep a small spoon beside the distiller. Once roughly a quarter of the expected volume has collected, begin tasting periodically. The Solar spirit has a distinct character — alkaline, sharp, ammonic. When that character softens and what is coming through begins to taste closer to water, the bulk of the spirit has finished. Swap jars at that point to collect the Lunar fraction cleanly.
 
-**Shut the machine down manually.** Standard distillers are designed to run until the chamber is empty. Do not let this happen — biological solids will scorch onto the steel. Stop the run while a clear layer of liquid remains at the bottom. This is the Saturn fraction; pour it off and clean the chamber immediately with warm water while it is still warm.
+**Shut the machine down manually.** Standard distillers are designed to run until the chamber is empty. Letting it reach that point is not a disaster, but biological solids will scorch onto the steel and the cleaning becomes significantly harder. Stopping while a clear layer of liquid remains at the bottom is the easier path. That remaining liquid is the Saturn fraction; pour it off and clean the chamber with warm water while it is still warm.
 
 **Allow the machine to cool before opening.** At least 30 minutes. The concentrated steam inside is hot.
 
