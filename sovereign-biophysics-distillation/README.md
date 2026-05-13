@@ -56,7 +56,7 @@ Each document links to the next at the bottom.
 ### Method
 
 - [Shivambu](10-method/shivambu.md) — where the practice actually begins: naming the substance, the Damar Tantra starting point, the natural progression, and the social reality of a practice many people carry privately
-- [Before You Begin](10-method/before-you-begin.md) — practical notes on working with a home distiller: ventilation, fill levels, shutdown, fraction labelling
+- [Before You Begin](10-method/before-you-begin.md) — practical notes on working with a home distiller: ventilation, fill levels, foam management, consecutive batches, shutdown, fraction labelling
 - [On Sodium Chloride — On Chloride](10-method/on-sodium-chloride.md) — the agent is chloride, not sodium: the hardest dietary transition, why it takes years, and what is waiting on the other side
 - [The Ambrosia Diet](10-method/ambrosia-diet.md) — ghee, grain, and Lunar essence: the food of the gods and what the practice asks for when the circuit is running
 - [The Living Grain](10-method/the-living-grain.md) — tsampa, ancient fire-food, and the body that defies the dogma: roasting technique, the Sherpa parallel, and the two-jar field preparation
