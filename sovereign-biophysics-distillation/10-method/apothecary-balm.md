@@ -6,7 +6,7 @@ claim_tier: practice
 ---
 
 # The Apothecary Balm
-## A Plasma Mineral Salve from the Saturn Retentate
+## A Plasma Mineral Salve from the Saturn Serum
 
 *Single-practitioner record. What follows is one person's process, specific to one dietary baseline and one distillation practice. It is offered as documentation, not instruction.*
 
@@ -16,7 +16,7 @@ claim_tier: practice
 
 ## Why This Works
 
-The Saturn fraction — what remains in the chamber after the volatile Solar spirit and the clear Lunar essence have been drawn off — is not waste. It is the most concentrated, biologically dense fraction of the entire run. Everything the distillation could not lift into vapour is still here: the fixed salts, the structural minerals, the organic compounds the body built and used and did not surrender to evaporation.
+The Saturn serum — what remains in the chamber after the volatile Solar spirit and the clear Lunar essence have been drawn off — is not waste. It is the most concentrated, biologically dense fraction of the entire run. Everything the distillation could not lift into vapour is still here: the fixed salts, the structural minerals, the organic compounds the body built and used and did not surrender to evaporation.
 
 What those compounds are, and what they are capable of, depends entirely on two things: the dietary baseline that produced them, and whether the source material was fresh or aged.
 
@@ -28,7 +28,7 @@ This retentate is different. Eliminating sodium chloride from the diet does not 
 
 The same principle holds for dietary sulfur. Low sulfur intake — no meat, no eggs, reduced alliums — means the retentate carries less of the volatile sulfur compounds that make reduction harsh and the final material irritating. What remains is cleaner.
 
-The balm described here is specific to this baseline: zero sodium chloride, no meat or eggs, dairy present (milk, yogurt, ghee), reduced alliums — low to moderate sulfur overall, long-term practice. A different dietary history produces a different Saturn fraction, and a different result.
+The balm described here is specific to this baseline: zero sodium chloride, no meat or eggs, dairy present (milk, yogurt, ghee), reduced alliums — low to moderate sulfur overall, long-term practice. A different dietary history produces a different Saturn serum, and a different result.
 
 ### Why This Requires Aged Plasma
 
@@ -42,7 +42,7 @@ The aged retentate is smooth, dense, and workable. It emulsifies. It absorbs. It
 
 ---
 
-## What the Saturn Retentate Contains
+## What the Saturn Serum Contains
 
 When the source material is aged plasma distilled without dietary sodium chloride, the fixed fraction concentrates:
 
@@ -74,7 +74,7 @@ The distillation for this balm begins with aged plasma — material that has bee
 
 This is the 1/4 Volume Protocol documented in the distillation logs: intentional termination while liquid remains, not running the machine until the chamber is empty. Running dry scorches the organic compounds onto the steel and destroys the material entirely.
 
-**Cooling and filtering the serum:** Once the run is stopped, the machine is allowed to cool fully before opening. The Saturn retentate — referred to here as the serum — is then decanted from the chamber and left to come completely to room temperature before filtering. This cooling step matters: the serum holds more dissolved solids while hot, and filtering it warm produces a clear liquid that clouds and deposits grit as it cools in the bottle. Letting it cool first forces the excess solids to precipitate in the vessel, where they can be left behind.
+**Cooling and filtering the serum:** Once the run is stopped, the machine is allowed to cool fully before opening. The Saturn serum is then decanted from the chamber and left to come completely to room temperature before filtering. This cooling step matters: the serum holds more dissolved solids while hot, and filtering it warm produces a clear liquid that clouds and deposits grit as it cools in the bottle. Letting it cool first forces the excess solids to precipitate in the vessel, where they can be left behind.
 
 Filtering is done by gravity through an unbleached coffee filter set in a glass funnel over a clean jar. The serum is dense and filters slowly — do not squeeze the filter or force it. As the filter blinds with trapped organic matter, it is replaced with a fresh one and filtering continues until the serum has passed through cleanly. The filtered serum at this stage is a dark, clear liquid, stored in amber glass until ready for further work.
 

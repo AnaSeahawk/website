@@ -31,7 +31,7 @@ During aging, sediment naturally accumulates at the bottom of the vessel. Syphon
 **Filtering**
 Filtering is secondary and case-dependent. It is time-consuming and is mostly avoided in routine aging. When filtering is done, coffee filters are used — filled once and allowed to drip through, then replaced. They clog easily; the filter is not refilled or forced. When both syphoning and filtering are needed, syphon first. What passes through the filter is cleaner starting material; what remains in the filter is discarded.
 
-For the Saturn retentate specifically, see the distilled fraction protocols.
+For the Saturn serum specifically, see the distilled fraction protocols.
 
 ---
 

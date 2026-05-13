@@ -65,7 +65,7 @@ The scale runs from 0 to 14. 7 is neutral — pure water. Below 7 is acidic. Abo
 
 Fresh plasma ultrafiltrate sits around pH 6–7: slightly acidic, physiological. After aging and distillation the Solar spirit inverts dramatically — pH 9 to 10.5 is typical. The material has been chemically transformed by the fermentation: urea broken down by urease enzymes into ammonia, which is strongly alkaline. The number tells you the inversion has happened and how completely.
 
-The Saturn retentate goes the other way — acidic, pH 5–6 — because the alkaline fraction has risen and left behind the mineral salts. The solve et coagula in numbers: what was one thing is now two, each at opposite poles.
+The Saturn serum goes the other way — acidic, pH 5–6 — because the alkaline fraction has risen and left behind the mineral salts. The solve et coagula in numbers: what was one thing is now two, each at opposite poles.
 
 **ORP — oxidation-reduction potential, measured in millivolts (mV)**
 ORP measures whether the fluid is an electron donor or electron receiver.
@@ -79,17 +79,17 @@ The more negative the number, the higher the electron-donating capacity. This is
 **EC — electrical conductivity, measured in µS/cm or mS/cm**
 EC measures how well the fluid conducts electricity — which depends on what is dissolved in it. Pure distilled water conducts almost nothing. Mineral-rich fluid conducts well.
 
-The Solar spirit conducts more than pure water because the ammonia compounds carry charge. The Saturn retentate conducts extremely well — sometimes 20–30 mS/cm — because it holds the full mineral density of what the body processed, concentrated into a small volume. This is the *Caput Mortuum* as a living substance: dense, rich, not dead at all.
+The Solar spirit conducts more than pure water because the ammonia compounds carry charge. The Saturn serum conducts extremely well — sometimes 20–30 mS/cm — because it holds the full mineral density of what the body processed, concentrated into a small volume. This is the *Caput Mortuum* as a living substance: dense, rich, not dead at all.
 
 EC tells you about concentration and mineral content. Rising EC across distillation runs — as the diet becomes cleaner and the practice deepens — is one of the long-term patterns worth tracking.
 
 **TDS — total dissolved solids, measured in ppm (parts per million)**
 TDS is closely related to EC and measures the total mass of dissolved material in the fluid. High TDS means more is dissolved; low TDS means the fluid is clean and concentrated in the volatile sense rather than the mineral sense.
 
-The Solar spirit has low TDS — it has shed its dissolved solids through distillation and carries primarily the volatile ammonia compounds. The Saturn retentate has very high TDS — all the non-volatile solids, concentrated. The gap between the two fractions is the solve in numbers: the separation of the volatile from the fixed made visible as a measurement.
+The Solar spirit has low TDS — it has shed its dissolved solids through distillation and carries primarily the volatile ammonia compounds. The Saturn serum has very high TDS — all the non-volatile solids, concentrated. The gap between the two fractions is the solve in numbers: the separation of the volatile from the fixed made visible as a measurement.
 
 **Reading the numbers together**
-No single number tells the full story. A complete picture of a run looks like this: Solar spirit with high pH (9.5+), negative ORP (−20 to −100+ mV), low TDS, moderate EC from the ammonia charge. Saturn retentate with low pH (5.5–6.5), positive ORP, very high TDS and EC from mineral density. The gap between them is the distillation working.
+No single number tells the full story. A complete picture of a run looks like this: Solar spirit with high pH (9.5+), negative ORP (−20 to −100+ mV), low TDS, moderate EC from the ammonia charge. Saturn serum with low pH (5.5–6.5), positive ORP, very high TDS and EC from mineral density. The gap between them is the distillation working.
 
 Fresh control measured alongside gives you the baseline — what the body produced before the transformation — and makes the inversion visible by comparison.
 
