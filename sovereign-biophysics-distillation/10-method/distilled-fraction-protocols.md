@@ -77,20 +77,22 @@ The Lunar essence used with ghee in soft-simmer preparation. This is the Two Dis
 
 ---
 
-## The Saturn Fraction
+## The Saturn Serum
 
-What remains in the retort when the run is complete. The non-volatile concentrate — dense, dark, mineral-rich. High conductivity, high TDS, pH typically acidic (5.5–6.5) because the alkaline fraction has risen and left behind the salts. In the author's runs, Saturn retentate has measured up to 3% salt concentration despite a zero-sodium-chloride diet — endogenous mineral density, not dietary sodium.
+What remains in the retort when the run is complete. The non-volatile concentrate — dense, dark, mineral-rich. High conductivity, high TDS, pH typically acidic (5.5–6.5) because the alkaline fraction has risen and left behind the salts. In the author's runs, Saturn serum has measured up to 3% salt concentration despite a zero-sodium-chloride diet — endogenous mineral density, not dietary sodium.
 
-The Saturn fraction is the body of the practice, not its spirit. It is what did not and could not rise. In the alchemical language: the *Caput Mortuum*, which is not dead matter but concentrated structural intelligence waiting to be worked.
+The Saturn serum described here is from the distillation of aged, fermented plasma — not fresh. The aging process transforms the material in ways that carry through into the retentate: the mineral density, the fermentation chemistry, the concentrated biological history of that material. Saturn serum from fresh plasma is a different substance. The applications and observations in this document refer to the aged source.
+
+The Saturn serum is the body of the practice, not its spirit. It is what did not and could not rise. In the alchemical language: the *Caput Mortuum*, which is not dead matter but concentrated structural intelligence waiting to be worked.
 
 **The 1/4 Volume Protocol**
-The Damar Tantra instructs reducing to one quarter of volume before the Saturn fraction is considered complete. In practice: terminate the distillation when approximately one quarter of the starting volume remains in the chamber. This is the point at which the retentate has concentrated sufficiently without degrading into tar-like material.
+The Damar Tantra instructs reducing to one quarter of volume before the Saturn serum is considered complete. In practice: terminate the distillation when approximately one quarter of the starting volume remains in the chamber. This is the point at which the retentate has concentrated sufficiently without degrading into tar-like material.
 
 **Cooling before use**
-Always allow the Saturn fraction to cool fully before handling or filtering. It will be hot and very dense immediately after the run.
+Always allow the Saturn serum to cool fully before handling or filtering. It will be hot and very dense immediately after the run.
 
 **Filtering for topical use**
-When the Saturn fraction is being kept for topical application, filter after cooling. Coffee filters, one at a time, filled and allowed to drip through at their own pace. They clog — do not force, do not refill the same filter. What passes through is the usable topical preparation. The sediment in the filter is discarded.
+When the Saturn serum is being kept for topical application, filter after cooling. Coffee filters, one at a time, filled and allowed to drip through at their own pace. They clog — do not force, do not refill the same filter. What passes through is the usable topical preparation. The sediment in the filter is discarded.
 
 Filtering is not always done. For other applications it may not be necessary. Use judgement based on intended use.
 
@@ -101,7 +103,7 @@ The Saturn serum applied to skin has a lotion-like quality — soft, dense, abso
 The Saturn serum is kept for burns and wound healing. The protocol used in this practice: clean the area first with Solar spirit or first-run distillate, then apply Lunar essence, then apply the Saturn serum. For burns specifically — Lunar essence first to cool and soothe, then Saturn serum for deep tissue support. The sequence matters: clean, then cool, then the concentrated healing application goes on last.
 
 **Reduction**
-The Saturn fraction may be further reduced — by gentle heat, outdoor evaporation — to concentrate it further. This produces an even denser topical preparation. Handle with care as concentration increases.
+The Saturn serum may be further reduced — by gentle heat, outdoor evaporation — to concentrate it further. This produces an even denser topical preparation. Handle with care as concentration increases.
 
 **As a body wash or compress**
 Diluted or used directly as a cloth compress applied to the body.
