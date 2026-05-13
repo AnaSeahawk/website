@@ -64,7 +64,7 @@ Drinking water, primary daily use. Used in cooking, coffee preparation, herbal i
 Double-distilled Lunar essence used as eye drops and ear drops. The cleanest available material is appropriate here — double-distilled specifically, not the first pass. Observed to be immediately relieving after extended screen time or travel. In one documented instance, three applications over the course of several hours for an intense migraine-like headache — each application two to three hours apart. By the third application a sensation of penetration was noticed. Slept, woke refreshed. The headache had resolved. This is a single episode, one practitioner. It is in the record because the observation was striking and the protocol — repeated application at intervals — is specific enough to be worth noting.
 
 **Topical**
-Gentle daily use. Facial cleansing, hair, skin — anywhere on the body. Lower activity than the Solar spirit; appropriate for regular contact.
+Gentle daily use. Facial cleansing, hair, skin — anywhere on the body. Lower activity than the Solar spirit; appropriate for regular contact. Used from a spray bottle as sun aftercare and during sun exposure — the cooling effect is immediate and pronounced. The Saturn serum shares this cooling quality but is kept for more specific applications; the Lunar essence is the everyday topical carrier.
 
 **Dietary nourishment**
 With sustained use of the Lunar essence as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar essence relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [The Ambrosia Diet →](ambrosia-diet.md)
@@ -95,7 +95,10 @@ When the Saturn fraction is being kept for topical application, filter after coo
 Filtering is not always done. For other applications it may not be necessary. Use judgement based on intended use.
 
 **Topical skin application**
-The Saturn fraction applied to skin has a lotion-like quality — soft, dense, absorbs easily. This has been one of the consistent observations across this practice from its early stages. No clinical claim is made.
+The Saturn serum applied to skin has a lotion-like quality — soft, dense, absorbs easily. This has been one of the consistent observations across this practice from its early stages. No clinical claim is made.
+
+**Burns and wound care**
+The Saturn serum is kept for burns and wound healing. The protocol used in this practice: clean the area first with Solar spirit or first-run distillate, then apply Lunar essence, then apply the Saturn serum. For burns specifically — Lunar essence first to cool and soothe, then Saturn serum for deep tissue support. The sequence matters: clean, then cool, then the concentrated healing application goes on last.
 
 **Reduction**
 The Saturn fraction may be further reduced — by gentle heat, outdoor evaporation — to concentrate it further. This produces an even denser topical preparation. Handle with care as concentration increases.
