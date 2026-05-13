@@ -5,6 +5,7 @@ moon: 29° Libra
 moon-phase:
 type: foundation
 visibility: public
+status: reviewed
 ---
 
 # Sovereign Biophysics: The Women's Work

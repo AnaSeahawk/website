@@ -5,7 +5,7 @@ moon:
 moon-phase:
 type: method
 visibility: community
-status: draft
+status: reviewed
 claim_tier: practice
 ---
 

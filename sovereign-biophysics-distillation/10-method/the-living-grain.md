@@ -2,7 +2,7 @@
 date: 2026-05-04
 type: field-entry
 visibility: community
-status: draft
+status: reviewed
 claim_tier: practice
 ---
 
