@@ -281,6 +281,16 @@ The practice documented here is not a cure. It is a demonstration. The body, giv
 
 ---
 
+## What the Physiology Shows
+
+One mechanism that helps explain a pattern this practice reliably produces: the pregnenolone steal. Under conditions of chronic systemic inflammation, the body diverts its master precursor hormone — pregnenolone — toward cortisol production rather than sex hormone and thyroid hormone synthesis. The inflamed body prioritises the stress response above all other metabolic functions. The downstream effects are familiar: suppressed progesterone, compromised thyroid function, hormonal instability across the cycle. When the inflammatory load reduces, the steal relaxes. The hormonal axis recalibrates — not because anything targeted the endocrine system directly, but because the upstream condition that was commandeering the precursor supply has eased.
+
+What the practice appears to do — through the sustained daily return of the body's own biological material — is shift the immune environment in ways that reduce the chronic inflammatory baseline. The hormonal effects that practitioners observe are downstream of this shift, not directly caused by any specific hormone content in the practice material.
+
+This is corroborated by what experienced practitioners consistently report when the practice is interrupted. Hot flushes that had resolved return within days of stopping. Digestive regulation retreats — the gut-brain signalling that was stable under the practice loosens, and the body becomes more susceptible to its previous patterns. Energy drops in a way practitioners describe as being unplugged from a source. Restarting reverses these changes, often quickly. The pattern does not point toward cumulative results that persist independently once achieved — it points toward a regulatory state the body maintains while the practice is running. Remove the input, the equilibrium relaxes. Restore it, the equilibrium returns.
+
+---
+
 *Ana Seahawk — Sarandë, Albania — April 2026*
 
 ---

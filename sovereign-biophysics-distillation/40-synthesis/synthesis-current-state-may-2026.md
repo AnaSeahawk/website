@@ -61,6 +61,16 @@ The Solar spirit on the feet: dead skin peels from rubbing the spirit in. No soa
 
 The Lunar essence is being used from a spray bottle throughout daily sun bathing. The cooling quality is immediate and notable. The skin tone and texture are visibly changing — most clearly on the face, which receives the most consistent attention and the highest dose of both fractions. The face, then the feet, then the body: this is the practical order that has emerged from observation of impact and response. Spirit is primary on the face and feet; essence covers all of the body including the face. The skin is responding in ways that read as different in kind, not just degree, from any other topical practice.
 
+### The Feedback Model
+
+One biomedical framing that holds the range of observed effects in a single picture: the biological ultrafiltrate, returned to the body, functions as a continuous personalised feedback signal to the immune system.
+
+The fluid produced by the kidneys carries a real-time snapshot of the body's own immune markers, hormones, and metabolites — a precise, individuated portrait of internal state at the moment of production. Reintroducing this material provides the immune system with a continuous readout of its own condition: a signal it can use to recalibrate, down-regulating where it is chronically overactivated, releasing where it has been locked in a compensatory posture.
+
+In this model, the effects the practice produces — hormonal stabilisation, mucosal clearance, nervous system shifts, reduced inflammatory baseline — are not separately achieved. They are downstream expressions of a single upstream change: the immune system, given access to its own closed-loop feedback, returning toward calibration. The practice does not target inflammation or hormones. It restores the signalling environment in which the body regulates these itself.
+
+This is the auto-inoculation model: not supplementation, not therapy, but loop restoration. The body's own intelligence returned to itself in the form it already knows how to read.
+
 ---
 
 ## II. The Ayurvedic Frame: What It Adds
