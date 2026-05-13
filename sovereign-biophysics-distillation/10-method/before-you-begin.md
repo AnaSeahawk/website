@@ -37,7 +37,7 @@ In a 4L distiller, working volume is 500ml or less for a first distillation — 
 
 **Shut the machine down manually.** Standard distillers are designed to run until the chamber is empty. Letting it reach that point is not a disaster, but biological solids will scorch onto the steel and the cleaning becomes significantly harder. Stopping while a layer of liquid remains at the bottom is the easier path. That remaining liquid is the Saturn serum — amber from fresh plasma, deep coffee-coloured from aged — pour it off and clean the chamber with warm water while it is still warm. If you are working with aged plasma, this is worth keeping — it is the concentrated mineral serum, carrying the full aging chemistry, and it is one of the most valued topical substances the practice produces. This is one of the real differences between distilling fresh and aged material: the Saturn serum from aged plasma is richer, more developed, and worth treating as a distinct product rather than a cleaning step.
 
-**Allow the machine to cool before opening.** At least 30 minutes. The concentrated steam inside is hot.
+**Allow the machine to cool before opening.** Once the run is complete, give it time before opening the chamber fully — there is still heat and steam inside.
 
 **Label everything and keep fractions separate.** The Solar spirit (first cut) is highly alkaline and volatile. It looks like water. Label clearly and do not store it near drinking water or gentler fractions.
 
