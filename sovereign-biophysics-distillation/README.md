@@ -74,23 +74,29 @@ Each document links to the next at the bottom.
 
 - [Experiment Report: Olivier's First Distillation — Feb 18–19, 2026](20-experiments/experiment-report-aged-plasma-distillation.md)
 - [Experiment Report: Ana's First Distillation — Feb 22, 2026](20-experiments/experiment-report-ana-distillation-feb22.md)
+- [Experiment Report: Fresh Combined Plasma — Two-Pass Distillation](20-experiments/experiment-report-fresh-combined-two-pass.md) — fresh combined plasma run: Phase 1 hydrolysis pass and Phase 2 purification pass, with key observations on fresh vs aged behaviour
+- [Experiment Report: March 8 — The Polishing Run](20-experiments/experiment-report-march8-polishing-run.md) — third distillation of aged Phase II Pure Plasma: threshold tracking to 0 mV at 133 USCM
 
 ### Analysis
 
 - [Analysis: Water, Plasma, Fourth Phase](30-analysis/analysis-water-plasma-fourth-phase.md)
 - [Hypothesising What Is in the Plasma](30-analysis/analysis-plasma-composition-hypothesis.md) — composition across raw, aged, and the three distillate streams: what the fractions likely contain and where the evidence ends
+- [The Biochemistry of the Distillation Fractions](30-analysis/analysis-fraction-biochemistry.md) — steroid hormones in urine, heat-mediated deconjugation, full constituent catalogue by fraction, EGF, transdermal bioavailability, HPG axis hypothesis
 - [The Circulatio Hypothesis: Microscopic Evidence for the Living Loop](30-analysis/analysis-circulatio-microscopy.md) — collaborative research (Fiona Gardner, microscopy): crystal geometry in practitioner vs non-practitioner vs infant samples, and the textual traditions that encoded lifelong practice
 - [Shivambu as Menstruum: Historical Grounding for Herbal Extraction and Cohobation](30-analysis/analysis-shivambu-as-menstruum.md) — the Indic and European alchemical lineages for using shivambu as an active solvent for plant extractions, the cohobation operation, and the undocumented synthesis the practice crosses into
+- [Fresh vs Aged: Comparative Distillation Behaviour](30-analysis/analysis-fresh-vs-aged-distillation.md) — the 2-pass vs 3-pass law, the Saturn Yield law, and three open contrast baselines
+- [What the Model Was Built For: On the Architecture of Pharmaceutical Medicine](30-analysis/analysis-pharmacological-jurisdiction.md) — the machine model, the dead fragment, naming as commercial infrastructure, the polypharmacy cascade, and the connection to Sovereign Biophysics
 
 ### Synthesis
 
-- [Synthesis: Multiday Distillation, Fresh vs Aged](40-synthesis/synthesis-multiday-distillation-fresh-vs-aged.md)
+- [Three Years of Topical Practice — Observed Outcomes](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling at 52, sexual vitality, and the partner dimension: observations from three years of daily topical application with mechanisms
 - [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
 
 ### The Living Record
 
 - [The Dream Body](the-dream-body.md) — what the physical practice prepares the way for: the dream body, recapitulation, the daytime and night-time halves of the same work, and the call toward a permanent container
 - [The Vessel](the-vessel.md) — the practitioner's account: fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos, Spain in February 2026
+- [What the Body Already Knew](what-the-body-already-knew.md) — three-year retrospective: the HPG suppression, the concentrate practice, what changed, and the nomadic context
 - [Practice Log 2026](practice-log-2026.md) — running log of diet baseline, distillation events, and practitioner state from February 2026 onward
 
 ### Presentations

@@ -227,6 +227,6 @@ The biochemical data presented here does not resolve all questions about mechani
 
 ---
 
-*Continue reading: [Hypothesising What Is in the Plasma →](analysis-plasma-composition-hypothesis.md)*
+*Continue reading: [The Circulatio Hypothesis: Microscopic Evidence for the Living Loop →](analysis-circulatio-microscopy.md)*
 
 *[← Back to Index](../README.md)*

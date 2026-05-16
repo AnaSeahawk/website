@@ -74,6 +74,6 @@ This was the first formal distillation of Ana's own plasma — four days after O
 
 ---
 
-*Continue reading: [Analysis: Water, Plasma, Fourth Phase →](../30-analysis/analysis-water-plasma-fourth-phase.md)*
+*Continue reading: [Experiment Report: Fresh Combined Plasma — Two-Pass Distillation →](experiment-report-fresh-combined-two-pass.md)*
 
 *[← Back to Index](../README.md)*

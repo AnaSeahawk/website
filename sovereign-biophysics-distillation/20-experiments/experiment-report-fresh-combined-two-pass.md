@@ -68,6 +68,4 @@ Double-distilling inverts the thermal timeline. The ammonia synthesised during P
 
 *Continue reading: [Experiment Report: March 8 Polishing Run →](experiment-report-march8-polishing-run.md)*
 
-*See also: [Hypothesising What Is in the Plasma →](../30-analysis/analysis-plasma-composition-hypothesis.md)*
-
 *[← Back to Index](../README.md)*

@@ -172,6 +172,4 @@ The electrochemical measurements documented in this body of work — fresh basel
 
 *Continue reading: [The Biochemistry of the Distillation Fractions →](analysis-fraction-biochemistry.md)* — the full constituent profile, steroid deconjugation, EGF, and transdermal bioavailability.
 
-*Continue reading: [The Circulatio Hypothesis: Microscopic Evidence for the Living Loop →](analysis-circulatio-microscopy.md)*
-
 *[← Back to Index](../README.md)*

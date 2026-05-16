@@ -84,4 +84,6 @@ The female body is the original laboratory. It does not require permission to ru
 
 *See also: [The Vessel →](the-vessel.md)* — the February 2026 distillation record that opened this archive.
 
+*Continue reading: [Practice Log 2026 →](practice-log-2026.md)*
+
 *[← Back to Index](README.md)*

@@ -174,6 +174,6 @@ This archive is my form.
 
 ---
 
-*Continue reading: [Practice Log 2026 →](practice-log-2026.md)*
+*Continue reading: [What the Body Already Knew →](what-the-body-already-knew.md)*
 
 *[← Back to Index](README.md)*
