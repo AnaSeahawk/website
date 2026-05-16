@@ -146,6 +146,10 @@ The above is reasoning from population-level biochemistry applied to an inferred
 5. **The interaction effects between fractions are unknown.** Whether the Lunar essence carries something biologically active beyond its electrochemical measurements is an open question.
 6. **The alchemical and Ayurvedic interpretive layer is not resolved by this analysis.** The claim that the aged, distilled material has distinct properties as *a practice substance* — beyond what biochemistry can currently describe — belongs in a separate register. This document does not confirm or refute that claim.
 
+**Gaps now addressed by subsequent research (May 2026):**
+
+This document was written without a constituent-level account of the retentate's biochemical profile. That gap has since been addressed. *[The Biochemistry of the Distillation Fractions →](analysis-fraction-biochemistry.md)* (May 2026) documents the full steroid hormone profile across all three fractions, the mechanism of heat-mediated deconjugation in the retentate, the significance of Epidermal Growth Factor (EGF) as a constituent driving observed skin effects, the transdermal bioavailability of steroid hormones (establishing the pharmaceutical precedent for the retentate's topical use), and the HPG axis hypothesis. Gaps 3 and 5 above remain open at the level of GC/MS measurement. The constituent framework for the Saturn retentate — the fraction most relevant to observed effects — is now documented.
+
 The electrochemical measurements documented in this body of work — fresh baseline (pH 7.0, ORP +77 mV), aged raw baseline (pH 9.1, ORP -22 mV), and the three distilled fractions — are the available bridge between the biochemical hypothesis and the observed material. They characterise the electrical and ionic state of each fraction without requiring resolution of the interpretive frame.
 
 ---
@@ -165,6 +169,8 @@ The electrochemical measurements documented in this body of work — fresh basel
 - van der Kroon, C. (1996). *The Golden Fountain*. Banyan Books.
 
 ---
+
+*Continue reading: [The Biochemistry of the Distillation Fractions →](analysis-fraction-biochemistry.md)* — the full constituent profile, steroid deconjugation, EGF, and transdermal bioavailability.
 
 *Continue reading: [The Circulatio Hypothesis: Microscopic Evidence for the Living Loop →](analysis-circulatio-microscopy.md)*
 

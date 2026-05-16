@@ -24,7 +24,7 @@ We left Canada in 2012. Both of us. No permanent address, no fixed country, no p
 
 What actually matters is very simple. Health. Attention. The quality of what you put in your body and the quality of what your body produces from it. Everything else is furniture.
 
-Four years ago, in Laos, we began the amaroli practice in earnest. Not as an experiment. As a commitment. Daily. The morning collection, the aging, the drinking, the observation. It changed the diet. The diet changed the practice. The body became quieter and more legible — I could read it more clearly, the way you can read a signal better when you turn down the background noise.
+On April 3, 2022, in Laos, we began the amaroli practice in earnest. Not as an experiment. As a commitment. Daily. The morning collection, the aging, the drinking, the observation. It changed the diet. The diet changed the practice. The body became quieter and more legible — I could read it more clearly, the way you can read a signal better when you turn down the background noise.
 
 Two years in Asia. Then Latin America — two more years. The practice continuing. The body adapting, clarifying. Eight months in Canada last spring and summer, then Spain.
 

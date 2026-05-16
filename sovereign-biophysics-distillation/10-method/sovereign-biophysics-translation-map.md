@@ -94,11 +94,15 @@ Every distillation run produces all three. The separation is not imposed — it 
 
 **The Three Primes in the Flask**
 
-| Your Fraction | Alchemical Prime | Principle | What It Is |
-|:---|:---|:---|:---|
-| First Cut — Volatile / Solar | **Sulfur** *(The Spirit)* | Fire · The Sun · Expansion | The lightest, most volatile, most electrochemically active molecules. The energetic signature of the fluid. Its essential activity. What it does when freed from the weight of the body. |
-| Middle Cut — Bulk / Lunar | **Mercury** *(The Essence)* | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Solar acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. |
-| Residue — Fixed / Saturn | **Salt** *(The Body)* | Earth · The Cube · Fixed Matter | The dense minerals and non-volatile compounds remaining in the chamber after the run. Not waste — the crystalline ground from which the fluid was built. The Body waiting for resurrection. |
+| Your Fraction | Alchemical Prime | Principle | What It Is | Principal Constituents |
+|:---|:---|:---|:---|:---|
+| First Cut — Volatile / Solar | **Sulfur** *(The Spirit)* | Fire · The Sun · Expansion | The lightest, most volatile, most electrochemically active molecules. The energetic signature of the fluid. Its essential activity. What it does when freed from the weight of the body. | Purified water; ammonia (from urea breakdown); short-chain volatile fatty acids; indole and skatole (tryptophan catabolism); ketone bodies; trace volatile sulfur compounds. Essentially hormone-free. |
+| Middle Cut — Bulk / Lunar | **Mercury** *(The Essence)* | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Solar acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. | Peptide fragments; prostaglandins; B-vitamins (B2, B3, B6); melatonin; serotonin metabolites (5-HIAA); creatinine; amino acid fragments; zinc. |
+| Residue — Fixed / Saturn | **Salt** *(The Body)* | Earth · The Cube · Fixed Matter | The dense minerals and non-volatile compounds remaining in the chamber after the run. Not waste — the crystalline ground from which the fluid was built. The Body waiting for resurrection. | Full steroid hormone concentrate (testosterone, estrogen, DHEA, progesterone metabolites — initially as conjugates, progressively deconjugating toward free forms with heat); Epidermal Growth Factor (EGF); LH and FSH fragments; potassium, calcium, magnesium, phosphate, zinc, selenium; melatonin; nitric oxide precursors. |
+
+**On the Saturn retentate: heat-mediated deconjugation**
+
+The steroid hormones in urine are not present as their free, biologically active forms — the liver conjugates them (as glucuronides and sulfates) before excretion, making them water-soluble and largely inactive. They concentrate in the retentate rather than crossing into the distillate. However, the heat of distillation itself begins to cleave these glucuronide bonds: enzymatic hydrolysis of urinary steroid glucuronides occurs at 55–60°C over one to two hours — temperatures and durations consistent with practice. The retentate therefore shifts across the run: conjugated steroids dominate early, while the proportion of free, unconjugated, biologically active forms increases as the run proceeds. **The retentate is not a static concentrate but a chemically evolving preparation.** Duration and temperature of the final reduction directly influence this ratio. This is the alchemical fixation in biochemical terms: what the fire fixes in the chamber is not merely salt — it is the body's own hormonal intelligence, concentrated and progressively liberated.
 
 **The Vessel as Microcosm**
 
@@ -205,5 +209,7 @@ The Hidden Stone was always here. In the interior of the earth. In the body. In 
 ---
 
 *Continue reading: [Observation Protocol →](observation-protocol-handout.md)*
+
+*For the full biochemical constituent profile across all three fractions — steroid conjugation and deconjugation, EGF, transdermal bioavailability, HPG axis hypothesis, storage: [The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md)*
 
 *[← Back to Index](../README.md)*
