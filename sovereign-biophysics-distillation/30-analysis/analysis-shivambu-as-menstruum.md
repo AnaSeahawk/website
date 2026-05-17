@@ -61,6 +61,6 @@ The specific combination — distilled shivambu fraction as the first-pass menst
 
 ---
 
-*Continue reading: [Fresh vs Aged: Comparative Distillation Behaviour →](analysis-fresh-vs-aged-distillation.md)*
+*Continue reading: [The Medicine: Cross-Traditional Analysis →](analysis-the-medicine-cross-traditional.md)*
 
 *[← Back to Index](../README.md)*
