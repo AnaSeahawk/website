@@ -61,7 +61,11 @@ A dedicated vessel for citrus only. A separate vessel for everything else — ve
 
 **Harvest:**
 
-Strain through cloth. Allow the liquid to rest so sediment settles to the bottom. Strain again through microfiber for a cleaner result. The filtered liquid is ready. The solids go directly to the [bokashi soil system](soil-alchemy.md) or into the garden — they carry the same probiotic culture and are not waste.
+Work in stages — each pass makes the next one faster. Begin with a colander to pull out the bulk of the solids. For a finer result, strain again through cloth. For a cleaner, more polished liquid, a final pass through paper (a coffee filter works well) settles out what cloth leaves behind.
+
+Allow the filtered liquid to rest so any remaining sediment can settle to the bottom before bottling.
+
+The solids go directly to the [bokashi soil system](soil-alchemy.md) or into the garden — they carry the same probiotic culture and are not waste.
 
 ---
 
