@@ -212,6 +212,6 @@ This analysis does not claim:
 
 ---
 
-*Continue reading: [The Circulatio Hypothesis →](analysis-circulatio-microscopy.md)*
+*Continue reading: [Fresh vs Aged: Comparative Distillation Behaviour →](analysis-fresh-vs-aged-distillation.md)*
 
 *[← Back to Index](../README.md)*
