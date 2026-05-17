@@ -83,28 +83,13 @@ The solids go directly to the [bokashi soil system](soil-alchemy.md) or into the
 
 ---
 
-## Uses: Cleaning and Body Care
+## Uses: Home and Garden
 
 The ferment works across a wide range of applications. What changes between them is concentration. These are the ratios used in this practice — not a formula, a record.
 
+For body wash, hair, oral care, skin treatments, and intimate care — the full detail is in [Body Alchemy →](body-alchemy.md).
+
 ![finished eco-enzyme in glass](assets/proBioticEcoEnzymeGlass.jpg)
-
-**Body and skin:**
-
-| Use | Ratio |
-|---|---|
-| Body wash | 1:10 (enzyme:water) or combined with a small amount of liquid soap |
-| Hair rinse | 1:50 to 1:100 |
-| Mouthwash | 1:1 or undiluted |
-| Wound cleaning | 1:10 |
-| Warts and fungal infections | undiluted |
-| Fruit and vegetable wash | 2 teaspoons per litre, soak 15–45 minutes |
-
-The ferment acidifies the surface of the skin, which is the direction a healthy skin microbiome wants to move. Skin's natural pH sits slightly acidic; commercial soap is alkaline. This ferment works with that terrain rather than against it.
-
-For oral use, the acidity that makes it an effective surface cleaner also makes it active against bacteria in the mouth. The same principle as acidic mouthwashes but alive rather than preserved.
-
-![finished product ready for use](assets/enzymeFinish.jpg)
 
 **Cleaning:**
 
