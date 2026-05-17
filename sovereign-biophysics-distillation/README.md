@@ -46,6 +46,7 @@ Each document links to the next at the bottom.
 - [The Moving Sky and the Stationary Earth](00-orientation/the-moving-sky.md) — seven wanderers, the sky as clock, the calendar as convenience: why the solar return is what a birthday actually is, and why agriculture never stopped using the sky
 - [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the myth as science: the sovereign vessel and the alchemical process in code
 - [Inanna, Venus and the Seven Gates](00-orientation/inanna-venus-and-the-seven-gates.md) — the astronomical record behind the myth: Venus's seven-day disappearance, the pentagram she draws across eight years, and the seven-fold body across traditions
+- [Prabhuta and the Inexhaustible Vessel](00-orientation/prabhuta-and-the-inexhaustible-vessel.md) — the Avatamsaka Sutra's householder woman whose bowl does not run out: Indra's Net as the closed loop, amrta as real substance, the ten-stage refinement, and the body that generates rather than depletes
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
 - [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, and the temperature the body holds
 - [The Medicine](00-orientation/the-medicine.md) — what six independent traditions encoded as the medicine: the Pali Canon's plain statement, the Chinese alchemical steam, the Taoist jade's broth, and why the practices cultivate the medicine by changing what the body produces

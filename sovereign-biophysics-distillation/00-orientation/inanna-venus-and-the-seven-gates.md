@@ -144,6 +144,6 @@ The practice is the return of the morning star.
 
 ---
 
-*Continue reading: [Two Distillates →](two-distillates.md)*
+*Continue reading: [Prabhuta and the Inexhaustible Vessel →](prabhuta-and-the-inexhaustible-vessel.md)*
 
 *[← Back to Index](../README.md)*
