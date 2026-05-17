@@ -208,7 +208,7 @@ This analysis does not claim:
 - Cleary, Thomas, trans., *Immortal Sisters: Secret Teachings of Taoist Women*, North Atlantic Books, 1989 — PDF scan-only; quotes from general scholarly record and Tcherne's direct quotation. `/bibliography/women-healers/Cleary-Immortal-Sisters-Secret-Teachings-of-Taoist-Women.pdf`
 - Frawley, David, *Soma in Yoga and Ayurveda: The Power of Rejuvenation and Immortality*, Lotus Press, 2012 — direct epub text extraction. `/bibliography/ayurveda/Frawley-Soma-in-Yoga-and-Ayurveda.epub`
 - Tcherne and Lazaro, *Taoist Yoga for Women*, INBI Group — PDF scan-only; quotes from scholarly record. `/bibliography/chinese-medicine/Tcherne-Taoist-Yoga-for-Women.pdf`
-- Full extended synthesis with additional quotes: *[The Medicine — Cross-Traditional Synthesis →](../../reports/025_the-medicine-cross-traditional-synthesis.md)*
+- Full extended synthesis with additional primary source quotes: *Report 025 — The Medicine: Cross-Traditional Synthesis* (internal Aether archive, not published here)
 
 ---
 
