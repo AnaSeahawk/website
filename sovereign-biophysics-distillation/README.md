@@ -48,6 +48,7 @@ Each document links to the next at the bottom.
 - [Inanna, Venus and the Seven Gates](00-orientation/inanna-venus-and-the-seven-gates.md) — the astronomical record behind the myth: Venus's seven-day disappearance, the pentagram she draws across eight years, and the seven-fold body across traditions
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
 - [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, and the temperature the body holds
+- [The Medicine](00-orientation/the-medicine.md) — what six independent traditions encoded as the medicine: the Pali Canon's plain statement, the Chinese alchemical steam, the Taoist jade's broth, and why the practices cultivate the medicine by changing what the body produces
 - [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
 - [The Biological Baseline](00-orientation/the-biological-baseline.md) — diet as the first phase of distillation: the 17th-century proof, the monastic architecture, and the Universal Medicine
 - [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented

@@ -154,6 +154,6 @@ This is what the sentence means.
 
 ---
 
-*Continue reading: [The Distillery in the Field →](the-distillery-in-the-field.md)*
+*Continue reading: [The Medicine →](the-medicine.md)*
 
 *[← Back to Index](../README.md)*
