@@ -52,4 +52,4 @@ My own oral health and skin texture have also shifted. A different quality of cl
 
 ---
 
-*Continue reading: [Portal →](../portal.md)*
+*[← Journal Index](README.md)  ·  Continue reading: [Portal →](../portal.md)*

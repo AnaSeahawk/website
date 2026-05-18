@@ -63,4 +63,4 @@ The cord was always there. The sky provided the night it could finally be touche
 
 ---
 
-*Continue reading: [Journal — The Deepest Layer →](the-deepest-layer.md)*
+*[← Journal Index](README.md)  ·  Continue reading: [The Deepest Layer →](the-deepest-layer.md)*

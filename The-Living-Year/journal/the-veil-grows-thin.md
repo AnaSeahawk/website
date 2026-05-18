@@ -54,4 +54,4 @@ The sky was not above me. It was moving through me. The dreams brought more mean
 
 ---
 
-*Continue reading: [The Living Loop →](../../sovereign-biophysics-distillation/10-method/the-living-loop.md)*
+*[← Journal Index](README.md)  ·  Continue reading: [The Living Loop →](../../sovereign-biophysics-distillation/10-method/the-living-loop.md)*
