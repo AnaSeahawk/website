@@ -24,4 +24,4 @@ Personal records, dated entries. Public visibility.
 ## Notes
 - The map document is orientation and architecture — it is not a journal entry.
 - Journal entries live in the `journal/` subfolder and carry public visibility.
-- Distillation logs and practice records live in `sovereign-biophysics-distillation/`.
+- Distillation logs and practice records live in [Sovereign Biophysics](../sovereign-biophysics-distillation/README.md).
