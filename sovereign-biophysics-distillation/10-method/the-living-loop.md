@@ -295,6 +295,6 @@ This is corroborated by what experienced practitioners consistently report when 
 
 ---
 
-*Continue reading: [Amaroli Protocols →](amaroli-protocols.md)*
+*Continue reading: [Refining the Source →](refining-the-source.md)*
 
 *[← Back to Index](../README.md)*

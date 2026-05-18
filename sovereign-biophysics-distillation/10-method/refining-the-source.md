@@ -123,6 +123,6 @@ The still is reading what the body has been doing for years. What it reads is ch
 
 ---
 
-*Continue reading: [The Living Loop →](the-living-loop.md)*
+*Continue reading: [Amaroli Protocols →](amaroli-protocols.md)*
 
 *[← Back to Index](../README.md)*

@@ -153,6 +153,6 @@ What can be said at this stage: the progression documented in the synthesis reco
 
 ---
 
-*Continue reading: [The Biochemistry of the Distillation Fractions →](analysis-fraction-biochemistry.md)*
+*Continue reading: [Three Years of Topical Practice →](../40-synthesis/synthesis-three-year-topical-observations.md)*
 
 *[← Back to Index](../README.md)*

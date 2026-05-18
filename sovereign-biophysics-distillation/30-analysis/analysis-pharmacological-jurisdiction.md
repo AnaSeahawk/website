@@ -192,4 +192,6 @@ The practice is an answer in progress.
 
 *See also: [The Language of Erasure →](../00-orientation/the-language-of-erasure.md) | [Why the Distillation Is Missing →](../00-orientation/why-the-distillation-is-missing.md)*
 
+*Continue reading: [The Bioelectric Body and the Charged Substrate →](analysis-reich-bioelectrical.md)*
+
 *[← Back to Index](../README.md)*

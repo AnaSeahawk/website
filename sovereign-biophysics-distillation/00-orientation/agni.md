@@ -172,6 +172,6 @@ The athanor, sama agni, and tummo are three names for the same cultivated condit
 
 ---
 
-*Continue reading: [The Medicine →](the-medicine.md)*
+*Continue reading: [The Root and the Refinement →](the-root-and-the-refinement.md)*
 
 *[← Back to Index](../README.md)*

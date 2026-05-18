@@ -62,4 +62,6 @@ The HPG axis dimension is discussed further in [The Biochemistry of the Distilla
 
 *[The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md) — constituent profile and mechanism documentation*
 
+*Continue reading: [Current State of the Work — May 2026 →](synthesis-current-state-may-2026.md)*
+
 *[← Back to Index](../README.md)*

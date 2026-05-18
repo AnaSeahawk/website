@@ -57,7 +57,6 @@ Each document links to the next at the bottom.
 
 ### Method
 
-- [Refining the Source](10-method/refining-the-source.md) — what specific practices do to the substrate: pranayama, khechari, microcosmic orbit, and sexual energy cultivation as stages of the internal distillation; reading the jar as a diagnostic of practice
 - [Shivambu](10-method/shivambu.md) — where the practice actually begins: naming the substance, the Damar Tantra starting point, the natural progression, and the social reality of a practice many people carry privately
 - [Before You Begin](10-method/before-you-begin.md) — practical notes on working with a home distiller: ventilation, fill levels, foam management, consecutive batches, shutdown, fraction labelling
 - [On Sodium Chloride — On Chloride](10-method/on-sodium-chloride.md) — the agent is chloride, not sodium: the hardest dietary transition, why it takes years, and what is waiting on the other side
@@ -65,6 +64,7 @@ Each document links to the next at the bottom.
 - [The Living Grain](10-method/the-living-grain.md) — tsampa, ancient fire-food, and the body that defies the dogma: roasting technique, the Sherpa parallel, and the two-jar field preparation
 - [Vilepi and the Permanent Krama](10-method/vilepi-and-the-krama.md) — the Ayurvedic re-feeding sequence, its four gruels, and how the ambrosia diet is the krama lived as permanent operating mode
 - [The Living Loop](10-method/the-living-loop.md) — cohobation as daily practice: four years of the closed loop across changing conditions and geographies, and the vision for a permanent place
+- [Refining the Source](10-method/refining-the-source.md) — what specific practices do to the substrate: pranayama, khechari, microcosmic orbit, and sexual energy cultivation as stages of the internal distillation; reading the jar as a diagnostic of practice
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — the raw and aged practice: what amaroli is, preparation (syphoning, filtering), applications, household and historical uses
 - [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, and Saturn as distinct substances: what each is and how each is worked
 - [The Apothecary Balm](10-method/apothecary-balm.md) — the Saturn retentate reduced and emulsified: why aged plasma, why this diet, ratios and method for the plasma mineral salve

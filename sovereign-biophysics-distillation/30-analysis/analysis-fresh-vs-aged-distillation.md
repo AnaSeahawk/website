@@ -67,6 +67,6 @@ All three are open experimental threads, not conclusions.
 
 ---
 
-*Continue reading: [Current State of the Work — May 2026 →](../40-synthesis/synthesis-current-state-may-2026.md)*
+*Continue reading: [What the Model Was Built For →](analysis-pharmacological-jurisdiction.md)*
 
 *[← Back to Index](../README.md)*
