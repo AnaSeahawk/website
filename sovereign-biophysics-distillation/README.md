@@ -48,7 +48,8 @@ Each document links to the next at the bottom.
 - [Inanna, Venus and the Seven Gates](00-orientation/inanna-venus-and-the-seven-gates.md) — the astronomical record behind the myth: Venus's seven-day disappearance, the pentagram she draws across eight years, and the seven-fold body across traditions
 - [Prabhuta and the Inexhaustible Vessel](00-orientation/prabhuta-and-the-inexhaustible-vessel.md) — the Avatamsaka Sutra's householder woman whose bowl does not run out: Indra's Net as the closed loop, amrta as real substance, the ten-stage refinement, and the body that generates rather than depletes
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
-- [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, and the temperature the body holds
+- [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, the temperature the body holds, and tummo as the Tibetan cultivation of the same inner fire
+- [The Root and the Refinement](00-orientation/the-root-and-the-refinement.md) — the erotic root of the distillation practice: Jing as prima materia, the post-orgasm instruction across three traditions, the feminine current and menstrual alchemy, and the circuit at full extension
 - [The Medicine](00-orientation/the-medicine.md) — what six independent traditions encoded as the medicine: the Pali Canon's plain statement, the Chinese alchemical steam, the Taoist jade's broth, and why the practices cultivate the medicine by changing what the body produces
 - [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
 - [The Biological Baseline](00-orientation/the-biological-baseline.md) — diet as the first phase of distillation: the 17th-century proof, the monastic architecture, and the Universal Medicine
@@ -57,6 +58,7 @@ Each document links to the next at the bottom.
 
 ### Method
 
+- [Refining the Source](10-method/refining-the-source.md) — what specific practices do to the substrate: pranayama, khechari, microcosmic orbit, and sexual energy cultivation as stages of the internal distillation; reading the jar as a diagnostic of practice
 - [Shivambu](10-method/shivambu.md) — where the practice actually begins: naming the substance, the Damar Tantra starting point, the natural progression, and the social reality of a practice many people carry privately
 - [Before You Begin](10-method/before-you-begin.md) — practical notes on working with a home distiller: ventilation, fill levels, foam management, consecutive batches, shutdown, fraction labelling
 - [On Sodium Chloride — On Chloride](10-method/on-sodium-chloride.md) — the agent is chloride, not sodium: the hardest dietary transition, why it takes years, and what is waiting on the other side
@@ -89,6 +91,7 @@ Each document links to the next at the bottom.
 - [The Medicine: Cross-Traditional Analysis](30-analysis/analysis-the-medicine-cross-traditional.md) — six independent traditions encoding the same substrate: the Pali Canon's plain statement, the neidan synonym tables, Chinese Medical Qigong's anatomical distillation, Vedic soma as cultivated endogenous nectar, and the biochemical mechanisms by which practice modifies what the body produces
 - [Fresh vs Aged: Comparative Distillation Behaviour](30-analysis/analysis-fresh-vs-aged-distillation.md) — the 2-pass vs 3-pass law, the Saturn Yield law, and three open contrast baselines
 - [What the Model Was Built For: On the Architecture of Pharmaceutical Medicine](30-analysis/analysis-pharmacological-jurisdiction.md) — the machine model, the dead fragment, naming as commercial infrastructure, the polypharmacy cascade, and the connection to Sovereign Biophysics
+- [The Bioelectric Body and the Charged Substrate](30-analysis/analysis-reich-bioelectrical.md) — Wilhelm Reich's 1934 measurements: the expansion/contraction polarity, the orgasm formula, armoring as blocked channel, and the structural parallel between Reich's surface charge data and the archive's ORP measurements
 
 ### Synthesis
 

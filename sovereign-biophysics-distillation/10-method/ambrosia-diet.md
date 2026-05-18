@@ -68,6 +68,24 @@ In this practitioner's experience, introducing the Lunar essence as the primary 
 
 ---
 
+## Anupana: The Carrier That Goes Deeper
+
+The Lunar essence enters the practice at two levels: as drinking water and as *anupana* — the Ayurvedic term for a carrier substance that takes medicine into tissues the primary medicine cannot reach alone.
+
+In classical Ayurvedic pharmacology, anupana is not merely a vehicle. It is an active modifier: it enhances the bioavailability of the medicine it carries, directs that medicine toward specific tissues (dhatus), and in some cases potentiates the primary substance beyond what either could achieve alone. The Charaka Samhita distinguishes between the main medicine (*dravya*) and its anupana: the anupana is what determines how deep into the body the medicine penetrates, how quickly, and where it goes.
+
+The canonical anupanas in classical texts are ghee (for ojas-building medicines, lipophilic substances, and anything directed to the shukra dhatu), honey (for medicines directed to the upper body and the lungs), warm water (for facilitating metabolic processing), and milk (for tonics directed to mamsa and majja — muscle and marrow). What these carrier substances share: they are all highly bioavailable themselves, all recognised by the body as familiar substrates, and all capable of taking less-familiar compounds into tissues the digestive process would not otherwise deliver them to.
+
+Ghee is the master anupana for the ambrosia practice. Its role as lipid carrier for the fat-soluble fractions — the steroid hormones, the oily volatile compounds in the Solar spirit — is not separate from its role as nourishment. It carries what it holds *into* the deep tissue in a way that the aqueous medium cannot. This is why the preparation described above — herbs held briefly in ghee and Lunar essence together before the grains are added — is not an arbitrary sequence. The ghee-and-essence medium is the active carrier phase.
+
+The Lunar essence's specific anupana properties: its mildly alkaline pH opens lipid membranes that neutral or acidic media cannot easily penetrate. Its ammonium content — the signature of distilled plasma — provides a small but chemically active nitrogen donor that changes the solubility profile of whatever it carries. Its low mineral load (low TDS compared to raw plasma) means it does not compete with the medicine for absorption pathways the way a heavily mineralised medium would.
+
+When Lunar essence and ghee are combined as a carrier medium, and then plant medicine is introduced into that medium, the result is a preparation in which the active constituents have already been moved into a lipophilic-aqueous suspension ready to cross tissue membranes. The body receives not a herb steeped in water but a herb suspended in the medium that the body's deepest tissues are built to receive.
+
+This is not a claim about specific therapeutic targets. It is a description of the mechanism by which the three-element circuit — grain, ghee, Lunar essence — functions as more than a food system. The anupana principle makes it a delivery system. The grain nourishes. The ghee builds and carries. The Lunar essence directs.
+
+---
+
 ## The Two Pillars and the Floor
 
 The Vedic framing, articulated in a companion study: the practice rests on two pillars and a floor.

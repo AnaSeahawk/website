@@ -144,7 +144,25 @@ This is what the sentence means.
 
 ---
 
-*Sources: Frawley & Lad, The Yoga of Herbs (1986), Chapters 3, 6, and 7. Frawley, Soma in Yoga and Ayurveda (2012), Foreword and Part III. Charaka Samhita, Vimanasthana 5 and Chikitsasthana 15 — four-state classification and dhatvagni framework cited through secondary sources; direct Charaka extraction pending OCR. Inanna–dhatvagni correspondence developed in [Inanna, She Who Contains All →](inanna-she-who-contains-all.md).*
+## Tummo: The Cultivated Fire
+
+The Tibetan tradition arrived at the same principle by a different path.
+
+*Gtum mo* — tummo, the "fierce woman" or the "inner heat" — is the first and foundational yoga of the Six Yogas of Naropa (*Naro chos drug*), the core Vajrayana practices transmitted through Marpa, Milarepa, and the Kagyu lineage. It is not a warm-up for the more advanced yogas. It is their ground. Without established inner heat, the remaining five practices — clear light, dream yoga, illusory body, bardo yoga, consciousness transfer — cannot be cultivated. The heat must be generated first because the heat is what makes the subtle body workable.
+
+The practice generates measurable physical heat. Herbert Benson's 1982 study at Harvard Medical School documented Tibetan monks in Dharamsala performing tummo in an unheated room at 4°C — raising peripheral body temperature sufficiently to dry wet sheets draped over their bodies. This is not metaphor and not exaggeration: core and peripheral temperature increase measurably and substantially under sustained tummo practice. The body's own internal fire is being actively cultivated, directed, and held.
+
+The anatomy of the practice maps precisely onto the Ayurvedic framework: the heat is generated in the *avadhuti* (central channel, equivalent to the Sushumna nadi) at the level of the navel center — the Manipura chakra, the solar plexus, the seat of what the Ayurvedic tradition calls *agni* in its primary form. The technical methods are specific: *vase breathing* (a kumbhaka variant in which the breath is held and compressed in the lower abdomen), accompanied by specific visualisations that direct the generated heat upward through the central channel.
+
+The structural parallel to sama agni: tummo is deliberately cultivated balanced fire — not frantic heat, not exhausted smoldering, but the precise inner warmth held steadily in the correct location. The dhatvagni chain that operates best at sama agni and the subtle body that becomes workable through established tummo are both describing the cultivation of the same internal condition: the body's fire, held steady, in the right place, at the right temperature, for long enough that the transformation that depends on it can complete.
+
+The connection to distillation temperature: the external still operates at 78–95°C for its fraction separations. The body's internal dhatvagni chain operates at 37°C. Tummo practice demonstrates that this internal temperature is not fixed at the body's resting default — it is cultivable. A body that has established tummo practice has a different baseline thermogenic profile than one that has not. Its dhatvagni chain operates in a body whose fire is more reliably ignited, more consistently held.
+
+The athanor, sama agni, and tummo are three names for the same cultivated condition: the inner fire that holds the temperature the transformation requires, long enough, without forcing.
+
+---
+
+*Sources: Frawley & Lad, The Yoga of Herbs (1986), Chapters 3, 6, and 7. Frawley, Soma in Yoga and Ayurveda (2012), Foreword and Part III. Charaka Samhita, Vimanasthana 5 and Chikitsasthana 15 — four-state classification and dhatvagni framework cited through secondary sources; direct Charaka extraction pending OCR. Herbert Benson, John W. Lehmann, M.S. Malhotra et al., "Body Temperature Changes During the Practice of g Tum-mo Yoga," Nature 295 (1982): 234–236. Inanna–dhatvagni correspondence developed in [Inanna, She Who Contains All →](inanna-she-who-contains-all.md).*
 
 ---
 
