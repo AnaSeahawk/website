@@ -46,3 +46,9 @@ For now it lives on Telegram.
 
 The work is shared freely.
 The time is not — but it is available.
+
+---
+
+## Find me
+
+**[anaseahawk.com](https://anaseahawk.com)**
