@@ -36,6 +36,4 @@ His archive is the classical-lineage track. This archive is the contemporary-bio
 
 ---
 
-*Continue reading: [Beauty and the Binding →](beauty-and-the-binding.md)*
-
 *[← Back to Index](../README.md)*

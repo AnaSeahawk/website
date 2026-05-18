@@ -95,6 +95,6 @@ The body is a distillery. It always was. The women who knew this left records in
 
 *Part of the Women of Alchemy lineage. See also: [Women of Alchemy →](women-of-alchemy.md) | [Inanna: She Who Contains All →](inanna-she-who-contains-all.md)*
 
-*Continue reading: [A Related Body of Work →](a-related-body-of-work.md)*
+*Continue reading: [Beauty and the Binding →](beauty-and-the-binding.md)*
 
 *[← Back to Index](../README.md)*
