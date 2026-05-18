@@ -129,4 +129,4 @@ Time continues either way.
 
 ---
 
-*Continue reading: [Journal — The Cord and the Curtain →](journal/2026-03-08-the-cord.md)*
+*Continue reading: [Journal — The Cord and the Curtain →](journal/the-cord.md)*
