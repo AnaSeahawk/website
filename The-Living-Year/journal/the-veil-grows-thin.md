@@ -2,7 +2,7 @@
 date: 2026-04-24
 type: journal
 status: draft
-visibility: private
+visibility: public
 claim_tier: personal-record
 ---
 
@@ -53,5 +53,7 @@ Moon in Leo through both nights — silver and receptive, presiding over the che
 The sky was not above me. It was moving through me. The dreams brought more meaning into the experience than I could have brought to them. That is always how it goes when something real has happened in the body.
 
 ---
+
+The practice behind this work is documented in the distillation record.
 
 *[← Journal Index](README.md)  ·  Continue reading: [The Living Loop →](../../sovereign-biophysics-distillation/10-method/the-living-loop.md)*

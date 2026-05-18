@@ -2,7 +2,7 @@
 date: 2026-04-23
 type: journal
 status: draft
-visibility: private
+visibility: public
 claim_tier: personal-record
 ---
 
@@ -52,4 +52,4 @@ My own oral health and skin texture have also shifted. A different quality of cl
 
 ---
 
-*[← Journal Index](README.md)  ·  Continue reading: [Portal →](../portal.md)*
+*[← Journal Index](README.md)  ·  Continue reading: [The Veil Grows Thin →](the-veil-grows-thin.md)*
