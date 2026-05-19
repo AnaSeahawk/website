@@ -6,8 +6,7 @@ Public-facing archive for Ana Seahawk.
 ## Lanes
 - `README.md`: front door and navigation.
 - `Foundations/`: worldview, lineage, orientation texts.
-- `The-Living-Year/`: public context + portal threshold.
-- `Dreamwork/`: symbolic/dream records.
+- `The-Living-Year/`: public context + portal threshold; journal includes dream records in chronological order.
 - `Relationship/`: plant relationship notes.
 - `sovereign-biophysics-distillation/`: bounded research layer.
 

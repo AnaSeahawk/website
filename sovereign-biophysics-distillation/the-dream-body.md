@@ -106,7 +106,7 @@ The work is moving toward that. The shape of it is not yet fully visible. What i
 
 ---
 
-*Dream records, where they are kept: [Dreamwork →](../Dreamwork/)*
+*Dream records, where they are kept: [The Living Year — Journal →](../The-Living-Year/journal/README.md)*
 
 *Continue reading: [The Vessel — The Practitioner's Account →](the-vessel.md)*
 

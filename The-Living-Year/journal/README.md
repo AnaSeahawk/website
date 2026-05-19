@@ -8,6 +8,14 @@ A record of the practice in time. Entries are personal, located in the moment th
 
 ---
 
+## 2025
+
+| Date | Entry | |
+|---|---|---|
+| December 10 | [Threshold Dreaming](threshold-dreaming.md) | The night the psyche began running old survival patterns — lucid enough to know, not yet lucid enough to shape |
+| December 12 | [The Kernel of Sight](kernel-of-sight-corn-dream.md) | A corn dream after a hard call with family: a single kernel opening into an entire world, and what it said about nourishment and belonging |
+| December 26 | [What No Longer Needs Carrying](what-no-longer-needs-carrying.md) | The one who learned to release — ceremony, buried flame, and what the body lays down at the year's turning |
+
 ## 2026
 
 | Date | Entry | |
