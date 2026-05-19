@@ -50,6 +50,18 @@ These plants are not in the Damar Tantra but belong to the same field of practic
 
 ---
 
+## Plants in Common Use
+
+Herbs most people already reach for — and the felt language for why.
+
+- [Chamomile](Chamomile.md) — the unclench; permission to soften; the nervine and the digestive are the same action
+- [Peppermint](Peppermint.md) — clear it; pungent but cooling; the body asking for dispersal after excess
+- [Lavender](Lavender.md) — the exhale; signalling safety to the nervous system; the difference between sedation and rest
+- [Nettle](Nettle.md) — feed me; mineral density, not medicine; what replenishment feels like from the inside
+- [Lemon Balm](LemonBalm.md) — the knot that is both places at once; anxiety and digestion as the same problem; the bee plant
+
+---
+
 ## Plants Encountered in the Field
 
 Herbs met through practice, place, and the living body — approached Āyurvedically but not classical Āyurvedic in origin.
