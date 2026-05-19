@@ -51,11 +51,63 @@ You cannot enter the same river twice.
 
 That first fast was a gift I could not manufacture again by repeating the conditions. Something in the timing, in where I was in my life, in the particular quality of that season — it opened something that stayed open. But the opening itself cannot be chased. Every time I have tried to recreate the conditions of a significant experience, I've found the experience missing and only the conditions remaining.
 
-This matters in our current moment, when the appetite for intensity has become its own pathology. We want to feel something. We want to feel it now. We reach for whatever produces the most immediate, most legible sensation — pharmaceutical, ceremonial, dietary — and we call it healing. The sensation arrives. It is real. And then it passes, and we reach again.
+This matters in our current moment, when the appetite for intensity has become its own pathology. We want to feel something. We want to feel it now. We reach for whatever produces the most immediate, most legible sensation — pharmaceutical, ceremonial, dietary, sexual — and we call it healing. Or intimacy. The sensation arrives. It is real. And then it passes, and we reach again.
 
 There is a difference between an experience that transforms and a sensation that stimulates. The body knows which is which. The mind, trained to measure by intensity, often cannot tell.
 
 The fast was not intense. By week two it was ordinary. The ordinariness was the teaching.
+
+---
+
+There is a word worth sitting with.
+
+*Consumption.*
+
+From Latin *consumere* — to use up, to destroy. The same root gave us consumer, consumer culture, the long industrialised project of acquiring and discarding. And for most of human history, it named a disease: tuberculosis. Death by consumption — not the body turning on itself, but the body wasted by what it had taken in and could no longer clear. Consumed by what it had received and could not release.
+
+We do not use the word that way anymore. But the old name held something true. It was the body turned against itself. The fire that should warm, burning through the walls instead.
+
+The fast let me see this in miniature.
+
+Not in the grand sense. In the daily, ordinary sense: the hand reaching for the kitchen when my partner and I needed to address something real. The compulsion to eat not from hunger but from the need to fill, to manage, to do something with a feeling that had no other outlet. That is consumption in the old sense — not nourishment. The form of eating without the presence of prayer.
+
+If eating can be prayer — and I believe it can, when it arrives with attention — then compulsive eating is its inversion. The same gesture: food entering the body. The opposite intention. Not receiving, but escaping. Not nourishing, but consuming — using up, filling the gap, burning through the present moment without being present for it.
+
+The fast stripped the mask. Everything I had called hunger turned out to be pattern. The hand moving from habit. The anxiety filling a pause. The social gravity of a table where others were eating. None of it was the body speaking. All of it was everything the body had learned to do instead.
+
+Are we eating our prayers? Or consuming them before they have a chance to arrive?
+
+---
+
+Masaru Emoto spent years photographing water after it had been held in different emotional fields. Water that received gratitude formed coherent, intricate crystals. Water held in contempt did not. The images were debated. The question they open is not.
+
+*What is the water carrying when it was prepared in compulsion, in grief, in the need to escape something real?*
+
+Food is mostly water. Every meal is made by hands in a state. The emotional signature enters the preparation before anything enters the body — the quality of attention at the cutting board, the inner weather of the person cooking, whether the act is presence or flight.
+
+The Damar Tantra is precise about this. It does not simply prescribe plants and quantities. It specifies *how* the practice is entered: with joy, with willingness, with the body oriented toward the act as offering. This is not ceremonial embellishment. It is methodological instruction. The tradition understood that what is received depends entirely on the state in which it is given — and received.
+
+The kitchen was never only a refuge. It was my first sacred space.
+
+From very young I understood — not as theory but as a felt fact — that what goes into food comes out in the people who receive it. If someone brought me a drink in anger, I would not drink it. Not as a rule. As a refusal the body made before I could explain it. Something in me already knew not to receive what was encoded there.
+
+So when I went to the kitchen during those hard conversations, I was not going somewhere false. I was going to the place I knew how to love. I brought genuine presence to the cutting board. I brought joy. I never cooked from recipes — never wrote down what I made. My son would want something again the next day and I could never give him the same thing twice, not because I withheld it but because it had never existed as a formula. Each meal was the body's answer to that moment's particular question. That was real.
+
+The shock, when it finally arrived, was not that the kitchen had been an escape. The shock was what I saw about how I had been loving everyone.
+
+I had been overfeeding them.
+
+More food was more love, in the logic I had been running without knowing I was running it. The plate piled higher. Always more than enough. The love was genuine. The excess was also genuine. And the two had been inseparable in me for so long I could not see where one ended and the other began.
+
+The water holds not only what we intend. It holds the whole shape of the hand that prepared it — the love, and the urgency beneath the love. The warmth, and the compulsion to give past the point of need. *Please receive this*, carried in every dish, offered again and again beyond what the body was asking for.
+
+When I saw this and began to change it, the body changed. Digestion shifted. Something metabolic moved. The body had been working — for years — to process not only the volume but the weight of what that volume was carrying. When the excess stopped, something could rest.
+
+I returned, over time, to eating in an ordinary way. This was not a permanent departure into austerity. It was a course correction — one of the early awakenings, twenty years ago now — that is still running. Still unfolding. The body knows the difference. It has been showing me ever since.
+
+We are not only eating food. We are eating how we were feeling when we made it — and how we are feeling when we receive it. The water holds both. It always has.
+
+A powerful combination. And when the emotion is compulsion, a deadly one.
 
 ---
 
@@ -83,9 +135,31 @@ Everything I thought I knew about nutrition has slowly stopped making sense.
 
 The framework I was given said: eat this much, this often, these macros, these micros — fuel the body, maintain the body, be adequately nourished. The implication was that vitality is proportional to intake. That more nutrition produces more health.
 
-What I have found is the opposite. The cleaner and lighter my diet becomes, the more vitality I feel — not because I am eating better fuel, but because I am not spending the body's energy processing mass that the body does not need. Digestion is expensive. The body runs a significant portion of its total energy budget on breaking down, sorting, absorbing, and eliminating what comes in. Reduce the volume and complexity of what comes in, and that energy is available for something else.
+What I have found is the opposite. The cleaner and lighter my diet becomes, the more vitality I feel — not only because I am eating better fuel, but because I am not spending the body's energy processing mass that the body does not need. Digestion is expensive. The body runs a significant portion of its total energy budget on breaking down, sorting, absorbing, and eliminating what comes in. Reduce the volume and complexity of what comes in, and that energy is available for something else.
 
-The energy is coming from somewhere else. I am not sure I can fully name that somewhere yet. But the body that eats very little and feels vital is not a body running on stored reserves. It is a body that has found a different source. That discovery is part of what this archive is building toward.
+The body that eats very little and feels vital is not running on stored reserves in the way we assume. What the body stores is not clean fuel waiting to be used — it is largely what the body has not yet had the energy or time to process. The fat, the tissue, the accumulated load: a containment strategy. *Hold it here, protect the vital systems, come back to it when there is free time.* Reduce the incoming volume, free up the digestive budget, and the body finally has the bandwidth to turn toward what it has been holding.
+
+This is what practitioners call a healing crisis. The body begins releasing what it has been parking, and for a time the experience gets worse before it gets better — fatigue, skin changes, digestive disruption, aches that seem to come from nowhere. It is almost always misread. People think they are getting sick, or that the new thing they started caused it. In urine therapy this happens often: symptoms arrive shortly after beginning the practice and get attributed to the practice itself. But the urine did not create the load. The overconsumption did. The years of accumulation did. The practice simply gave the body the metabolic space to finally address what had been waiting.
+
+The energy is coming from somewhere else. I am not sure I can fully name that somewhere yet. But the other part of the vitality — the part that feels like it is coming from beyond the body's reserves — is part of what this archive is building toward.
+
+---
+
+The question I got most often from friends was: *what should I eat?*
+
+The answer always surprised them. Don't start by taking anything out. Start by adding.
+
+Add things the body actually knows how to receive. Add what makes you feel genuinely better — not the sharp borrowed energy of stimulants, but quietly, sustainably better. And then watch what happens.
+
+What happened, consistently, was that the things which didn't serve began to fall away on their own. Not through discipline. Not through denial. The body had tasted what it actually felt like to be fed well, and it began to know the difference from the inside. The craving for what no longer nourished simply became quieter — not suppressed, but genuinely less interesting than what had replaced it.
+
+This is the opposite of how diet culture works. Diet culture begins with removal — the list of what you cannot have, the foods being managed out of reach. It treats the body as a problem requiring external discipline to solve. What I found, and what I watched in the people who tried it, is that the body does not change well in that direction. It responds to being shown something better and left to draw its own conclusions.
+
+The body self-corrects when it is trusted. It was always doing that. We were just too busy managing it to notice.
+
+You don't fight the body toward health — you invite it.
+
+The invitation is intention. Knowing what you are putting in — and why.
 
 ---
 
@@ -128,7 +202,7 @@ Not because I got it right. Because I finally stopped trying to.
 
 This work is not about doing less. It is about doing fewer things with more presence.
 
-It is about restoring dignity to the daily acts: preparing food, washing dishes, resting, touching the earth, listening before consuming.
+It is about restoring dignity to the daily acts: preparing food with intention, knowing what you are bringing to the cutting board; eating slowly enough to feel what arrives; washing the vessel with the same care as the preparation; resting without guilt; touching the earth; breathing before the first bite; listening before consuming; offering genuine contact to the people you love — not only food, but presence — and feeling, afterward, what the body received.
 
 It is about remembering that nourishment is an exchange of intelligence — not a transaction of calories. And that the relationship with plants — with any medicine — can only begin here. Not at the protocol. Not at the shelf.
 
