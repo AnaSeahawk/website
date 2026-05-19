@@ -11,13 +11,15 @@ claim_tier: synthesis
 
 # Refining the Source
 
-*What the practices do to the substrate, and why it matters to the distillate.*
+*On the cultivation of the medicine — and what the medicine is.*
 
 ---
 
-The archive has documented what the distillation produces. It has not yet systematically addressed what the practitioner's body must first become in order to produce it. The question is not what comes out of the still. It is what went in — and what months and years of specific practices did to the body that produced it.
+The medicine this archive documents is urine. This is not a provocation. It is what the texts say. The Hatha Yoga Pradipika names amaroli — the drinking of urine — in the same chapter as khechari and pranayama, as one practice among equals in a complete system. The Damar Tantra opens with it. The Taoist alchemical tradition's descending soma, the conserved bindu, the nectar that khechari is specifically designed to catch and redirect — these are different framings of the same substance. The practices described in this document are not lifestyle supports for a distillation experiment. They are the cultivation of the medicine itself.
 
-This is the territory the archive has been approaching without directly naming. The Biological Baseline document makes the foundational point: diet is the first phase of distillation. This document extends that argument: diet is the first phase, but the practices are the second, and the second changes the first in ways that no dietary intervention alone can produce.
+This is what gets passed over. A practitioner can work with the HYP for years — building the asanas, deepening the pranayama, slowly conditioning the tongue toward khechari — and still pour away the substance the text names as the crown of that whole practice. The layer of cultural conditioning that reads urine as waste is strong enough to override the textual layer that reads it as medicine. The clothes, the diet, the lineage, the postures — these are held. The medicine is set aside without a second thought.
+
+All of the practices described in this document are connected to cultivating that medicine. Not as preparation for it — as the same work. The body refines the medicine. The medicine refines the body. The more whole the cultivation, the more refined what the still produces. And what the still produces goes back in — further refining the source. This is a closed loop, and the medicine is at its center. Recognising where you are in that loop is the purpose of everything that follows.
 
 ---
 
@@ -45,6 +47,22 @@ The Lower Burner separates clear from turbid. This is precisely what the externa
 
 ## The Practices That Change What the Body Produces
 
+### Asana: Preparation of the Vessel
+
+What contemporary culture calls "yoga" is almost entirely the first limb of an eight-limbed system, placed first for a specific reason: the body must be made physically capable of sustaining the practices that follow. The HYP's opening statement on asana is precise — *"Asanas make one firm, free from maladies, and light of body"* — and the sequence is deliberate. Asana clears the channel. It does not run the current.
+
+For the distillation practice, the relevant mechanisms are concrete.
+
+**Lymphatic movement.** The lymphatic system has no central pump. Lymph moves only through movement — muscular contraction, breath, pressure differentials between body regions. Inversions reverse the habitual downward pull on interstitial fluid; twists compress and decompress lymph nodes throughout the abdomen and axilla; standing poses create the muscular contraction that drives lymph upward through the lower body. A body that does not move — the chronic sedentary posture — is a body in which what should be cleared is accumulating. The kidneys filter what the lymph brings them. The composition of what they filter is changed by whether the lymph is moving.
+
+**Abdominal organ work.** Deep twists compress the kidneys, liver, and digestive organs directly, followed by the release that floods them with fresh blood. This is agni work: the digestive and metabolic fire responds to mechanical compression and release in ways that breathing practices alone do not reach. The kidney system — Jing's primary storage site — has its own asana vocabulary: postures that press, release, warm, and activate it. What Johnson documents for qigong organ massage, asana accomplishes through sustained positional pressure.
+
+**Spinal decompression and the governing vessel.** The governing vessel (du mai) carries qi upward along the posterior midline of the spine. A chronically compressed spine — forward-flexed, sedentary, locked — compresses this channel. Backbends, elongations, and inversions decompress the vertebral column and open the channel through which the internal alchemy is meant to move qi. Khechari and the Microcosmic Orbit both require this channel to be accessible. Asana creates the physical conditions for that accessibility.
+
+**Autonomic regulation.** Long-hold postures — sustained for multiple breath cycles rather than flowed through — shift the autonomic nervous system toward parasympathetic dominance through proprioceptive loading and the sustained muscular release that follows it. This is the same destination pranayama reaches through a different route. The two practices act on different levers of the same system.
+
+What asana does not do: it does not refine the Jing, activate the crown, or circulate the bindu. It makes the body available for the practices that do. The contemporary reduction of yoga to postures has obscured this by treating the preparation as the destination.
+
 ### Pranayama: Breath as Chemistry
 
 The Hatha Yoga Pradipika is explicit that pranayama is not merely an exercise for calming the mind. Ramacharaka's *Hindu-Yogi Science of Breath* provides the physiological framing the HYP assumes: breath changes blood chemistry. The oxygen/CO₂ balance, the pH of the blood, the activity of the autonomic nervous system — all are directly modified by breathing practices. These changes cascade through the hormonal system, the kidney function, and the composition of what the kidneys ultimately produce.
@@ -56,6 +74,20 @@ The specific pranayama effects most relevant to the distillation practice:
 **Kumbhaka** (breath retention) specifically builds internal pressure and heat in the lower dantian — Mingmen Fire in Chinese terms, *jatharagni* in the Ayurvedic framework. This is the heat that drives the internal distillation. The HYP notes it explicitly: pranayama purifies the nadis such that the bindu comes under control and ojas is produced.
 
 **Nadi shodhana** (alternate nostril breathing) balances the Ida and Pingala channels — the lunar and solar currents. In the distillation framework, this is the balancing of the Solar and Lunar fractions before they are processed. A body whose solar and lunar currents are chronically imbalanced will produce fractions that reflect that imbalance.
+
+### Mantra and Chanting: The Acoustic Layer
+
+Chanting cannot happen without breath. The first observation is purely mechanical: sustained vocalization requires breath control. Mantra is pranayama with resonance added — the exhalation extended, the breath regulated, the retention filled with sound rather than silence. This is why the two are inseparable in the texts. Bhramari pranayama — the humming bee breath, where the exhalation is a sustained internal hum — is the explicit bridge: it is simultaneously a breath practice and a tonal one, and is one of the most direct parasympathetic activators available.
+
+The resonance adds something breath alone does not produce.
+
+**Vagal activation through throat resonance.** The vagus nerve — the primary carrier of parasympathetic signal through the body — runs through the throat and chest. Sustained vocal toning, humming, or chanting stimulates the vagus nerve through mechanical resonance in the surrounding tissue. This is a different route to the same destination that slow breathing reaches through the respiratory cycle: the organism moving into expansion, peripheral charge, the state in which it is producing rather than contracting. The acoustic route reaches branches of the vagus that breath regulation alone does not.
+
+**The body as resonating vessel.** A body that is predominantly water is not acoustically neutral. Sustained tonal resonance — the specific frequencies of Sanskrit phonemes, or any extended vocalization held long enough to produce a standing wave in the chest cavity — creates a different baseline state in the fluid than silence does. The archive cannot yet claim this at the level of experimental precision it would require to document it as a finding. What can be said is that the practitioner's state is in the substrate, and the acoustic dimension of that state is as real as the hormonal or electrochemical dimensions. This is an open direction, not a closed observation.
+
+**Nada yoga: listening inward.** The HYP's fourth chapter introduces nada yoga — the yoga of internal sound — as a distinct and complete path. The instruction is not to chant outward but to listen inward: in deepening stillness, the practitioner learns to hear the body's own acoustic signature, which the tradition describes as proceeding through stages from ocean-roar to thunder to bell to flute to the sound of a bee. The HYP is direct about what this does: *"All those who are troubled by diseases, who are afflicted with grief, who drink of nada are happy. Nada is the support of all sound."* The internal resonance and the substance are not separate domains. A body that has learned to hear its own acoustic ground is a different body than one that has not.
+
+What chanting and mantra do not do on their own: they do not build the internal fire or circulate the qi. They provide the acoustic dimension that the other practices operate on. A body practicing pranayama and asana that also sustains tonal resonance is working at more bandwidths simultaneously than one that restricts itself to breath and movement alone.
 
 ### Khechari Mudra: The Crown and the Bindu
 
@@ -87,9 +119,9 @@ The distillate of a body practicing this is different from the distillate of a b
 
 ### Diet: The First Phase Revisited
 
-The Biological Baseline document made this argument in full. This piece adds only the Ayurvedic diagnostic layer from agni.md: sama agni, the balanced fire, is required at every stage of the dhatvagni chain for the sequence to complete and produce ojas. The practices above are not effective on a body with severely disrupted agni — they may even be destabilising. The correct order is diet first (establishing the baseline), then breath (activating the internal fire), then the more refined practices (working the upper chambers).
+The Biological Baseline document made this argument in full. This piece adds only the Ayurvedic diagnostic layer from agni.md: sama agni, the balanced fire, is required at every stage of the dhatvagni chain for the sequence to complete and produce ojas. The tradition's logic is worth knowing: diet establishes the ground on which breath can work; breath activates the internal fire that the more refined practices then refine further. If a practice feels destabilising or isn't producing what the texts describe, this sequence is a useful diagnostic — it often points to where the ground layer hasn't yet settled.
 
-A body moving from manda agni (slow, dull, accumulating ama) to vishama agni (irregular, variable) to sama agni (balanced, trustworthy) over months of dietary simplification is moving in the direction that makes the other practices possible. The ambrosia diet is not the ascetic's practice of deprivation. It is the clearing of the channel through which the other practices will eventually flow.
+A body moving from manda agni (slow, dull, accumulating ama) to vishama agni (irregular, variable) to sama agni (balanced, trustworthy) over months of dietary simplification is moving in the direction that makes the other practices more available. The ambrosia diet is not the ascetic's practice of deprivation. It is the clearing of the channel — and recognising where that clearing is still needed is itself part of the work.
 
 ---
 
@@ -113,7 +145,7 @@ The still is reading what the body has been doing for years. What it reads is ch
 
 ---
 
-*Sources: Jerry Alan Johnson, Chinese Medical Qigong Therapy Vol. 2: Energetic Alchemy (2002). Swatmarama, Hatha Yoga Pradipika (trans. Pancham Sinh). Ramacharaka (W.W. Atkinson), The Hindu-Yogi Science of Breath (1903). Mantak Chia, Sexual Reflexology: Taoist Love and Sex (2002); Awaken Healing Light of the Tao (1993). Wang Mu, Foundations of Internal Alchemy (2011). Frawley & Lad, The Yoga of Herbs (1986). Charaka Samhita, Vimanasthana 5 and Chikitsasthana 15.*
+*Sources: Jerry Alan Johnson, Chinese Medical Qigong Therapy Vol. 2: Energetic Alchemy (2002). Swatmarama, Hatha Yoga Pradipika (trans. Pancham Sinh), chapters I (Asanas), II (Pranayama), III (Mudras), IV (Samadhi and Nada). Ramacharaka (W.W. Atkinson), The Hindu-Yogi Science of Breath (1903). Mantak Chia, Sexual Reflexology: Taoist Love and Sex (2002); Awaken Healing Light of the Tao (1993). Wang Mu, Foundations of Internal Alchemy (2011). Frawley & Lad, The Yoga of Herbs (1986). Charaka Samhita, Vimanasthana 5 and Chikitsasthana 15.*
 
 ---
 

@@ -33,6 +33,7 @@ Each document links to the next at the bottom.
 *Read in sequence. Each piece prepares the ground for the next.*
 
 - [Where to Begin](00-orientation/where-to-begin.md) — an entry point for new readers: what this archive is, how to read it, where to start
+- [**All the Practice Is for the Medicine**](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis of the archive in full: what the practices are for, what the texts say, and what is missing from the modern transmission
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters
 - [Sun Bu-er and the Inner Furnace](00-orientation/sun-bu-er-and-the-inner-furnace.md) — the Taoist women's tradition of cyclical refinement: xue, qi, shen, and the heart as inner furnace
@@ -50,6 +51,7 @@ Each document links to the next at the bottom.
 - [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, the temperature the body holds, and tummo as the Tibetan cultivation of the same inner fire
 - [The Root and the Refinement](00-orientation/the-root-and-the-refinement.md) — the erotic root of the distillation practice: Jing as prima materia, the post-orgasm instruction across three traditions, the feminine current and menstrual alchemy, and the circuit at full extension
 - [The Medicine](00-orientation/the-medicine.md) — what six independent traditions encoded as the medicine: the Pali Canon's plain statement, the Chinese alchemical steam, the Taoist jade's broth, and why the practices cultivate the medicine by changing what the body produces
+- [The Chapter They Skip](00-orientation/the-chapter-they-skip.md) — Chapter 3 of the Hatha Yoga Pradipika: what vajroli, amaroli, and sahajoli say, what gets taught instead, and where the advanced practitioners are
 - [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
 - [The Biological Baseline](00-orientation/the-biological-baseline.md) — diet as the first phase of distillation: the 17th-century proof, the monastic architecture, and the Universal Medicine
 - [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented
