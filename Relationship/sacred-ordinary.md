@@ -48,8 +48,8 @@ Not as a philosophy, but as a relationship.
 A return to the intelligence that lives in cycles: seed, sprout, harvest, decay, soil.  
 A recognition that the body mirrors the land — and that nothing in a healthy system is disposable.
 
-The kitchen became my first temple.  
-The body, my first teacher.  
+The body became my first temple.  
+The kitchen, its hearth — the shrine of Vesta, where the fire is kept.  
 Eating, my first prayer.
 
 I stopped asking *what should I eat?*  
