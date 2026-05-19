@@ -93,3 +93,8 @@ Moringa teaches this quietly:
 
 Abundance does not need to be intensified.  
 It needs to be received.
+
+
+---
+
+*[← Back to Index](README.md)*

@@ -66,3 +66,8 @@ The Moon and Mercury. The Moon for the dreaming, the night work, the subtle body
 ---
 
 *Source: Frawley & Lad, The Yoga of Herbs (1986). Frawley, Ayurveda and the Mind (1996). Vasant Lad, Textbook of Ayurveda. Charaka Samhita, Chikitsasthana (medhya rasayana chapter).*
+
+
+---
+
+*[← Back to Index](README.md)*

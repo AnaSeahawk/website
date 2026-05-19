@@ -55,3 +55,8 @@ Three fruits. One formula. Taken simply. This is what the tradition recommends, 
 ---
 
 *Source: Frawley & Lad, The Yoga of Herbs (1986). Damar Tantra, verse 27 and seasonal chapter. Vasant Lad, Textbook of Ayurveda Vol. 1. Charaka Samhita, Chikitsasthana.*
+
+
+---
+
+*[← Back to Index](README.md)*

@@ -72,3 +72,8 @@ Like all rasayanas, it asks for time. The deathless substance does not arrive in
 ---
 
 *Source: Frawley & Lad, The Yoga of Herbs (1986). Damar Tantra. Charaka Samhita, Chikitsasthana. See also: [Agni →](../sovereign-biophysics-distillation/00-orientation/agni.md) — the dhatvagni chain and ojas as the endpoint of tissue refinement.*
+
+
+---
+
+*[← Back to Index](README.md)*

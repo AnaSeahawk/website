@@ -171,3 +171,8 @@ Burdock teaches this quietly:
 What has accumulated does not need to be fought.  
 It needs to be met long enough  
 for movement to remember itself.
+
+
+---
+
+*[← Back to Index](README.md)*

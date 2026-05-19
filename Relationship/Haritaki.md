@@ -68,3 +68,8 @@ The fearless one does not require ceremony. It requires return.
 ---
 
 *Source: Frawley & Lad, The Yoga of Herbs (1986). Damar Tantra, seasonal formulas. Vasant Lad, Textbook of Ayurveda. Four Tantras (Gyushi), Tibetan medical canon.*
+
+
+---
+
+*[← Back to Index](README.md)*

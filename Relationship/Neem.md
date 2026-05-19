@@ -70,3 +70,8 @@ Not daily, not indefinitely. Neem teaches through bitterness. Hear it once clear
 ---
 
 *Source: Frawley & Lad, The Yoga of Herbs (1986). Damar Tantra. Charaka Samhita.*
+
+
+---
+
+*[← Back to Index](README.md)*

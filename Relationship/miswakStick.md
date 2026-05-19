@@ -31,3 +31,8 @@ In this framework, miswak is valued because it emphasizes responsive contact, lu
 This understanding appears not only in medical traditions but in spiritual ones as well. The Prophet Muhammad praised the miswak as something that “purifies the mouth and pleases the Lord.” Purification here is not sterilization or force—it is alignment. A mouth that is cared for gently functions differently: speech is clearer, breath is cleaner, and the tissues themselves remain more resilient.
 
 The miswak endures because many traditions experienced it as working with the body rather than against it. It polishes rather than scrapes. In doing so, it reminds us that true care is rarely harsh—and that the most intelligent tools are often those that remain alive in the hand.
+
+
+---
+
+*[← Back to Index](README.md)*

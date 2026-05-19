@@ -72,3 +72,8 @@ Powder: a quarter teaspoon in warm water, morning or evening. With honey as the 
 ---
 
 *Source: Frawley & Lad, The Yoga of Herbs (1986). Damar Tantra. Vasant Lad, Textbook of Ayurveda.*
+
+
+---
+
+*[← Back to Index](README.md)*

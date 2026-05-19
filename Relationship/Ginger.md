@@ -80,3 +80,8 @@ The universal medicine does not need to be complicated to be universal.
 ---
 
 *Source: Frawley & Lad, The Yoga of Herbs (1986). Damar Tantra, multiple seasonal formulas. Bensky & Gamble, Chinese Herbal Medicine Materia Medica (Gan Jiang).*
+
+
+---
+
+*[← Back to Index](README.md)*

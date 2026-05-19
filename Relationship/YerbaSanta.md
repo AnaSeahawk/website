@@ -84,3 +84,8 @@ It is best approached as an ally, not a staple — taken with attentiveness, war
 Used well, it restores clarity to the breath, tone to the tissues, and integrity to the mouth.
 
 What opens does not rush.
+
+
+---
+
+*[← Back to Index](README.md)*
