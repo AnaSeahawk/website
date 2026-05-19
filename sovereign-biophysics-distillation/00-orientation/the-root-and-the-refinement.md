@@ -67,6 +67,28 @@ This is not a fringe practice. It is presented in the Kaula tradition as the hig
 
 ---
 
+## Two Directions of the Same Current
+
+The root substance is the same. The direction from which each body approaches it is not.
+
+In the male body, cultivation begins at the lower dantian — the energy center below the navel, where Jing-as-semen is stored. The fire starts there. It rises. The entire trajectory of Taoist male sexual cultivation is upward: from the generative center at the base, through the solar plexus, toward the heart, and eventually to the crown. Mantak Chia is explicit about where this path is going: *"By learning to transform sperm into Chi, men can become better lovers, more vibrant and youthful and are able to activate the compassionate energy in the heart."* The heart is the destination of the man's upward work. He does not begin there. He is working toward it, through the transformation of what lives below.
+
+In the female body, cultivation begins at the middle dantian — the heart center. The breasts are its physical anchor, its point of outward expression. Chia, writing in *Sexual Reflexology*, makes the structural distinction as plainly as it has ever been stated: *"Men project from the sexual center (the penis) and women project from the heart center (the breasts). Projection is the yang or the fire quality of energy. This demonstrates that women are yang emotionally and men are yang sexually."* The woman is already in the territory the man is working toward. She does not need to rise into the heart — she begins there and works the fire *downward* into the erotic body. The challenge is not to open the heart but to bring the heart's heat all the way down into the root.
+
+Tcherne and Lazaro, in *Taoist Yoga for Women*, describe the specific technique this architecture requires: **Liberating the Purple Palace**. The chest opens first. The breast-to-heart orbit — two streams circling the mammary glands, converging at the Ju Que point (the heart center, below the sternum) — is the preparatory women's circuit that must be established before the Microcosmic Orbit can run. The text is precise: *"The chest region, particularly the mammary glands, produce essential energies that enter the heart and subsequently enter the blood. Then they are transported to the liver. This jing energy from the mammary glands is transformed in the liver... and forms a building block for the formation of groundwork in the region of the Hui Yin centre."* The energy moves heart → blood → liver → root. Downward. The direction that in a man runs upward is, in a woman, running down.
+
+Jerry Alan Johnson's *Chinese Medical Qigong Therapy* documents the same principle at the level of monthly practice: once a month, during menstruation, women should store the cultivated qi in the **Middle Dantian** (heart) rather than the Lower Dantian — specifically to prevent the loss of accumulated cultivation with the menstrual flow. At the moment of greatest downward release in the female body, the instruction is to anchor cultivation at the chest, not the root. The heart holds what the root is releasing.
+
+Sun Bu-er's teaching, as transmitted through the Taoist women's lineage, states this precisely: the female body's energetic architecture is *cardiac in origin*. The women's neidan tradition initiates at the heart not because it is a gentler or more accessible starting point, but because it is the structurally accurate one. The feminine body's spiritual intelligence moves outward from the heart first, and into the lower channels from there. Working against that direction is working against the body's own topology.
+
+What Chia names as the complementary exchange between the sexes now makes anatomical sense: *"Women open and heat the emotional center or the heart center in men, and men help open or bring the fire into the sexual center for women."* These are not metaphors of emotional support. They are descriptions of energetic physics. The man's upward current — rising from his root, seeking the heart he is working toward — meets the woman's downward current — descending from her heart, seeking the erotic ground she is working into. They move toward each other. The man is carrying something upward that the woman already holds; the woman is carrying something downward that the man is trying to reach. When the two bodies are in genuine circuit, each one finds in the other the direction it was already moving.
+
+The meeting of these two currents generates something neither body produces in isolation. This is what the yoni tattva tradition encodes: not the mechanical combination of two fluids, but the convergence of two directional flows — one ascending, one descending — meeting at the level of the heart, completing a circuit that runs through both bodies simultaneously. The circuit that in a single body runs crown to root through the Microcosmic Orbit runs, between two bodies, from one root upward through two hearts and down through the other root — a double loop, a figure-eight, the vesica piscis of two practising bodies whose currents have learned to find each other.
+
+Feel it: the warmth below his navel, building, working its way up through his chest. The openness in her chest, descending, looking for ground. When those two movements encounter each other — not collide, encounter — something completes. Not something new grafted onto the practice. Something that was always what the practice was building toward.
+
+---
+
 ## The Partner Circuit
 
 What happens to the practice when another body enters the field is not systematically documented in the archive. The three-year topical observations note the partner dimension. The Current State of the Work describes the relational context without theorising it. This piece names what the tradition suggests.
@@ -107,7 +129,7 @@ The ouroboros. The serpent eating its own tail. In the erotic body, this is not 
 
 ---
 
-*Sources: Jerry Alan Johnson, Chinese Medical Qigong Therapy Vol. 2 (2002). Swatmarama, Hatha Yoga Pradipika (trans. Pancham Sinh, ed. Shodhganga), chapters III (Mudras) and IV. Caraf Avnayt, First Water: Urine and Sexual Fluids as Medicine (2020). Yoni Tantra, trans. Michael Magee, Worldwide Tantra Project (2007). Mantak Chia, Sexual Reflexology: Taoist Love and Sex (2002). Wilhelm Reich, Bioelectrical Investigation of Sexuality and Anxiety (1934, trans. 1982). Wang Mu, Foundations of Internal Alchemy, trans. Fabrizio Pregadio (2011). Thomas Cleary, Immortal Sisters: Secret Teachings of Taoist Women (1989).*
+*Sources: Jerry Alan Johnson, Chinese Medical Qigong Therapy Vol. 2 (2002). Swatmarama, Hatha Yoga Pradipika (trans. Pancham Sinh, ed. Shodhganga), chapters III (Mudras) and IV. Caraf Avnayt, First Water: Urine and Sexual Fluids as Medicine (2020). Yoni Tantra, trans. Michael Magee, Worldwide Tantra Project (2007). Mantak Chia, Sexual Reflexology: Taoist Love and Sex (2002). Wilhelm Reich, Bioelectrical Investigation of Sexuality and Anxiety (1934, trans. 1982). Wang Mu, Foundations of Internal Alchemy, trans. Fabrizio Pregadio (2011). Thomas Cleary, Immortal Sisters: Secret Teachings of Taoist Women (1989). Tcherne & Lazaro, Taoist Yoga for Women (n.d.). Sun Bu-er lineage, documented in [Sun Bu-er and the Inner Furnace →](sun-bu-er-and-the-inner-furnace.md).*
 
 ---
 
