@@ -33,8 +33,8 @@ Each document links to the next at the bottom.
 *Read in sequence. Each piece prepares the ground for the next.*
 
 - [Where to Begin](00-orientation/where-to-begin.md) — an entry point for new readers: what this archive is, how to read it, where to start
-- [**All the Practice Is for the Medicine**](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis of the archive in full: what the practices are for, what the texts say, and what is missing from the modern transmission
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
+- [**All the Practice Is for the Medicine**](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis of the archive in full: what the practices are for, what the texts say, and what is missing from the modern transmission
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters
 - [Sun Bu-er and the Inner Furnace](00-orientation/sun-bu-er-and-the-inner-furnace.md) — the Taoist women's tradition of cyclical refinement: xue, qi, shen, and the heart as inner furnace
 - [Beauty and the Binding](00-orientation/beauty-and-the-binding.md) — how every civilization found its own way to close the question: foot binding, leblouh, chhaupadi, and the mechanism that ran through women's hands
