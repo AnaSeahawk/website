@@ -53,7 +53,7 @@ The kitchen, its hearth — the shrine of Vesta, where the fire is kept.
 Eating, my first prayer.
 
 I stopped asking *what should I eat?*  
-And started asking *what is my body actually asking for — right now?*
+And started listening.
 
 I stopped seeking purity  
 and learned to listen for resonance.
