@@ -37,15 +37,55 @@ Cleaning up my diet, changing my protocol — and still, in the unexamined part,
 
 ---
 
+The first fast I did lasted thirty-six days.
+
+I did not plan that number. By day nine, something shifted — it stopped being difficult and started being quiet. I was still cooking for my whole family during that time. Standing in the kitchen, handling food, smelling everything. And not eating. Not because I was denying myself, but because I genuinely wasn't hungry. The body had found another gear.
+
+What I learned in those thirty-six days was something no nutritional framework had prepared me for: the growling of the stomach does not mean hunger. That sensation I had been responding to my entire life — the signal I had been trained to answer immediately — was not what I thought it was. When I sat with it instead of answering it, it passed. And beneath it, or after it, was something quieter. An actual readiness. Not urgency. Not the body demanding. The body simply indicating it was open.
+
+I caught myself over and over during that experience. The hand reaching for food out of habit. The thought: *I should eat something*. The social pull at mealtimes. The discomfort of having nothing to do while others ate. None of it was hunger. It was all pattern. All of it had been masquerading as hunger for years.
+
+---
+
+You cannot enter the same river twice.
+
+That first fast was a gift I could not manufacture again by repeating the conditions. Something in the timing, in where I was in my life, in the particular quality of that season — it opened something that stayed open. But the opening itself cannot be chased. Every time I have tried to recreate the conditions of a significant experience, I've found the experience missing and only the conditions remaining.
+
+This matters in our current moment, when the appetite for intensity has become its own pathology. We want to feel something. We want to feel it now. We reach for whatever produces the most immediate, most legible sensation — pharmaceutical, ceremonial, dietary — and we call it healing. The sensation arrives. It is real. And then it passes, and we reach again.
+
+There is a difference between an experience that transforms and a sensation that stimulates. The body knows which is which. The mind, trained to measure by intensity, often cannot tell.
+
+The fast was not intense. By week two it was ordinary. The ordinariness was the teaching.
+
+---
+
 There is also the question of environment.
 
-The body does not heal in every context equally. Something I had to learn the slow way: it matters where you are, what surrounds you, what quality of air and attention you are living inside, when you are trying to restore something. You can eat the most intelligent food in the most depleted environment and not receive it. The body will be present for the meal and absent for the healing.
+The body does not heal in every context equally. It matters where you are, what surrounds you, what quality of air and attention you are living inside. You can eat the most intelligent food in the most depleted environment and not receive it. The body will be present for the meal and absent for the healing.
 
-I had to leave certain environments to find out what the body actually felt like without them. Not permanently. But long enough.
+I had to leave certain environments to find out what the body actually felt like without them. Not permanently. But long enough to distinguish a body that was adapting from a body that was recovering. Long enough to hear what hunger actually sounded like when it spoke without interference.
 
-Long enough to distinguish a body that was adapting from a body that was recovering.
+The gut does not want to be pushed awake. It wants to be invited.
 
-Long enough to hear what hunger actually sounded like when it spoke without interference.
+---
+
+Coming off sodium chloride was its own education.
+
+The first meals without it — already coming from a body that had been fasting, that had been recalibrating what it needed — were almost repulsive. Not the food itself, but the quantity. A tiny bowl. The smell rich, the flavours present in a way they had not been before. I could barely finish it. And I was not actually hungry. I was eating because other people were eating. Because food is a social anchor, and that anchor runs deep.
+
+Sodium chloride is in everything. It is how most food is designed to be received — the salt threshold calibrates the entire palate, raises the palatability of otherwise flat industrial food, and becomes so embedded in the sensory expectation of eating that food without it reads to most people as unfinished. When I tell people I don't eat sodium chloride, they don't know what to do with that. Not because they disagree with it but because they cannot imagine the experience of food without that particular signal running underneath everything.
+
+What I found without it: the actual flavours. The mineral complexity of a grain. The sweetness inside a root vegetable that had always been buried under salt. The body's own sense of what was enough — which turned out to be much less than I had been eating, because the palatability-enhancement was gone and the body's actual signal was audible again.
+
+---
+
+Everything I thought I knew about nutrition has slowly stopped making sense.
+
+The framework I was given said: eat this much, this often, these macros, these micros — fuel the body, maintain the body, be adequately nourished. The implication was that vitality is proportional to intake. That more nutrition produces more health.
+
+What I have found is the opposite. The cleaner and lighter my diet becomes, the more vitality I feel — not because I am eating better fuel, but because I am not spending the body's energy processing mass that the body does not need. Digestion is expensive. The body runs a significant portion of its total energy budget on breaking down, sorting, absorbing, and eliminating what comes in. Reduce the volume and complexity of what comes in, and that energy is available for something else.
+
+The energy is coming from somewhere else. I am not sure I can fully name that somewhere yet. But the body that eats very little and feels vital is not a body running on stored reserves. It is a body that has found a different source. That discovery is part of what this archive is building toward.
 
 ---
 
@@ -63,13 +103,13 @@ Intentions before meals.
 Atmospheres before ingredients.  
 Circumstances before nourishment.
 
-The gut does not want to be pushed awake. It wants to be invited.
-
-True hunger clarifies. Borrowed hunger rushes. It confuses and asks for filling rather than meeting. When hunger is allowed to speak in its own language, the inner waters stay clear. The fire warms without burning. The nerves soften instead of tightening.
+True hunger clarifies. Borrowed hunger rushes. When hunger is allowed to speak in its own language, the inner waters stay clear. The fire warms without burning. The nerves soften instead of tightening.
 
 Hunger, rightly heard, is not a demand. It is a signal of readiness.
 
-Enough is a sensation, not a decision. It arrives when the body has received what it needs in the absence of urgency — shoulders and jaw softening, breath finding its own rhythm, a quiet satisfaction that leaves energy available for living.
+The question underneath the question: *am I actually hungry for food? Is that what is going to fill this void? Is it, really?*
+
+Often the answer is no. And sitting with that no, without immediately reaching for something — that is where the work is.
 
 I stopped asking *what should I eat?*  
 And started listening.
