@@ -118,7 +118,7 @@ The body already knew. It had always known. I had been too loud to hear it.
 
 ---
 
-The body became my first temple.  
+The body became the temple.  
 The kitchen, its hearth — the shrine of Vesta, where the fire is kept.  
 Eating, my first prayer.
 
