@@ -14,7 +14,13 @@ claim_tier: interpretation
 
 ### Editor’s Note
 
-This field guide is not organized around systems, substances, or solutions, but around **relationship**. Each plant is approached as a living presence that meets the body at a particular moment, under particular conditions, and within particular lineages of knowing. Āyurveda, Western herbal traditions, and astrology are used here as *ways of seeing*, not as interchangeable authorities. No plant is elevated by name alone, and none is diminished by origin. What matters is how a substance moves through the body, how it is prepared, when it is taken, and whether it restores trust rather than urgency. The entries that follow are not instructions to follow, but invitations to listen — slowly, specifically, and without violence — to what the body is already capable of receiving.
+This field guide is built around a word that pharmacology has no use for: *feeling*.
+
+Say chamomile. Notice what happens before you think. Something in the sound — the softness of it, the slight sweetness at the end — is already the plant’s first transmission. The name was given by people who tasted it before they named it, and the name retained the taste. This is how the old herbals worked. The plant arrives as a felt presence before it arrives as a compound.
+
+Āyurveda is the most precise living language for this kind of knowing. Its vocabulary — *rasa* (taste), *guṇa* (qualities), *vīrya* (thermal action), *vipāka* (post-digestive effect) — is not a classification system. It is a set of body-level questions. What does this plant communicate on the tongue? Heavy or light in the stomach? Heating or cooling through digestion? What does the body feel the morning after? These questions are answered in the body first and written down second. The tradition works in that direction, not the other way around.
+
+This field guide is not organized around systems, substances, or solutions, but around **relationship**. Each plant is approached as a living presence that meets the body at a particular moment, under particular conditions, and within particular lineages of knowing. Āyurveda, Western herbal traditions, and astrology are used here as *ways of feeling*, not as interchangeable authorities. No plant is elevated by name alone, and none is diminished by origin. What matters is how a substance moves through the body, how it is prepared, when it is taken, and whether it restores trust rather than urgency. The entries that follow are not instructions to follow, but invitations to listen — slowly, specifically, and without violence — to what the body is already capable of receiving.
 
 ### A Methodological Note on Āyurveda and Plant Use
 
@@ -52,3 +58,9 @@ Contemporary supplement culture has inverted this entirely. The body is expected
 The question this field guide returns to is always the same: does the body know what it is receiving? Can the agni meet it? Is there space — literal digestive space, literal time — for a relationship to form rather than an accumulation to grow?
 
 The entries here are offered as individual presences, not as a shopping list. A single plant, taken with attention, warm, and in season, will do more than twelve plants taken in confusion. This is not minimalism as an aesthetic. It is how the medicine works.
+
+---
+
+*Continue reading: [The Living Language →](the-living-language.md)*
+
+*[← Back to Index](README.md)*

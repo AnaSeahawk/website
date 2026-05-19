@@ -165,3 +165,9 @@ This guide does not aim to correct the body.
 It aims to **restore trust in its intelligence**.
 
 Begin by listening.
+
+---
+
+*Continue reading: [Haritaki →](Haritaki.md)*
+
+*[← Back to Index](README.md)*

@@ -2,9 +2,14 @@
 status: draft
 visibility: community
 claim_tier: interpretation
+redirect: README.md
 ---
 
 # Relationship
+
+*This page has moved. See [README.md](README.md) for the current index and reading order.*
+
+---
 
 *Plants, bodies, and the intelligence of use.*
 
