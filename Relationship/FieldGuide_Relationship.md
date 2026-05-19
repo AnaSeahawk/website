@@ -40,3 +40,15 @@ Warmth, fat, rhythm, and respect are not embellishments; they are part of the me
 What follows, then, is not an attempt to modernize Āyurveda or universalize it.  
 It is an attempt to **listen with it**—  
 and to let that listening guide how substances are named, prepared, and received.
+
+---
+
+### A Note on Quantity
+
+The body does not build relationship with a list. It builds relationship with a substance — one substance, taken consistently, in the right season, at the right time, with the right preparation. The classical Āyurvedic formulas are short by design. Triphala is three fruits. Trikatu is three spices. Dashamoola is ten roots, and ten is already considered complex. The precision is not accidental. It reflects something the tradition understood about how agni works: digestive fire can process what it recognizes, in quantity it can meet. Overload it, and it produces āma — unprocessed residue — from the very substances that were meant to heal.
+
+Contemporary supplement culture has inverted this entirely. Fifty-ingredient blends are common. New inputs are added weekly. The body is expected to receive, transform, and integrate a rotating flood of compounds whose combined effect no single formula has ever been tested. This is not Āyurveda in spirit or in practice, even when the ingredients have Sanskrit names.
+
+The question this field guide returns to is always the same: does the body know what it is receiving? Can the agni meet it? Is there space — literal digestive space, literal time — for a relationship to form rather than an accumulation to grow?
+
+The entries here are offered as individual presences, not as a shopping list. A single plant, taken with attention, warm, and in season, will do more than twelve plants taken in confusion. This is not minimalism as an aesthetic. It is how the medicine works.

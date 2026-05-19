@@ -125,4 +125,6 @@ Store in a dark amber dropper bottle with an airtight cap. The serum is hygrosco
 
 *Continue reading: [Sovereign Biophysics Translation Map →](sovereign-biophysics-translation-map.md)*
 
+*See also: [Miswak Stick →](../../Relationship/miswakStick.md) · [Neem →](../../Relationship/Neem.md)*
+
 *[← Back to Index](../README.md)*

@@ -174,4 +174,6 @@ The athanor, sama agni, and tummo are three names for the same cultivated condit
 
 *Continue reading: [The Root and the Refinement →](the-root-and-the-refinement.md)*
 
+*See also — plant companions for agni: [Dry Ginger →](../../Relationship/Ginger.md) · [Asafoetida (Hing) →](../../Relationship/Hing.md) · [Guduchi →](../../Relationship/Guduchi.md)*
+
 *[← Back to Index](../README.md)*
