@@ -43,7 +43,7 @@ I had been taking the birth control pill since after my son's birth in 1998. By 
 
 ## The Convergence — Laos, April 2022
 
-In Laos, three things converged: I stopped the pill. Olivier and I went vegetarian. And on April 3rd, we began the amaroli practice — daily, committed, not as experiment but as direction.
+In Laos, the question came home. I stopped the pill. Olivier and I went vegetarian. The cycle, which had been chemically suspended for years, returned. A few months later, on April 3rd, we began the amaroli practice — daily, committed, not as experiment but as direction.
 
 After about a year we added open evaporation on the stovetop: reducing collected urine until what remained was thick, dark, mineral-dense. No still, no fractions yet. This is what we applied topically for three years, moving through rented kitchens across Asia and Latin America and eventually Spain. We started with separate waters. We began combining in 2025. By the time we ordered the countertop distiller — from an airport in Montenegro, so it would be waiting for us in Spain — three years of practice were already in the body's baseline.
 
@@ -65,9 +65,9 @@ That morning I wrote the vow that has been the operating principle of this archi
 
 ## What Changed
 
-The cycle returned and stabilised at 52. The skin changed. The dreaming intensified. The oral ecology shifted. The relationship deepened in ways that have more to do with biological intimacy than anything I have adequate language for.
+The cycle returned when I stopped the pill and has continued since. No adverse effects as the practice deepens and the body continues to age — that is what can be said. Not a claim about permanence; the body is still in motion and what it does next remains to be observed. The skin changed. The dreaming intensified. The oral ecology shifted. The relationship deepened in ways that have more to do with biological intimacy than anything I have adequate language for.
 
-At 52, cycling regularly, with strong skin and a sexual life of depth and sustained vitality — after decades of pill use, four years of this practice in rented rooms across multiple countries — I am the data.
+After four years of practice, the body is less noisy. The signal is clearer. The record is honest and ongoing.
 
 The female body is the original laboratory. It does not require permission to run its experiments. It requires only that we stop interrupting it.
 
