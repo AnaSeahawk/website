@@ -78,6 +78,8 @@ The seven gates are not symbolic. They are the seven days Venus is absent from t
 
 The Sumerian star priestesses who tracked Venus across centuries were watching a real body disappear and return on a calculable schedule. The myth is their record.
 
+This astronomical precision is the foundation the alchemical reading in [Inanna: She Who Contains All →](inanna-she-who-contains-all.md) stands on. The myth encodes the same observation twice — once in celestial mechanics, once in the body's own seven-gate, three-fraction chemistry — not because the ancient observers were being poetic, but because the sky and the body were running the same principle at two scales simultaneously. The correspondence was not invented. It was observed.
+
 ---
 
 ## The Pentagram

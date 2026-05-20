@@ -1,18 +1,18 @@
 ---
-date: 2026-04-11
+date: 2026-05-20
 sun:
 moon:
 moon-phase:
 type: presentation
 visibility: community
-status: reviewed
+status: draft
 claim_tier: practice
 format: 60 min online
 ---
 
 # The Living Waters: Sovereign Biophysics and the Body's Original Distillation
 
-*Presentation — Draft V3*
+*Presentation — Draft V4*
 
 ---
 
@@ -46,22 +46,40 @@ Alchemical encoding was the survival strategy. When the language of fire and met
 
 ---
 
+## The thesis
+
+The practices are for the medicine. This is the center of what this archive documents, and it is what is missing from almost every transmission of these traditions.
+
+The Hatha Yoga Pradipika's Chapter 3 is the mudra chapter. Khechari, uddiyana, mula bandha, pranayama — these are taught in certification programs, lineage schools, advanced trainings. Chapter 3 also contains, in sequence, in the same chapter: vajroli mudra, amaroli, and sahajoli. Vajroli preserves and returns the sexual fluid, drawn back upward through the body's channels rather than lost in expenditure. Amaroli follows immediately: drinking the midstream of the first morning urine. *Amara* — immortal. The same root as amrita, ambrosia, the deathless nectar that khechari is specifically designed to catch and preserve. The HYP names the substance, gives it a lineage, and places the practice in sequence with the others. It is not in a separate text. It is not encoded. It is there.
+
+The Pali Canon is even more direct. The Mahavagga's medicine section is addressed to monks at ordination — before any meditation instruction, before any lineage transmission. Among the four foundational supports of the ordained life: *pūtimuttabhesajja* — fermented urine medicine. Alongside robes, alms food, and shelter at the foot of a tree. The preceptor says: *"For the rest of your life you are to endeavour at that."* Not chapter three of an esoteric text reserved for adepts. The first instruction. The fourth leg of the foundation given at ordination, before any other teaching.
+
+Both texts are unchanged. Neither has issued a revision.
+
+The part that is difficult to sit with: the practitioners are already making it.
+
+The body does not wait for permission. The years of pranayama are building the internal fire that refines what the kidneys produce. The khechari practitioner conditioning the tongue to catch the descending nectar has no idea the urine is the other end of the same system. The monk in robes, eating alms food, observing every precept — that body is producing the fourth foundational support every single morning. The vow was taken. The body kept it. The medicine goes into the drain.
+
+The cultivation is not failing. The more dedicated the practice, the more refined what is being discarded. This is not a gap in advanced attainment. The fourth support is unknown to most people who received it on their first day.
+
+---
+
 ## The translation
 
 Three vocabularies, one process.
 
-| Alchemy | Ayurveda | Physiology |
-|---|---|---|
-| Prima materia | Rasa (fluid / essence) | Body's original biological juice |
-| Putrefaction / nigredo | Āsava (fermented preparation) | Aged / evolved material |
-| Retort | Koshtha (body cavity / vessel) | Kidney / distillation vessel |
-| Fire beneath the retort | Agni (digestive fire) | Metabolic heat |
-| Solve et coagula | Pāka (transformation through heat) | Distillation cycle |
-| Albedo (whitening) | Śodhana (purification) | Clarification through heat |
-| Solar / lunar separation | Sūrya / Chandra | Volatile and fixed fractions |
-| Flying the eagle | Udāna Vāyu (upward-moving vital force) | First distillate rising |
-| Second distillation | Bhāvana (repeated processing) | Double distillation |
-| Lapis (the stone) | Ojas | Refined, sovereign essence |
+| Alchemy                  | Ayurveda                               | Physiology                       |
+| --------------------------| ----------------------------------------| ----------------------------------|
+| Prima materia            | Rasa (fluid / essence)                 | Body's original biological juice |
+| Putrefaction / nigredo   | Āsava (fermented preparation)          | Aged / evolved material          |
+| Retort                   | Koshtha (body cavity / vessel)         | Kidney / distillation vessel     |
+| Fire beneath the retort  | Agni (digestive fire)                  | Metabolic heat                   |
+| Solve et coagula         | Pāka (transformation through heat)     | Distillation cycle               |
+| Albedo (whitening)       | Śodhana (purification)                 | Clarification through heat       |
+| Solar / lunar separation | Sūrya / Chandra                        | Spirit and Essence fractions     |
+| Flying the eagle         | Udāna Vāyu (upward-moving vital force) | First distillate rising          |
+| Second distillation      | Bhāvana (repeated processing)          | Double distillation              |
+| Lapis (the stone)        | Ojas                                   | Refined, sovereign essence       |
 
 The ouroboros — the serpent eating its own tail — is not symbol. It is biological diagram. The closed loop of reabsorption. The body recognising its own intelligence and drawing it back in. What distillation yields — the concentrated, clarified essence — Paracelsus called the *quinta essentia*: the fifth element, the healing virtue freed from its gross matrix. The body's vital intelligence, purified. This is what the *lapis* and *ojas* columns are reaching toward. Not a substance added from outside, but the body's own distillate, returned to itself.
 
@@ -70,6 +88,8 @@ The ouroboros — the serpent eating its own tail — is not symbol. It is biolo
 ## The process — notes from practice
 
 *These are observations from my own work. They are offered as orientation, not instruction. Each body is different. The work teaches itself.*
+
+*What goes into the vessel is already shaped by what the body has been doing upstream — diet, breath, movement, cultivation. The quality of what the still separates is downstream of months of practice. The connection between what practitioners are already doing and what the still produces is developed in [Refining the Source →](../10-method/refining-the-source.md).*
 
 **Prepare your material before it enters the vessel.**
 Syphon or filter your fluid before it goes into the distiller. Biological fluids carry sediment, particulate, and material that does not belong in the distillation vessel. What you put in determines what comes out. A clean starting material gives you a clean process. This is the first act of the work — not the heat, not the watching, but the preparation. The alchemists called it *nigredo*: sorting, separating, beginning with what is actually there.
@@ -129,6 +149,8 @@ What you are doing is the work. The record you keep is the science.
 
 ## Supporting documents
 
+- [All the Practice Is for the Medicine](../00-orientation/all-the-practice-is-for-the-medicine.md) — the central thesis; every practice in the sequence is cultivation of the medicine the body produces
+- [The Chapter They Skip](../00-orientation/the-chapter-they-skip.md) — what HYP Chapter 3 actually says; the Pali Canon's first-day instruction
 - [Where to Begin](../00-orientation/where-to-begin.md) — entry point and archive overview for new participants
 - [Women of Alchemy](../00-orientation/women-of-alchemy.md) — suppression history, the full lineage
 - [The Grief That Was Never Recorded](../00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression

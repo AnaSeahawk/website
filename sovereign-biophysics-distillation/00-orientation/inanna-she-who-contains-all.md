@@ -201,6 +201,8 @@ She is the Queen of Heaven because she governs the Philosophical Quicksilver tha
 
 ***The Great Work was never metaphor. It was always the body.***
 
+*The companion piece — [Inanna, Venus and the Seven Gates →](inanna-venus-and-the-seven-gates.md) — traces the astronomical foundation this reading stands on. The myth holds its alchemical structure because it was built around something real and calculable in the sky: Venus disappearing for seven days before inferior conjunction, invisible for three at the node, returning transformed on the other side. The Sumerian star priestesses were not designing symbolism. They were encoding an observation. The alchemical reading and the astronomical record are not two interpretations of one story. They are two scales of a single observation — the sky and the body running the same arithmetic, named by two traditions watching the same thing.*
+
 ---
 
 *Continue reading: [Inanna, Venus and the Seven Gates →](inanna-venus-and-the-seven-gates.md)*

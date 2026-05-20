@@ -35,11 +35,11 @@ format: one-page handout
 
 **Start time / Heat applied**
 
-**First fraction (Solar)** — when does character change? Note: smell, colour, behaviour at the condenser, volume collected.
+**First fraction — Spirit (Solar)** — when does character change? Note: smell, colour, behaviour at the condenser, volume collected.
 
-**Second fraction (Lunar)** — the settling. Note: clarity, smell, how it differs from the first.
+**Second fraction — Essence (Lunar)** — the settling. Note: clarity, smell, how it differs from the first.
 
-**Retentate (Saturn)** — colour, density, smell of what remains in the chamber.
+**Retentate — Serum (Saturn)** — colour, density, smell of what remains in the chamber.
 
 **Temperature observations** — did anything unexpected rise? Colour in the condenser? Note it.
 
@@ -51,9 +51,9 @@ Record each fraction separately.
 
 | Fraction | pH | ORP (mV) | EC (mS/cm) | TDS | Notes |
 |---|---|---|---|---|---|
-| Solar (1st) | | | | | |
-| Lunar (2nd) | | | | | |
-| Saturn (retentate) | | | | | |
+| Spirit / Solar (1st) | | | | | |
+| Essence / Lunar (2nd) | | | | | |
+| Serum / Saturn (retentate) | | | | | |
 | Fresh control | | | | | |
 
 ---

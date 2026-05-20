@@ -85,6 +85,8 @@ Not all agni is sama agni. The Charaka Samhita classifies jatharagni in four sta
 
 The distinction that matters most for this practice: a body with manda agni requiring less food is pathological. A body with sama agni requiring less food is evolution. The word "less" is identical in both cases. The agni is entirely different. Without this framework, dietary simplicity is unreadable — it cannot be distinguished from starvation or spiritual bypassing. The four states give the practitioner the diagnostic language to name what is actually occurring.
 
+How these states apply when the krama runs in the other direction — when the body moves toward less not from depletion but from deepening internal sufficiency — is developed in [Vilepi and the Permanent Krama →](../10-method/vilepi-and-the-krama.md).
+
 ---
 
 ## Medhagni
