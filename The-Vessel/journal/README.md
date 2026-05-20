@@ -11,6 +11,12 @@ Short by design. Notable entries link out to longer pieces.
 
 ---
 
+Every tradition that has worked seriously with the body's own chemistry as medicine understood the dietary and physical practice as preparation, not destination. The Tibetan Six Yogas of Naropa are formally structured around this: tummo — inner heat — precedes dream yoga, because without a cleared and activated prana system, the dream state cannot be worked. The Toltec tradition says the same from a different direction. The dietary work, the distillation practice, the simplification of the body's chemistry — these are the same preparation across lineages. The vessel is cleared so that something else can use it. What uses it does its primary work at night.
+
+The dream does not bring problems to solve. What has been observed in this practice: the dreams bring something, something is received, and then the dream moves on. The release is in the receiving, not in the analysis. The Toltec teaching is precise: recapitulation is piece by piece — an encounter retrieved, the charge released, done. Not visited again. The Tibetan account from Namkhai Norbu makes the same point from inside the dream: when recognition arises, rest in it without manipulation. The dream brings a message to the soul, not the mind. The record below is a field note from territory that was already passed through.
+
+---
+
 ## 2025
 
 | Date | Sun | Moon | Entry |

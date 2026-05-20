@@ -104,7 +104,6 @@ Each document links to the next at the bottom.
 The practitioner's account — the life behind the archive — lives in [The Vessel →](../The-Vessel/README.md): backstory documents, the living journal, and the temporal framework.
 
 - [The Record](../The-Vessel/backstory/the-record.md) — the practitioner's full arc: HPG suppression, amaroli, the February 2026 breakthrough
-- [The Dream Body](../The-Vessel/backstory/the-dream-body.md) — what the physical work prepares the way for
 - [Living Journal 2026](../The-Vessel/journal/living-journal-2026.md) — daily field notes, harvested each lunation
 
 ### Presentations
