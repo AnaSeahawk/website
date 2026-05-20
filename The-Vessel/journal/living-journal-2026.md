@@ -82,7 +82,7 @@ claim_tier: personal-account
 - Skin texture: noticeably cleaner and softer (Lunar essence topical use)
 - **Oral — partner:** Progressive blackening at gum line of front teeth (12-year history) showing significant reversal since Solar spirit used for teeth cleaning. Change noticed within first week. Three variables controlled for: (1) partner had been using aged raw plasma as mouthwash for years prior — this appeared to slow progression but produced no reversal; (2) coffee cessation alone (done previously for several months) did not produce this result; (3) the change is evident enough that the partner independently asked to examine it. The distinguishing variable is the Solar spirit specifically — not plasma in general, not coffee cessation alone. No before photographs. Reversal described as significant and visually evident.
 - **Oral — self:** Oral health also shifting positively. Mouth as early systemic indicator: fast tissue turnover, visible ecology, reliable signal of deeper change.
-- See journal entry: `The-Living-Year/journal/2026-04-23-the-deepest-layer.md`
+- See journal entry: [The Deepest Layer →](the-deepest-layer.md)
 
 ---
 
@@ -90,7 +90,7 @@ claim_tier: personal-account
 
 ### May 2026
 
-**2026-05-20**
+**2026-05-20** — Sun 29° Taurus. Moon waning gibbous.
 
 Dream intensity has become the new normal — not dramatic, just baseline. Going to bed now includes a quiet mental preparation: opening without interfering. The old lucid instructions (find your hands, hold the scene) are set aside for now. What's being practiced instead is awareness without the grasping reflex. Present in the dream without announcing it loudly enough to wake up. The edge: awareness without waking *because* of it. Relaxing into observation. Not trying to see the lesson. Not trying to hold it. Just open.
 
@@ -98,6 +98,8 @@ Dream intensity has become the new normal — not dramatic, just baseline. Going
 
 ---
 
-*When you are ready to move from the record into time itself — [The Living Year →](../The-Living-Year/living-map-of-time.md)*
+*[← Journal Index](README.md)*
 
-*[← Back to Index](README.md)*
+*[← The Vessel](../README.md)*
+
+*When you are ready to move from the record into time itself — [A Living Map of Time →](../living-year.md)*

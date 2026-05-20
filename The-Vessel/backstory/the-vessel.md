@@ -166,7 +166,7 @@ This archive is my form.
 
 ---
 
-*The raw distillation records — measurements, dates, observations — are held in the original field notes. The protocols and methods derived from this practice are documented in the [Method →](10-method/) section of this archive. The historical lineage this practice belongs to is in the [Orientation →](00-orientation/) sequence.*
+*The raw distillation records — measurements, dates, observations — are held in the original field notes. The protocols and methods derived from this practice are documented in the [Method →](../../sovereign-biophysics-distillation/10-method/) section of the archive. The historical lineage this practice belongs to is in the [Orientation →](../../sovereign-biophysics-distillation/00-orientation/) sequence.*
 
 *To book time with me directly — for conversation, not content — visit [cal.com/anaseahawk](https://cal.com/anaseahawk).*
 
@@ -176,4 +176,4 @@ This archive is my form.
 
 *Continue reading: [What the Body Already Knew →](what-the-body-already-knew.md)*
 
-*[← Back to Index](README.md)*
+*[← The Vessel](../README.md)*

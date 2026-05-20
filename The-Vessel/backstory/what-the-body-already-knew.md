@@ -52,7 +52,7 @@ The skin changed. Sun tolerance improved. The cycle continues at 52 — arriving
 
 The practice of karezza — conscious non-goal-oriented union, drawn from the same confluence of tantric and Taoist streams that inform amaroli — names something of what became available. What Stockham described in 1896 as the overflow quality of union: satiation without depletion. The body signals completion without requiring ejaculation. That state became increasingly available with practice. It is not metaphor.
 
-The observed outcomes — what changed in the skin, in the cycle, in the hormonal and relational field — and the biochemical mechanisms that explain them are documented in [Three Years of Topical Practice: Observed Outcomes →](40-synthesis/synthesis-three-year-topical-observations.md).
+The observed outcomes — what changed in the skin, in the cycle, in the hormonal and relational field — and the biochemical mechanisms that explain them are documented in [Three Years of Topical Practice: Observed Outcomes →](../../sovereign-biophysics-distillation/40-synthesis/synthesis-three-year-topical-observations.md).
 
 ---
 
@@ -84,6 +84,6 @@ The female body is the original laboratory. It does not require permission to ru
 
 *See also: [The Vessel →](the-vessel.md)* — the February 2026 distillation record that opened this archive.
 
-*Continue reading: [Practice Log 2026 →](practice-log-2026.md)*
+*Continue reading: [Living Journal 2026 →](../journal/living-journal-2026.md)*
 
-*[← Back to Index](README.md)*
+*[← The Vessel](../README.md)*

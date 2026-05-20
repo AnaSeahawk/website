@@ -1,5 +1,7 @@
 ---
 date: 2025-12-12
+sun: 20° Sagittarius
+moon-phase: Waxing gibbous
 status: draft
 visibility: community
 claim_tier: interpretation
@@ -18,8 +20,8 @@ Last night, a dream of corn opened like an eye.
 Not a field, not a meal — a kernel.
 And from that kernel, an entire world unfolded.
 
-Before sleep, I’d had another hard call with my mother.
-The familiar themes: what counts as “real work,” whether my life is respectable enough, the quiet accusation that I am doing nothing while others show up, clock in, register, produce, perform.
+Before sleep, I'd had another hard call with my mother.
+The familiar themes: what counts as "real work," whether my life is respectable enough, the quiet accusation that I am doing nothing while others show up, clock in, register, produce, perform.
 
 And in the background of this call were the threads of my son and siblings — all of them, in different ways, woven into the family fabric I am no longer wrapped in.
 
@@ -30,15 +32,15 @@ I felt all of it — the ways I do not fit into the shape they were taught to va
 At the end of the call, almost casually, my mother told me my son and his wife are expecting their second child in June.
 News that warms and wounds at once.
 
-I thought of the visit that didn’t happen.
-I thought of how careful I’m becoming — not promising anything until I know I can keep it.
-I thought of my son’s silence.
-My sisters’ silence.
+I thought of the visit that didn't happen.
+I thought of how careful I'm becoming — not promising anything until I know I can keep it.
+I thought of my son's silence.
+My sisters' silence.
 The ache of all the unspoken things between us.
 
 And then, as the familiar current of guilt and shame rose, I did something new.
 
-“Let’s end here without more guilt, shame, or punishment.”
+"Let's end here without more guilt, shame, or punishment."
 
 Quietly and cleanly, refusing to ingest what harms me.
 
@@ -75,7 +77,7 @@ disregard, disconnection, a casual breaking of the sacred.
 
 Just like the patterns in my waking life:
 
-the mother’s honest criticism
+the mother's honest criticism
 
 the teacher - judgment through the lens of convention
 
@@ -160,7 +162,7 @@ grandmother energy
 
 I understand now why this color called to me.
 
-The news about my son’s growing family had been placed like a seed.
+The news about my son's growing family had been placed like a seed.
 And in the dream, I stood at the edge of the field, not inside it —
 seeing the whole pattern, the entire cycle of nourishment.
 
@@ -176,7 +178,7 @@ The crushed kernels symbolized the broken forms of nourishment in my lineage:
 
 teaching what one has not lived
 
-selling poisoned crops as “health”
+selling poisoned crops as "health"
 
 love mixed with guilt
 
@@ -227,10 +229,10 @@ It is the nourishment of vision.
 
 The dream confirmed something I have felt for a long time:
 
-We don’t need violence to awaken.
-We don’t need harsh purges.
-We don’t need jolts and shocks.
-We don’t need substances to open the senses.
+We don't need violence to awaken.
+We don't need harsh purges.
+We don't need jolts and shocks.
+We don't need substances to open the senses.
 
 We need:
 
@@ -249,14 +251,14 @@ A single kernel — looked at with awareness — can be a vision quest.
 
 Corn said:
 
-“Eat less.
+"Eat less.
 See more.
 Take in what is clean.
-Let what is damaged stay in the field.”
+Let what is damaged stay in the field."
 
-Just as I did with my mother’s words.
-Just as I must do with my siblings’ distance.
-Just as I must do with my son’s silence.
+Just as I did with my mother's words.
+Just as I must do with my siblings' distance.
+Just as I must do with my son's silence.
 Just as I must do with my own self-blame.
 
 
@@ -283,7 +285,7 @@ not the one who consumes.
 You can stand at the edge of the field and still belong to its cycle.
 You do not need to take in broken kernels anymore.
 Your nourishment now comes from clarity, vision, boundary, and truth.
-This is the grandmother’s path.
+This is the grandmother's path.
 
 And with this realization,
 I woke full — not of approval, not of food, but of relationship.
@@ -291,6 +293,10 @@ I woke full — not of approval, not of food, but of relationship.
 With the seed.
 With my lineage.
 With myself.
-With the life growing in my son’s home.
+With the life growing in my son's home.
 With the field I finally know how to enter —
 and how to step back from.
+
+---
+
+*[← Journal Index](README.md)*

@@ -1,5 +1,7 @@
 ---
 date: 2026-04-23
+sun: 3° Taurus
+moon-phase: Waning crescent
 type: journal
 status: draft
 visibility: public
@@ -48,7 +50,7 @@ Three things have been controlled for, informally but clearly. He has been using
 
 My own oral health and skin texture have also shifted. A different quality of clean. Softer. This was among the first things to change, and it is one of the more reliable signals that something is genuinely shifting rather than fluctuating — when the mouth changes in a positive direction, it tends to reflect what is happening in the body that you cannot yet see.
 
-*Practitioner observations that relate to plasma composition and distillation runs are tracked separately in the practice log.*
+*Practitioner observations that relate to plasma composition and distillation runs are tracked separately in [Living Journal 2026 →](living-journal-2026.md).*
 
 ---
 

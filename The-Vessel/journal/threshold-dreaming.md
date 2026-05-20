@@ -1,5 +1,7 @@
 ---
 date: 2025-12-10
+sun: 18° Sagittarius
+moon-phase: Waxing gibbous
 status: draft
 visibility: community
 claim_tier: interpretation
@@ -42,9 +44,9 @@ Feel heat gather there.
 Let your awareness settle into your own circulating waters,  
 the ones the elders called **the Water of Life**:
 
-> *“What rises in me is my own current.  
+> *"What rises in me is my own current.  
 > What returns to me is my own clarity.  
-> May my waters cycle clean and whole.”*
+> May my waters cycle clean and whole."*
 
 Breathe once up the spine,  
 once down into the belly,  
@@ -61,3 +63,5 @@ and teaches that even the harshest nights
 carry their own quiet instruction.**
 
 ---
+
+*[← Journal Index](README.md)*

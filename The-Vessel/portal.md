@@ -3,11 +3,11 @@ date: 2026-03-16
 sun: 27° Pisces
 moon:
 moon-phase:
-type: living-year
+type: portal
 visibility: public
 ---
 
-# The Living Year — Portal
+# The Vessel — Portal
 
 This is the threshold.
 

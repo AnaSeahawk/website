@@ -17,12 +17,11 @@ There is no curriculum or workshop. It is a living field, kept with precision an
 ---
 
 Deeper in, there is a vessel.
-What it holds is documented honestly — evolving research, protected not out of concealment
-but because living work deserves a dedicated container.
+The practitioner's account — the life behind the archive, the living journal, the temporal framework.
 Entry is by relationship.
 
-[The Living Year →](The-Living-Year/portal.md)
+[The Vessel →](The-Vessel/portal.md)
 
 ---
 
-[Foundations](Foundations/) · [Relationship](Relationship/) · [The Living Year](The-Living-Year/) · [Sovereign Biophysics](sovereign-biophysics-distillation/)
+[Foundations](Foundations/) · [Relationship](Relationship/) · [Sovereign Biophysics](sovereign-biophysics-distillation/) · [The Vessel](The-Vessel/)

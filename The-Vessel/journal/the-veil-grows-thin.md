@@ -1,5 +1,7 @@
 ---
 date: 2026-04-24
+sun: 4° Taurus
+moon-phase: Dark moon
 type: journal
 status: draft
 visibility: public

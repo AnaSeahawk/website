@@ -19,7 +19,7 @@ It does not begin or end.
 It does not require attention.
 
 It moves like weather.
-You notice it — or you don’t.
+You notice it — or you don't.
 
 The moon shapes time as it is actually lived:
 cyclical, uneven, relational, sometimes quiet and sometimes marked.
@@ -69,7 +69,7 @@ They are:
 - finite
 - quiet
 
-They are felt less as “something to join”
+They are felt less as "something to join"
 and more as: something just started.
 
 Some are named.
@@ -129,4 +129,6 @@ Time continues either way.
 
 ---
 
-*Continue reading: [Journal — The Cord and the Curtain →](journal/the-cord.md)*
+*Continue reading: [Journal →](journal/README.md)*
+
+*[← The Vessel](README.md)*

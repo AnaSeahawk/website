@@ -101,10 +101,12 @@ Each document links to the next at the bottom.
 
 ### The Living Record
 
-- [The Dream Body](the-dream-body.md) — what the physical practice prepares the way for: the dream body, recapitulation, the daytime and night-time halves of the same work, and the call toward a permanent container
-- [The Vessel](the-vessel.md) — the practitioner's account: fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos, Spain in February 2026
-- [What the Body Already Knew](what-the-body-already-knew.md) — three-year retrospective: the HPG suppression, the concentrate practice, what changed, and the nomadic context
-- [Living Journal 2026](practice-log-2026.md) — daily field notes: dreams, food, distillation, fractions, body, sexual changes, observations. Harvested at each lunation into the archive.
+The practitioner's account — the life behind the archive — lives in [The Vessel →](../The-Vessel/README.md): backstory documents, the living journal, and the temporal framework.
+
+- [The Vessel](../The-Vessel/backstory/the-vessel.md) — the February 2026 distillation breakthrough
+- [What the Body Already Knew](../The-Vessel/backstory/what-the-body-already-knew.md) — three-year retrospective
+- [The Dream Body](../The-Vessel/backstory/the-dream-body.md) — what the physical work prepares the way for
+- [Living Journal 2026](../The-Vessel/journal/living-journal-2026.md) — daily field notes, harvested each lunation
 
 ### Presentations
 

@@ -1,5 +1,7 @@
 ---
 date: 2025-12-26
+sun: 4° Capricorn
+moon-phase: Waning crescent
 status: draft
 visibility: community
 claim_tier: interpretation
@@ -118,3 +120,7 @@ to the shape it had outgrown.
 ---
 
 *May fire rest, may water hold, and may no life be mistaken for its memory.*
+
+---
+
+*[← Journal Index](README.md)*
