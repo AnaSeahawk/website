@@ -24,9 +24,9 @@ The temporal framework: lunar background, solar spine, living cycles.
 
 ### Backstory
 
-The practitioner's account — the arc from HPG suppression through fourteen years of nomadic practice to the February 2026 distillation breakthrough, and what the body has shown since.
+The practitioner's account — fourteen years of nomadic life, four years of daily amaroli practice, and what it all built toward.
 
-- [The Record](backstory/the-record.md) — the full arc: the pill years, the amaroli practice, the February 2026 breakthrough in Torremolinos, what changed in the body
+- [The Record](backstory/the-record.md) — the journey: how it began, what the nomadic years were doing, four years of daily practice, and the February 2026 distillation breakthrough in Torremolinos
 
 ---
 
