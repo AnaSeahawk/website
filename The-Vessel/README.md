@@ -24,11 +24,10 @@ The temporal framework: lunar background, solar spine, living cycles.
 
 ### Backstory
 
-The practitioner's account — where the practice came from, what it has produced, what the body is learning.
+The practitioner's account — the arc from HPG suppression through fourteen years of nomadic practice to the February 2026 distillation breakthrough, and what the body has shown since.
 
-- [The Vessel](backstory/the-vessel.md) — the February 2026 distillation breakthrough: fourteen years of nomadic life, four years of amaroli, and the moment of recognition in Torremolinos
-- [What the Body Already Knew](backstory/what-the-body-already-knew.md) — three-year retrospective: the HPG suppression, the concentrate practice, what changed
-- [The Dream Body](backstory/the-dream-body.md) — what the physical work prepares the way for: the dream body, recapitulation, and the call toward a permanent container
+- [The Record](backstory/the-record.md) — the full arc: the pill years, the amaroli practice, the February 2026 breakthrough in Torremolinos, what changed in the body
+- [The Dream Body](backstory/the-dream-body.md) — what the physical work prepares the way for, and why a permanent container is needed
 
 ---
 
