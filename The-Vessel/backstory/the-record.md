@@ -15,17 +15,21 @@ note: Living document — filled in gradually as the practice and the story cont
 
 ---
 
-## The Year Before
+## The Nomadic Journey
 
-I spent the year before we left preparing. Not in a hurry — preparing. I had a house in Canada. My son was young. A dog. A life organised around staying: property, routine, belonging in a place. Olivier had his own life, his own work, his own reasons. Together we took a year to be honest about what we were choosing, and to do it carefully rather than reactively.
+**Late Summer 2011**
+
+Olivier and I met. One of those love-at-first-sight moments that arrives before you understand what it will ask of you. There is a whole sequence of events that led to this meeting — on both sides — that made it even more improbable. That account belongs to a longer telling. It will be filled in here in time. *(Part of an ongoing memoir.)*
+
+He is not a background figure in what follows. He is the person I left with, the person I have read with and argued with and practiced with and discovered with for every year that comes after this moment. He named what was happening in Torremolinos before I found the words for it. His eyes went wide before I said a thing.
+
+**The Preparation**
+
+I spent the year before we left preparing. Not in a hurry — preparing. I had a house in Canada. My son was young. A dog. A life organised around staying: property, routine, belonging in a place. Together we took a year to be honest about what we were choosing, and to do it carefully rather than reactively.
 
 We left in 2012. No fixed address. No plan beyond the next place. This was not done on a whim. The life of my family changed with it — my son's life, my relationship with my mother and siblings, all of it. I became a grandmother somewhere in the middle of this journey. My son built his life while I was building mine. The distance is real. The love is also real. Both things are true and the journal holds more of that.
 
-Olivier Francoeur has been beside me through all of it. He is not a background figure in this story — he is the person I left with, the person I have read with and argued with and practiced with and discovered with for all of these fourteen years. He named what was happening in Torremolinos before I found the words for it. His eyes went wide before I said a thing.
-
----
-
-## The Nomadic Years
+**The Vivarium — George Town, Penang, 2016–2020**
 
 Asia in the early years. From 2016 to 2020 we ran the Vivarium in George Town, Penang — a biophilic eco-living space, a working prototype for what it means to inhabit a place biologically. Twenty-three moringa trees on the balconies. Kokedama hanging from every window. Bokashi soil building with guests. Probiotic enzyme making from kitchen scraps. No air conditioning in a city five degrees north of the equator. The Vivarium took 411 bookings over three and a half years and reached superhost status within its first three months. It was not a business. It was a question: what does it mean to live as a biological organism in genuine relationship with a living environment?
 
