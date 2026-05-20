@@ -1,27 +1,17 @@
 ---
 date-started: 2026-02-22
 status: active
-visibility: private
-claim_tier: observed
+visibility: community
+claim_tier: personal-account
 ---
 
-# Practice Log 2026
+# Living Journal 2026
 
-## Diet and Distillation — Single Practitioner Record
+*One space. Daily or near-daily field notes covering whatever is relevant: dreams, food, distillation events, fractions taken, body, sexual changes, observations. No required format — write what is true, as briefly as it wants to be.*
 
-*Running log of diet baseline, distillation events, and practitioner state. Entries added as events occur; earlier entries filled in retrospectively from notes and memory. Exact dates where known, approximate where not.*
+*Entries accumulate here. At each lunation — new moon and full moon — relevant data is reviewed and harvested into the archive sections (synthesis, experiments, analysis). The log is the raw material. The archive is the distillate.*
 
-*This log exists to track how the material changes as the dietary baseline deepens. The hypothesis document (analysis-plasma-composition-hypothesis.md) draws on this log for context.*
-
----
-
-## Log Format
-
-Each entry notes:
-- **Diet state**: what changed, what is stable
-- **Distillation**: run dates, fractions produced, measurements if taken
-- **Practitioner state**: relevant physical observations that may correlate with plasma composition
-- **Notes**: anything that doesn't fit the above
+*Earlier entries filled in retrospectively from notes and memory. Exact dates where known, approximate where not.*
 
 ---
 
@@ -95,6 +85,14 @@ Each entry notes:
 - See journal entry: `The-Living-Year/journal/2026-04-23-the-deepest-layer.md`
 
 ---
+
+---
+
+### May 2026
+
+**2026-05-20**
+
+Dream intensity has become the new normal — not dramatic, just baseline. Going to bed now includes a quiet mental preparation: opening without interfering. The old lucid instructions (find your hands, hold the scene) are set aside for now. What's being practiced instead is awareness without the grasping reflex. Present in the dream without announcing it loudly enough to wake up. The edge: awareness without waking *because* of it. Relaxing into observation. Not trying to see the lesson. Not trying to hold it. Just open.
 
 *(Continue below as events occur)*
 

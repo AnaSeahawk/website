@@ -104,8 +104,7 @@ Each document links to the next at the bottom.
 - [The Dream Body](the-dream-body.md) — what the physical practice prepares the way for: the dream body, recapitulation, the daytime and night-time halves of the same work, and the call toward a permanent container
 - [The Vessel](the-vessel.md) — the practitioner's account: fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos, Spain in February 2026
 - [What the Body Already Knew](what-the-body-already-knew.md) — three-year retrospective: the HPG suppression, the concentrate practice, what changed, and the nomadic context
-- [Practice Log 2026](practice-log-2026.md) — running log of diet baseline, distillation events, and practitioner state from February 2026 onward
-- [Dream Log 2026](dream-log-2026.md) — short field notes from the dream state; raw material for later essays
+- [Living Journal 2026](practice-log-2026.md) — daily field notes: dreams, food, distillation, fractions, body, sexual changes, observations. Harvested at each lunation into the archive.
 
 ### Presentations
 
