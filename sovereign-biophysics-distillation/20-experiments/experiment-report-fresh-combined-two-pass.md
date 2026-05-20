@@ -1,13 +1,13 @@
 ---
-date: 2026-03
-sun:
+date: 2026-03-06
+sun: 15° Pisces
 moon:
 moon-phase:
 type: experiment
 visibility: community
 status: reviewed
 claim_tier: observed
-note: Exact date unrecorded. Run occurred after the February 18–22 aged plasma runs and before the March 8 polishing run. Location Torremolinos, Spain.
+note: Location Torremolinos, Spain. Two days before the March 8 polishing run.
 ---
 
 # Experiment Report: Fresh Combined Plasma — Two-Pass Distillation
