@@ -53,6 +53,10 @@ claim_tier: personal-account
 
 **2026-04-03** — Four-year mark of amaroli practice.
 
+**2026-04-~12** — Sun 22° Aries. Moon waxing crescent. Corfu, on the way from Spain to Albania.
+
+I was not prepared for what that place would do to me. The western coast of Greece, the Ionian Islands — this is the geography of the tradition I have been working to recover. The women of Alexandria, the routes of Hellenistic knowledge, the thread that connects Babylon to Egypt to Greece to Rome. Standing on that ground I felt the proximity of what I have been following in documents and historical fragments as a physical sensation. Close. The way you feel when you are near something real. The grief piece in the archive is about the erasure of women's knowledge from the historical record. Corfu made that grief bodily for me. And then it was done. I crossed to Albania carrying something I hadn't carried before — a sense of direct lineage, not through texts, through place.
+
 **2026-04-14** — Arrived in Sarandë, Albania. Move taken as opportunity for deeper dietary change.
 - In storage, Torremolinos: 60 litres total — three 20-litre containers (Olivier's, Ana's, combined). All aging in place. Return planned July 2026 for first three-way distillation comparison.
 

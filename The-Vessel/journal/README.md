@@ -30,7 +30,6 @@ The dream does not bring problems to solve. What has been observed in this pract
 | Date | Sun | Moon | Entry |
 |------|-----|------|-------|
 | March 8 | 17° Pisces | Waning gibbous | [The Cord and the Curtain](the-cord.md) — the birth dream, the cord that was never shown |
-| April 12 | 22° Aries | Waxing crescent | [Corfu](corfu.md) — the geography of the tradition, felt as physical proximity |
 | April 23 | 3° Taurus | Waning crescent | [The Deepest Layer](the-deepest-layer.md) — the last stimulants released; arriving at nothing artificial |
 | April 24–26 | 4–6° Taurus | Dark moon | [The Veil Grows Thin](the-veil-grows-thin.md) — yoni infusion, two nights of vivid dreaming, the sky confirming |
 
