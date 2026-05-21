@@ -14,15 +14,11 @@ claim_tier: practice
 
 ---
 
-Running low on Saturn serum — only a small amount remaining, with no aged plasma available to distil more. The decision: blend the remaining serum into the Lunar essence and use the blend as a body preparation.
+The fractions are kept separate and blended as needed — the Solar spirit, Lunar essence, and Saturn serum each held in their own vessel and combined in the moment according to what is called for. Full-strength application of individual fractions has its place; sometimes intensity is right and the body asks for it.
 
-The serum is a dense concentrate. The Lunar essence carries it — a fluid, bioavailable vehicle that delivers the serum's mineral intelligence into the skin in a form the body can receive gradually. The blend feels integrated and present in a way that suits daily use.
+The current exception: the Saturn serum supply is almost gone with no aged plasma available to distil more. The remaining serum has been blended into the Lunar essence to stretch it and is being used as a body preparation in that form. The serum is a dense concentrate; the Lunar essence carries it well — a fluid, bioavailable vehicle that delivers the mineral intelligence gradually. The blend feels integrated and present in a way that suits daily use.
 
-**This is the new practice going forward.**
-
-Full-strength application of the individual fractions still has its place — sometimes intensity is right, and the body will ask for it. Plasma preparations are generally kind; the body communicates well when it has had enough, and detox responses are the thing to watch rather than any fixed limit. Body awareness is the guide.
-
-The Solar spirit remains separate, for its own specific applications.
+Plasma preparations are generally kind. The body communicates well when it has had enough, and detox responses are the thing to watch rather than any fixed limit. Body awareness is the guide.
 
 ---
 
