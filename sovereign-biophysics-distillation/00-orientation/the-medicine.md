@@ -13,9 +13,9 @@ claim_tier: interpretation
 
 ---
 
-At ordination, a Buddhist monk in the Theravada tradition receives four lifetime supports. These are the resources he is permitted to keep permanently, for the rest of his life, regardless of the restraints the Vinaya places on accumulation. Shelter. Clothing. Food. And medicine.
+At ordination, a Buddhist monk in the Theravada tradition receives four lifetime supports. These are the resources he is permitted to keep permanently, for the rest of his life, regardless of the restraints the Vinaya places on accumulation. Shelter. Clothing. Food. And Medicine.
 
-Within the category of medicine, most substances must be consumed within a day, or within seven days. A small number are permitted as lifetime possessions. The Vinaya Pitaka — the monastic code, the most conservative, most rigorously edited layer of the Pali Canon — names them: ghee, fresh butter, sesame oil, honey. And one more. *Pūtimuttabhesajja.* Fermented urine medicine. *Pūti*: fermented, decomposed, transformed through microbial action over time. *Mutta*: urine. *Bhesajja*: medicine.
+Within the category of medicine, most substances must be consumed within a day, or within seven days. A small number are permitted as lifetime possessions. The Vinaya Pitaka — the monastic code, the most conservative, most rigorously edited layer of the Pali Canon — names them: ghee, fresh butter, sesame oil, honey. And one more. *Pūtimuttabhesajja.* Fermented urine medicine. *Pūti*: fermented, decomposed, transformed through microbial action over time. *Mutta*: Urine. *Bhesajja*: Medicine.
 
 The discipline that suppressed intoxicants and regulated sexual conduct down to total celibacy named fermented urine as one of the medicines the ordained person keeps for life. It said so in plain language, in the most technically precise section of its canon, preserved intact for twenty-five centuries.
 
@@ -29,7 +29,7 @@ Consider what the alchemical tradition called the *prima materia* — the first 
 
 The Tria Prima — the three principles that Paracelsus described as the fundamental constituents of matter — are Sulfur, Mercury, and Salt. In distillation practice, these emerge as three distinct fractions: the Solar spirit (volatile, rising, active), the Lunar essence (clear, middle, the purified nectar), and the Saturn retentate (fixed, concentrated, dense with mineral intelligence). The apparatus that Mary the Jewess designed in Alexandria — the tribikos, the kerotakis — was built to separate exactly these three. The question the tradition never asked plainly: what was she distilling?
 
-The Damar Tantra answers in its own idiom. Verse 45: *"The Shivambu should be boiled in an earthen pot and extracted to one fourth its quantity. It should then be allowed to cool. This extract can be used for the body massage."* Boil. Reduce to one quarter. Cool and apply. This is the Saturn fraction — the mineral-dense retentate that remains after the volatile Solar spirit and the clear Lunar essence have been driven off by heat. The tradition that names the substance *Shivambu* — water of Shiva, water of auspiciousness — and calls it divine nectar, capable of abolishing old age and disease, gives explicit instruction for its concentration and topical use.
+The Damar Tantra answers in its own idiom. Verse 45: *"The Shivambu should be boiled in an earthen pot and extracted to one fourth its quantity. It should then be allowed to cool. This extract can be used for the body massage."* Boil. Reduce to one quarter. Cool and apply. This is the Saturn fraction — the mineral-dense serum retentate that remains after the volatile Solar spirit and the clear Lunar essence have been driven off by heat. The tradition that names the substance *Shivambu* — water of Shiva, water of auspiciousness — and calls it divine nectar, capable of abolishing old age and disease, gives explicit instruction for its concentration and topical use.
 
 ---
 
