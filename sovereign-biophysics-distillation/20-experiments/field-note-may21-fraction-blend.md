@@ -28,7 +28,15 @@ This is *solve et coagula* in topical practice — not as concept but as direct 
 
 The feeling of preciousness that comes with scarcity: something changed in the relationship to the material when there was almost none left. The large stores permitted a kind of unconsidered generosity. Now each drop of serum is attended to. The practice has become more conscious precisely at the moment the material is almost gone. Scarcity focuses attention. The medicine at lower concentration, with full presence applied to it, may be more effective than the same medicine at higher concentration applied without thought.
 
-*Note for future practice: the Lunar essence as carrier for Saturn serum is a complete preparation — the fluid volatile fraction delivering the concentrated mineral intelligence of the retentate. Consider formulating deliberately in this proportion from the start: serum as the precious, concentrated active; essence as the vehicle. Maps onto classical anupana principles — the medicine in a carrier designed for its depth of delivery.*
+**This is the new practice.**
+
+The blend arrived by necessity — running low on serum, no aged plasma available — and was recognized as the correct formulation. Not a workaround. Not something to consider for future runs. The Saturn serum blended into the Lunar essence as body preparation is the established topical form going forward.
+
+Serum is the concentrated active: the mineral-dense retentate holding the body's fixed biological intelligence. Essence is the vehicle: the clarified volatile fraction that delivers the serum's mineral depth into the skin without the concentrated impact of the retentate applied alone. The body receives both fractions together, in a form that maps onto classical anupana principles — the medicine in a fluid carrier suited to its depth of delivery.
+
+The Solar spirit remains separate, for its own specific applications.
+
+What necessity revealed: the body integrates the serum more completely when it arrives in the essence carrier than when it arrives at full concentration alone. Less signal intensity, more absorption. The correct formulation was waiting inside the constraint of running out.
 
 ---
 
