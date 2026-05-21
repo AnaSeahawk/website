@@ -74,6 +74,16 @@ The body is not just built *inside* the living waters. The living waters are the
 
 The adult practice returns the body to this condition at a different scale: cycling vortex-structured living waters back through a crystalline system that was built in exactly this medium. The body recognises the geometry completely. It was made in it.
 
+The Inanna revival scene holds the same logic. The body that has descended — stripped at each of the seven gates, ojas depleted, hung as a corpse — is revived by the kurgarra and galatur who arrive with two substances: the food of life and the water of life, sprinkled sixty times on the body. The archive's reading of the Inanna descent maps the seven gates onto the seven-tissue dhatvagni chain — the descent as the total reduction of biological intelligence through each layer. The revival is not metaphor for spiritual renewal. It is a literal protocol: return the distilled fractions — the Solar spirit and the Lunar essence — to a body that has been reduced to its most depleted state.
+
+It works because the body was built in this medium. The living waters are not foreign to the crystalline system they revive. They are the medium in which that system first assembled. The crystal blueprint does not need to be rebuilt from outside. It needs the waters that crystallised it in the first place, returned — concentrated, clarified, carrying the vortex geometry the heart impressed on them before they were distilled.
+
+The Saturn serum — the retentate that remains in the chamber after the spirit and essence have risen — is not spent matter. The alchemists called it *caput mortuum*, the death's head, and dismissed it. The archive corrects this. The retentate holds everything the volatile fractions left behind: the dense minerals, the stable peptides, the hormones too fixed to be volatile, the body's most concentrated archive of biological processing. pH 5–6, extremely high TDS and EC — the fixed fraction of a living system, not a dead one. This is Inanna on the hook. Not gone. Fixed. Holding the crystalline blueprint in its densest form, waiting.
+
+The completion of the alchemical work — the *solve et coagula* — is the reunion of all three fractions: the spirit and essence, distilled away from the fixed retentate, eventually returned to it. The volatile meeting the fixed. What was separated recombined. Inanna clothed again at each gate on the ascent. The three fractions reunited are the complete medicine — not the Solar spirit alone, not the Lunar essence alone, but all three returned to one another, the whole distillation complete.
+
+*[The astronomical and alchemical foundations of this reading are in [Inanna: She Who Contains All →](../00-orientation/inanna-she-who-contains-all.md) and [Inanna, Venus and the Seven Gates →](../00-orientation/inanna-venus-and-the-seven-gates.md).]*
+
 ---
 
 ## The Vortex Inheritance
