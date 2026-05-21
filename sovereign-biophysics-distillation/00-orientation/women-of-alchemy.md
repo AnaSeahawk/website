@@ -268,6 +268,12 @@ Medera named the vessel. Then the fires came.
 
 Theosebeia, the sister of Zosimos of Panopolis, is addressed in several of his treatises as a peer and fellow practitioner. A colleague, not a student. He dedicated alchemical treatises to her.
 
+One encounter survives in the record. Zosimos entered her working space and touched a jar. She corrected him. The water, she told him, came from the Prophetess. It was Mary's method. He had not handled it with the understanding it required.
+
+This scene explains something that has always been present but unattached in the Zosimos record: the consistency with which he calls Mary the Jewess *the Prophetess*, quotes her as his highest authority, names her methods as the foundation of the work. He did not arrive at that reverence through texts alone. Someone showed him what he had nearly mishandled, named whose hands had made the method, and the correction lasted the rest of his written life.
+
+The woman who taught him by defending the jar did not need to publish. Her student published instead.
+
 Paphnutia exists in the record only because Zosimos was irritated enough by her influence to write about it — dismissing her as ignorant and practicing incorrectly. Her name derives from the Egyptian meaning *the one of God*, suggesting a priestly vocation. She may have practiced a more body-centered, ritual form of the work. Whatever she knew, it was enough to threaten someone who wanted to control what his sister learned.
 
 Read across seventeen centuries, Zosimos's criticism has the texture of professional rivalry. Theosebeia talked to Paphnutia anyway.
