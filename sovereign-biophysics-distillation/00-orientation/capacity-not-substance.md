@@ -16,7 +16,7 @@ claim_tier: synthesis
 
 The archive makes a claim that generates resistance in careful readers: that the body produces a refined substance whose quality depends entirely on how the body was prepared. The claim looks like vitalism. It appears to name a capacity as though it were a thing, and a thing whose quality cannot be confirmed by any single instrument.
 
-The resistance is worth examining rather than dismissing. It points to a structural epistemological problem — one that appears in identical form across four independent domains of inquiry, none of which are in conversation with each other.
+The resistance is worth examining rather than dismissing. It points to a structural epistemological problem — one that appears in identical form across three independent domains of inquiry, none of which are in conversation with each other.
 
 ---
 
@@ -26,7 +26,7 @@ The standard scientific approach to confirmation is: isolate the active substanc
 
 It has a failure mode: it cannot confirm real properties that are relational rather than material — properties that belong to a living system in its native context and are degraded or destroyed by the conditions of extraction.
 
-This is not a mystical claim. It is a structural observation about the limits of one inquiry method when applied to phenomena that are by nature contextual. Four independent domains have run into the same wall.
+This is not a mystical claim. It is a structural observation about the limits of one inquiry method when applied to phenomena that are by nature contextual. Three independent domains have run into the same wall.
 
 ---
 
@@ -40,23 +40,17 @@ The field's own literature documents that removing the cell from its niche can c
 
 ---
 
-## Ojas
+## Ojas / Jing
 
-*Ojas* — the Charaka Samhita's most refined product of the seven-tissue dhatvagni chain — is not a hormone you can identify in a blood panel. It is the culminating expression of the chain's work when every fire operates correctly in sequence. Its presence is known by functional evidence: the body's capacity for sustained vitality, the clarity of medhagni (the discriminative intelligence that cannot be faked), the depth of immunity, the quality of reproductive tissue, the texture of what the eyes and skin show.
+Two traditions, one epistemological problem.
 
-Ojas manifests through measurable parameters — hormonal profiles, immune function, tissue quality — but is not reducible to any single one. The full chain must complete. Disrupting the dhatvagni sequence at any stage produces incomplete ojas regardless of how any downstream marker reads. You cannot confirm ojas by isolating a fraction of blood, because the property being measured is a consequence of the whole system running correctly — not a substance the system deposits.
+*Ojas* — the Charaka Samhita's most refined product of the seven-tissue dhatvagni chain — is the culminating expression of the chain's work when every fire operates correctly in sequence. *Jing* (Essence) in Chinese medical alchemy is the constitutional reserve the kidney system holds — the root substance from which Qi and Shen are refined in sequence. They are the same kind of thing: the densest, most materialised expression of biological refinement in each tradition, produced by a sequential internal chain, stored in a specific organ (heart / kidneys), known by the quality of what the living system produces over time.
 
-The isolation method is always under suspicion for the same reason as with stemness: the conditions that produce ojas are the conditions of the living system intact and operating in its own context. Remove the system from those conditions and something else is being measured.
+Neither can be confirmed by extraction. You cannot identify ojas in a blood panel because ojas is not a substance the system deposits — it is the consequence of the whole dhatvagni chain completing correctly. You cannot identify Jing by isolating a blood sample because what Jing is, at the level the tradition is working, is a property of constitutional depth and reserve capacity across time. Both are known by functional evidence: the body's vitality, immunity, the quality of reproductive tissue, the depth of sleep, the clarity of discriminative perception. Both are degraded or absent when the chain that produces them is disrupted — regardless of how any single downstream marker reads.
 
----
+The isolation method is always under suspicion in both traditions for the same reason: the conditions that produce ojas and Jing are the conditions of the whole living system running intact. Remove the system from those conditions and something else is being measured.
 
-## Jing
-
-In Chinese medical alchemy, *Jing* (Essence) is the constitutional reserve the kidney system holds — the substrate from which *Qi* (vital force) and *Shen* (spirit) are refined in sequence. It is the root substance that determines what the entire refinement chain can produce. Jing is the correct parallel to ojas: both are the densest, most materialised expression of biological refinement, both are produced by a specific sequential chain, both are stored in a specific organ (kidneys / heart), both are known by the quality of what the living system produces rather than by any direct measurement.
-
-Jing cannot be confirmed by extracting it. You cannot identify the quality of Jing by isolating a blood sample, because what Jing is — at the level the tradition is working — is a property of the body's constitutional depth and reserve capacity, not a molecule with a molecular weight. It is known by what the living system can do: reproductive vitality, reserve under stress, the quality of endogenous fluid production, the depth and coherence of sleep, the character of what the system produces at its finest.
-
-(*Qi* — vital force, the animating energy of the living system — is the correct parallel to *prana* in Ayurveda, not to ojas. Both qi and prana share the same epistemological difficulty: they cannot be extracted and bottled. But they belong to a different register than Jing and ojas — energy rather than essence, force rather than substance. The epistemological structure is identical; the level of manifestation is distinct.)
+(*Qi* — vital force, animating energy — parallels *prana* in Ayurveda, not ojas. Both share the same epistemological difficulty — they cannot be extracted and bottled — but they belong to a different register: energy rather than constitutional essence.)
 
 ---
 
@@ -74,7 +68,7 @@ Humus is the closest thing soil science has to a visible substance with this qua
 
 ## The Same Structure
 
-Stemness, ojas, Jing, soil fertility. Four vocabularies, four research traditions, four independent domains. The same epistemological structure in each:
+Stemness, ojas/Jing, soil fertility. Three domains, three research traditions, none in conversation with each other. The same epistemological structure in each:
 
 - A real property of a living system
 - Not isolable as a discrete, stable substance without loss of the property
@@ -82,7 +76,7 @@ Stemness, ojas, Jing, soil fertility. Four vocabularies, four research tradition
 - Degraded or eliminated — not preserved — by the conditions of extraction
 - The measurement method is always a proxy, and the isolation method is always under suspicion
 
-The difficulty is not evidence against the property's reality. It is evidence that the inquiry method must fit the kind of thing being inquired about. A stem cell researcher who measures only surface markers, a soil scientist who reduces fertility to NPK ratios, an Ayurvedic practitioner who assesses ojas only through a blood panel — all three are using the right tools for the wrong question. The living capacity is real. The proxy is partial.
+The difficulty is not evidence against the property's reality. It is evidence that the inquiry method must fit the kind of thing being inquired about. A stem cell researcher who measures only surface markers, a soil scientist who reduces fertility to NPK ratios, a practitioner who assesses ojas or Jing through a single blood test — all three are using the right tools for the wrong question. The living capacity is real. The proxy is partial.
 
 ---
 
