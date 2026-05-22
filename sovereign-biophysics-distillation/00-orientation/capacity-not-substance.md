@@ -50,9 +50,7 @@ Neither can be confirmed by extraction. You cannot identify ojas in a blood pane
 
 The isolation method is always under suspicion in both traditions for the same reason: the conditions that produce ojas and Jing are the conditions of the whole living system running intact. Remove the system from those conditions and something else is being measured.
 
-The same traditions carry a second concept pair at a different register. *Prana* in Ayurveda and *Qi* in Chinese medicine are not the constitutional essence — they are the animating life force: the capacity of the living system to move, breathe, transform, and self-regulate. Prana is not the body's most refined product; it is what moves through the body and makes it alive. Qi is not stored as a reserve; it circulates, rises, descends, and is expressed in every coherent action the organism takes.
-
-Neither prana nor Qi can be extracted and confirmed in isolation. You can measure proxies — heart rate variability, respiratory coherence, bioelectric field strength — but what these measure is the consequence of prana or Qi, not prana or Qi itself. A body with strong prana is known by what it can do: the coherence of its breath, the quality of its movement, the speed and completeness of its recovery. A body with depleted prana is known the same way. The property is real. The direct measurement is not available. The epistemological structure is identical to ojas and Jing — only the register is different.
+The same traditions carry a second concept pair at a different register: *prana* (Ayurveda) and *Qi* (Chinese medicine) — the animating life force, not the constitutional essence. Different level, same epistemological structure. Neither can be extracted and confirmed in isolation. Both are known by what the living system does.
 
 ---
 
