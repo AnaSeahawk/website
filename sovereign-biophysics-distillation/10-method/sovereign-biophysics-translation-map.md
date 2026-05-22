@@ -21,13 +21,33 @@ The earliest names we can still recover belong to women. Mary the Jewess — Mir
 
 What they practiced, and what this document maps, has a name: **Spagyrics** — from the Greek *spao*, to separate, and *ageiro*, to collect and reunite. The term was formalized by Paracelsus in the sixteenth century, but the practice is older than his name for it. ***It is the art of taking a living substance, dividing it into its three philosophical principles, purifying each in isolation, and restoring them to unity in a form more refined, more coherent, more sovereign than the original. It is, in the most precise sense, the art of resurrection through separation.***
 
-The substance from which all three principles are drawn is the **Prima Materia** — the first matter, the undifferentiated ground from which the work begins. In this practice, ***aged biological carrier fluid is the Prima Materia: a high-voltage solvent already structured by the living body that produced it, already carrying the electrochemical signature of its origin. The work begins here. Everything else is refinement.***
+The substance from which all three principles are drawn is the **Prima Materia** — the first matter, the undifferentiated ground from which the work begins. In this practice, ***biological carrier fluid — fresh or aged — is the Prima Materia: a high-voltage solvent already structured by the living body that produced it, already carrying the electrochemical signature of its origin. The work begins here. Everything else is refinement.***
 
 This guide translates the ancient operational vocabulary back into the physical mechanics from which it was never truly separated. Three categories of knowing:
 
 **The Process** — what is done.
 **The Principles** — what the matter is.
 **The Apparatus** — where it happens.
+
+---
+
+## 0. The Source Materials
+
+The practice works with plasma across a continuous spectrum from raw to most refined. These are not rigid categories — they are named positions on a scale the practitioner learns to read directly. The material tells you what it is.
+
+**Raw Fresh Plasma — Prima Materia**
+
+Raw fresh plasma is itself a spectrum. All fresh plasma — collected at any time of day, under any conditions — can serve as starting material for distillation. Quality and character vary with time of collection, diet, hydration, state of body, and cycle.
+
+Within this spectrum, one point stands apart: the pre-dawn first void, mid-stream — collected at approximately 04:00–05:00, middle flow only, first and last set aside. This is the top-grade prima materia, the reference point against which others are measured. Mid-stream collection is the standard clean-catch protocol and what the Damar Tantra specifies: *"the mouth and the tail of the serpent contain poison."* At this hour the body carries the longest fasting window of the cycle, highest native concentration of endogenous compounds, and the full charge of the night's metabolic and hormonal work.
+
+**Raw Aged Plasma**
+
+Fresh plasma held and gestated over time. Fermentation and slow putrefaction transform the material — urea hydrolyses, proteins digest, the electrochemical signature shifts. The aging process does what distillation cannot: it operates across time rather than across temperature. 28 days is the classical alchemical threshold — one lunar cycle, the traditional putrefaction period. French specifies 40 days for certain preparations. Both are in the range where the transformation becomes substantive.
+
+The protein structure digests into water-soluble organic salts across this period. The retentate from aged plasma is workable in ways the fresh retentate is not — this is the practical consequence of aging, not only the electrochemical one.
+
+*Classical register: Nigredo — the black phase, the massa confusa, putrefaction as the first alchemical operation.*
 
 ---
 
@@ -90,19 +110,22 @@ The alchemists called this the *Tria Prima*: the three primes from which all mat
 
 Every distillation run produces all three. The separation is not imposed — it is revealed.
 
-*A note on naming convention: In this practice, the Solar first fraction (Sulfur) is named the Spirit — animating, initiating, carrying charge — and the Lunar second fraction (Mercury) is named the Essence — receptive, containing, relational. This inverts the Paracelsian convention, in which Sulfur carries the Soul and Mercury the Spirit. This variation is not unique to this practice; the assignment of names to the fractions differs across multiple alchemical lineages. The naming here follows direct observational experience of the fractions themselves, brought into harmony with the practitioner's own working vocabulary. Where other traditions are referenced, their terminology is noted.*
+*A note on naming convention: The working names in this practice are **Spirit**, **Essence**, and **Serum** — this is what the fractions are called. Solar, Lunar, and Saturn describe the energetic character of each and are interchangeable with the working names when that register is useful, but Spirit / Essence / Serum are the primary language. This naming follows direct observational experience of the fractions themselves. It inverts the Paracelsian convention in which Sulfur carries the Soul and Mercury the Spirit — a variation not unique to this practice; the assignment of names to fractions differs across multiple alchemical lineages. Where other traditions are referenced, their terminology is noted.*
 
-**The Three Primes in the Flask**
+**The Fractions**
 
-| Your Fraction | Alchemical Prime | Principle | What It Is | Principal Constituents |
-|:---|:---|:---|:---|:---|
-| First Cut — Volatile / Solar | **Sulfur** *(The Spirit)* | Fire · The Sun · Expansion | The lightest, most volatile, most electrochemically active molecules. The energetic signature of the fluid. Its essential activity. What it does when freed from the weight of the body. | Purified water; ammonia (from urea breakdown); short-chain volatile fatty acids; indole and skatole (tryptophan catabolism); ketone bodies; trace volatile sulfur compounds. Essentially hormone-free. |
-| Middle Cut — Bulk / Lunar | **Mercury** *(The Essence)* | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Solar acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. | Peptide fragments; prostaglandins; B-vitamins (B2, B3, B6); melatonin; serotonin metabolites (5-HIAA); creatinine; amino acid fragments; zinc. |
-| Residue — Fixed / Saturn | **Salt** *(The Body)* | Earth · The Cube · Fixed Matter | The dense minerals and non-volatile compounds remaining in the chamber after the run. Not waste — the crystalline ground from which the fluid was built. The Body waiting for resurrection. | Full steroid hormone concentrate (testosterone, estrogen, DHEA, progesterone metabolites — initially as conjugates, progressively deconjugating toward free forms with heat); Epidermal Growth Factor (EGF); LH and FSH fragments; potassium, calcium, magnesium, phosphate, zinc, selenium; melatonin; nitric oxide precursors. |
+In addition to the three separated fractions, a fourth form is produced when the full distillate is collected without separation:
 
-**On the Saturn retentate: heat-mediated deconjugation**
+**Pure Plasma** — the whole distillate from a single pass collected as one continuous yield, not curated into fractions. Alkaline, TDS dramatically reduced from starting material, clean and clear. Used where the full spectrum is wanted without the work of fraction separation.
 
-The steroid hormones in urine are not present as their free, biologically active forms — the liver conjugates them (as glucuronides and sulfates) before excretion, making them water-soluble and largely inactive. They concentrate in the retentate rather than crossing into the distillate. However, the heat of distillation itself begins to cleave these glucuronide bonds: enzymatic hydrolysis of urinary steroid glucuronides occurs at 55–60°C over one to two hours — temperatures and durations consistent with practice. The retentate therefore shifts across the run: conjugated steroids dominate early, while the proportion of free, unconjugated, biologically active forms increases as the run proceeds. **The retentate is not a static concentrate but a chemically evolving preparation.** Duration and temperature of the final reduction directly influence this ratio. This is the alchemical fixation in biochemical terms: what the fire fixes in the chamber is not merely salt — it is the body's own hormonal intelligence, concentrated and progressively liberated.
+The three separated fractions, in order of rising:
+
+| Fraction | Energetic Character | Alchemical Prime | Principle | What It Is | Principal Constituents |
+|:---|:---|:---|:---|:---|:---|
+| **Spirit** | Solar | **Sulfur** | Fire · The Sun · Expansion | The lightest, most volatile, most electrochemically active molecules. The energetic signature of the fluid. Its essential activity. What it does when freed from the weight of the body. | Purified water; ammonia (from urea breakdown); short-chain volatile fatty acids; indole and skatole (tryptophan catabolism); ketone bodies; trace volatile sulfur compounds. Essentially hormone-free. |
+| **Essence** | Lunar | **Mercury** | Water · The Moon · The Messenger | The neutral, pure, structuring body of the fluid. It carries and connects. It is the medium through which the Spirit acts upon the physical. Neither fully volatile nor fully fixed — the living intermediary. | Peptide fragments; prostaglandins; B-vitamins (B2, B3, B6); melatonin; serotonin metabolites (5-HIAA); creatinine; amino acid fragments; zinc. |
+| **Essence Tails** | — | Border fraction | Transition | The last liquid distillate to cross as the chamber approaches dry. Carries more of the mineral character of what is left behind. Distinct from the Serum — the Essence Tails cross the condenser and land in the output vessel; the Serum never leaves the flask. | Elevated mineral load relative to the Essence main body. |
+| **Serum** | Saturn | **Salt** | Earth · The Cube · Fixed Matter | What remains in the flask when the run is complete. What the fire could not lift. The concentrated fixed matter — dense, mineral-rich. Not a distilled fraction: it never crossed the condenser. The earth the spirit left behind. The 1/4 Volume Protocol applies: terminate when approximately one quarter of starting volume remains. | Full steroid hormone concentrate (testosterone, estrogen, DHEA, progesterone metabolites — initially as conjugates, progressively deconjugating toward free forms with heat); Epidermal Growth Factor (EGF); LH and FSH fragments; potassium, calcium, magnesium, phosphate, zinc, selenium; melatonin; nitric oxide precursors. |
 
 **The Vessel as Microcosm**
 
