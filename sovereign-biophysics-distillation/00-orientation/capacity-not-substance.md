@@ -50,13 +50,13 @@ The isolation method is always under suspicion for the same reason as with stemn
 
 ---
 
-## Qi and Jing
+## Jing
 
-In Chinese medical alchemy, *Jing* (Essence) is the constitutional reserve the kidney system holds — the substrate from which *Qi* (vital force) and *Shen* (spirit) are refined in sequence. It is the root substance that determines what the entire refinement chain can produce.
+In Chinese medical alchemy, *Jing* (Essence) is the constitutional reserve the kidney system holds — the substrate from which *Qi* (vital force) and *Shen* (spirit) are refined in sequence. It is the root substance that determines what the entire refinement chain can produce. Jing is the correct parallel to ojas: both are the densest, most materialised expression of biological refinement, both are produced by a specific sequential chain, both are stored in a specific organ (kidneys / heart), both are known by the quality of what the living system produces rather than by any direct measurement.
 
-Jing cannot be confirmed by extracting it. The same structural difficulty applies: you cannot identify the quality of Jing by isolating a blood sample, because what Jing is — at the level the tradition is working — is a property of the body's constitutional depth and reserve capacity, not a molecule with a molecular weight. It is known by what the living system can do: reproductive vitality, reserve under stress, the quality of endogenous fluid production, the depth and coherence of sleep, the character of what the system produces at its finest.
+Jing cannot be confirmed by extracting it. You cannot identify the quality of Jing by isolating a blood sample, because what Jing is — at the level the tradition is working — is a property of the body's constitutional depth and reserve capacity, not a molecule with a molecular weight. It is known by what the living system can do: reproductive vitality, reserve under stress, the quality of endogenous fluid production, the depth and coherence of sleep, the character of what the system produces at its finest.
 
-*Qi* at the level the classical tradition describes it is not any single bioelectric measurement, but the capacity of the living system to transform coherently — to receive, convert, and express vital force at every scale simultaneously. Neither Jing nor Qi survives extraction as the thing being named.
+(*Qi* — vital force, the animating energy of the living system — is the correct parallel to *prana* in Ayurveda, not to ojas. Both qi and prana share the same epistemological difficulty: they cannot be extracted and bottled. But they belong to a different register than Jing and ojas — energy rather than essence, force rather than substance. The epistemological structure is identical; the level of manifestation is distinct.)
 
 ---
 
