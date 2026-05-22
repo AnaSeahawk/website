@@ -90,6 +90,12 @@ The full evidence is longitudinal. It is in vivo. It accumulates in what the pra
 
 The assay is long. The living system is the experiment. The practitioner's body — prepared, observed, and measured across time — is the only instrument adequate to the kind of thing being studied.
 
+One objection appears repeatedly in community discussions: distillation destroys whatever living cellular material the fluid carries — including the progenitor cells the research literature documents in voided urine. This is probably correct. Heat kills cells.
+
+But the objection mistakes distillation for a preservation process. It is a transformation process. The question is not what survives intact — it is what the transformation creates. The Solar spirit is not stored urine with its cellular content preserved. It is what the material becomes when it is aged, separated by volatility, and concentrated by heat: charge-inverted, alkaline, volatile, carrying what the body produced that was light enough to rise. The Lunar essence and Saturn serum are equally distinct from what the still was fed. All three fractions hold something the fresh fluid does not — not because they preserved it, but because the transformation made it.
+
+The community argument assumes the value is in the cellular material and asks whether distillation preserves it. The archive's argument is that the value is in what the transformation produces, and the question is what that is.
+
 ---
 
 *Continue reading: [Agni →](agni.md)*
