@@ -185,6 +185,6 @@ Held in relationship without collapse.
 
 ---
 
-*Continue reading: [Manifesto of the Clear Mirror →](manifesto-clear-mirror.md)*
+*Continue reading: [The Archive as Biological Memory →](the-archive-as-biological-memory.md)*
 
 *[← Back to Index](../README.md)*
