@@ -33,6 +33,7 @@ Each document links to the next at the bottom.
 *Read in sequence. Each piece prepares the ground for the next.*
 
 - [Where to Begin](00-orientation/where-to-begin.md) — an entry point for new readers: what this archive is, how to read it, where to start
+- [The Archive Learns to Read Itself](00-orientation/the-archive-learns-to-read-itself.md) — a claim-architecture orientation for distinguishing measurement, observation, interpretation, hypothesis, myth, philosophy, and practice ethic
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
 - [**All the Practice Is for the Medicine**](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis of the archive in full: what the practices are for, what the texts say, and what is missing from the modern transmission
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters

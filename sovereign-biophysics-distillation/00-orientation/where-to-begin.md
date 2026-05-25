@@ -47,7 +47,7 @@ The history comes first — not as academic context but because the suppression 
 
 The reading path is marked at the bottom of each piece.
 
-[Begin: Manifesto of the Clear Mirror →](manifesto-clear-mirror.md)
+[Begin: The Archive Learns to Read Itself →](the-archive-learns-to-read-itself.md)
 
 ---
 
@@ -74,6 +74,6 @@ If you are introducing this practice to others, a presentation outline is availa
 
 ---
 
-*Continue reading: [Manifesto of the Clear Mirror →](manifesto-clear-mirror.md)*
+*Continue reading: [The Archive Learns to Read Itself →](the-archive-learns-to-read-itself.md)*
 
 *[← Back to Index](../README.md)*
