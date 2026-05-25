@@ -101,6 +101,10 @@ Each document links to the next at the bottom.
 - [Three Years of Topical Practice — Observed Outcomes](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling at 52, sexual vitality, and the partner dimension: observations from three years of daily topical application with mechanisms
 - [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
 
+### Dictionary
+
+- [Dictionary](Dictionary/README.md) — claim environments, claim tiers, language guardrails, and working terms for the archive's layered vocabulary
+
 ### The Living Record
 
 The practitioner's account — the life behind the archive — lives in [The Vessel →](../The-Vessel/README.md): backstory documents, the living journal, and the temporal framework.
