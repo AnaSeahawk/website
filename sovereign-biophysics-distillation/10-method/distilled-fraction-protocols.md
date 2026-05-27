@@ -15,7 +15,9 @@ claim_tier: practice
 
 This document covers the applications specific to the distilled fractions: Solar, Lunar, and Saturn. For the raw and aged practice that precedes distillation, see: [Amaroli Protocols →](amaroli-protocols.md)
 
-For the vocabulary and alchemical framing behind these names, see: [Translation Map →](sovereign-biophysics-translation-map.md)
+For the practical naming map, see: [Plasma Forms Taxonomy →](plasma-forms-taxonomy.md)
+
+For the alchemical framing behind these names, see: [Translation Map →](sovereign-biophysics-translation-map.md)
 
 For the empirical data — measurements, yields, electrochemical profiles — see: [Thesis: Endogenous Alchemy →](../00-orientation/thesis-endogenous-alchemy.md)
 
@@ -114,7 +116,7 @@ Diluted or used directly as a cloth compress applied to the body.
 
 The three fractions can be worked in sequence as part of a single integrated protocol — Solar for its charge and activity, Lunar as the daily carrier and culinary water, Saturn for topical structural work. This is not a requirement. Many runs are used partially or in a single mode. The three-fraction model is the complete picture; how much of it is enacted at any time depends on what the practice is asking for.
 
-The practice of combining the purified fractions — the alchemical *Chymical Wedding*, the reunion of what was separated — is documented in the Translation Map. Working with all three simultaneously is the advanced form of the practice.
+The practice of combining the purified fractions belongs to the reunion language named in the [Plasma Forms Taxonomy](plasma-forms-taxonomy.md) and the alchemical *Chymical Wedding* described in the [Translation Map](sovereign-biophysics-translation-map.md). Working with all three simultaneously is the advanced form of the practice.
 
 ---
 

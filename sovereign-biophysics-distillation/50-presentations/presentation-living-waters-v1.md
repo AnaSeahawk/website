@@ -158,7 +158,8 @@ What you are doing is the work. The record you keep is the science.
 - [Inanna: She Who Contains All](../00-orientation/inanna-she-who-contains-all.md) — the myth as science, deep biophysical reading
 - [Two Distillates](../00-orientation/two-distillates.md) — ghee, plasma, and the external circuit
 - [The Distillery in the Field](../00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy
-- [Translation Map](../10-method/sovereign-biophysics-translation-map.md) — full vocabulary with anatomical grounding
+- [Plasma Forms Taxonomy](../10-method/plasma-forms-taxonomy.md) — practical map of source forms, fractions, retentate, blends, and reunion
+- [Translation Map](../10-method/sovereign-biophysics-translation-map.md) — symbolic and alchemical vocabulary
 - [Amaroli Protocols](../10-method/amaroli-protocols.md) — observation sequence detail
 - [Thesis: Endogenous Alchemy](../00-orientation/thesis-endogenous-alchemy.md) — the empirical record, one run documented in full
 - [Observation protocol handout](../10-method/observation-protocol-handout.md) — field record template for a distillation run

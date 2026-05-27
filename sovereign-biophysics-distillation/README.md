@@ -70,10 +70,11 @@ Each document links to the next at the bottom.
 - [The Living Loop](10-method/the-living-loop.md) — cohobation as daily practice: four years of the closed loop across changing conditions and geographies, and the vision for a permanent place
 - [Refining the Source](10-method/refining-the-source.md) — what specific practices do to the substrate: pranayama, khechari, microcosmic orbit, and sexual energy cultivation as stages of the internal distillation; reading the jar as a diagnostic of practice
 - [Amaroli Protocols](10-method/amaroli-protocols.md) — the raw and aged practice: what amaroli is, preparation (syphoning, filtering), applications, household and historical uses
+- [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md) — practical map of fresh, aged, distilled, fractioned, retained, blended, and reunited plasma forms
 - [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, and Saturn as distinct substances: what each is and how each is worked
 - [The Apothecary Balm](10-method/apothecary-balm.md) — the Saturn retentate reduced and emulsified: why aged plasma, why this diet, ratios and method for the plasma mineral salve
 - [Oral Care Protocol](10-method/oral-care-protocol.md) — the two-phase application of Solar spirit and Saturn serum: sequencing, mechanism, safety parameters, and observations
-- [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — the alchemical vocabulary mapped to living practice
+- [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md) — symbolic and alchemical lexicon for the practice: Eagle, Tria Prima, VITRIOL, Chymical Wedding, and Opus Mulierum
 - [Observation Protocol](10-method/observation-protocol-handout.md) — field record template for a distillation run
 - [Sediment Field Guide](10-method/sediment-field-guide.md) — a visual reference for what forms in aging plasma: crystal types, wet and dry sludge, surface phenomena, and how dietary variables (dairy fats, refined oils, alcohol) each leave their signature in the jar
 
