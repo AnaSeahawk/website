@@ -8,6 +8,8 @@ the history behind it, the method, the measurements, and what they mean.
 
 *Nothing here constitutes medical guidance. All records are specific to one body and context.*
 
+This public archive holds orientation, bounded method notes, measurements, analysis, synthesis, and vocabulary. Sensitive operational and intimate field records are held in the private Vessel layer, where they can remain part of the work without becoming public operational content.
+
 ---
 
 ## Reading Path
@@ -20,9 +22,10 @@ The archive is organised to be read in sequence.
 **Experiments** — run records, measurements, outcomes
 **Analysis** — interpretive bridge between data and theory
 **Synthesis** — integrated understanding across multiple runs
+**Dictionary** — claim environments, claim tiers, language guardrails, and working terms
 **The Living Record** — the practitioner's account: the life behind the archive
 
-Each document links to the next at the bottom.
+Most sequence documents link to the next at the bottom. Reference layers such as the Dictionary can be entered when a term or claim environment needs orientation.
 
 ---
 
@@ -50,6 +53,8 @@ Each document links to the next at the bottom.
 - [Inanna, Venus and the Seven Gates](00-orientation/inanna-venus-and-the-seven-gates.md) — the astronomical record behind the myth: Venus's seven-day disappearance, the pentagram she draws across eight years, and the seven-fold body across traditions
 - [Prabhuta and the Inexhaustible Vessel](00-orientation/prabhuta-and-the-inexhaustible-vessel.md) — the Avatamsaka Sutra's householder woman whose bowl does not run out: Indra's Net as the closed loop, amrta as real substance, the ten-stage refinement, and the body that generates rather than depletes
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
+- [Capacity Not Substance](00-orientation/capacity-not-substance.md) — why refined living capacities cannot be understood as isolated substances: stemness, ojas, Jing, soil fertility, and functional evidence
+- [Urine-Derived Stem Cells](00-orientation/urine-derived-stem-cells.md) — what the USC literature shows, what distillation does not preserve, and why the archive is asking a different question
 - [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, the temperature the body holds, and tummo as the Tibetan cultivation of the same inner fire
 - [The Root and the Refinement](00-orientation/the-root-and-the-refinement.md) — the erotic root of the distillation practice: Jing as prima materia, the post-orgasm instruction across three traditions, the feminine current and menstrual alchemy, and the circuit at full extension
 - [The Medicine](00-orientation/the-medicine.md) — what six independent traditions encoded as the medicine: the Pali Canon's plain statement, the Chinese alchemical steam, the Taoist jade's broth, and why the practices cultivate the medicine by changing what the body produces
@@ -101,14 +106,17 @@ Each document links to the next at the bottom.
 
 - [Three Years of Topical Practice — Observed Outcomes](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling at 52, sexual vitality, and the partner dimension: observations from three years of daily topical application with mechanisms
 - [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
+- [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md) — crystal blueprint, heart geometry, vortex water, and the body's own living crystalline medium
 
 ### Dictionary
 
-- [Dictionary](Dictionary/README.md) — claim environments, claim tiers, language guardrails, and working terms for the archive's layered vocabulary
+- [Dictionary](Dictionary/README.md) — claim environments, claim tiers, language guardrails, and working terms for the archive's layered vocabulary; a reference layer for reading without collapse
 
 ### The Living Record
 
 The practitioner's account — the life behind the archive — lives in [The Vessel →](../The-Vessel/README.md): backstory documents, the living journal, and the temporal framework.
+
+More sensitive operational and intimate field records are held outside this public archive. They remain part of the research, but they are not public reading-path material.
 
 - [The Record](../The-Vessel/backstory/the-record.md) — the practitioner's full arc: HPG suppression, amaroli, the February 2026 breakthrough
 - [Living Journal 2026](../The-Vessel/journal/living-journal-2026.md) — daily field notes, harvested each lunation
