@@ -66,11 +66,19 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 *The complete ground. Read in sequence for the full archive path, or enter specific pieces from the reader routes above.*
 
+#### Entry and Reading Ethic
+
 - [Where to Begin](00-orientation/where-to-begin.md) — an entry point for new readers: what this archive is, how to read it, where to start
 - [The Archive Learns to Read Itself](00-orientation/the-archive-learns-to-read-itself.md) — a claim-architecture orientation for distinguishing measurement, observation, interpretation, hypothesis, myth, philosophy, and practice ethic
 - [The Archive as Biological Memory](00-orientation/the-archive-as-biological-memory.md) — a philosophical orientation to the archive as relational field, ecological mirror, and record of changing perception
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
+
+#### Central Thesis
+
 - [**All the Practice Is for the Medicine**](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis of the archive in full: what the practices are for, what the texts say, and what is missing from the modern transmission
+
+#### Suppression and Lineage
+
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters
 - [Sun Bu-er and the Inner Furnace](00-orientation/sun-bu-er-and-the-inner-furnace.md) — the Taoist women's tradition of cyclical refinement: xue, qi, shen, and the heart as inner furnace
 - [Beauty and the Binding](00-orientation/beauty-and-the-binding.md) — how every civilization found its own way to close the question: foot binding, leblouh, chhaupadi, and the mechanism that ran through women's hands
@@ -78,11 +86,17 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Why the Distillation Is Missing](00-orientation/why-the-distillation-is-missing.md) — three silences that make the sophisticated end of this practice invisible: heat-aversion, the alchemical wall, and official suppression
 - [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression, and what the body still carries
 - [The Language of Erasure](00-orientation/the-language-of-erasure.md) — how a word closes a question before it can be asked: the mechanism of suggestion applied to the body's own vocabulary
+
+#### Mythic and Cosmological Ground
+
 - [The First Water](00-orientation/the-first-water.md) — the amniotic fact, the inversion, and what the block overrides: we were built from this water before any word arrived to close the question
 - [The Moving Sky and the Stationary Earth](00-orientation/the-moving-sky.md) — seven wanderers, the sky as clock, the calendar as convenience: why the solar return is what a birthday actually is, and why agriculture never stopped using the sky
 - [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) — the myth as science: the sovereign vessel and the alchemical process in code
 - [Inanna, Venus and the Seven Gates](00-orientation/inanna-venus-and-the-seven-gates.md) — the astronomical record behind the myth: Venus's seven-day disappearance, the pentagram she draws across eight years, and the seven-fold body across traditions
 - [Prabhuta and the Inexhaustible Vessel](00-orientation/prabhuta-and-the-inexhaustible-vessel.md) — the Avatamsaka Sutra's householder woman whose bowl does not run out: Indra's Net as the closed loop, amrta as real substance, the ten-stage refinement, and the body that generates rather than depletes
+
+#### Body and Practice Ground
+
 - [Two Distillates](00-orientation/two-distillates.md) — ghee, plasma, and the circuit the ancient diet was running
 - [Capacity Not Substance](00-orientation/capacity-not-substance.md) — why refined living capacities cannot be understood as isolated substances: stemness, ojas, Jing, soil fertility, and functional evidence
 - [Urine-Derived Stem Cells](00-orientation/urine-derived-stem-cells.md) — what the USC literature shows, what distillation does not preserve, and why the archive is asking a different question
@@ -90,6 +104,9 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [The Root and the Refinement](00-orientation/the-root-and-the-refinement.md) — the erotic root of the distillation practice: Jing as prima materia, the post-orgasm instruction across three traditions, the feminine current and menstrual alchemy, and the circuit at full extension
 - [The Medicine](00-orientation/the-medicine.md) — what six independent traditions encoded as the medicine: the Pali Canon's plain statement, the Chinese alchemical steam, the Taoist jade's broth, and why the practices cultivate the medicine by changing what the body produces
 - [The Chapter They Skip](00-orientation/the-chapter-they-skip.md) — Chapter 3 of the Hatha Yoga Pradipika: what vajroli, amaroli, and sahajoli say, what gets taught instead, and where the advanced practitioners are
+
+#### Empirical and Seasonal Ground
+
 - [The Distillery in the Field](00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy, panchagavya, and the three distilleries
 - [The Biological Baseline](00-orientation/the-biological-baseline.md) — diet as the first phase of distillation: the 17th-century proof, the monastic architecture, and the Universal Medicine
 - [Thesis: Endogenous Alchemy](00-orientation/thesis-endogenous-alchemy.md) — the empirical record: one distillation run, measured and documented
