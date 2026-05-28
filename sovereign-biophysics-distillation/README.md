@@ -54,7 +54,7 @@ Begin with [Current State of the Work — May 2026](40-synthesis/synthesis-curre
 
 **Synthesis** — integrated understanding across multiple runs and lived observation
 
-**Dictionary** — claim environments, claim tiers, language guardrails, and working terms
+**Dictionary** — the key and legend: claim environments, measurement shorthand, language guardrails, and working terms
 
 **The Living Record** — the practitioner's account: dream, body, time, and the life behind the archive
 
@@ -160,7 +160,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 ### Dictionary
 
-- [Dictionary](Dictionary/README.md) — claim environments, claim tiers, language guardrails, and working terms for the archive's layered vocabulary; a reference layer for reading without collapse
+- [Dictionary](Dictionary/README.md) — the archive's key and legend: claim environments, claim tiers, measurement shorthand, language guardrails, and working terms for reading without collapse
 
 ### The Living Record
 

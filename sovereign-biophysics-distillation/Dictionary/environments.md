@@ -24,6 +24,8 @@ Numerical or technical observation. This includes readings, conditions, dates, s
 
 Instrument language names what was measured and what was not measured.
 
+For the archive's measurement shorthand, see the [Measurement Legend](measurement-legend.md).
+
 ## Pattern Room
 
 Repeated observation. A single event has begun to appear across time, season, condition, or context.
