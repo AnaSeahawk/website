@@ -12,7 +12,9 @@ This public archive holds orientation, bounded method notes, measurements, analy
 
 ---
 
-## How to Enter
+## Frontispiece
+
+This page is the archive's frontispiece: a threshold, a table of contents, and a reader's map.
 
 There is more than one honest way into this archive.
 
