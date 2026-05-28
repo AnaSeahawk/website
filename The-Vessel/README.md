@@ -1,8 +1,13 @@
 ---
+title: The Living Record
+type: companion-archive
 visibility: public
+status: draft
+claim_tier: personal-account
 ---
 
-# The Vessel
+# The Living Record
+## Dream, Body, Time, and the Life Behind Sovereign Biophysics
 
 *The practitioner's account — the life behind the archive.*
 
@@ -38,11 +43,11 @@ Daily field notes and seasonal entries. Short by design — notable moments link
 
 ---
 
-### Portal
+### Private Vessel Access
 
-Contact, community, and where to go next.
+The private Vessel is the protected source container for records that need context, consent, or relationship before they can be read.
 
-[The Portal →](portal.md)
+[Private Vessel Access →](portal.md)
 
 ---
 

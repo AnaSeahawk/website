@@ -185,7 +185,7 @@ This is why the wedding image matters. It names relation, sequence, consent, and
 
 The public archive can name this symbolic structure.
 
-The intimate field where body application, touch, sexuality, mucosal pathways, partnered practice, and relational response become part of the data is protected in The Vessel.
+The intimate field where body application, touch, sexuality, mucosal pathways, partnered practice, and relational response become part of the data is protected in the private Vessel.
 
 That protected layer is part of the work. It is not public operational content.
 

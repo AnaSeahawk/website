@@ -114,9 +114,9 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 ### The Living Record
 
-The practitioner's account — the life behind the archive — lives in [The Vessel →](../The-Vessel/README.md): backstory documents, the living journal, and the temporal framework.
+The practitioner's account — the life behind the archive — lives in [The Living Record →](../The-Vessel/README.md): backstory documents, the living journal, dreams, and the temporal framework.
 
-More sensitive operational and intimate field records are held outside this public archive. They remain part of the research, but they are not public reading-path material.
+More sensitive operational and intimate field records are held in the private Vessel. They remain part of the research, but they are not public reading-path material.
 
 - [The Record](../The-Vessel/backstory/the-record.md) — the practitioner's full arc: HPG suppression, amaroli, the February 2026 breakthrough
 - [Living Journal 2026](../The-Vessel/journal/living-journal-2026.md) — daily field notes, harvested each lunation

@@ -125,7 +125,7 @@ Jing — the constitutional essence that sits at the base of the Three Treasures
 
 The ouroboros. The serpent eating its own tail. In the erotic body, this is not a symbol. It is the operational description of what happens when the practice is understood at its root.
 
-*The archive on where this connects to the yoni work is in the private repository. What is documented here is the theoretical ground that both bodies of work share.*
+*The archive on where this connects to the yoni work is in the private Vessel. What is documented here is the theoretical ground that both bodies of work share.*
 
 ---
 

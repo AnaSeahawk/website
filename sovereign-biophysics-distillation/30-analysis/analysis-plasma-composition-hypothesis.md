@@ -52,7 +52,7 @@ The amaroli practice is four years old as of April 3, 2026. The dietary baseline
 **Transition state (active at time of writing, April 2026):**
 The body is mid-transition through the removal of coffee, CBD, and refined sugar. This is not a stable equilibrium baseline — the plasma is being produced by a body actively clearing these substances, and the compounds being mobilised during that clearing will be present in the raw material. What the plasma carries during a clearing phase differs from what it carries at long-term stable baseline. Both are worth documenting; they should not be conflated.
 
-*Practitioner observations during this transition are recorded separately in `The-Living-Year/journal/2026-04-23-the-deepest-layer.md`.*
+*Practitioner observations during this transition are recorded separately in [The Living Record — The Deepest Layer](../../The-Vessel/journal/the-deepest-layer.md).*
 
 This baseline shifts the plasma profile predictably in the following directions:
 

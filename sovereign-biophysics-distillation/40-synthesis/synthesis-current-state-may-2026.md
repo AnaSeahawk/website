@@ -117,7 +117,7 @@ The agni document names medhagni — the flame of intelligence and perception �
 
 There is a call to fast on the Lunar essence — to move into an essence-only period and observe what it does to the dreaming. The body is not offering the right conditions for that yet. The living environment is still in transition. The correct container for that experiment has not been found. This is being listened to carefully. The call is held, not dismissed.
 
-Dream records, where they are kept, belong in [The Living Year — Journal →](../../The-Living-Year/journal/README.md).
+Dream records, where they are kept publicly, belong in [The Living Record — Journal →](../../The-Vessel/journal/README.md).
 
 ---
 
@@ -170,6 +170,6 @@ What feels most alive is the embodied practice rather than the laboratory work �
 
 ---
 
-*Continue reading: [The Dream Body →](../the-dream-body.md)*
+*Continue reading: [The Living Record — Journal →](../../The-Vessel/journal/README.md)*
 
 *[← Back to Index](../README.md)*

@@ -49,7 +49,7 @@ The parallel is not coincidence. Both traditions arrived at ginger's central rol
 
 #### The practice connection
 
-The [Ambrosia Diet](../10-method/ambrosia-diet.md) in the Sovereign Biophysics archive centers on grain, ghee, and the Lunar essence. A grain-forward diet served cold or room-temperature, without digestive preparation, can dampen agni over time — particularly for vāta and kapha constitutions. Dry ginger in warm water before or during meals is the simplest, most Āyurvedically precise response: the fire that processes the grain, kept steady by the one herb the tradition calls universal.
+The [Ambrosia Diet](../sovereign-biophysics-distillation/10-method/ambrosia-diet.md) in the Sovereign Biophysics archive centers on grain, ghee, and the Lunar essence. A grain-forward diet served cold or room-temperature, without digestive preparation, can dampen agni over time — particularly for vāta and kapha constitutions. Dry ginger in warm water before or during meals is the simplest, most Āyurvedically precise response: the fire that processes the grain, kept steady by the one herb the tradition calls universal.
 
 For the body that is simplifying its diet and building the distillation practice, ginger is the companion that keeps the furnace lit. Not a correction. A constant.
 

@@ -104,6 +104,6 @@ Dream intensity has become the new normal — not dramatic, just baseline. Going
 
 *[← Journal Index](README.md)*
 
-*[← The Vessel](../README.md)*
+*[← The Living Record](../README.md)*
 
 *When you are ready to move from the record into time itself — [A Living Map of Time →](../living-year.md)*

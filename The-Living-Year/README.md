@@ -7,4 +7,4 @@ visibility: public
 
 This content has moved.
 
-The temporal framework, journal, and practitioner's record now live in [The Vessel →](../The-Vessel/README.md).
+The temporal framework, journal, and practitioner's record now live in [The Living Record →](../The-Vessel/README.md).

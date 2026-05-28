@@ -5,15 +5,23 @@ moon:
 moon-phase:
 type: portal
 visibility: public
+status: draft
+claim_tier: orientation
 ---
 
-# The Vessel — Portal
+# Private Vessel Access
 
 This is the threshold.
 
-The archive is open. The record is public.
-What lives beyond the writing is contact —
-with the work, with the practice, with the person behind it.
+The public archive is open.
+
+[Sovereign Biophysics](../sovereign-biophysics-distillation/README.md) holds the research body.
+
+[The Living Record](README.md) holds the public companion: dreams, backstory, journal, and time.
+
+The private Vessel holds protected source records, operational detail, intimate field records, and drafts that need context before they can be read.
+
+Entry is by relationship.
 
 ---
 

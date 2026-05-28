@@ -58,6 +58,6 @@ The fresh living fluid and the distilled fractions are not competing versions of
 
 *See also: [Capacity Not Substance →](capacity-not-substance.md) — [Thesis: Endogenous Alchemy →](thesis-endogenous-alchemy.md) — [Two Distillates →](two-distillates.md)*
 
-*Research detail: [USC Artifact Map →](../../reports/researcher/002_urine-derived-stem-cells-artifact-map.md)*
+*Research detail is held in the internal researcher report `reports/researcher/002_urine-derived-stem-cells-artifact-map.md`.*
 
 *[← Back to Index](../README.md)*

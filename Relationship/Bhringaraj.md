@@ -49,7 +49,7 @@ Bhṛṅgarāja is used in two distinct ways in the tradition:
 
 The Damar Tantra's emphasis on eyesight — and the Āyurvedic classification of bhṛṅgarāja as *cakṣuṣya* (eye-benefiting) — reflects a traditional understanding that the eyes are the most sensitive indicator of liver health and blood quality. When the blood is clean and the liver is not overworked, the eyes are clear. When they are burdened, the eyes show it first: heat, dryness, sensitivity to light, difficulty seeing clearly in low light. Bhṛṅgarāja restores liver function and the eyes respond.
 
-In the context of this archive — where the return of lucid dreaming is documented as one of the most striking effects of the practice (see [The Dream Body →](../sovereign-biophysics-distillation/the-dream-body.md)) — the connection between this herb and the clarity and depth of visual experience, both waking and sleeping, is worth noting.
+In the context of this archive — where the return of lucid dreaming is documented as one of the most striking effects of the practice (see [The Living Record — Journal →](../The-Vessel/journal/README.md)) — the connection between this herb and the clarity and depth of visual experience, both waking and sleeping, is worth noting.
 
 ---
 

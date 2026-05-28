@@ -12,7 +12,7 @@ note: Observed outcomes are personal-account tier — single-subject, non-clinic
 
 # Three Years of Topical Practice — Observed Outcomes
 
-*This document holds the observed outcomes from three years of daily topical application of concentrated endogenous material — open evaporation concentrate from April 2023, distillation fractions from February 2026. It is a companion to the personal account [What the Body Already Knew →](../what-the-body-already-knew.md) and draws on the biochemical framework in [The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md).*
+*This document holds the observed outcomes from three years of daily topical application of concentrated endogenous material — open evaporation concentrate from April 2023, distillation fractions from February 2026. It is a companion to [The Living Record →](../../The-Vessel/README.md) and draws on the biochemical framework in [The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md).*
 
 *Single-subject observational record. Non-clinical. Not generalisable without further comparison.*
 
@@ -58,7 +58,7 @@ The HPG axis dimension is discussed further in [The Biochemistry of the Distilla
 
 ---
 
-*See also: [What the Body Already Knew →](../what-the-body-already-knew.md) — the personal account*
+*See also: [The Living Record →](../../The-Vessel/README.md) — the personal account*
 
 *[The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md) — constituent profile and mechanism documentation*
 

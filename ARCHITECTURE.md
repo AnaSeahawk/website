@@ -6,13 +6,15 @@ Public-facing archive for Ana Seahawk.
 ## Lanes
 - `README.md`: front door and navigation.
 - `Foundations/`: worldview, lineage, orientation texts.
-- `The-Living-Year/`: public context + portal threshold; journal includes dream records in chronological order.
+- `The-Living-Year/`: redirect surface for the temporal framework.
+- `The-Vessel/`: displayed publicly as **The Living Record**; public companion archive for backstory, dreams, journal, and temporal framework.
 - `Relationship/`: plant relationship notes.
 - `sovereign-biophysics-distillation/`: bounded research layer.
 
 ## Public/Private Split
 - Public repo keeps bounded summaries and orientation.
 - Sensitive operational detail is migrated to private repo: `the-vessel`.
+- Public-facing language uses **The Living Record** for the companion archive and **The Vessel** for the private source/access container.
 
 ## Workflow
 1. Draft and clean.

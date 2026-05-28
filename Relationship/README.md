@@ -74,4 +74,4 @@ Herbs met through practice, place, and the living body — approached Āyurvedic
 
 ---
 
-*The Damar Tantra text is in the archive bibliography: [Components/bibliography/urine-therapy/Damar-Tantra.epub](../../Components/bibliography/urine-therapy/Damar-Tantra.epub)*
+*The Damar Tantra text is in the archive bibliography: [Components/bibliography/urine-therapy/Damar-Tantra.epub](../../bibliography/urine-therapy/Damar-Tantra.epub)*

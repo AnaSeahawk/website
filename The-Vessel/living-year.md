@@ -6,7 +6,7 @@ claim_tier: interpretation
 ---
 
 # *A Living Map of Time*
-(as held in the field of Ana Seahawk)
+## The Living Record
 
 ## Layer 1 — The Background Field (Always On)
 ### Lunar Rhythm
@@ -131,4 +131,4 @@ Time continues either way.
 
 *Continue reading: [Journal →](journal/README.md)*
 
-*[← The Vessel](README.md)*
+*[← The Living Record](README.md)*

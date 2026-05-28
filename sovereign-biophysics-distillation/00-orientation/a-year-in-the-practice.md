@@ -81,7 +81,7 @@ The practice and the year are not separate systems. The practice is the most int
 
 The Living Year is the map. The practice is the territory.
 
-[Explore the Living Year →](../../The-Living-Year/portal.md)
+[Explore the Living Year →](../../The-Vessel/living-year.md)
 
 ---
 
@@ -91,7 +91,7 @@ The Living Year is the map. The practice is the territory.
 
 ---
 
-*The practitioner's own account — fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos in February 2026: [The Vessel →](../the-vessel.md)*
+*The practitioner's own account — fourteen years of nomadic life, four years of amaroli, and what happened in Torremolinos in February 2026: [The Living Record →](../../The-Vessel/README.md)*
 
 *Continue to method: [Shivambu: Beginning the Relationship →](../10-method/shivambu.md)*
 

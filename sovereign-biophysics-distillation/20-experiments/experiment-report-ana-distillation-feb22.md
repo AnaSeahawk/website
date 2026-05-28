@@ -19,7 +19,7 @@ claim_tier: observed
 
 ## Preparation
 
-The batch was prepared using the Golden Syphon ritual documented in [The Vessel](../the-vessel.md) — internal alignment, 48-hour solar activation, gravity syphon, ancestral altar. The full ritual context is there.
+The batch was prepared using the Golden Syphon ritual. The full ritual context is held in the private Vessel as a protected source record.
 
 ---
 
@@ -70,7 +70,7 @@ The batch was prepared using the Golden Syphon ritual documented in [The Vessel]
 
 ## Context
 
-This was the first formal distillation of Ana's own plasma — four days after Olivier's first run (February 18–19, documented in [the preceding experiment record](experiment-report-aged-plasma-distillation.md)). The recognition that came with Olivier's run — the clear water, the realisation of what the apparatus was actually doing — is documented in [The Vessel](../the-vessel.md).
+This was the first formal distillation of Ana's own plasma — four days after Olivier's first run (February 18–19, documented in [the preceding experiment record](experiment-report-aged-plasma-distillation.md)). The recognition that came with Olivier's run — the clear water, the realisation of what the apparatus was actually doing — belongs to the practitioner's account in [The Living Record](../../The-Vessel/README.md).
 
 ---
 

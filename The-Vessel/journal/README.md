@@ -1,8 +1,11 @@
 ---
 visibility: public
+status: draft
+claim_tier: personal-account
 ---
 
 # Journal
+## The Living Record
 
 Daily field notes and seasonal entries from the practice.
 Short by design. Notable entries link out to longer pieces.
@@ -37,4 +40,4 @@ The dream does not bring problems to solve. What has been observed in this pract
 
 *Daily field notes: [Living Journal 2026 →](living-journal-2026.md)*
 
-*[← The Vessel](../README.md)*
+*[← The Living Record](../README.md)*

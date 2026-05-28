@@ -16,12 +16,14 @@ There is no curriculum or workshop. It is a living field, kept with precision an
 
 ---
 
-Deeper in, there is a vessel.
-The practitioner's account — the life behind the archive, the living journal, the temporal framework.
-Entry is by relationship.
+The Living Record holds the practitioner's account: the life behind the archive, the living journal, the dreams, and the temporal framework.
 
-[The Vessel →](The-Vessel/portal.md)
+[The Living Record →](The-Vessel/README.md)
+
+The private Vessel is the protected source container for material that needs context, consent, or relationship before it can be read.
+
+[Private Vessel Access →](The-Vessel/portal.md)
 
 ---
 
-[Foundations](Foundations/) · [Relationship](Relationship/) · [Sovereign Biophysics](sovereign-biophysics-distillation/) · [The Vessel](The-Vessel/)
+[Foundations](Foundations/) · [Relationship](Relationship/) · [Sovereign Biophysics](sovereign-biophysics-distillation/) · [The Living Record](The-Vessel/)

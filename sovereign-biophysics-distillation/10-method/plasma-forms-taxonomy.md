@@ -166,9 +166,7 @@ In the alchemical register this is the movement toward *Sal Salis*, the Salt of 
 
 Body preparations are forms made for contact with the body, such as a serum reduction, balm, diluted wash, or carrier blend.
 
-Public-facing descriptions remain bounded. Records involving mucosal pathways, touch, sexuality, arousal, partnered practice, or intimate relational field data belong in:
-
-`Components/the-vessel/25-intimate-field-private/`
+Public-facing descriptions remain bounded. Records involving mucosal pathways, touch, sexuality, arousal, partnered practice, or intimate relational field data belong in the private Vessel layer.
 
 **Claim environment:** Field, Practice Ethic.
 
