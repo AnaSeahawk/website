@@ -12,20 +12,51 @@ This public archive holds orientation, bounded method notes, measurements, analy
 
 ---
 
-## Reading Path
+## How to Enter
 
-The archive is organised to be read in sequence.
+There is more than one honest way into this archive.
 
-**Orientation** begins with the lineage and the suppression — who carried this knowledge and what was done to it — before moving into the myth as science, the biological prerequisites, and finally the empirical record. A new reader who begins with the thesis (the technical document) will not have the context to receive it. The data lands differently once the lineage is understood.
+Some readers need the full ground: history, suppression, mythic language, practice, measurement, analysis, and synthesis in sequence.
 
-**Method** — the practice itself: what is done and how it is approached
-**Experiments** — run records, measurements, outcomes
-**Analysis** — interpretive bridge between data and theory
-**Synthesis** — integrated understanding across multiple runs
+Other readers need to see the working material first: the forms, the apparatus, the distillation records, the fractions, the alchemical translation, and the claim boundaries. They can enter through the method and return to the historical ground when they are ready.
+
+The history has not been demoted. It is simply no longer the only door.
+
+### Reader Routes
+
+**Read the whole archive**
+
+Begin with [Where to Begin](00-orientation/where-to-begin.md), then follow the continue-reading links through the Orientation sequence. This route gives the lineage, the language of erasure, the mythic ground, the biological frame, and then the empirical record.
+
+**Go straight to the working material**
+
+Begin with the [Dictionary](Dictionary/README.md), then [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md), [Before You Begin](10-method/before-you-begin.md), [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md), and the [first experiment report](20-experiments/experiment-report-aged-plasma-distillation.md). This route is for readers who want the material map before the long historical arc.
+
+**Enter through alchemy and symbolic language**
+
+Begin with [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md), then [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md), [The Medicine: Cross-Traditional Analysis](30-analysis/analysis-the-medicine-cross-traditional.md), and [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md).
+
+**See the current state**
+
+Begin with [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md), then return to the [Dictionary](Dictionary/README.md) and [Where to Begin](00-orientation/where-to-begin.md) for orientation.
+
+### Archive Layers
+
+**Orientation** — reading ethic, history, mythology, biological ground, and the thesis
+
+**Method** — practice structure, material forms, protocols, and observation tools
+
+**Experiments** — run records, measurements, conditions, and outcomes
+
+**Analysis** — interpretive bridge between data, tradition, and theory
+
+**Synthesis** — integrated understanding across multiple runs and lived observation
+
 **Dictionary** — claim environments, claim tiers, language guardrails, and working terms
-**The Living Record** — the practitioner's account: the life behind the archive
 
-Most sequence documents link to the next at the bottom. Reference layers such as the Dictionary can be entered when a term or claim environment needs orientation.
+**The Living Record** — the practitioner's account: dream, body, time, and the life behind the archive
+
+Most sequence documents link to the next at the bottom. Reference layers such as the Dictionary can be entered whenever a term or claim environment needs orientation.
 
 ---
 
@@ -33,7 +64,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 ### Orientation
 
-*Read in sequence. Each piece prepares the ground for the next.*
+*The complete ground. Read in sequence for the full archive path, or enter specific pieces from the reader routes above.*
 
 - [Where to Begin](00-orientation/where-to-begin.md) — an entry point for new readers: what this archive is, how to read it, where to start
 - [The Archive Learns to Read Itself](00-orientation/the-archive-learns-to-read-itself.md) — a claim-architecture orientation for distinguishing measurement, observation, interpretation, hypothesis, myth, philosophy, and practice ethic
