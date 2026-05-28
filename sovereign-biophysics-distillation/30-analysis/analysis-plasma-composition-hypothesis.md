@@ -13,6 +13,24 @@ claim_tier: hypothesis
 
 ---
 
+## Claim Posture
+
+**Primary environments:** Instrument Table, Hypothesis Forge, Pattern Room, Comparative Archive, Practice Ethic.
+
+**Externally documented:** general urine composition, dietary influence on urinary solutes, urea hydrolysis, distillation behaviour of volatile compounds and fixed salts, and the natural moisturising factor literature.
+
+**Measured in this archive:** pH, ORP, conductivity, fraction behaviour, and sample state from the recorded distillation runs. These readings characterize the fractions; they do not identify exact compounds.
+
+**Inferred here:** the likely composition of raw plasma, aged plasma, Solar spirit, Lunar essence, and Saturn retentate based on diet, fermentation, and distillation chemistry.
+
+**Observed personally:** grain-softening behaviour, topical and sensory qualities, and transition-state observations from one practitioner context.
+
+**Boundary:** no 24-hour urinalysis, GC/MS, microbial characterization, or controlled comparison is available in this document. This page proposes a biochemical map for future testing. It is not a universal composition claim, medical instruction, or proof of the alchemical interpretation.
+
+For the archive's claim environments, see the [Dictionary](../Dictionary/README.md).
+
+---
+
 ## What We Can Say With Confidence
 
 The core composition of urine is extensively documented. The classical reference is Putnam (1971), *Composition and Concentrative Properties of Human Urine* (NASA CR-1802), which tables exact solute concentrations across large populations. Roughly 95% is water. The remaining 5% is dissolved solids: urea (the largest fraction by mass), followed by electrolytes — potassium, sodium, chloride, phosphate, sulfate — then organic acids, creatinine, uric acid, and trace minerals including calcium and magnesium.

@@ -18,6 +18,26 @@ note: Biochemistry sections (steroid conjugation, distillation behaviour, EGF, t
 
 ---
 
+## Claim Posture
+
+**Primary environments:** Instrument Table, Hypothesis Forge, Pattern Room, Comparative Archive, Practice Ethic.
+
+**Externally documented:** urinary steroid conjugation, hormone volatility and retention behaviour, heat-mediated deconjugation, transdermal steroid delivery, urinary EGF, and general urinary constituent profiles.
+
+**Measured in this archive:** pH, ORP, conductivity, fraction behaviour, and observed material qualities from the recorded distillation runs. These measurements do not provide constituent assays.
+
+**Inferred here:** the likely distribution of steroid hormones, growth factors, peptides, minerals, and volatile compounds across the Solar, Lunar, and Saturn fractions.
+
+**Observed personally:** longitudinal skin changes, cycling changes, topical qualities, and shared-practice observations recorded elsewhere in the archive.
+
+**Hypothesis:** the HPG-axis signalling section proposes a possible mechanism. It is held as a question, not as an established outcome.
+
+**Boundary:** this document does not contain GC/MS testing, hormone assays of the fractions, dose measurements, controlled topical trials, or clinical claims. Pharmaceutical transdermal delivery establishes route plausibility; it does not establish dose or effect for the retentate.
+
+For the archive's claim environments, see the [Dictionary](../Dictionary/README.md).
+
+---
+
 ## Abstract
 
 This research note documents the biochemical constituents present across the three distillation fractions of human urine, within the Sovereign Biophysics framework. Fractions are identified using established alchemical language — Spirit (solar distillate), Essence (lunar middle fraction), and Serum (Saturn retentate) — with bridging reference to Ayurvedic qualitative categories. The note focuses specifically on steroid hormones (testosterone, estrogens, DHEA, cortisol metabolites, and progesterone derivatives), their conjugated forms in urine, their behaviour under distillation heat, and the evidence for transdermal bioavailability. Additional biological constituents present across all fractions are catalogued. This note is intended as a working scientific foundation for ongoing Sovereign Biophysics research and practice documentation.
