@@ -38,6 +38,18 @@ When a word carries more than one register, this dictionary asks three questions
 
 The dictionary protects relationship by making the layer visible.
 
+## Archive Movement
+
+New records do not need to become public argument all at once.
+
+The living movement of the archive is:
+
+> source field record -> bounded public summary -> claim posture -> synthesis harvest -> dictionary refinement
+
+Some records remain private source. Some become public summaries. Some return later as patterns, terms, or open questions.
+
+The work strengthens when each movement keeps its boundary.
+
 ---
 
 *[Back to Sovereign Biophysics](../README.md)*
