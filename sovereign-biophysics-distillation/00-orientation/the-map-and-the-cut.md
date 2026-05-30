@@ -68,7 +68,7 @@ Helen O'Connell rediscovered the full internal anatomy in 1998. In 2009 the firs
 
 What is actually there: the visible glans is approximately one-tenth of the total structure. The internal body extends several centimetres. The crura — bilateral legs of erectile tissue — run along the inferior pubic rami toward the sit bones. The vestibular bulbs — bilateral masses of erectile tissue — lie alongside the vaginal walls. The full structure is bilaterally symmetrical, embedded in the pelvic floor, intimately connected to the vaginal canal, the urethra, and the perineum.
 
-This is Muladhara's anatomical territory. The root chakra maps to exactly the structures that were removed from the official record: the full pelvic floor, the deep erectile tissue, the bilateral anchor points at the sit bones. Working with the root center using the reduced map is working with a partial circuit. The parts the map omits are still there. The practitioner cannot find them because they have not been shown.
+This is Muladhara's anatomical territory. The root chakra maps to exactly the structures that were removed from the official record: the full pelvic floor, the deep erectile tissue, the bilateral anchor points at the sit bones. Working with the root center using the reduced map is working with a partial circuit. The parts the map omits are still there — and the body has not forgotten them. The map back is the body itself. We all begin there, in feeling, before any external diagram arrives.
 
 ---
 
