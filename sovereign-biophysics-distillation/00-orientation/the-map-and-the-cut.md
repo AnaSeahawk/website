@@ -98,6 +98,8 @@ This is the territory that was cut, closed, sutured. The most extreme forms of f
 
 There is no male equivalent to infibulation. The most extreme male cutting removes surface tissue. The most extreme female cutting attempts to close the passage itself. The asymmetry in the cutting reflects the asymmetry in what was being controlled: not primarily sexual experience, but generation. The body that receives, carries, and releases life — this is the body that received the most extreme intervention.
 
+She is also the one who stays. The mother who births the child then holds it, reads it, feeds it, and transmits the culture she herself was given. Her patterns become the child's first environment — not metaphorically but neurologically, through the cardiac field the infant's nervous system learns inside, through the attunement that writes the first template for what safety and connection feel like. The wound does not end at birth. It is carried forward through the care. And this is why the mother is a starting point for healing — not only her own, but the healing that reaches into every life she shaped.
+
 ---
 
 ## The Calendar That Replaced the Sky
