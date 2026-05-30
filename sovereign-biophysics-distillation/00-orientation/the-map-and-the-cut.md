@@ -158,6 +158,12 @@ Agricultural civilisations — and every traditional medicine system without exc
 
 The body this archive is working with is the body these traditions preserved: unmechanised, fully mapped, working with the full pelvic territory, the full cardiac field, and the actual sky. The practice is in part a return to that body — not as a concept, but as a living reality the official record chose not to show.
 
+The traditions' language was made from inside the experience it describes. This is why a practitioner reading the QiGong or Ayurvedic texts feels the body recognise what is being named — before the mind has finished processing the words. That resonance is not mysticism. It is the difference between a map drawn by someone who walked the land and one drawn from outside it. The body confirms the map. The recognition is itself information.
+
+This is also why the suppression had to work at the level of language. The practices could be discouraged, but as long as the words carried the living experience, the territory remained accessible. The words had to be reclassified — as metaphor, as superstition, as pre-scientific — so that the resonance would not land. Clinical language is not wrong. It is deliberately non-experiential: it names functions without accessing feeling. A body trying to navigate by it is navigating by a map that was designed not to resonate.
+
+When the resonance does land — when the body recognises itself in the ancient language — something more than information is restored. We remember to trust ourselves again.
+
 ---
 
 ## The Limit of the Map — and Where the Power Lies
