@@ -26,9 +26,9 @@ That is why the image holds.
 
 Crystal language already has a body path. Bone is mineral. The inner ear holds small crystals for orientation. Connective tissue, cell membranes, proteins, enzymes, and structured water all participate in ordered, responsive forms. The body is water-bearing, mineral-bearing, electrically responsive, and shaped by repeating patterns at many scales.
 
-This is the part of *The Crystal Blueprint* that matters here. It gives a name to something the archive has been building from another direction: coherence as a living body condition, not an abstract ideal.
+The crystal blueprint image gives a name to something the archive has been building from another direction: coherence as a living body condition, not an abstract ideal.
 
-The book becomes useful when it opens this path:
+The useful path is clean:
 
 - crystalline body;
 - structured water;
@@ -39,6 +39,8 @@ The book becomes useful when it opens this path:
 - return.
 
 The archive uses the crystal image to recognise the body's own practice.
+
+Before the path goes further, the naming rule stays simple: material names first, energetic descriptors second. Pure Plasma, Spirit, Essence, Essence Tails, and Serum are practical names. Solar, Lunar, and Saturn belong to the astrological, alchemical, and esoteric layer.
 
 ## Water That Carries Form
 
@@ -54,19 +56,17 @@ This is where the crystal path becomes intimate. The archive's question begins h
 
 ## The Heart Vortex Through The Organs
 
-Tom Cowan's heart work belongs here because it gives the archive a way to feel circulation as more than mechanical force.
+Tom Cowan's heart work belongs here because it gives the archive a way to feel circulation as a living movement.
 
-The useful image is not the heart as an isolated pump standing over a passive fluid. The useful image is the heart inside a whole-body river: blood already moving through branching vessels, breath changing pressure, muscles and tissues participating, organs receiving and returning, the whole field shaped by rhythm.
+The useful image is the heart inside a whole-body river: blood already moving through branching vessels, breath changing pressure, muscles and tissues participating, organs receiving and returning, the whole field shaped by rhythm.
 
-In that image, the heart gives coherence to movement. The blood does not travel as blank liquid. It moves through spiral, branching, elastic, living channels. It passes through lungs, liver, spleen, gut, kidneys, skin, fascia, and glandular tissue. Each organ receives the river and changes it. Each organ gives something back.
+In that image, the heart gives coherence to movement. Blood moves through spiral, branching, elastic, living channels. It passes through lungs, liver, spleen, gut, kidneys, skin, fascia, and glandular tissue. Each organ receives the river and changes it. Each organ gives something back.
 
-That is where Cowan's heart-vortex language touches the living waters archive. The kidneys do not filter an abstract fluid. They receive blood that has already moved through the body's rhythmic field. The filtrate then passes through nephrons, tubules, collecting ducts, renal pelvis, bladder, and urethra before it leaves the body.
+That is where Cowan's heart-vortex language touches the living waters archive. The kidneys receive blood that has already moved through the body's rhythmic field. The filtrate then passes through nephrons, tubules, collecting ducts, renal pelvis, bladder, and urethra before it leaves the body.
 
-The living waters are downstream of the heart, but not only the heart. They are downstream of the whole organ river.
+The living waters are downstream of the heart and the whole organ river.
 
-This is the similarity and the difference.
-
-Structured-water work shows that water can carry form through geometry, surface, motion, and charge. Cowan's heart reading brings the vortex into the center of circulation. The archive follows that movement inward and downward through the organs, then asks what happens when the body's own processed water is collected, aged, distilled, and returned.
+Structured-water work shows how water can carry form through geometry, surface, motion, and charge. Cowan's heart reading brings the vortex into the center of circulation. The archive follows that movement inward and downward through the organs, then asks what happens when the body's own processed water is collected, aged, distilled, and returned.
 
 ## The Heart As Seed
 
@@ -77,10 +77,6 @@ That sentence is the center of the piece.
 The heart is where rhythm, blood, warmth, coherence, and ojas converge. Whatever language is used for circulation, the heart remains the place where movement becomes organized. It gives the body a pulse. It gives the blood a timing. It gives the field a center.
 
 In the archive's language, the heart is the seed because it holds the body's most refined coherence. It is the organizing image. Rhythm begins there and moves outward through blood, breath, vessels, tissues, kidneys, fluids, and return.
-
-The kidneys receive blood from that field. They concentrate what the body has processed. The filtrate that leaves the body belongs to the same circuit: heart, blood, kidney, tubule, pelvis, urethra, air, vessel, time, heat, and separation.
-
-The living waters are personal because they come from that circuit. They are the body's own processed field in fluid form.
 
 ## Built In The First Waters
 
@@ -102,19 +98,23 @@ The archive has called this the vortex inheritance. The phrase works when it sta
 
 The grounded claim is smaller and more useful than perfection. The living waters emerge from a moving body. They carry the body's own geometry as trace, tendency, and record.
 
-When that material is collected, aged, and distilled, the still makes the return visible by separating it into fractions.
+When that material is collected, aged, and distilled, the still makes the return visible by separating it into named forms.
 
-Solar rises first: volatile, sharp, bright, alkaline, quick.
+Pure Plasma names the whole clear distillate when the output is collected continuously.
 
-Lunar follows: softer, cleaner, more receptive.
+Spirit names the early volatile fraction: sharp, active, expressive.
 
-Saturn remains: dense, fixed, mineral, slow, carrying what did not rise.
+Essence names the middle clear fraction: quieter, stable, receptive.
 
-Those names are handling names. They let the archive hold difference without flattening everything into one substance.
+Essence Tails name the late clear crossing, where the distillate begins to carry more of the mineral edge of the chamber.
+
+Serum names the dense retentate that remains behind.
+
+These names let the archive hold difference without flattening everything into one substance. The esoteric descriptors still matter, but they belong as a second layer: Spirit may carry a solar quality, Essence a lunar quality, Serum a saturnine quality. The practical names keep the material clear.
 
 ## Fermentation And Fire
 
-Aged material is no longer the same as fresh material.
+Aged material is chemically and sensorially different from fresh material.
 
 The archive has measured this repeatedly. Fresh baseline and aged baseline behave differently. With fermentation, pH rises, ORP changes, ammonia becomes more present, and the material enters another state. Time has worked on it. Microbes have worked on it. The sealed vessel has worked on it.
 
@@ -124,17 +124,17 @@ What can rise?
 
 What stays?
 
-Distillation gives the archive a visible language for separation. The Solar fraction rises fast. The Lunar fraction follows with a different quality. The Saturn fraction remains dense, fixed, mineral, slow. The run becomes a map of volatility and remainder.
+Distillation gives the archive a visible language for separation. Spirit rises early. Essence follows with a different quality. Essence Tails mark the border. Serum remains dense, fixed, mineral, slow. The run becomes a map of volatility and remainder.
 
-The Saturn serum matters because the archive is learning to respect what remains.
+Serum matters because the archive is learning to respect what remains.
 
-The volatile fractions are easy to romanticize. They rise. They clarify. They smell and behave differently. They feel like spirit and essence because separation makes them visible.
+Spirit and Essence draw attention because they rise. They clarify. They smell and behave differently. Separation makes them visible.
 
 The fixed fraction teaches another kind of attention. It holds the dense minerals, residues, peptides, pigments, salts, and unrisen matter of the run. In the archive's language, it remains part of the record: the body after heat has asked what can leave and what must stay.
 
 This is where the Inanna material belongs most cleanly. Her descent gives the archive a mythic grammar for depletion, stripping, suspension, and return. The seven gates give language to the felt sequence: something descends, something is reduced, something waits, something returns with water and food enough to rise again.
 
-The full work is the reunion of what separated. Solar, Lunar, and Saturn belong to one run seen in three states: rising, receiving, remaining.
+The full work is the reunion of what separated. Spirit, Essence, and Serum belong to one run seen in three states: rising, receiving, remaining. The esoteric layer can illuminate that movement. The material names stay primary.
 
 *[The astronomical and alchemical foundations of the Inanna reading are in [Inanna: She Who Contains All ->](../00-orientation/inanna-she-who-contains-all.md) and [Inanna, Venus and the Seven Gates ->](../00-orientation/inanna-venus-and-the-seven-gates.md).]*
 
@@ -168,7 +168,7 @@ The distillate is the return. It is the body's processed water brought back afte
 
 This is where the phrase *crystal blueprint* becomes useful inside the work itself. It names the pattern the body is cultivating: an internal coherence that can be tended.
 
-The seed does not need to be conquered into growth. It needs the right field.
+A seed asks for the right field.
 
 The living waters return as part of that field.
 
@@ -176,17 +176,9 @@ The living waters return as part of that field.
 
 This is a synthesis for this archive.
 
-The crystal path gives the work a coherent image:
+Singer gives language for the crystalline body. Cowan gives language for the heart as vortex and whole-body circulation. Vogel, Schauberger, and Pollack keep water from being treated as blank.
 
-- the body holds ordered mineral and liquid-crystal structures;
-- water carries form through living surfaces;
-- the heart serves as the seed-image of rhythm and coherence;
-- Cowan's heart-vortex image lets circulation be felt as a whole-body river;
-- structured-water references show how motion, surface, geometry, and charge can matter;
-- the living waters carry a personal record of the body;
-- fermentation changes that record through time;
-- distillation separates the record into distinct fractions;
-- reunion lets the separated parts return as one field.
+The archive brings those references back to its own material record: Pure Plasma when the clear distillate is whole; Spirit, Essence, Essence Tails, and Serum when the run separates; reunion when the separated parts return as one field.
 
 That is what we are building toward: a living archive of the body's own return.
 
