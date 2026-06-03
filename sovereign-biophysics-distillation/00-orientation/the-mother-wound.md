@@ -116,6 +116,10 @@ The map and the cut, applied to sexuality, produce a species that does not recog
 
 The results we are living now — the hypersexualisation, the epidemic of sexual dissatisfaction alongside sexual saturation, the loss of the erotic as something sacred — are not moral failures. They are systemic outcomes of a systemic falsification.
 
+The bureaucracy does not conceal through conspiracy. It conceals through structure. The consent form covers the procedure. The additional stitch is inside the procedure. The harm — dyspareunia, chronic pelvic pain, sexual dysfunction — surfaces in the record as a complication, never traceable to its origin, which is now invisible inside a legitimate clinical act. The system has become a habitat for what it cannot see — and invisibility, once structural, is its own form of protection.
+
+When the institutional framework fails to name the harm, the testimony goes where it can be heard. Women are naming doctors on social media — sharing what was done to their bodies, comparing experiences, identifying specific practitioners. This is not outside the record. It is the living record, running alongside the clinical one, consistently more accurate about specific harms than the framework that produced them. The body always finds a way to speak what the chart will not carry.
+
 ---
 
 ## The Mother Wound
