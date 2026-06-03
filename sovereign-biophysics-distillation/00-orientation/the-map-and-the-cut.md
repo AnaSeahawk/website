@@ -32,7 +32,7 @@ medical_status: not_medical_advice
 
 ## The Map Is Not the Body
 
-The body a tradition works with is the body its map describes.
+The body a tradition works with is The Body its map describes.
 
 If the map is wrong — incomplete, mechanised, or deliberately falsified — the practitioners who inherit it cannot find what is actually there. They look for what the map shows. They do not look for what the map omits. The absence is invisible.
 
