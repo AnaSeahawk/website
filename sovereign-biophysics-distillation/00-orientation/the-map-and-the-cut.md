@@ -144,6 +144,14 @@ Pelvic floor disorders are among the most prevalent conditions in clinical medic
 
 When the map a body inherits does not correspond to the body that is actually there, what follows is distortion. Not malfunction in the clinical sense — a system navigating by a chart that no longer matches the terrain. The disrupted root is a body that cannot ground, cannot access the generative power of the full pelvic floor. The heart in a pump frame is a body in which the sovereign organ is running below its capacity with no clinical name for what is missing. The body running on a calendar rather than a sky is a body whose rhythmic intelligence has no official framework to read itself against.
 
+The traditions that predate the falsification have words for this pattern. In the Tantric body map, a *granthi* is a knot in the subtle channel — not a wall, a constriction. Three are named: Brahma granthi at the root, Vishnu granthi at the heart, Rudra granthi at the third eye. The knot does not remove the energy. It holds it in a different quality, a different register of flow. The Ayurvedic term is *avarana*: occlusion — one pathway covered by another, the current still running but unable to move with full clarity through the covered ground.
+
+What the three falsifications produced is structural: an inherited constriction between the practitioner and their own direct experience of what is actually there. Not the loss of the body's intelligence. A disconnection from it — from the felt sense of a reality the body has never stopped living.
+
+The body registers this. Not conceptually — as a felt sense of living at a slight angle to a reality it can almost but not quite reach. The intuition persists through the constriction. The inner knowing does not disappear with the falsification; it becomes a pressure — a sense of a capacity not fully available, a drive toward territory the official map does not show.
+
+Every bird knows the nest before it knows flight. The readiness comes from inside the capacity itself. When the constriction is structural from birth — inherited before any other knowing arrived — the first flight requires more. The recognition can come at any age. But the body was always carrying it.
+
 These signals get named as genetic predisposition, hormonal imbalance, trauma response. All of which they may be. But the upstream question — what map was this body given, and what was removed from it before it could know otherwise? — is not part of the diagnostic protocol.
 
 It is part of this archive's inquiry.
