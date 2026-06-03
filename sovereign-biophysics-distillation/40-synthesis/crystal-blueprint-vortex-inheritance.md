@@ -68,7 +68,7 @@ In Ayurveda, ojas — the final product of the seven-tissue dhatvagni chain, the
 
 ## Built Inside the Crystal Medium
 
-Singer's piezoelectricity catalogue — bones, inner ear, pineal, connective tissue, cell membranes — describes the adult body. There is an earlier stage.
+The piezoelectric body — bones, inner ear, pineal, connective tissue, cell membranes — describes the adult form. There is an earlier stage.
 
 From sixteen weeks of gestation onward, the fetal body is developing its crystalline structures inside a medium that is predominantly fetal urine. The fetus swallows up to a litre a day near term, processes it through its own developing kidneys, and excretes it back. The fetal heart is beating from approximately day twenty-two. From the earliest stage of circulation, the fetal heart is generating its electromagnetic field and maintaining vortical coherence in the blood — and the filtrate of that blood is cycling through the amniotic fluid and back.
 
