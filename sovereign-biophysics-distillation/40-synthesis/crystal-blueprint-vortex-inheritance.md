@@ -32,17 +32,19 @@ claim_tier: synthesis
 
 **Morphic resonance and information storage.** Following Sheldrake, Singer establishes that crystalline structures can acquire, hold, and transmit information through morphic resonance. Similar forms resonate across space and time, exchanging information through shared geometry. The body's crystalline matrix is a living information system continuously receiving, transforming, and broadcasting.
 
-These are not marginal claims. They are the direct implications of the physics of crystalline systems applied to biological tissue. Singer synthesises them into a coherent model. The model has a gap, and the gap is structural.
+Taken together, these claims give the archive a useful platform: the body is crystalline, electrically responsive, water-bearing, and capable of holding pattern. From here, Sovereign Biophysics turns toward the body's own medium.
 
 ---
 
-## The Gap
+## The Turn Inward
 
-Singer's framework rests on a single assumption she never examines: crystals are external tools the body requires for its healing. The body is crystalline; it has fallen out of coherence; external quartz crystals, with their stable geometry and piezoelectric resonance, restore the body's "crystal blueprint" — its original authentic electromagnetic pattern.
+Once the body is understood as crystalline and water-bearing, the next question belongs inside the body.
 
-This is the whole book. The crystal is always outside, applied to the body from without.
+If water can receive pattern from geometry, movement, and crystalline structure, then the body is also a maker of patterned water.
 
-She comes close to the boundary of the assumption several times. When she cites Vogel — "he could structure water by spinning it around a tuned crystal" — she is pointing at exactly the right process. She then reaches for the external tool: apply a quartz crystal to the body, because the body is mostly water. She does not ask the question that is one step further: does the body already produce its own structured crystal medium? Does the body spin its own water?
+Sovereign Biophysics follows that question through the living waters: heart to blood, blood to kidneys, kidneys through the tubular channels, and the body's own processed fluid into collection, aging, distillation, and return.
+
+External crystal language becomes a reference image. The body's own circulating, filtering, fermenting, distilling medium becomes the object of study.
 
 ---
 
