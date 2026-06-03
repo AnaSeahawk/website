@@ -80,6 +80,8 @@ The anatomical removal was followed — or preceded, depending on the tradition 
 
 **In females:** Genital cutting exists across a wide spectrum — from removal of the clitoral hood, to clitoridectomy (removal of the glans), to infibulation, in which the labia majora are sutured to narrow or close the vaginal opening. The most extreme forms are documented across specific regions of Africa and the Middle East. The practice is not ancient aberration. It is living and current.
 
+The anatomical omission and the physical removal share the same logic: out of the map, out of mind. Once the functional anatomy is absent from the record, the question cannot be asked by anyone trained inside it. The structure exists. The sensitivity exists. The tissue exists. But without language for it in the official record, there is no question to answer. The omission is self-concealing — and that is precisely what makes it so durable.
+
 The archive does not flatten the spectrum. All forms enact the same operation — the reduction or removal of the body's primary erogenous territory — at different degrees of intensity. What runs through all of them is the same mechanism the archive documents elsewhere: the body's most potent generative territory made inaccessible, unnameable, or absent.
 
 ---
