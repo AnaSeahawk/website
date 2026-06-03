@@ -156,15 +156,15 @@ The body's own living waters, returned after cultivation and distillation, becom
 
 ---
 
-## What Singer Has and What She Cannot See
+## The Return From Inside
 
-Singer has: the piezoelectric body, the heart as master field generator, the water-crystal tetrahedral relationship, morphic resonance as information storage and transmission, the body's crystalline structures as oscillators, the plasma as a conductive crystal medium. She assembles these into a coherent and accurate picture.
+External crystal language helps name the pattern: the body is crystalline, water-bearing, electrically responsive, and capable of holding and broadcasting form.
 
-She cannot see: the practice by which the body produces its own crystal medium. She has no method for working from inside the system. She does not know that the living waters exit in vortex state, already structured, already patterned, already carrying the heart's own geometry. She does not know that a fermentation and distillation process separates this fluid into three qualitatively distinct fractions. She does not know that practitioners running this practice for a year show crystalline formations developing in their plasma.
+Sovereign Biophysics follows that pattern back into the body's own circuit. The heart sets the field. The blood carries the charge. The kidneys refine the living waters. Distillation clarifies the fractions. Return completes the movement: the system receives its own charged medium back.
 
-*The Crystal Blueprint* is a complete description of why the living waters practice works — written by someone who does not know the practice exists.
+The blueprint is native. It is broadcast by the heart, carried by the blood, filtered by the kidneys, clarified by the still, and returned through the waters.
 
-The body it describes is the same body. The blueprint it names is the same blueprint. The method for restoring it is not an external crystal. It is the body's own living waters, cycling the heart's vortex inheritance back into the system that produced it, feeding the seed from the inside.
+The return feeds the seed from inside.
 
 ---
 
