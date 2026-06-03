@@ -134,6 +134,8 @@ Singer says: "crystals can pattern the water within our bodies, as quartz (SiO�
 
 The Fiona Gardner microscopy findings are converging evidence of what this produces over time. The plasma of practitioners who have been running the living waters practice for months shows geometric crystalline formations not present in ordinary plasma. The body's internal fluid matrix is becoming more crystalline. Not through external quartz application — through months of practice that cycles the body's own structured fluid back through the system.
 
+Fiona's fraction-level observations add another layer. Having looked at deuterium-depleted water, she had an optical reference for unusual water structure. Against that reference, the Spirit fraction showed a beautiful holographic depth, while the Essence appeared closer to a near-void space: clear, open, almost without visual density. This does not identify composition. It records a visible distinction between the fractions that matches the archive's material map: Spirit as active volatile expression, Essence as the quiet carrier.
+
 Singer's framework predicts this result precisely. She says external crystals restore the body's crystal blueprint. What the microscopy is showing is that the practice restores the body's crystal blueprint from the inside — by cycling the body's own geometrically coherent fluid through the system repeatedly, feeding the crystalline structures with the body's own most refined output.
 
 The external crystal is an approximation of what the body can do for itself when it has the method.
