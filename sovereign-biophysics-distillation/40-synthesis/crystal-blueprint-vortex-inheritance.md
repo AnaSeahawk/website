@@ -62,7 +62,7 @@ The heart's hydraulic work is one layer of its function. It participates in pres
 
 Quartz's internal architecture, as Singer describes it, consists of "threefold and sixfold helical chains of SiO₄ tetrahedrons running parallel to the c-axis. These helices spiral both clockwise and counterclockwise." This helical geometry is what makes quartz the most stable oscillator on Earth — the architecture that allows it to maintain a precise, coherent frequency under load. The heart's spiral musculature is the same geometry. The heart is the body's master crystal oscillator: the helical structure maintains vortical coherence in the blood, and from that coherent motion, the largest electromagnetic field in the body is generated and broadcast to every other crystalline structure in the system.
 
-In Ayurveda, ojas — the final product of the seven-tissue dhatvagni chain, the body's most refined biological intelligence — is stored in the heart. The heart is the seat of the body's most concentrated living essence. Singer, working in a different vocabulary, says the same thing: the "crystal blueprint," the body's authentic electromagnetic pattern, is held and broadcast by the heart. Two traditions, one anatomical site, the same function.
+In Ayurveda, ojas — the final product of the seven-tissue dhatvagni chain, the body's most refined biological intelligence — is stored in the heart. The heart is the seat of the body's most concentrated living essence. The same relationship appears in field language: the body's authentic electromagnetic pattern is held and broadcast through the heart. Two vocabularies, one anatomical site, the same function.
 
 ---
 
