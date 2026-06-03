@@ -36,7 +36,7 @@ The body a tradition works with is The Body its map describes.
 
 If the map is wrong — incomplete, mechanised, or deliberately falsified — the practitioners who inherit it cannot find what is actually there. They look for what the map shows. They do not look for what the map omits. The absence is invisible.
 
-Western institutional anatomy produced two significant falsifications in the body's energetic core: one in the chest, one in the pelvis. And the administrative time system produced a third: the replacement of the sky with a grid.
+Western institutional anatomy produced two significant falsifications in the body's Energetic Core: one in the chest, one in the pelvis. And the administrative time system produced a third: the replacement of the sky with a grid.
 
 The heart was mechanised. The clitoris was unmapped. The calendar replaced the sky.
 
