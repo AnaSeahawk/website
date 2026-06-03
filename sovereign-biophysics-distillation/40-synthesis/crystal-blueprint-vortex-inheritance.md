@@ -142,7 +142,7 @@ The external crystal is an approximation of what the body can do for itself when
 
 ---
 
-## The Fertilising the Seed
+## The Seed and the Return
 
 The blueprint is the body's original electromagnetic pattern — the coherent crystal field that exists before learned disruption, hormonal depletion, dietary noise, accumulated stress, and incoherent inputs degrade the system's resonance.
 
