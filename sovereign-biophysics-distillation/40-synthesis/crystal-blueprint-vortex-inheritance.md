@@ -14,7 +14,7 @@ claim_tier: synthesis
 
 ---
 
-*This document reads Beatriz Singer's* The Crystal Blueprint *against Tom Cowan's* Human Heart, Cosmic Heart *and the Sovereign Biophysics archive. It tracks what Singer establishes, where her model stops, and what becomes visible when the archive's own framework is placed alongside it.*
+This document reads Beatriz Singer's *The Crystal Blueprint*, Tom Cowan's *Human Heart, Cosmic Heart*, and the Sovereign Biophysics archive as three reference fields: the crystalline body, the vortical heart, and the body's own living waters. It follows the shared pattern inward, into the medium the body makes, charges, distils, and returns.
 
 ---
 
