@@ -60,7 +60,7 @@ The hydrogen reading moved more than the pH did. That is the key observation.
 
 This batch shows stable alkalinity across four fresh distillate jars under incomplete tracking conditions.
 
-It does not show that dissolved H2 collapsed. It shows that the H2 readings were less stable than the pH readings under these measurement conditions.
+The pH stayed clustered at 9.3-9.4. The H2 readings moved across a wider range, from 0 to 52 ppb.
 
 The variation may be tracking elapsed time after distillation, cooling temperature, jar headspace, sealing, opening, agitation, source mixture, meter stabilization, or several of those at once. It may also be fluctuation rather than simple loss.
 
