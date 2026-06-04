@@ -26,7 +26,15 @@ medical_status: not_medical_advice
 
 *The consequence of the cut: what happened to sexuality, to family, to the transmission of trust, and to the natural capacities that live underneath the diagnoses.*
 
-*Philosophical and observational. Tradition record where sourced. Personal account where declared. Not medical guidance.*
+> **Established record:** Cardiac electromagnetic field and co-regulation: HeartMath Institute. Nocebo/placebo mechanism: established research record.
+>
+> **Tradition record:** Reich's biophysical measurements of sexual charge (1934); Taoist neidan corpus; Tantric texts. Named where cited.
+>
+> **Philosophical interpretation:** The downstream consequences of the three anatomical falsifications — for desire, for lovemaking as a lost art, for family transmission through the cardiac field, and for what the diagnostic categories are actually naming upstream.
+>
+> **Personal account:** This document draws on the practitioner's own experience and observation where not otherwise sourced.
+>
+> *Neurodivergence framing is philosophical, not diagnostic. Not medical guidance. Single-subject archive.*
 
 ---
 

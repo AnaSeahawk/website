@@ -26,7 +26,15 @@ medical_status: not_medical_advice
 
 *What was removed from the anatomical record, what was removed from bodies, and why both acts served the same function.*
 
-*This document is historical, philosophical, and comparative. The anatomical history is established record. The energetic consequences are philosophical interpretation. The cultural practices are documented anthropological record. The medical model critique is hypothesis.*
+> **Established record:** Anatomical history — Falloppio 1561, O'Connell 1998, Taylor 1996, Sorrells et al. 2007. Cardiac electromagnetic field data: HeartMath Institute. Astronomical cycle lengths and Gregorian calendar structure.
+>
+> **Philosophical interpretation:** The energetic consequences of each falsification — Anahata losing its electromagnetic anchor in the pump model; Muladhara losing anatomical ground when the full pelvic anatomy was unmapped; chakra planetary correspondences severed from observable astronomical reality.
+>
+> **Anthropological record:** Cultural cutting practices, their documented distribution and current status.
+>
+> **Hypothesis:** The claim that these three falsifications together produce structural interference — a granthi — between the practitioner and their own body intelligence.
+>
+> *Not medical guidance. Single-subject archive.*
 
 ---
 
