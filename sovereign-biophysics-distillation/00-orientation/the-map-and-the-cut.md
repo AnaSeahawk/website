@@ -12,8 +12,8 @@ primary_environment:
   - historical_record
 claim_tiers:
   - tier_3_comparative
-  - tier_4_established_record
-  - tier_5_hypothesis
+  - tier_4_hypothesis
+  - tier_5_documented_external_record
 evidence_basis:
   - historical_anatomical_record
   - anthropological_record

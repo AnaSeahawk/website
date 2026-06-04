@@ -141,6 +141,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Experiment Report: Ana's First Distillation — Feb 22, 2026](20-experiments/experiment-report-ana-distillation-feb22.md)
 - [Experiment Report: Fresh Combined Plasma — Two-Pass Distillation](20-experiments/experiment-report-fresh-combined-two-pass.md) — fresh combined plasma run: Phase 1 hydrolysis pass and Phase 2 purification pass, with key observations on fresh vs aged behaviour
 - [Experiment Report: March 8 — The Polishing Run](20-experiments/experiment-report-march8-polishing-run.md) — third distillation of aged Phase II Pure Plasma: threshold tracking to 0 mV at 133 USCM
+- [Experiment Report: June 4 — Fresh Plasma H2 Retention](20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md) — fresh mixed-source morning batch: stable pH at 9.3-9.4 while H2 varied from 0 to 52 ppb under incomplete baseline, source, and timing controls
 
 ### Analysis
 

@@ -1,7 +1,7 @@
 ---
 date: 2026-06-04
 type: experiment
-visibility: private
+visibility: public
 status: draft
 claim_tier: preliminary-observation
 note: Fresh plasma collected through the evening and early morning of June 3-4, distilled June 4 from about 7:00 to 10:00. Raw baseline, source provenance by jar, and exact measurement timing were not tracked.
