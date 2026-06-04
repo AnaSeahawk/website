@@ -31,23 +31,6 @@ The useful feature of the run is narrower: pH stayed almost fixed across the jar
 
 ---
 
-## Meter Unit Note
-
-The meter's hydrogen field is read here as dissolved molecular hydrogen, H2.
-
-Two small readings were captured in ppm:
-
-| Reading | Converted value |
-|---:|---:|
-| 0.052 ppm H2 | 52 ppb H2 |
-| 0.040 ppm H2 | 40 ppb H2 |
-
-Conversion: 1 ppm = 1000 ppb.
-
-The converted values match the jar readings in the 40-50 ppb range and are treated here as the same measurement register.
-
----
-
 ## Distillate Measurements
 
 | Jar / sample | Relative timing | Temp deg C | pH | EC uS/cm | TDS ppm | ORP mV | H2 ppb |
@@ -55,7 +38,7 @@ The converted values match the jar readings in the 40-50 ppb range and are treat
 | **Jar 1** | Freshest, about 1 hour post-distillation | 36.0 | 9.4 | 979 | 489 | -18 | 44-52 |
 | **Jar 2** | Oldest jar from the morning | 27.4 | 9.4 | 813 | 406 | not captured | 0 |
 | **Jar 3** | Timing not fixed | 28-29 | 9.4 | 1084 | 542 | -22 | 24 |
-| **Jar 4** | Timing not fixed | 31.0 | 9.3 | 705 | 347 | not captured | about 40 |
+| **Jar 4** | Timing not fixed | 31.0 | 9.3 | 705 | 347 | not captured | 40 |
 
 ---
 
@@ -67,7 +50,7 @@ The converted values match the jar readings in the 40-50 ppb range and are treat
 
 **The ORP was mildly negative where captured.** Jar 1 measured -18 mV. Jar 3 measured -22 mV. These are near-neutral reducing readings, not a strong charge signature by themselves.
 
-**The H2 signal did not hold evenly.** Dissolved hydrogen ranged from 0 to about 52 ppb. The freshest and warmest sample carried the highest captured H2 range. The oldest and coolest sample registered 0 ppb.
+**The H2 signal did not hold evenly.** Dissolved hydrogen ranged from 0 to 52 ppb. The freshest and warmest sample carried the highest captured H2 range. The oldest and coolest sample registered 0 ppb.
 
 The hydrogen reading moved more than the pH did. That is the key observation.
 
