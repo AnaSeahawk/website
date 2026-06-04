@@ -14,7 +14,7 @@ There is a wound at the centre of this work that is harder to name than anything
 
 Not because it is unspeakable. Because naming it implicates the people who loved you most.
 
-The practices documented in the previous piece — foot binding, leblouh, chhaupadi, the cutting, the hygiene campaigns, the centuries of exclusion — all of them arrived in the same register. Not as cruelty. As love. As preparation. As the thing a mother does because she wants her daughter to be safe in a world that has made its requirements clear. The harm was real. The love was also real. Both things were true simultaneously. And that simultaneity is the specific trap — the place where the wound cannot be approached, because approaching it means holding the person who administered it as someone who caused harm, and that person was also the person who loved you most completely.
+The practices documented in [Beauty and the Binding](beauty-and-the-binding.md) and [The Map and the Cut](the-map-and-the-cut.md) — foot binding, leblouh, chhaupadi, the cutting, the hygiene campaigns, the centuries of exclusion — all of them arrived in the same register. Not as cruelty. As love. As preparation. As the thing a mother does because she wants her daughter to be safe in a world that has made its requirements clear. The harm was real. The love was also real. Both things were true simultaneously. And that simultaneity is the specific trap — the place where the wound cannot be approached, because approaching it means holding the person who administered it as someone who caused harm, and that person was also the person who loved you most completely.
 
 This is not a peripheral difficulty. It is the architecture of the cycle's persistence.
 

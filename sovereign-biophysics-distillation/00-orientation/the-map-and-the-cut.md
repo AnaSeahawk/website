@@ -206,6 +206,6 @@ That is what this archive is: one practitioner's record of the hearing.
 
 ---
 
-*Continue reading: [In the Name of Love →](in-the-name-of-love.md)*
+*Continue reading: [The Mother Wound →](the-mother-wound.md)*
 
 *[← Back to Index](../README.md)*
