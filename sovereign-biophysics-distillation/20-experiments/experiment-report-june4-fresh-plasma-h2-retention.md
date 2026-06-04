@@ -64,7 +64,7 @@ The pH stayed clustered at 9.3-9.4. The H2 readings moved across a wider range, 
 
 The variation may be tracking elapsed time after distillation, cooling temperature, jar headspace, sealing, opening, agitation, source mixture, meter stabilization, or several of those at once. It may also be fluctuation rather than simple loss.
 
-The run does not identify which variable matters most. It only shows which variable needs better handling next.
+The run does not identify which variable matters most.
 
 ---
 
@@ -75,20 +75,6 @@ The missing raw baseline is the largest limitation. Without pH, EC, TDS, ORP, an
 The missing source map is the second limitation. Because the jars were not tracked as Ana, partner, or blend, the numbers cannot be compared by source.
 
 The missing timing map is the third limitation. This run did not hold measurement time constant, so the H2 movement cannot be assigned to one cause.
-
----
-
-## Next Clean Run
-
-The next fresh plasma run should hold the H2 question directly.
-
-Each jar should be labelled before distillation. The raw material should be measured before heat. Each distillate should be measured on a fixed rhythm: immediately after collection, 15 minutes, 60 minutes, 3 hours, and 24 hours if possible.
-
-Record source category, collection window, distillation start, first drip, jar change, run end, fill level, headspace, lid timing, and whether the jar was opened before measurement.
-
-At least two stabilized readings per variable would make the record stronger.
-
-The next question is simple: how does the H2 reading move when time, cooling, source composition, and handling are tracked directly?
 
 ---
 
