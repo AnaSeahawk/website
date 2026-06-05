@@ -39,7 +39,7 @@ This is not blame. The people who fed us this way were fed the same way themselv
 
 ## What This Record Is Tracking
 
-The archive's working question is chloride as it arrives in added sodium chloride. The public label says "sodium." The table substance is sodium chloride. That distinction matters and is routinely obscured. Food labels make the exposure sound like a mineral the body needs, and the body does need mineral sodium. Chloride is also an essential electrolyte in ordinary physiology. The claim here is narrower: added sodium chloride, used as a daily taste and regulatory scaffold, may train the body differently than mineral sodium encountered in other salts or in whole foods.
+The archive's working question is chloride as it arrives in added sodium chloride. The public label says "sodium." The table substance is sodium chloride. That distinction matters and is routinely obscured. Food labels make the exposure sound like a mineral the body needs, and the body does need mineral sodium. The claim here is narrower: added sodium chloride, used as a daily taste and regulatory scaffold, may train the body differently than mineral sodium encountered in other salts or in whole foods.
 
 Some physiology supports keeping chloride visible as a separate variable. Sodium chloride and sodium bicarbonate do not always produce the same blood-pressure, renin, prostaglandin, or renal-perfusion effects. Chloride-rich intravenous fluids are also a live renal-safety question in clinical literature. This does not prove that chloride alone is "the problem." It does justify the archive's refusal to collapse sodium chloride into "sodium" and leave the chloride ion unnamed.
 
