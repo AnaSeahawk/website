@@ -1,6 +1,8 @@
-# Review Queue
+# Priority Review Queue
 
-Use this board to track public-facing surfaces and keep publishing predictable.
+Use this board to track priority public-facing surfaces and keep publishing predictable.
+
+This is not a complete website inventory. It records front doors, active review priorities, and surfaces that need publication/boundary decisions. Folder indexes remain the complete navigation source for each lane.
 
 This queue records website visibility only. The private source/member container is tracked in `Components/the-vessel/QUEUE.md`.
 
@@ -68,6 +70,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 - `sovereign-biophysics-distillation/10-method/apothecary-balm.md`
 - `sovereign-biophysics-distillation/10-method/oral-care-protocol.md`
 - `sovereign-biophysics-distillation/10-method/observation-protocol-handout.md`
+- `sovereign-biophysics-distillation/10-method/sediment-field-guide.md`
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-aged-plasma-distillation.md`
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-ana-distillation-feb22.md`
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md`
@@ -78,6 +81,8 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 ---
 
 ## Other Website Lanes
+
+Selected priority surfaces only; this section is not a full inventory.
 
 **Foundations**
 - `Foundations/plasma-foundation-of-a-new-world.md`

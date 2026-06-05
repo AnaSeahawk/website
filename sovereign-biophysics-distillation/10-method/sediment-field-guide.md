@@ -2,15 +2,18 @@
 type: reference
 status: active
 visibility: public
+claim_tier: observation
 ---
 
 # The Living Laboratory: A Visual Field Guide to Plasma Sediments and Precipitates
 
 *A practical reference for observing the transformation of endogenous fluids through aging, distillation, and dietary variables*
 
-When you begin the practice of aging your own plasma in glass vessels, you enter into direct dialogue with the body's mineral intelligence. The sediments, crystallisations, and precipitates that form are not random debris — they are the readable signatures of internal chemistry, dietary input, and biological turnover made visible in real time.
+*Single-practitioner and community observation. This guide names visible sediment patterns and plausible biochemical or dietary interpretations. It is not a diagnostic tool, medical guidance, or instruction to begin the practice.*
 
-This field guide maps what you will see as your plasma ages from fresh collection through complete desiccation, including the dramatic shifts that occur when the fluid passes through distillation. Understanding these patterns allows you to read your jars as living diagnostic tools, tracking the body's responses to dietary changes, salt elimination, and the concentrated essence of your own biological solvent.
+Aging plasma in glass vessels creates a visible record of mineral precipitation, biological turnover, and dietary variables. The sediments, crystallisations, and precipitates that form are treated here as observable signatures of internal chemistry made visible over time.
+
+This field guide maps patterns seen as plasma ages from fresh collection through complete desiccation, including the shifts that occur when the fluid passes through distillation. The patterns are useful for field observation. They do not, by themselves, establish diagnosis or mechanism.
 
 This document exists because these questions arise constantly in the community. When practitioners first begin working with their own fluids, what they see in the jar is often the first thing that stops them — the cloudiness, the crystal forms, the residue on the glass. This guide gives those observations a home and a name.
 
@@ -18,11 +21,11 @@ This document exists because these questions arise constantly in the community. 
 
 ## The Baseline: What Fresh Plasma Looks Like
 
-Before documenting change, establish what you are starting with. Fresh plasma collected within minutes of voiding is typically pale straw-yellow to golden in colour, with a slight natural clarity. It may appear slightly hazy — this is normal and reflects the normal suspended content of a healthy fluid. It has a mild, characteristic scent that has not yet shifted toward ammonia.
+Fresh plasma collected within minutes of voiding is typically pale straw-yellow to golden in colour, with a slight natural clarity. It may appear slightly hazy, reflecting suspended content in the fluid. It has a mild, characteristic scent that has not yet shifted toward ammonia.
 
 Volume, colour depth, and clarity vary meaningfully from person to person and from day to day. High hydration produces a lighter, more translucent fluid with a high water fraction. Lower hydration concentrates everything — the colour deepens toward amber or orange-amber, and the precipitate density increases.
 
-This is your reference point. Everything that follows describes departure from this starting state.
+This starting state is the reference point. Everything that follows describes departure from it.
 
 ---
 
@@ -32,7 +35,7 @@ Fresh plasma typically maintains a slightly acidic pH of 5.5 to 6.8. pH is simpl
 
 As the fluid ages at room temperature, **urea** begins breaking down through bacterial action. Urea is the body's primary nitrogen carrier — the liver converts the ammonia produced by breaking down proteins and old cells into this safer compound, which the kidneys then filter from the blood and pass out. As bacteria in the aging fluid convert urea back to ammonia, the pH shifts steadily alkaline — often reaching 7.5 to 8.5 within days or weeks. In Ayurvedic terms, this is the mutra mala — the primary fluid waste of metabolism — completing its transformation outside the body.
 
-This pH shift fundamentally rewrites what can remain dissolved and what must precipitate out, creating the visual drama you observe in your aging jars. Different minerals drop out of solution at different points along this arc, which is why the crystal types and their timing are themselves informative.
+This pH shift fundamentally rewrites what can remain dissolved and what must precipitate out, creating the visual drama seen in aging jars. Different minerals drop out of solution at different points along this arc, which is why the crystal types and their timing are themselves informative.
 
 ---
 
@@ -40,7 +43,7 @@ This pH shift fundamentally rewrites what can remain dissolved and what must pre
 
 In the first 24 to 72 hours, the visible changes are subtle but informative.
 
-**Gas activity** is one of the earliest naked-eye signals. As urea begins converting to ammonia, tiny bubbles form and rise through the fluid — sometimes a slow, lazy column of pinpoint bubbles along the glass wall, sometimes a faint general effervescence. This is the chemistry becoming visible: you are watching the alkaline cascade begin. Increased bubble activity indicates active bacterial conversion. A jar that is actively bubbling is entering the transition zone.
+**Gas activity** is one of the earliest naked-eye signals. As urea begins converting to ammonia, tiny bubbles form and rise through the fluid — sometimes a slow, lazy column of pinpoint bubbles along the glass wall, sometimes a faint general effervescence. This is the chemistry becoming visible: the alkaline cascade beginning. Increased bubble activity indicates active bacterial conversion. A jar that is actively bubbling is entering the transition zone.
 
 **Colour shift** begins before cloudiness. The fluid deepens slightly from its fresh straw-yellow toward a more golden or amber tone. This is the natural byproduct chemistry developing before the mineral precipitation begins in earnest.
 
@@ -50,16 +53,16 @@ In the first 24 to 72 hours, the visible changes are subtle but informative.
 
 ## What Crystallises on Glass: The Adhesive Precipitates
 
-The mineral formations that grip directly to your jar walls represent substances that have reached their saturation threshold and can no longer remain dissolved in the increasingly alkaline medium. Think of it as the body's mineral wealth becoming visible: these are the same minerals that build bones, transmit nerve signals, and regulate muscle contraction — magnesium, calcium, phosphorus — appearing in their solid, crystalline form once the water can no longer hold them.
+The mineral formations that grip directly to jar walls represent substances that have reached their saturation threshold and can no longer remain dissolved in the increasingly alkaline medium. These are minerals involved in bones, nerve signalling, and muscle contraction — magnesium, calcium, phosphorus — appearing in solid crystalline form once the water can no longer hold them.
 
 ### Struvite Crystals (Magnesium Ammonium Phosphate)
-Struvite is a compound of magnesium, ammonia (the nitrogen byproduct of urea breakdown), and phosphate. These three elements are all abundant in plasma — magnesium for muscle and nerve function, phosphate as the backbone of cellular energy, ammonia as the nitrogen waste — and when they meet in the alkaline aging environment, they form together into extraordinary geometric structures. They appear as highly geometric, three-dimensional prisms with a distinctive "coffin lid" appearance: colourless to faintly white, catching light like tiny crystal cathedrals — angular, architectural, and absolutely unmistakable once you learn to recognise their sharp geometry. These crystals bind tenaciously to glass and often require careful scraping to remove.
+Struvite is a compound of magnesium, ammonia (the nitrogen byproduct of urea breakdown), and phosphate. These three elements are all abundant in plasma — magnesium for muscle and nerve function, phosphate as the backbone of cellular energy, ammonia as the nitrogen waste — and when they meet in the alkaline aging environment, they form together into extraordinary geometric structures. They appear as highly geometric, three-dimensional prisms with a distinctive "coffin lid" appearance: colourless to faintly white, catching light like tiny crystal cathedrals — angular, architectural, and unmistakable after the geometry is recognized. These crystals bind tenaciously to glass and often require careful scraping to remove.
 
 ### Calcium Phosphate and Calcium Carbonate
 Calcium — the primary mineral of bones and teeth, and the mineral that governs muscle contraction and nerve firing — drops out of solution along with phosphate and carbonate as the fluid alkalinises. Unlike the dramatic geometry of struvite, these form as white, chalky, or faintly gritty films across the glass surface. When the jar is agitated, they may create a snow-globe effect of fine white particles swirling through the fluid. The coating can range from a light dusting to a thick, milk-paint-like layer that completely obscures the glass beneath. In Ayurvedic terms, these mineral deposits are the visible expression of asthi dhatu — the bone tissue's mineral intelligence — made external.
 
 ### Calcium Oxalate Crystals
-Oxalate is produced naturally during metabolism and is also absorbed from certain foods. The kidneys filter it from the blood and pass it in the plasma. These crystals typically form early in the aging process, before the fluid becomes too alkaline, appearing as tiny, highly reflective "envelope" shapes or small dumbbell forms clinging to the glass. They often represent the transition point — the last acidic precipitates before the alkaline cascade begins. If you see oxalate forms early and struvite forms later in the same jar, you are watching the full pH arc.
+Oxalate is produced naturally during metabolism and is also absorbed from certain foods. The kidneys filter it from the blood and pass it in the plasma. These crystals typically form early in the aging process, before the fluid becomes too alkaline, appearing as tiny, highly reflective "envelope" shapes or small dumbbell forms clinging to the glass. They often represent the transition point — the last acidic precipitates before the alkaline cascade begins. Oxalate forms early and struvite forms later in the same jar can show the full pH arc.
 
 ### Tide Rings and Evaporation Lines
 As the fluid level slowly drops through natural evaporation over days and weeks, it leaves distinct concentration rings on the glass at each previous fluid level — like the rings on a drying shoreline. These rings contain their own mineral deposits, distinct from the main body of crystallisation. They are highly informative: each ring records the mineral density at a specific point in the aging arc, and the spacing of the rings reflects evaporation rate. On long-aged jars these rings can create layered, geological-looking strata on the glass wall.
@@ -105,10 +108,10 @@ Proteins, mucus threads, and trace organic compounds dry into amber, brown, or g
 Many aging jars develop a thin, sometimes iridescent film across the top surface. This **biofilm** forms as proteins and fats at the surface meet and oxidise in contact with the air — a kind of skin forming on the fluid, much as a skin forms on warmed milk. When the jar is disturbed, this pellicle often breaks apart into geometric shards that slowly sink into the fluid below. The character of the pellicle changes with dietary fat load: from a clean, thin, iridescent film in lower-fat periods, to a thicker, more opaque, cream or yellowish layer when fat intake is high.
 
 ### Fat Layer Separation
-With elevated dairy fat intake — milk, ghee, butter — a discrete fat layer may form above the pellicle or as the pellicle itself. This layer is distinctly different from the thin biofilm: it has visible depth, a creamy to yellowish colour, and an opacity that catches rather than refracts light. When the jar is tilted, this layer moves slowly and coats the glass with a slight film. The presence and thickness of this layer is a direct visual readout of how much excess lipid the body is processing and passing — what the body needed, it kept; what you observe in the jar is the surplus.
+With elevated dairy fat intake — milk, ghee, butter — a discrete fat layer may form above the pellicle or as the pellicle itself. This layer is distinctly different from the thin biofilm: it has visible depth, a creamy to yellowish colour, and an opacity that catches rather than refracts light. When the jar is tilted, this layer moves slowly and coats the glass with a slight film. In this archive's reading, the presence and thickness of this layer may indicate excess lipid passing through the fluid; the visible observation is the layer itself.
 
 ### Viscosity and Swirl Behaviour
-**Viscosity** is simply the thickness or resistance of a liquid — water has low viscosity, honey has high viscosity. As the plasma ages and its protein and mineral load shifts, its viscosity changes in ways that are visible when you swirl or tilt the jar. Fresh plasma moves freely. Fluid with high protein aggregate content moves slightly more slowly, leaving a faint coating on the glass as it passes. Highly aged fluid with dense suspended matter may move almost lazily, the sediment swirling up in clouds before slowly resettling. This behavioural change — how the fluid moves — is itself a diagnostic observation.
+**Viscosity** is simply the thickness or resistance of a liquid — water has low viscosity, honey has high viscosity. As the plasma ages and its protein and mineral load shifts, its viscosity changes in ways that are visible when the jar is swirled or tilted. Fresh plasma moves freely. Fluid with high protein aggregate content moves slightly more slowly, leaving a faint coating on the glass as it passes. Highly aged fluid with dense suspended matter may move almost lazily, the sediment swirling up in clouds before slowly resettling. This behavioural change — how the fluid moves — is part of the observation record.
 
 ### Foam Behaviour
 Fresh plasma sometimes produces foam at the moment of collection; this typically collapses quickly in clean, well-hydrated fluid. Aged plasma may froth when shaken, and the persistence of that froth is informative. **Surfactant compounds** — molecules that reduce surface tension and allow foam to hold its structure — are naturally produced by the body (bile salts and certain proteins behave this way). Quick-collapsing foam indicates lower protein and surfactant content; persistent, stable foam that holds its shape indicates a higher load of these compounds. Foam that is yellowish or amber-coloured indicates the presence of organic breakdown products rather than simple mechanical aeration.
@@ -118,17 +121,17 @@ Fresh plasma sometimes produces foam at the moment of collection; this typically
 ## Dietary Variables and Sediment Patterns
 
 ### Sodium Chloride Presence vs. Absence
-Sodium chloride significantly affects the ionic balance and crystallisation patterns in biological fluids. Standard diets containing table salt produce different sediment signatures than salt-free protocols. With sodium chloride present, you may observe more varied crystal types and different precipitation timing. Without it, the patterns often become simpler but more dramatic, with struvite dominating the crystalline formations as the primary mineral architecture.
+Sodium chloride significantly affects the ionic balance and crystallisation patterns in biological fluids. Standard diets containing table salt produce different sediment signatures than salt-free protocols. With sodium chloride present, the archive has observed more varied crystal types and different precipitation timing. Without it, the patterns often become simpler but more dramatic, with struvite dominating the crystalline formations as the primary mineral architecture.
 
 ### High-Fat Dietary Periods: Dairy (Milk, Ghee, Butter)
-When consuming substantial amounts of clean dairy fats, the fluid often takes on increased cloudiness and turbidity. The excess lipids that the body processes and eliminates create microscopic fat droplets that scatter light, producing dense, milky opacity. This cloudiness may separate as it ages — fats rising to form visible surface layers while denser material settles below. The fat cloudiness from high-quality dairy is typically white to cream in colour, relatively uniform, and settles predictably. The jar becomes a direct readout of dietary lipid load: if the cloudiness is increasing beyond what feels appropriate, the body is communicating excess. In Ayurvedic terms this is readable as kapha accumulation — the body receiving more building material than it can currently integrate.
+When substantial amounts of clean dairy fats are present in the diet, the fluid often takes on increased cloudiness and turbidity. The excess lipids that the body processes and eliminates create microscopic fat droplets that scatter light, producing dense, milky opacity. This cloudiness may separate as it ages — fats rising to form visible surface layers while denser material settles below. The fat cloudiness from high-quality dairy is typically white to cream in colour, relatively uniform, and settles predictably. In this archive's Ayurvedic reading, this may be read as kapha accumulation — more building material than the body can currently integrate. The visible observation remains the cloudiness, layering, and timing.
 
 ### Refined Industrial Seed Oils and Fried Foods
 This is one of the most significant dietary variables to understand, because the sediment signatures of industrial oil consumption are distinctly different from clean dairy fat.
 
 Refined vegetable, seed, and nut oils — canola, sunflower, corn, soybean, and their fried-food derivatives — are extremely high in omega-6 polyunsaturated fatty acids, particularly linoleic acid. Unlike the stable saturated fats in ghee or butter, these highly unsaturated oils are chemically fragile: they **oxidise** rapidly, which means their molecular structure breaks down when exposed to heat, light, or oxygen, producing damaged fat fragments in the same way that metal rusts when exposed to air. This oxidation happens during cooking at high heat, and it continues inside the body during metabolism. In Ayurvedic terms, oxidised fats are a significant source of ama — undigested, reactive residue that burdens the channels.
 
-What you observe in the jar:
+Common jar observations:
 
 **Persistent, irregular cloudiness** that does not clarify cleanly. Clean dairy fat cloudiness tends to separate over 24–48 hours into a distinct fat layer above and clearer fluid below. Oxidised lipid cloudiness from industrial oils often remains more diffuse and irregular — it does not layer as predictably, creating a murky, non-uniform turbidity throughout the jar.
 
@@ -145,7 +148,7 @@ Alcohol has a rapid and distinct signature in the fluid. Ethanol itself is volat
 
 **Colour concentration.** Alcohol is strongly dehydrating. The kidneys excrete more water than usual when processing alcohol, concentrating the mineral load. The fluid produced during and immediately after alcohol consumption is typically darker and more concentrated — deeper amber to orange-amber — reflecting the reduced water fraction available to dilute the mineral load.
 
-**Acidity shift.** The primary metabolic byproduct of ethanol is acetate (acetic acid), which acidifies the fluid. This produces a distinctive early precipitation pattern: more calcium oxalate formations appearing in the acidic window before the fluid later alkalinises through bacterial action. If you are tracking crystal timing and you see heavy oxalate formation earlier than usual, recent alcohol intake is a likely variable.
+**Acidity shift.** The primary metabolic byproduct of ethanol is acetate (acetic acid), which acidifies the fluid. This produces a distinctive early precipitation pattern: more calcium oxalate formations appearing in the acidic window before the fluid later alkalinises through bacterial action. When crystal timing is tracked over multiple jars, heavy oxalate formation earlier than usual can make recent alcohol intake a variable to note.
 
 **Reduced volume, then flush.** The dehydration phase produces small, concentrated volumes with dense sediment. When the body rehydrates in the days following, this can produce a period of notably high volume, lighter colour, and temporarily dilute sediment — the flush phase. This two-phase pattern (concentrated then dilute) is a recognisable alcohol signature when tracked across several jars.
 
@@ -154,7 +157,7 @@ Alcohol has a rapid and distinct signature in the fluid. Ethanol itself is volat
 **Increased turbidity from protein stress.** Under the metabolic load of alcohol processing, the liver's capacity to manage and recycle proteins is reduced. More protein fragments pass through to the kidneys and appear in the fluid, creating increased cloudiness and more pronounced cobweb-like material in the mid-column and wet sludge layers.
 
 ### Protein-Rich Dietary Windows
-High-protein diets tend to acidify plasma, potentially shifting the types of crystals that form. When the body processes large amounts of protein — meat, legumes, dairy protein — it produces more urea and more acidic metabolic byproducts. During heavy protein intake, you may observe more calcium oxalate formations in the early stages of aging, with alkaline crystals developing later as the pH eventually shifts through urea breakdown. The mid-column suspension tends to be more active during high-protein periods, with more visible organic threading and cloud formation.
+High-protein diets tend to acidify plasma, potentially shifting the types of crystals that form. When the body processes large amounts of protein — meat, legumes, dairy protein — it produces more urea and more acidic metabolic byproducts. During heavy protein intake, the archive has observed more calcium oxalate formations in the early stages of aging, with alkaline crystals developing later as the pH eventually shifts through urea breakdown. The mid-column suspension tends to be more active during high-protein periods, with more visible organic threading and cloud formation.
 
 ### Metabolic State Changes
 **Fasting and ketosis** produce distinctly different sediment patterns. Ketosis is the metabolic state the body enters when carbohydrate intake drops significantly — during fasting, or on a very low-carb diet. Rather than burning glucose (from carbohydrates), the body shifts to burning stored fat, producing **ketone bodies** as an alternative fuel for the brain and tissues. This is a fundamentally different metabolic pathway, and it significantly changes the waste products appearing in the plasma. Ketogenic states can initially lower pH (make the fluid more acidic), creating unusual crystallisation sequences as the body adapts to the new fuel source.
@@ -170,23 +173,23 @@ When fresh plasma (collected within hours) is distilled, the resulting water ten
 Distilling plasma that has aged for days or weeks produces dramatically different results. The alkaline fluid that enters the distillation unit carries with it all the complex precipitates and biofilm materials that have formed during aging. The distillation process itself can cause additional precipitation as temperature and pressure changes shift solubility. The resulting distilled water often has different energetic properties, while the remaining sediment shows layered, multi-textured deposits reflecting the full aging history.
 
 ### Post-Distillation Residue Patterns
-The sediment remaining in your distillation unit after processing aged plasma creates its own visual map. You may observe distinct layers: the heaviest crystalline material settled at the bottom, a middle layer of organic residues, and often a ring-shaped deposit around the vessel walls where the liquid level was maintained during heating.
+The sediment remaining in the distillation unit after processing aged plasma creates its own visual map. Observed residues may include distinct layers: the heaviest crystalline material settled at the bottom, a middle layer of organic residues, and often a ring-shaped deposit around the vessel walls where the liquid level was maintained during heating.
 
 ---
 
 ## Separation Techniques for Observation and Processing
 
 ### Natural Sedimentation
-Sedimentation allows heavier particles to settle naturally under gravity. For clear observation of sediment layers, aged plasma should be allowed to stand undisturbed for 24–48 hours. This natural settling creates distinct stratification that reveals the relative densities of different precipitate types.
+Sedimentation allows heavier particles to settle naturally under gravity. For clear observation of sediment layers, a 24- to 48-hour undisturbed rest preserves the relative densities of different precipitate types.
 
 ### Decantation for Layer Analysis
-Decanting involves carefully pouring off the clear supernatant (upper) fluid while leaving settled particles undisturbed at the bottom. This technique allows you to isolate different sediment layers for individual examination. Pour slowly and steadily, stopping when cloudy material begins to flow — this preserves the sediment architecture for detailed observation.
+Decanting involves carefully pouring off the clear supernatant (upper) fluid while leaving settled particles undisturbed at the bottom. In documented runs, slow steady pouring preserves the sediment architecture for detailed observation.
 
 ### Filtration for Particulate Isolation
 Filtration can separate suspended particles based on size. Simple coffee filters or fine mesh can isolate larger crystalline formations, while finer filters capture smaller precipitates. Each filter level reveals different components of the total sediment load.
 
 ### Syphoning for Non-Disruptive Fluid Removal
-Syphoning with a thin tube allows you to remove clear fluid from aging jars without disturbing the settled sediment layers. This technique is particularly valuable when you want to preserve the natural stratification patterns while accessing different fluid layers for distillation or separate analysis.
+Syphoning with a thin tube allows clear fluid to be removed from aging jars without disturbing the settled sediment layers. This technique is particularly valuable when the natural stratification patterns need to remain intact for observation.
 
 ---
 
@@ -199,30 +202,30 @@ Sharp day-to-day changes in sediment volume or character often reflect the body'
 Long-term practitioners often notice that sediment patterns shift with lunar cycles, seasonal changes, or hormonal rhythms. The mineral content, crystallisation timing, and overall sediment density can vary in recognisable patterns that reflect the body's natural cycles. These correlations emerge over months, not days — they require sustained observation to become legible.
 
 ### Dietary Tolerance Indicators
-When experimenting with dietary changes — elimination of sodium chloride, increases in specific foods, fasting periods, or the introduction of new cooking methods — the sediment patterns provide real-time feedback. Dramatic increases in cloudiness, unusual crystal formations, or persistent murkiness that will not clarify may indicate metabolic stress or an adaptation period worth tracking.
+When dietary variables change — elimination of sodium chloride, increases in specific foods, fasting periods, or the introduction of new cooking methods — sediment patterns may shift. Dramatic increases in cloudiness, unusual crystal formations, or persistent murkiness that will not clarify are observations worth tracking alongside the dietary record.
 
 ### Hydration and Concentration Feedback
 The relationship between fluid volume and sediment density reveals hydration patterns and kidney processing efficiency. Well-hydrated periods typically produce larger volumes with more dilute sediment; dehydration concentrates both the fluid and the precipitate formations. Tracking volume alongside visual sediment character gives a fuller picture than either variable alone.
 
 ---
 
-## Practical Considerations for Home Observation
+## Field Conditions for Observation
 
-Use clear glass vessels — wide-mouth jars allow for easy cleaning and sample removal. Avoid metal containers, which can interact with the alkaline fluid and create artificial precipitates. Use glass vessels with plastic or silicone lids; metal lids corrode when exposed to alkaline aged plasma over time.
+Clear glass vessels make the sediment record easiest to observe. Wide-mouth jars allow for cleaning and sample removal. Metal containers can interact with alkaline fluid and create artificial precipitates; metal lids can corrode when exposed to alkaline aged plasma over time.
 
-Keep jars labelled with collection dates and relevant dietary notes. A dedicated shelf maintains consistent environmental conditions and makes pattern tracking easier. Room temperature, humidity, and air circulation all affect aging patterns; consistent conditions produce more reliable comparisons.
+Labels with collection dates and relevant dietary notes preserve context. A dedicated shelf maintains consistent environmental conditions and makes pattern tracking easier. Room temperature, humidity, and air circulation all affect aging patterns; consistent conditions produce more reliable comparisons.
 
-Photograph jars at regular intervals — daily during periods of active change, weekly for long-term aging documentation. Hold the jar against a light source to reveal mid-column suspension. Photograph against a white background for colour accuracy. Date and annotate images with dietary notes, collection timing, and distillation results.
+Photographs at regular intervals create a visual sequence — daily during periods of active change, weekly for long-term aging documentation. Light behind the jar reveals mid-column suspension. A white background improves colour accuracy. Dates and annotations connect images to dietary notes, collection timing, and distillation results.
 
-Clean hands and wiped surfaces prevent introducing foreign particles that might interfere with natural precipitation patterns.
+Clean hands and wiped surfaces reduce foreign particles that might interfere with natural precipitation patterns.
 
 ---
 
-## The Living Archive: Your Personal Laboratory
+## The Living Archive: The Jar as Record
 
-These sediment patterns represent the readable traces of your body's ongoing biochemical processing. Each jar becomes a microscopic laboratory, revealing the mineral intelligence, dietary processing efficiency, and systemic responses that are normally invisible. By learning to read these patterns, you develop direct, firsthand knowledge of your biological terrain — knowledge that exists outside institutional frameworks and relies entirely on your own sustained observation.
+These sediment patterns represent readable traces of ongoing biochemical processing. Each jar becomes a small observational laboratory, revealing mineral precipitation, dietary variables, and systemic responses that are normally invisible. The knowledge here is field knowledge: specific, visual, local, and dependent on sustained observation.
 
-The sediments in your jars are not waste products to be discarded, but information-rich materials that document the living chemistry of your system in real time. They are the physical manifestation of sovereign biophysics in practice — the body's own intelligence made visible through patient, methodical observation.
+The sediments are not treated here as waste products only. They are information-rich materials that document living chemistry in real time. They are the physical manifestation of sovereign biophysics in practice — the body's own intelligence made visible through patient, methodical observation.
 
 The jar does not lie. It simply records.
 

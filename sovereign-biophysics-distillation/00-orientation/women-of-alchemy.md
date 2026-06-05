@@ -26,22 +26,22 @@ claim_tier: interpretation
   - [Tapputi-Belatekallim](#tapputi-belatekallim-c-1200-bce-babylon) — c. 1200 BCE, Babylon
   - [Isis the Prophetess](#isis-the-prophetess-dates-uncertain-hellenistic-egypt) — Hellenistic Egypt
 - **Part Two: The Alexandrian School** — 1st–4th Centuries CE
-  - [Mary the Jewess](#mary-the-jewess-fl-1st3rd-century-ce)
-  - [Cleopatra the Alchemist](#cleopatra-the-alchemist-fl-3rd4th-century-ce)
-  - [Medera](#medera-dates-unknown-likely-3rd4th-century-ce)
+  - [Mary the Jewess](#mary-the-jewess-fl-1st-3rd-century-ce)
+  - [Cleopatra the Alchemist](#cleopatra-the-alchemist-fl-3rd-4th-century-ce)
+  - [Medera](#medera-dates-unknown-likely-3rd-4th-century-ce)
   - [Paphnutia the Virgin and Theosebeia](#paphnutia-the-virgin-and-theosebeia-fl-c-300-ce)
 - **Part Three: The Medieval Period** — 5th–14th Centuries CE
   - [Keng Hsien-Seng](#keng-hsien-seng-fl-c-975-ce-china) — c. 975 CE, China
-  - [Trotula of Salerno](#trotula-of-salerno-fl-c-11th12th-century-ce-italy) — 11th–12th century CE, Italy
+  - [Trotula of Salerno](#trotula-of-salerno-fl-c-11th-12th-century-ce-italy) — 11th–12th century CE, Italy
 - **Part Four: The Renaissance and Early Modern Period** — 15th–17th Centuries
-  - [Caterina Sforza](#caterina-sforza-14631509-italy) — 1463–1509, Italy
+  - [Caterina Sforza](#caterina-sforza-1463-1509-italy) — 1463–1509, Italy
   - [Isabella Cortese](#isabella-cortese-fl-1560s-italy) — fl. 1560s, Italy
   - [Marie Meudrac](#marie-meudrac-fl-mid-1600s-france) — fl. mid-1600s, France
-  - [Martine de Bertereau](#martine-de-bertereau-c-1600c-1645-france) — c. 1600–1645, France
+  - [Martine de Bertereau](#martine-de-bertereau-c-1600-c-1645-france) — c. 1600–1645, France
 - **Part Five: The Occult Revival** — 19th Century
-  - [Mary Anne Atwood](#mary-anne-atwood-18171910-england) — 1817–1910, England
-- [Part Six: The Language of Distillation — and Its Erasure](#part-six-the-language-of-distillation--and-its-erasure)
-- [Part Seven: Mercury as Mirror — and as Decoy](#part-seven-mercury-as-mirror--and-as-decoy)
+  - [Mary Anne Atwood](#mary-anne-atwood-1817-1910-england) — 1817–1910, England
+- [Part Six: The Language of Distillation — and Its Erasure](#part-six-the-language-of-distillation-and-its-erasure)
+- [Part Seven: Mercury as Mirror — and as Decoy](#part-seven-mercury-as-mirror-and-as-decoy)
 - [Part Eight: The Living Practice](#part-eight-the-living-practice)
 - [The Self-Love Threshold](#the-self-love-threshold)
 - [Conclusion: The Same Pure Beginning](#conclusion-the-same-pure-beginning)
