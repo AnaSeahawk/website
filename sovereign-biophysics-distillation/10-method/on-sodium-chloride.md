@@ -11,6 +11,8 @@ claim_tier: personal-account
 
 ---
 
+**Source-proximity note:** This is a single-practitioner withdrawal and practice record, not medical guidance. External sources are used to anchor infant salt guidance, sodium/salt taste development, high-sodium cardiovascular evidence, chloride-load physiology, and sodium-appetite neurobiology. The stronger claim that added sodium chloride functions as a long-conditioned scaffold in this practice is the archive's interpretation.
+
 It took me approximately two years to genuinely come off sodium chloride. Not two weeks. Not two months. Two years — with long gaps between exposures, with sincere commitment, with a body that was already moving in the direction of distillation and simplification. Two years before I felt what I would call recovered. I am writing this in April 2026, and it is only now, with access to the distilled Lunar essence as daily drinking water, that the remaining pull has finally dissolved.
 
 I want to be precise about what I mean by "come off." I don't mean I stopped adding sodium chloride to food. I mean the body stopped requiring it as a scaffold for normal function. That is a different thing entirely, and the difference is why this takes so long.
@@ -19,11 +21,13 @@ I want to be precise about what I mean by "come off." I don't mean I stopped add
 
 ## How It Begins
 
-Commercial infant food — the jarred and pouched products sold specifically for babies — is legally prohibited from containing added sodium chloride in the EU and restricted under strict guidelines in the UK. The regulatory reasoning is straightforward: the developing body is being calibrated during this window, and early chloride exposure shapes chloride appetite trajectories that persist into adulthood. The taste preference for sodium chloride develops between two and six months of age. Whatever the palate learns to expect in that period, it continues to seek.
+Commercial infant food — the jarred and pouched products sold specifically for babies — sits inside a regulatory and public-health frame that treats added salt as a substance requiring restraint. EU rules restrict added sodium salts in infant foods, with tighter limits in fruit-based products and desserts; UK public-health guidance tells parents not to add salt to a baby's food or cooking water. The developmental reasoning is straightforward: the body is being calibrated during this window, and early sodium chloride exposure can shape later salt acceptance. Salt detection and preference change across the first months of life, and exposure to sodium-containing table foods around six months has been linked to greater salt acceptance later.
+
+**Source note:** EU infant-food composition rules: [Commission Directive 2006/125/EC](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32006L0125). UK guidance: [NHS foods to avoid for babies and young children](https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/). Salt-taste development and dietary exposure: [Stein et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22189260/) and [Infants' and Children's Salt Taste Perception and Liking, 2017](https://pmc.ncbi.nlm.nih.gov/articles/PMC5622771/).
 
 The regulation exists. The logic is sound. And then a toddler sits at the family table and someone mashes a bit of food off their plate and hands it across.
 
-This is how it actually begins for most children — not from a jar but from the family meal. The jar food is chloride-free because the law requires it. The food on the plate beside it is not, because no law governs that moment. The transition happens naturally, invisibly, in the most ordinary act of care: a parent sharing their food with their child. The intention is love. The substance arrives anyway.
+This is how it actually begins for many children — not from a jar but from the family meal. The baby food sits inside a no-added-salt regulatory and guidance frame. The food on the plate beside it often does not, because no law governs that ordinary shared bite. The transition happens naturally, invisibly, in the most ordinary act of care: a parent sharing their food with their child. The intention is love. The substance arrives anyway.
 
 By the time a child is old enough to have a preference, the preference is already formed. By the time they are old enough to question it, it has been reinforced at every meal, in every social setting, across every culture they have been part of. The dependency is decades old before anyone thinks to examine it.
 
@@ -31,15 +35,17 @@ This is not blame. The people who fed us this way were fed the same way themselv
 
 ---
 
-## What It Actually Is
+## What This Record Is Tracking
 
-The agent is chloride. Not sodium — chloride. This distinction matters and is routinely obscured. Food labels list "sodium," which sounds like a mineral the body needs, and it does need sodium in various organic forms. But sodium bicarbonate and sodium citrate — other sodium salts — do not produce the same harm. The controlled substitution studies are clear on this: replace sodium chloride with sodium bicarbonate in equivalent amounts and the cardiovascular and renal damage does not occur. The chloride ion is the problem. Naming it "sodium" on labels keeps attention on the wrong element.
+The archive's working question is chloride as it arrives in added sodium chloride. Not sodium alone. This distinction matters and is routinely obscured. Food labels list "sodium," which sounds like a mineral the body needs, and it does need sodium. Chloride is also an essential electrolyte in ordinary physiology. The claim here is narrower: added sodium chloride, used as a daily taste and regulatory scaffold, may train the body differently than sodium encountered in other salts or in whole foods.
 
-Chloride is not food. It is not a nutrient in the sense that the body can assimilate and use it. It enters as an irritant and leaves as chloride — unchanged, unintegrated. Dr. G. J. Drew observed this plainly: *"Sodium chloride is ingested as sodium chloride and excreted as sodium chloride."* Justus von Liebig demonstrated the mechanism on flesh: sodium chloride strewn over fresh meat produces brine within 24 hours, no water added. The water came from the meat. That is what chloride does to living tissue.
+Some physiology supports keeping chloride visible as a separate variable. Sodium chloride and sodium bicarbonate do not always produce the same blood-pressure, renin, prostaglandin, or renal-perfusion effects. Chloride-rich intravenous fluids are also a live renal-safety question in clinical literature. This does not prove that chloride alone is "the problem." It does justify the archive's refusal to collapse sodium chloride into "sodium" and leave the chloride ion unnamed.
 
-At sufficient dose, this is undisputed. Excess chloride is a cardiovascular-renal toxicant with a clear dose-response relationship — proven across controlled trials, animal models, and population studies. The SSaSS trial (2021) replaced sodium chloride in 600 villages in China and found 14% fewer strokes, 13% fewer major cardiovascular events. The Yanomami of the Amazon have virtually no dietary chloride — blood pressure low across an entire lifespan, hypertension essentially absent. These are not alternative health claims. They are mainstream medicine's own data, pointing at the right substance for once.
+At sufficient intake, excess dietary salt is a cardiovascular-renal risk factor in mainstream evidence. The SSaSS trial (2021) used a reduced-sodium, added-potassium salt substitute across 600 villages in China and found lower rates of stroke and major cardiovascular events than regular salt. The Yanomami/Yanomamo literature documents very low sodium intake, little or no age-related rise in blood pressure, and extremely low hypertension in that specific population. These are not alternative health claims. They are mainstream data. The archive reads them through the more specific question of sodium chloride dependency and chloride load.
 
-What mainstream medicine does not discuss is the lower end of the dose-response curve — what happens when you are not consuming enough chloride to cause measurable cardiovascular damage, but still consuming enough to outsource your body's electrical regulation to an external substance. That is the question this archive is concerned with.
+**Source note:** Sodium chloride vs. bicarbonate comparison: [Schorr et al., 1994](https://pubmed.ncbi.nlm.nih.gov/8158345/). Chloride-rich fluids and kidney physiology: ["I don't get no respect": the role of chloride in acute kidney injury](https://pubmed.ncbi.nlm.nih.gov/30539650/). SSaSS: [NEJM 2021](https://www.nejm.org/doi/full/10.1056/NEJMoa2105675). Yanomamo low-salt record: [Oliver, Cohen, and Neel, 1975](https://pubmed.ncbi.nlm.nih.gov/1132118/) and [INTERSALT sodium/potassium results](https://pmc.ncbi.nlm.nih.gov/articles/PMC1834069/).
+
+What mainstream medicine does not usually discuss is the lower end of the dose-response curve — what happens below measurable cardiovascular damage, but still inside daily conditioning, taste calibration, fluid regulation, and the archive's felt question of outsourcing electrical steadiness to an external substance. That is the question this archive is concerned with.
 
 ---
 
@@ -49,17 +55,19 @@ The experience of trying to remove sodium chloride sent me into a deeper investi
 
 The AA framework offered something the nutritional literature did not: an honest account of what it feels like from the inside to be dependent on a substance that your culture regards as harmless. That recognition was useful.
 
-One irony that emerged from this investigation: the vegan diet — defined by its refusal of animal products on ethical grounds, a diet often associated with consciousness and care — freely includes sodium chloride. Packaged vegan food is frequently among the most heavily chloride-loaded food available. The ethical scrutiny that extends to every animal-derived ingredient does not reach the inorganic mineral that has no biological home in the living body. Vegan means vegetable. It does not mean rock. Sodium chloride is a mined mineral — an inorganic substance with no biological origin and no place in a diet defined by living things. That it passes unchallenged through the most ethically scrutinised dietary framework available is a measure of how completely this substance has been normalised. Even a diet built on questioning assumptions does not question this one.
+One irony that emerged from this investigation: the vegan diet — defined by its refusal of animal products on ethical grounds, a diet often associated with consciousness and care — freely includes sodium chloride. Packaged vegan food can be heavily chloride-loaded. The ethical scrutiny that extends to animal-derived ingredients often does not reach the mined mineral that sits outside the living-source logic of the diet. Vegan means vegetable. It does not mean rock. That sodium chloride passes mostly unchallenged through an ethically scrutinised dietary framework is a measure of how completely this substance has been normalised. Even a diet built on questioning assumptions does not always question this one.
 
 A narcotic is defined not by intoxication but by suppression. It dulls sensation, masks imbalance, creates dependence through relief that conceals injury.
 
-Sodium chloride follows this pattern precisely.
+In this practice, sodium chloride followed enough of this pattern to make the narcotic analogy useful.
 
-It irritates tissue. The body contracts and responds — producing a transient settling of agitation that the nervous system interprets as stability. Appetite learns this pattern. The relief was real, so it seeks the same relief again. Tolerance builds. More is required. The injury compounds while the compensation continues.
+In the archive's reading, the irritant and reward layers braid together. The body contracts and responds — producing a transient settling of agitation that the nervous system interprets as stability. Appetite learns this pattern. The relief was real, so it seeks the same relief again. Tolerance can build. More can be required. Compensation continues while the underlying signal remains hard to read.
 
-The dopamine mechanism is real and documented — the same D2 receptor downregulation seen in cocaine and opioid dependency. The renin-angiotensin-aldosterone system adapts to high dietary chloride until the body can no longer regulate blood pressure, electrolyte balance, or neuroendocrine function without it. When you remove sodium chloride from a body that has been running on it since infancy, the kidneys, cardiovascular system, and nervous system have to rebuild regulatory capacity that was never asked to develop.
+The sodium-appetite literature gives the dependency analogy a biological foothold without making sodium chloride identical to cocaine, opioids, or any formal substance-use diagnosis. Sodium depletion and salt appetite involve reward, motivation, the nucleus accumbens, dopamine-linked processing, opioid-linked liking, and cross-sensitisation with psychostimulants in animal models. The renin-angiotensin-aldosterone system also adapts to salt intake. When I removed sodium chloride from a body that had been running on it since infancy, the felt experience was not simple preference. It felt like the kidneys, cardiovascular system, appetite, and nervous system were rebuilding regulatory capacity that had not been asked to stand alone.
 
-Olivier writes it plainly: *"Spread across meals, chloride's toxicity is hidden by forced compensation. If the average two-day intake were consumed at once, collapse would be expected. The only difference between 'safe' and lethal exposure is distribution. A poison does not become nourishment because it is administered slowly."*
+**Source note:** Sodium appetite and reward/motivation literature: [Salt craving: the psychobiology of pathogenic sodium intake](https://pmc.ncbi.nlm.nih.gov/articles/PMC2491403/), [The biopsychology of salt hunger and sodium deficiency](https://pmc.ncbi.nlm.nih.gov/articles/PMC4433288/), and [Richter and Sodium Appetite](https://pmc.ncbi.nlm.nih.gov/articles/PMC2096615/).
+
+Olivier writes it plainly inside his toxicological frame: *"Spread across meals, chloride's toxicity is hidden by forced compensation. If the average two-day intake were consumed at once, collapse would be expected. The only difference between 'safe' and lethal exposure is distribution. A poison does not become nourishment because it is administered slowly."* I hold that as the companion essay's argument, not as mainstream nutrition terminology.
 
 ---
 
@@ -67,21 +75,21 @@ Olivier writes it plainly: *"Spread across meals, chloride's toxicity is hidden 
 
 This is the dimension that makes it hardest.
 
-You cannot eat in a restaurant. You cannot eat at most family tables. You cannot eat the food your culture considers normal, healthy, or even virtuous — the home-cooked meal, the celebration dish, the grandmother's recipe. Sodium chloride is in all of it. Not as an additive but as a structural element, the thing that makes the food taste like food to a palate that has never known its absence.
+In the strict phase, restaurants became almost impossible. Most family tables became difficult. The food my culture considers normal, healthy, or even virtuous — the home-cooked meal, the celebration dish, the grandmother's recipe — usually carried sodium chloride. Not as an incidental additive but as a structural element, the thing that makes the food taste like food to a palate that has never known its absence.
 
 The social ostracism is real. I have sat at family tables where my plate was different from everyone else's and explained, again, that I don't eat sodium chloride — and felt the particular loneliness of a dietary decision that cannot be abbreviated or justified quickly, that sounds extreme to people for whom the substance is as natural as breathing.
 
 And I have caved. When I returned home to see my family, I ate to fit in — to feel part of something, to not be the difficult one at the table, to close the distance that the practice had opened between me and the people I love. The emotional pressure of that moment was stronger than the commitment. I don't judge that now. Belonging is a real need. The longing to be accepted at the table where you were first fed is not weakness — it is one of the oldest human hungers there is. What I notice is that it would be different now. The practice is more grounded, the body more certain of what it is doing. But in that earlier stage, the emotional scaffold was not yet strong enough to hold against the pull of the family table.
 
-This is by design. The substance is in the earliest food a child receives at the family table — the innocent bite, the spoonful from the same pot. The dependency is established before there is any capacity to evaluate it. By the time there is — if there ever is — the habit is decades old and entirely normalised by every social structure around eating.
+This is how the design of the food culture functions, whether or not anyone intends it. The substance is in the earliest food a child receives at the family table — the innocent bite, the spoonful from the same pot. In the archive's reading, the dependency can be established before there is any capacity to evaluate it. By the time there is — if there ever is — the habit is decades old and normalised by every social structure around eating.
 
-The pushback you will encounter when you try to remove sodium chloride is not really about sodium chloride. It is about everything sodium chloride is carrying. The celebration. The comfort. The memory of being fed. The grandmother's recipe. The dish left on the doorstep by a neighbour who wanted to welcome you. When you decline, people do not hear "I don't eat sodium chloride." They hear something closer to "I reject what you offered me." And in many cultures that is not a dietary choice — it is a social wound.
+The pushback I encountered when I tried to remove sodium chloride was not really about sodium chloride. It was about everything sodium chloride was carrying. The celebration. The comfort. The memory of being fed. The grandmother's recipe. The dish left on the doorstep by a neighbour who wanted to welcome me. When I declined, people did not always hear "I don't eat sodium chloride." They heard something closer to "I reject what you offered me." And in many cultures that is not a dietary choice — it is a social wound.
 
 I have sat and watched myself eat food I did not want because the alternative was to hurt someone who had offered it from genuine care. I have felt the trap of that moment acutely — the food on the doorstep, the plate set in front of me, the eyes watching to see if I would receive the gift. In those moments the pressure is not coming from anywhere you can argue with. It is coming from the oldest human contract: I feed you, therefore I love you, therefore if you refuse the food you refuse the love.
 
 This is the emotional weight on the substance. It is real and it is not small.
 
-If you are attempting this transition without the understanding of the people you live with and eat with, you will spend enormous energy managing this pressure on top of everything else the body is already navigating. Some people will come around. Some will not. It is worth being honest with yourself early about which relationships can hold this change and which ones will require you to find new company — not because those people are wrong, but because the practice needs a different container than most social environments currently provide.
+When I attempted this transition without the understanding of the people I lived and ate with, I spent enormous energy managing this pressure on top of everything else the body was already navigating. Some people came around. Some did not. I had to become honest about which relationships could hold this change and which ones required a different container — not because those people were wrong, but because the practice needed a different social environment than the one I had inherited.
 
 ---
 
@@ -93,17 +101,19 @@ During extended fasting, the withdrawal does not announce itself clearly. The bo
 
 There is fatigue. There is anhedonia — a flatness, a loss of pleasure in eating that feels like something is wrong. There is a period where food that should be satisfying is not, and the body interprets this as hunger and asks for more, and more doesn't help because more of the wrong thing is not the missing thing.
 
-This can last weeks. The full restoration of the RAAS system and the ENaC channels throughout the nervous system — the body rebuilding its own electrical scaffolding — takes months. My own experience suggests two years is not an exaggeration for a body that has had high dietary chloride since childhood.
+In my experience, this can last weeks. The way I understand the longer arc — RAAS tone, epithelial sodium channels, appetite signalling, and the body rebuilding its own regulatory scaffolding — is that it takes months, not days. My own experience suggests two years is not an exaggeration for a body that has had high dietary chloride since childhood.
 
 ---
 
 ## What the Priests of Isis Knew
 
-The dietary restrictions of the temple priestesses of Isis — documented by Plutarch in the second century CE — included a strict prohibition on sodium chloride. Chloride was named *the spume of Typhon* — the exudate of chaos and destruction. No sodium chloride on the table. No sea fish. No products of the sea.
+The dietary restrictions of the temple priests of Isis — documented by Plutarch in the second century CE — included restrictions around salt and sea foods. This source field needs a direct primary-text extraction before the archive should carry the stronger wording as settled. For now, the Plutarch material belongs here as tradition-adjacent historical evidence, not as proof of the biochemical claim.
 
-Reading this now, from the other side of the transition, the prohibition is not mystical. It is pharmacological. A body preparing for the work of endogenous distillation — producing the cleanest, most volatile, most bioavailable fluid — cannot be running on a substance that hardwires the organism to an external source of electrical charge.
+Reading this now, from the other side of the transition, I read the prohibition pharmacologically rather than mystically. In the archive's hypothesis, a body preparing for the work of endogenous distillation — producing the cleanest, most volatile, most bioavailable fluid — cannot be running on a substance that hardwires the organism to an external source of electrical charge.
 
-The Caraka Samhita is equally direct: *mṛttikā-loha-bhakṣaṇaṃ tamaḥ-nimittam* — the ingestion of earth or metal arises from inertia and obscuration. Chloride is dead inorganic matter. Living tissue cannot assimilate it. The body can only compensate for it, endlessly, until the compensation becomes the baseline and the baseline is called health.
+The *Carakasaṃhitā* is not yet cleanly sourced for the stronger Sanskrit line that had been carried here. The local Sharma translation does show that Caraka treats salts as active dravyas with strong effects, that excessive salt use damages tissue and offspring, and that earth-eating appears as a pathological pattern requiring treatment. That is a useful Ayurvedic perimeter. It is not the same as a verified Caraka condemnation of sodium chloride.
+
+**Source note:** The Plutarch/Isis and Caraka passages need a targeted primary-source extraction before they can bear more weight. Local Caraka holdings: `Components/bibliography/ayurveda/Sharma-Caraka-Samhita-Vol1.pdf` and `Vol2.pdf`; current OCR checks found salt-group passages and earth-eating treatment passages, but not the quoted Sanskrit line.
 
 ---
 
@@ -127,17 +137,17 @@ They are addressed separately. This piece is about sodium chloride because sodiu
 
 ---
 
-## For Anyone Considering This
+## What I Would Have Wanted Named
 
-Start slowly. The two-year timeline is not failure. It is physiology.
+The two-year timeline was not failure. It was physiology.
 
-Do not attempt to remove sodium chloride and sugar simultaneously if you can avoid it. The collapse of both dopamine scaffolds at once is a significant physiological event.
+Removing sodium chloride and sugar at the same time was too much for my system. The collapse of both taste-and-reward scaffolds at once felt physiologically significant.
 
-Expect the fasting gap to be harder than the fast itself.
+The fasting gap was harder than the fast itself.
 
-Expect social difficulty that has nothing to do with willpower. Make peace with a different plate at the table before you begin.
+The social difficulty had very little to do with willpower. A different plate at the table asked for its own emotional container.
 
-Expect that the body will need to learn something it has not had to do since before you could speak. Be patient with that learning. It knows how. It just has not been asked.
+The body had to learn something it had not done since before speech. Patience mattered. So did humility.
 
 ---
 
