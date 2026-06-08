@@ -13,7 +13,7 @@ claim_tier: practice
 
 *The three fractions are not the same substance. They are three distinct materials produced from one input by the same process — and they want different things.*
 
-This document covers the applications specific to the distilled fractions: Solar, Lunar, and Saturn. For the raw and aged practice that precedes distillation, see: [Amaroli Protocols →](amaroli-protocols.md)
+This document covers the applications specific to the distilled forms: Pure Plasma (the whole single-run distillate), and the three separated fractions — Solar Spirit, Lunar Essence, and Saturn Serum. For the raw and aged practice that precedes distillation, see: [Amaroli Protocols →](amaroli-protocols.md)
 
 For the practical naming map, see: [Plasma Forms Taxonomy →](plasma-forms-taxonomy.md)
 
@@ -30,6 +30,29 @@ For the empirical data — measurements, yields, electrochemical profiles — se
 **Syphon always.** Sediment accumulates during aging. Syphon from the top before putting material into the distillation vessel. What goes into the apparatus matters for what comes out.
 
 **Filter if needed.** Filtering is secondary and case-dependent. When done, coffee filters are used — one at a time, filled and allowed to drip, not forced or refilled. Always syphon before filtering. The starting material entering the retort should be as clear as the aging process has made it.
+
+---
+
+## Pure Plasma
+
+The single-run whole distillate. A complete distillation run collected without separating Spirit from Essence — everything that rises is kept as one unified preparation. The Saturn serum remains in the retort as always; what is different here is that the distillate is not divided.
+
+This is currently the most used preparation in this practice. The simplicity is not a compromise — full spectrum means the volatile charge of the Spirit and the stable carrier of the Essence are present together, in the proportions the run itself produced.
+
+**Internal use**
+Primary daily drinking water. The character is active but not as concentrated as the Solar spirit alone — the full spectrum softens the edge while keeping the charge. Taken as-is, in any amount that ordinary water would be taken.
+
+**Cooking and warm drinks**
+Used directly in cooking and as the base for warm infusions — herbal teas, broths, decoctions, coffee preparation. The full distillate functions as a culinary medium; the Solar character of the Spirit does not present problems at cooking temperatures and amounts. The quality of extraction — flavor, medicine — is consistent with the Lunar essence used the same way.
+
+**Topical**
+General daily use — skin, scalp, spray application. Applied freely as an everyday topical without the focused intensity of straight Solar spirit.
+
+**Eye and ear drops**
+Used as eye and ear drops in the same way the double-distilled Lunar essence is used for this purpose elsewhere in the practice. The single-run full spectrum material is the preparation used here; no second distillation is performed.
+
+**Enema**
+Used for internal cleansing. The full spectrum distillate — Spirit charge and Essence carrier together — is the form used for enema application in the current practice.
 
 ---
 
@@ -55,7 +78,7 @@ Used heavily diluted in pure water for washing and soaking grains before cooking
 
 ## The Lunar Essence
 
-The clear middle water. What follows the Solar spirit after the initial volatile surge settles. Lower conductivity, still alkaline, quiet in character. If the Solar is the charge, the Lunar is the carrier — stable, refined, the bulk of the distillate.
+The clear middle water. What follows the Solar spirit after the initial volatile surge settles. Lower conductivity, still alkaline, quiet in character. If the Solar Spirit is the charge, the Lunar Essence is the carrier — stable, refined, the bulk of the distillate.
 
 The Lunar essence is what most people would recognize as the distillate. It is the clear, frictionless water that the practice produces. In repeated distillation runs, it becomes progressively cleaner — conductivity dropping toward the 100–200 µS/cm range and below.
 
@@ -72,7 +95,7 @@ Gentle daily use. Facial cleansing, hair, skin — anywhere on the body. Lower a
 With sustained use of the Lunar essence as daily drinking water, appetite begins to shift — less urgency, a quality of deep nourishment that ordinary food and water was not reaching. This connects directly to the ojas circuit described in [Two Distillates →](../00-orientation/two-distillates.md). The full picture of how the Lunar essence relates to diet — in combination with ghee and well-cooked grains — belongs in its own piece. See: [The Ambrosia Diet →](ambrosia-diet.md)
 
 **Botanical infusion base**
-Combined with dried herbs at low simmer — triphala, ashwagandha, brahmi, cumin, fennel. The structured water carries the medicine differently from tap water. This is observational, not a clinical claim.
+Combined with dried herbs at low simmer — triphala, ashwagandha, brahmi, cumin, fennel. The structured water carries the medicine differently from pure water. This is observational, not a clinical claim.
 
 **Combined with ghee**
 The Lunar essence used with ghee in soft-simmer preparation. This is the Two Distillates circuit in practice: the internal distillate and the external distillate meeting in the same preparation. See: [Two Distillates →](../00-orientation/two-distillates.md)
@@ -114,7 +137,9 @@ Diluted or used directly as a cloth compress applied to the body.
 
 ## Notes on Sequential Use
 
-The three fractions can be worked in sequence as part of a single integrated protocol — Solar for its charge and activity, Lunar as the daily carrier and culinary water, Saturn for topical structural work. This is not a requirement. Many runs are used partially or in a single mode. The three-fraction model is the complete picture; how much of it is enacted at any time depends on what the practice is asking for.
+The three fractions can be worked in sequence as part of a single integrated protocol — Solar Spirit for its charge and activity, Lunar Essence as the daily carrier and culinary water, Saturn Serum for topical structural work. This is not a requirement. Many runs are used partially or in a single mode. The three-fraction model is the complete picture; how much of it is enacted at any time depends on what the practice is asking for.
+
+Pure Plasma — the whole undivided distillate — is a legitimate and often primary form of the practice. It carries the same material in one vessel. Not a simplification of the full protocol so much as a different relationship to it: the spectrum whole rather than the spectrum parsed.
 
 The practice of combining the purified fractions belongs to the reunion language named in the [Plasma Forms Taxonomy](plasma-forms-taxonomy.md) and the alchemical *Chymical Wedding* described in the [Translation Map](sovereign-biophysics-translation-map.md). Working with all three simultaneously is the advanced form of the practice.
 
