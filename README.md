@@ -6,7 +6,7 @@ What matters most is the path of Heart.
 
 ---
 
-Ana Seahawk is an Amaroli practitioner and field researcher whose primary site of inquiry is her own living body.
+Ana Seahawk is an Amaroli practitioner [since April 3, 2022] and field researcher whose primary site of inquiry is her own living body.
 
 This archive is the record of that inquiry, and home of the original research into the biochemistry and history of endogenous distillation.
 
@@ -22,7 +22,7 @@ The Living Record holds the practitioner's account: the life behind the archive,
 
 The private Vessel is the protected source container for material that needs context, consent, or relationship before it can be read.
 
-[Private Vessel Access →](The-Vessel/portal.md)
+[The Vessel Portal →](The-Vessel/portal.md)
 
 ---
 
