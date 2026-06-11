@@ -101,7 +101,7 @@ The vessel is the bridge term. In alchemy, it is the flask or retort. In Ayurved
 | Separation | solve | *pāka* / refinement | distillation / fractionation | sorting across thresholds | distinction becomes felt |
 | Volatile fraction | spirit / Solar | *tejas* / upward fire | early volatile distillate | fast-moving signal | sharpness, brightness |
 | Carrier fraction | Mercury / Lunar | soma / carrier essence | clear middle fraction | medium of continuity | quiet clarity |
-| Fixed remainder | salt / Saturn | dense essence | retentate / mineral load | retained structure | weight, residue |
+| Fixed remainder | salt / Saturn | serum | retentate / mineral load | retained structure | weight, residue |
 | Repetition | flying the eagle | *bhāvana* | repeated processing | recursive loop | familiarity |
 | Completion | *lapis* / quintessence | ojas | integrated pattern | coherent adaptation | the body recognizes itself |
 
