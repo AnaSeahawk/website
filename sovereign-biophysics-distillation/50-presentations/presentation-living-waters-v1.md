@@ -12,15 +12,17 @@ format: 60 min online
 
 # The Living Waters: Sovereign Biophysics and the Body's Original Distillation
 
-*Presentation — Draft V6*
+*Presentation — Draft V7*
 
 ---
 
 ## The Body as Distillery
 
-Life begins in fluid.
+Life begins in a vessel of fluid.
 
-Before breath, before food, before independent elimination, the body is already living inside a circulating water world. From around sixteen weeks of gestation, amniotic fluid is predominantly fetal urine. The fetus swallows it, processes it through its own kidneys, exhales and inhales it through the developing lungs, and returns it to the sac. The first environment begins as a fluid exchange between bodies.
+Before the jar, before the flask, before the still, the body is held inside a living container. The womb is boundary, field, and exchange surface at once. It surrounds the developing body and creates the first ecology in which the body meets circulation, transformation, and return.
+
+From around sixteen weeks of gestation, amniotic fluid is predominantly fetal urine. The fetus swallows it, processes it through its own kidneys, exhales and inhales it through the developing lungs, and returns it to the sac. The first environment is not solid ground. It is living water, held in relationship between bodies.
 
 The body is a distillery before it has language for distillation.
 
@@ -88,10 +90,12 @@ Alchemy speaks through vessel, fire, volatile spirit, fixed salt, and the return
 
 Each language makes a different layer visible.
 
+The vessel is the bridge term. In alchemy, it is the flask or retort. In Ayurveda, it is the body's containing cavity, the *koshtha*. In physiology, the first vessel is the womb: a living boundary that holds fluid exchange, growth, filtration, and return. In systems language, the vessel is the boundary condition that makes a process coherent. In phenomenology, it is the felt field that allows something to be held long enough to change.
+
 | Process | Alchemy | Ayurveda | Physiology | Systems biology | Phenomenology |
 | --- | --- | --- | --- | --- | --- |
 | Source material | *prima materia* | *rasa* | body fluid / filtrate | system output | what the body gives |
-| Vessel | retort / flask | *koshtha* | organ cavity / container | boundary condition | held field |
+| Vessel | retort / flask | *koshtha* | womb / living vessel | boundary and exchange field | held field |
 | Fire | heat beneath the retort | *agni* | metabolism / thermal process | activation energy | intensity |
 | Time transformation | putrefaction / *nigredo* | *āsava* | fermentation / microbial change | phase transition | ripening |
 | Separation | solve | *pāka* / refinement | distillation / fractionation | sorting across thresholds | distinction becomes felt |
@@ -190,6 +194,8 @@ The historical traditions become useful when they sharpen observation. The instr
 What is being built here is a field of disciplined noticing, held with enough temporal precision for recurrence to become visible.
 
 A single reading gives information. Repeated readings give pattern. Solar and lunar indexing shows where those patterns return.
+
+The first vessel is the living body. The jar, the flask, and the still extend a process already underway.
 
 The body is already conducting the experiment. The work is learning how to witness it.
 
