@@ -169,6 +169,8 @@ The record can hold many layers:
 
 Dates allow sequence. Cycle markers allow comparison. Repeated observations become comparable when the archive can see where they return: dawn to dawn, lunation to lunation, season to season, collection to distillation, body state to body state.
 
+The womb remains one of the body's clearest examples of cyclical intelligence. It does not simply contain life at the beginning; it continues to express rhythms of preparation, transformation, release, and renewal throughout reproductive life.
+
 The menstrual cycle gives one obvious rhythm: menstruation, follicular rise, ovulation, luteal deepening, return. Alchemical language might call these movements *nigredo*, *albedo*, *citrinitas*, and *rubedo*. Physiology names endocrine and tissue changes. Phenomenology names how the body actually feels as those changes pass through lived experience.
 
 The lunar cycle gives another rhythm. A twenty-eight day aged plasma cycle places the collected material in relationship with time outside the body, while the body continues its own changes inside the same period. The comparison becomes part of the record: what was collected, what changed in the jar, what changed in the body, what the still revealed, what the following days carried.
