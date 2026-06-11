@@ -72,7 +72,7 @@ The yogic and monastic references matter in the same way. The *Hatha Yoga Pradip
 
 Ayurveda gives another vocabulary. *Rasa* names fluid essence. *Agni* names transformative fire. *Āsava* preserves the intelligence of fermented preparations. *Bhāvana* recognizes repeated processing as a way of deepening the relationship between substance and medium. These correspondences describe a body that changes matter through time, heat, rhythm, and attention.
 
-The center is continuity of observation.
+***The center is continuity of observation.***
 
 ---
 
