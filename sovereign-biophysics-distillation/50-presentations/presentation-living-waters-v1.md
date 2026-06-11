@@ -94,13 +94,17 @@ The ouroboros — the serpent eating its own tail — is not symbol. It is biolo
 **Prepare your material before it enters the vessel.**
 Syphon or filter your fluid before it goes into the distiller. Biological fluids carry sediment, particulate, and material that does not belong in the distillation vessel. What you put in determines what comes out. A clean starting material gives you a clean process. This is the first act of the work — not the heat, not the watching, but the preparation. The alchemists called it *nigredo*: sorting, separating, beginning with what is actually there.
 
+The state of the starting material belongs in the reading of the run. Fresh plasma means material distilled within twenty-four hours of collection. Aged or evolved plasma means material held through a lunation cycle, approximately twenty-eight days. The interval between them is active transformation: raw plasma digesting, fermenting, changing its volatile load and its fixed matrix.
+
+Fresh, transitional, and aged material behave differently in the still. Fresh material still carries more intact structure and asks the heat to begin the first breakdown. Aged material has already been worked by time. Both the amount and intensity of the Solar spirit can change with age and storage: capped aged material often retains more volatile chemistry, while breathable aging can soften the first fraction because some of the spirit has already left the jar. The Saturn serum from aged material also tends to be richer and more workable. Each state is a different starting material.
+
 **Work in small batches.**
 The alchemists did not work at industrial scale. Small batches allow attention. They allow you to stay present with what is happening. The quality of attention is part of the process.
 
 **Headspace is not optional.**
 Leaving space in the vessel is a foundation of alchemy. A vessel filled to the top cannot breathe. The work needs room to move, to rise, to separate. This is true in glass and true in the body.
 
-Biological material foams as it heats. The foam rises. If you have not left enough space in the chamber, it reaches the condenser — and what arrives in your collection vessel is not clear distillate. It is contaminated. A clean run produces a completely clear fluid. If foam has entered the condenser, the run is not ruined — it can be corrected by running the distillate through again. The second pass clears what the first pass carried over. The alchemists called this flying the second eagle. It is not a failure. It is part of the process. But starting with adequate headspace — filling the chamber to half capacity at most — gives the work room to foam without that foam becoming the distillate.
+Biological material foams as it heats. The foam rises. Transitional material — older than fresh and still moving toward the lunation point — can foam more aggressively because the transformation is already underway and the volatile fraction is beginning to form. If you have not left enough space in the chamber, foam reaches the condenser, and what arrives in your collection vessel is not clear distillate. It is contaminated. A clean run produces a completely clear fluid. If foam has entered the condenser, the run is not ruined — it can be corrected by running the distillate through again. The second pass clears what the first pass carried over. The alchemists called this flying the second eagle. It is not a failure. It is part of the process. But starting with adequate headspace — well under half capacity for raw first runs, and smaller again when the material is actively transforming — gives the work room to foam without that foam becoming the distillate.
 
 The start of the run requires the most attention. As the material first comes to heat, the foaming is at its most active. You can manage this directly: remove the machine from the heat — switch it off — and allow the foam to settle back down. Then return the heat. Repeat this a few times in the opening phase until the material has stabilised and the foaming subsides. After that, the run proceeds smoothly on its own. The opening minutes are the part that needs you present.
 
@@ -158,10 +162,12 @@ What you are doing is the work. The record you keep is the science.
 - [Inanna: She Who Contains All](../00-orientation/inanna-she-who-contains-all.md) — the myth as science, deep biophysical reading
 - [Two Distillates](../00-orientation/two-distillates.md) — ghee, plasma, and the external circuit
 - [The Distillery in the Field](../00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy
+- [Before You Begin](../10-method/before-you-begin.md) — practical distillation notes on ventilation, fill level, foaming, storage, and fraction handling
 - [Plasma Forms Taxonomy](../10-method/plasma-forms-taxonomy.md) — practical map of source forms, fractions, retentate, blends, and reunion
 - [Translation Map](../10-method/sovereign-biophysics-translation-map.md) — symbolic and alchemical vocabulary
 - [Amaroli Protocols](../10-method/amaroli-protocols.md) — observation sequence detail
 - [Thesis: Endogenous Alchemy](../00-orientation/thesis-endogenous-alchemy.md) — the empirical record, one run documented in full
+- [Fresh vs Aged Distillation](../30-analysis/analysis-fresh-vs-aged-distillation.md) — comparative analysis of fresh and aged run behaviour
 - [Observation protocol handout](../10-method/observation-protocol-handout.md) — field record template for a distillation run
 
 *[← Back to Index](../README.md)*
