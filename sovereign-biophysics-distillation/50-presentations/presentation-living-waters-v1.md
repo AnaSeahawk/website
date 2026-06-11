@@ -12,153 +12,181 @@ format: 60 min online
 
 # The Living Waters: Sovereign Biophysics and the Body's Original Distillation
 
-*Presentation — Draft V4*
+*Presentation — Draft V5*
 
 ---
 
-## The ground
+## The Body as Distillery
 
-Every person in this room was assembled inside urine. This is not provocation. It is developmental biology.
+Life begins in fluid.
 
-From around sixteen weeks of gestation, amniotic fluid is predominantly fetal urine. The fetus swallows it — up to a litre a day near term — processes it through its own kidneys, and excretes it back into the sac. Continuously. The lungs develop by breathing it in and out. The gut, the skin, the kidneys themselves — every organ system that will sustain independent life develops inside this fluid, in ongoing relationship with this fluid. We are not built and then introduced to the living waters. We are assembled from them. The body already knows this, at the cellular level, before it has any language at all.
+Before breath, before food, before independent elimination, the body is already living inside a circulating water world. From around sixteen weeks of gestation, amniotic fluid is predominantly fetal urine. The fetus swallows it, processes it through its own kidneys, exhales and inhales it through the developing lungs, and returns it to the sac. The first environment begins as a fluid exchange between bodies.
 
-Something is already happening in you. It was happening before you had a name for it. This presentation offers a map — not to begin, but to make legible what is already underway.
+The body is a distillery before it has language for distillation.
 
-The body is a distillery. The kidney filters, concentrates, and returns. The cycle closes back to itself. What moves through that loop is not waste. It is the living waters — a solution that is hormonal, peptide, bioelectric — carrying the specific signature of the body that produced it. Paracelsus named this the *mumia*: the vital force present and active in the body's own fluid, the living signature of the body that produced it. Modern measurement can now show what the alchemists encoded: this fluid conducts, holds charge, responds.
+It separates. It concentrates. It recirculates. It transforms what it receives and reveals something about the state of the whole organism in what it releases. The kidneys are only the clearest example. The liver changes compounds so they can move. The lungs exchange gases and water. The gut extracts, ferments, and eliminates. The skin opens and salts the surface. The lymph moves slowly through the interior terrain. The menstrual cycle builds, ripens, sheds, and begins again.
 
-Three traditions name what is happening. Ayurveda calls it *rasa* — the first refined essence, the body's own juice, from which all deeper refinement proceeds. Alchemy calls the raw material the *prima materia* — the first matter, humble and overlooked, found everywhere, valued by almost no one. Physiology describes a filtrate that is not random waste but a selective portrait of the body's internal state at the moment it was made. Same substance, three ways of knowing it.
+The body produces fluids by continuously refining itself through them.
 
-The practice has a sequence. The living waters are first allowed to age — what the community calls *evolved* or *aged* material, held over a lunation cycle, approximately twenty-eight days, while the material transforms. This is not waiting. This is the first stage of the work. The alchemists called it *putrefaction* — the necessary dissolution before refinement can begin. Ayurveda has an entire science of fermented preparations, *āsava*, where the most potent medicines are those that have undergone this patient transformation. The twenty-eight day hold is not arbitrary convention. It mirrors the lunar cycle — the same rhythm the body already runs. The fluid ages in attunement with the same period that governs the body's own monthly alchemical sequence. The material that enters distillation is not the same material that was collected. It has already begun to move.
+Sovereign Biophysics begins here: with the living body as an ongoing process of concentration and disclosure. What leaves the body carries the life that made it: timing, diet, hydration, stress, rest, season, practice, environment, and cycle phase. A fluid is a record. A measurement is one way of reading it. Sensation is another. Repetition over time is what turns a single reading into a pattern.
 
-What distillation does is carry that process further — concentrating, separating, refining. This presentation is about that second stage: the fire, the vessel, the watching.
-
----
-
-## The lineage
-
-This practice has a history that was deliberately obscured.
-
-Mary the Jewess — Miriam the Prophetess — is credited in the Alexandrian record with inventing the foundational apparatus of distillation: the tribikos, the kerotakis, the bain-marie. She was working in the third century CE and she was working with living matter. The apparatus she described mirrors the renal architecture with precision that cannot be coincidental. The kidney is the retort. The ureter is the receiving arm. The loop is the closed vessel. And the sealed flask — steady heat, held transformation in darkness, the volatile preserved until the moment of opening — is the womb. She was encoding both at once.
-
-What the women of the Alexandrian school knew was later absorbed, attributed elsewhere, or erased through a language we now call hygiene. The cord, the placenta, the colostrum, the cycle itself — all reclassified as waste or contamination. The mechanism of erasure was clinical. The knowledge survived in code.
-
-Alchemical encoding was the survival strategy. When the language of fire and metals and ascending birds replaced the plain language of the body, the knowledge went underground. This presentation is part of bringing it back into the open.
+Distillation, in this frame, becomes a biological principle made visible by a vessel.
 
 ---
 
-## The thesis
+## Recognizing the Process
 
-The practices are for the medicine. This is the center of what this archive documents, and it is what is missing from almost every transmission of these traditions.
+Living systems survive by moving matter through thresholds.
 
-The Hatha Yoga Pradipika's Chapter 3 is the mudra chapter. Khechari, uddiyana, mula bandha, pranayama — these are taught in certification programs, lineage schools, advanced trainings. Chapter 3 also contains, in sequence, in the same chapter: vajroli mudra, amaroli, and sahajoli. Vajroli preserves and returns the sexual fluid, drawn back upward through the body's channels rather than lost in expenditure. Amaroli follows immediately: drinking the midstream of the first morning urine. *Amara* — immortal. The same root as amrita, ambrosia, the deathless nectar that khechari is specifically designed to catch and preserve. The HYP names the substance, gives it a lineage, and places the practice in sequence with the others. It is not in a separate text. It is not encoded. It is there.
+Water crosses membranes. Minerals concentrate and disperse. Volatile compounds rise and leave. Heavier matter remains, settles, binds, or is transformed for removal. Heat changes what is available. Time changes what is stable. The body is always sorting the subtle from the dense, the usable from the finished, the signal from the load.
 
-The Pali Canon is even more direct. The Mahavagga's medicine section is addressed to monks at ordination — before any meditation instruction, before any lineage transmission. Among the four foundational supports of the ordained life: *pūtimuttabhesajja* — fermented urine medicine. Alongside robes, alms food, and shelter at the foot of a tree. The preceptor says: *"For the rest of your life you are to endeavour at that."* Not chapter three of an esoteric text reserved for adepts. The first instruction. The fourth leg of the foundation given at ordination, before any other teaching.
+This is visible everywhere in physiology. The kidney filters blood plasma, reabsorbs what the body is keeping, concentrates what is leaving, and returns the rest to circulation. The gut breaks food down into absorbable fractions and gives the microbial world time to do its own transformation. Breath refines the blood through exchange. Sweat carries heat and salts outward. Menstruation concentrates a month's endocrine, vascular, emotional, and metabolic weather into a visible threshold event.
 
-Both texts are unchanged. Neither has issued a revision.
+The same pattern appears ecologically. Clouds distill the sea. Soil filters rain through mineral, root, fungal, and microbial intelligence. Plants draw water upward, concentrate minerals, volatilize fragrance, and return moisture to the air. Fermentation changes a substance by placing it in relationship with time and microbial life. Compost turns what has fallen away into the next form of nourishment.
 
-The part that is difficult to sit with: the practitioners are already making it.
+The body belongs to these cycles.
 
-The body does not wait for permission. The years of pranayama are building the internal fire that refines what the kidneys produce. The khechari practitioner conditioning the tongue to catch the descending nectar has no idea the urine is the other end of the same system. The monk in robes, eating alms food, observing every precept — that body is producing the fourth foundational support every single morning. The vow was taken. The body kept it. The medicine goes into the drain.
+The recurring pattern is simple:
 
-The cultivation is not failing. The more dedicated the practice, the more refined what is being discarded. This is not a gap in advanced attainment. The fourth support is unknown to most people who received it on their first day.
+| Movement | Biological expression | Ecological expression |
+| --- | --- | --- |
+| Separation | filtration, digestion, membrane exchange | rain, soil percolation, sedimentation |
+| Concentration | urine, bile, sweat, menstrual blood | sap, mineral deposits, brine, resin |
+| Transformation | fermentation, metabolism, oxidation-reduction | compost, decay, ripening, evaporation |
+| Return | reabsorption, circulation, feedback loops | watershed cycles, atmospheric return |
+| Record | fluid chemistry, scent, texture, sensation | rings, strata, soil profile, bloom |
 
----
-
-## The translation
-
-Three vocabularies, one process.
-
-| Alchemy                  | Ayurveda                               | Physiology                       |
-| --------------------------| ----------------------------------------| ----------------------------------|
-| Prima materia            | Rasa (fluid / essence)                 | Body's original biological juice |
-| Putrefaction / nigredo   | Āsava (fermented preparation)          | Aged / evolved material          |
-| Retort                   | Koshtha (body cavity / vessel)         | Kidney / distillation vessel     |
-| Fire beneath the retort  | Agni (digestive fire)                  | Metabolic heat                   |
-| Solve et coagula         | Pāka (transformation through heat)     | Distillation cycle               |
-| Albedo (whitening)       | Śodhana (purification)                 | Clarification through heat       |
-| Solar / lunar separation | Sūrya / Chandra                        | Spirit and Essence fractions     |
-| Flying the eagle         | Udāna Vāyu (upward-moving vital force) | First distillate rising          |
-| Second distillation      | Bhāvana (repeated processing)          | Double distillation              |
-| Lapis (the stone)        | Ojas                                   | Refined, sovereign essence       |
-
-The ouroboros — the serpent eating its own tail — is not symbol. It is biological diagram. The closed loop of reabsorption. The body recognising its own intelligence and drawing it back in. What distillation yields — the concentrated, clarified essence — Paracelsus called the *quinta essentia*: the fifth element, the healing virtue freed from its gross matrix. The body's vital intelligence, purified. This is what the *lapis* and *ojas* columns are reaching toward. Not a substance added from outside, but the body's own distillate, returned to itself.
+The body is always making readings. The question is whether anyone is watching long enough to learn its language.
 
 ---
 
-## The process — notes from practice
+## Historical Observers
 
-*These are observations from my own work. They are offered as orientation, not instruction. Each body is different. The work teaches itself.*
+The historical traditions matter because they show that people have watched these processes before.
 
-*What goes into the vessel is already shaped by what the body has been doing upstream — diet, breath, movement, cultivation. The quality of what the still separates is downstream of months of practice. The connection between what practitioners are already doing and what the still produces is developed in [Refining the Source →](../10-method/refining-the-source.md).*
+Alchemy, Ayurveda, yogic practice, monastic medicine, folk medicine, and women's body knowledge each developed languages for the same family of observations: fluids change with time; heat separates; fermentation reveals hidden potency; refined practice changes what the body produces; cycles matter; the vessel matters; the observer matters.
 
-**Prepare your material before it enters the vessel.**
-Syphon or filter your fluid before it goes into the distiller. Biological fluids carry sediment, particulate, and material that does not belong in the distillation vessel. What you put in determines what comes out. A clean starting material gives you a clean process. This is the first act of the work — not the heat, not the watching, but the preparation. The alchemists called it *nigredo*: sorting, separating, beginning with what is actually there.
+Mary the Jewess — Miriam the Prophetess — is remembered in the Alexandrian record for foundational distillation apparatus: the tribikos, the kerotakis, the bain-marie. Her work matters here because it places the vessel, the heat, the rising fraction, and the receiver inside a lineage of direct observation. The apparatus is a way of looking. It makes the hidden separation visible.
 
-The state of the starting material belongs in the reading of the run. Fresh plasma means material distilled within twenty-four hours of collection. Aged or evolved plasma means material held through a lunation cycle, approximately twenty-eight days. The interval between them is active transformation: raw plasma digesting, fermenting, changing its volatile load and its fixed matrix.
+The yogic and monastic references matter in the same way. The *Hatha Yoga Pradipika* places amarolī in sequence with practices that cultivate internal heat, retention, and upward movement. The Pali Canon preserves *pūtimuttabhesajja* — fermented urine medicine — as a foundational support of ordained life. These references show earlier observers recognizing the body's own fluids as part of a larger field of discipline, refinement, and medicine-making.
 
-Fresh, transitional, and aged material behave differently in the still. Fresh material still carries more intact structure and asks the heat to begin the first breakdown. Aged material has already been worked by time. Both the amount and intensity of the Solar spirit can change with age and storage: capped aged material often retains more volatile chemistry, while breathable aging can soften the first fraction because some of the spirit has already left the jar. The Saturn serum from aged material also tends to be richer and more workable. Each state is a different starting material.
+Ayurveda gives another vocabulary. *Rasa* names fluid essence. *Agni* names transformative fire. *Āsava* preserves the intelligence of fermented preparations. *Bhāvana* recognizes repeated processing as a way of deepening the relationship between substance and medium. These correspondences describe a body that changes matter through time, heat, rhythm, and attention.
 
-**Work in small batches.**
-The alchemists did not work at industrial scale. Small batches allow attention. They allow you to stay present with what is happening. The quality of attention is part of the process.
+The center is continuity of observation.
 
-**Headspace is not optional.**
-Leaving space in the vessel is a foundation of alchemy. A vessel filled to the top cannot breathe. The work needs room to move, to rise, to separate. This is true in glass and true in the body.
+---
 
-Biological material foams as it heats. The foam rises. Transitional material — older than fresh and still moving toward the lunation point — can foam more aggressively because the transformation is already underway and the volatile fraction is beginning to form. If you have not left enough space in the chamber, foam reaches the condenser, and what arrives in your collection vessel is not clear distillate. It is contaminated. A clean run produces a completely clear fluid. If foam has entered the condenser, the run is not ruined — it can be corrected by running the distillate through again. The second pass clears what the first pass carried over. The alchemists called this flying the second eagle. It is not a failure. It is part of the process. But starting with adequate headspace — one-quarter capacity at most for raw first runs, and smaller again when the material is actively transforming — gives the work room to foam without that foam becoming the distillate.
+## Translation Across Languages
 
-The start of the run requires the most attention. As the material first comes to heat, the foaming is at its most active. You can manage this directly: remove the machine from the heat — switch it off — and allow the foam to settle back down. Then return the heat. Repeat this a few times in the opening phase until the material has stabilised and the foaming subsides. After that, the run proceeds smoothly on its own. The opening minutes are the part that needs you present.
+Different knowledge systems describe the same movements from different positions.
 
-**Stay with the work.**
-Alchemy is presence. This is not bread in an oven with a timer. You cannot walk away and return when it is ready. The work asks you to watch — the temperature, the behaviour of the condensate, the quality of what is rising. Women work like this naturally. The attentive, relational mode of knowing is not a softness. It is the method.
+Alchemy speaks through vessel, fire, volatile spirit, fixed salt, and the return of separated parts. Ayurveda speaks through essence, digestion, transformation, repeated processing, and ojas. Physiology speaks through filtration, metabolism, endocrine signaling, electrolyte balance, microbial activity, and renal concentration. Systems biology speaks through feedback loops, nested cycles, thresholds, adaptation, and emergent pattern. Phenomenology begins with what is directly registered: taste, scent, texture, warmth, clarity, dream, mood, aversion, receptivity.
 
-**Watch what comes into the condenser.**
-If anything other than clear condensate rises into the distillation chamber, you are getting a dirty distillation. This is information. It tells you the temperature ran too high, or the batch was not ready, or the vessel was overfilled. The response is not to push through — it is to reduce heat, allow things to calm, and let the separation complete itself cleanly.
+Each language makes a different layer visible.
 
-**The second eagle — why to fly it, and how to read the run.**
-A single distillation concentrates. A second distillation refines. This is why the alchemists spoke of flying the second eagle — running the distillate back through the process again. The subtle becomes more subtle. The Solar spirit and the Lunar essence become distinct. What was mixed becomes legible as two things. In Ayurvedic terms this is *bhāvana* — repeated processing to refine the essence at each pass. The body itself works this way: nothing is refined in a single pass.
+| Process | Alchemy | Ayurveda | Physiology | Systems biology | Phenomenology |
+| --- | --- | --- | --- | --- | --- |
+| Source material | *prima materia* | *rasa* | body fluid / filtrate | system output | what the body gives |
+| Vessel | retort / flask | *koshtha* | organ cavity / container | boundary condition | held field |
+| Fire | heat beneath the retort | *agni* | metabolism / thermal process | activation energy | intensity |
+| Time transformation | putrefaction / *nigredo* | *āsava* | fermentation / microbial change | phase transition | ripening |
+| Separation | solve | *pāka* / refinement | distillation / fractionation | sorting across thresholds | distinction becomes felt |
+| Volatile fraction | spirit / Solar | *tejas* / upward fire | early volatile distillate | fast-moving signal | sharpness, brightness |
+| Carrier fraction | Mercury / Lunar | soma / carrier essence | clear middle fraction | medium of continuity | quiet clarity |
+| Fixed remainder | salt / Saturn | dense essence | retentate / mineral load | retained structure | weight, residue |
+| Repetition | flying the eagle | *bhāvana* | repeated processing | recursive loop | familiarity |
+| Completion | *lapis* / quintessence | ojas | integrated pattern | coherent adaptation | the body recognizes itself |
 
-In practice, the distillate separates into two distinct fractions and the run itself tells you when to capture them separately. Once roughly a quarter of the expected volume has collected, take a taste with a clean spoon. The first fraction carries a sharp, solvent quality: strong, fast, unmistakable. This is the Solar spirit — the volatile leading fraction, high alkalinity, the most active of the three streams. When the character softens and the sharpness lifts, the run has moved into the Lunar essence: lighter, cleaner, more refined. The aroma shifts as well — the quality of what is rising becomes noticeably quieter. Swap the collection vessel at that transition and you have captured two distinct substances from a single run. What you do with each of them is different. Label both.
+This translation is a map of registers. It keeps terms in relation without making them identical. The value is in the overlap. When different languages keep pointing toward separation, concentration, transformation, and return, the pattern becomes a shared observation.
 
-**The Solar spirit and Lunar essence — reading the separation.**
-The first fraction that rises is volatile, light, fast. The later fraction is slower, heavier, more fixed. The alchemists named these Solar and Lunar — not as mysticism but as description. The Solar spirit and the Lunar essence behave differently. They have different qualities. Noticing when the character of what is coming over changes is one of the core skills of this work. You learn it by watching.
+The ouroboros — the serpent eating its own tail — can be read as an image of this recursion. The body receives from itself, changes what it receives, and returns information to the system. The loop is biological before it is symbolic.
 
-**Know when to stop — and how to stop cleanly.**
-The machine has an automatic shutoff, and it will halt the run when the chamber is nearly dry. This is useful. But there are reasons to stop manually: to preserve the Saturn serum while it is still fluid and workable, or simply to make cleaning easier before the residue has baked onto the chamber walls. The difficulty is knowing how much remains inside without opening the vessel mid-run. The solution is simple: measure your input volume before you begin, and make a mark on the collection jar at that volume. As the distillate accumulates in the jar, you are watching the mirror image of what remains in the chamber. When the distillate reaches your mark, you have distilled your full input volume — the chamber is effectively empty. If you want to stop earlier and retain a Saturn fraction, mark the jar at a lower volume accordingly and halt the run when it hits that line.
+---
 
-**Temperature is the instrument.**
-The alchemists did not have thermometers. They read the work — the sound of the liquid, the behaviour of the condenser, the quality of the vapour. You can use modern measurement and still develop this sensitivity. They are not opposed. If something is rising that should not be rising, remove the heat. Let it settle. Return slowly. Stay in control of the process — the process does not control you.
+## Distillation in Practice
 
-**The intuitive dimension.**
-This is not mysticism — it is pattern recognition developed through close attention over time. The body knows when something has shifted. The work becomes familiar in a way that is difficult to articulate but unmistakable in practice. Trust that. It is data. This knowing has an anatomical home — in the pelvic bowl, in the fluid body, in the slow biological intelligence that precedes and exceeds analysis. Learning to work with it is not a departure from rigour. It is learning the instrument.
+The still gives the body's hidden separations a visible edge.
+
+These observations come from one practitioner's record. They are offered as field notes rather than instruction. Each body, diet, season, storage method, and state of practice changes the material. The apparatus reveals the specific material placed into it.
+
+What goes into the vessel is already shaped upstream: diet, breath, movement, hydration, sleep, emotional weather, cycle phase, environment, and cultivation. The distillation run is not isolated from life. It is a reading of life at a particular moment.
+
+The state of the starting material matters.
+
+Fresh plasma means material distilled within twenty-four hours of collection. Aged or evolved plasma means material held through a lunation cycle, approximately twenty-eight days. The interval between them is active transformation: raw plasma digesting, fermenting, changing its volatile load and its fixed matrix.
+
+Fresh, transitional, and aged material behave differently in the still. Fresh material still carries more intact structure and asks the heat to begin the first breakdown. Transitional material can foam more aggressively because the transformation is already underway and the volatile fraction is beginning to form. Aged material has already been worked by time. Both the amount and intensity of the Solar spirit can change with age and storage: capped aged material often retains more volatile chemistry, while breathable aging can soften the first fraction because some of the spirit has already left the jar. The Saturn serum from aged material also tends to be richer and more workable. Each state is a different starting material.
+
+Field observations so far:
+
+- A clean run produces clear distillate. Foam in the condenser means the chamber carried material upward before separation completed.
+- Raw first runs require generous headspace: one-quarter capacity at most, and smaller again when the material is actively transforming.
+- The first minutes carry the most volatile behavior. Foam, scent, and condenser activity are part of the reading.
+- A second pass can clarify what the first pass carried over. In alchemical language, this is the second eagle.
+- The early fraction is sharper, faster, more chemically expressive. This is the Solar spirit.
+- The middle fraction is quieter and clearer. This is the Lunar essence.
+- The fixed remainder stays in the chamber. This is the Saturn serum or retentate.
+- Fresh and aged inputs may require different numbers of passes and produce different retentate behavior.
+
+Measurement gives the observation another layer: pH, ORP, electrical conductivity, TDS, temperature, volume, fraction timing. Phenomenology gives another: scent, taste, texture, foam, clarity, the quality of what rises, the body's response in the hours and days after the work.
+
+Neither layer replaces the other. Instruments record what they can measure. The body records relationship.
 
 ---
 
 ## The Living Year
 
-One cycle is not enough to understand what you are working with. The body changes across a full year — seasonally, hormonally, in response to what you eat, how you sleep, what you carry. A full year of observation gives you the range. What changes, what stays constant, what correlates with what.
+One run gives a reading. A month gives a pattern. A year gives the range.
 
-The body also performs its own alchemical sequence monthly — menstruation as nigredo, the follicular phase as albedo, ovulation as citrinitas, the luteal phase as rubedo. This is the complete four-stage alchemical cycle, run continuously, timed to the lunar rhythm. The living year contains approximately thirteen of these cycles. Learning to read the quality of your material in relation to where you are in the cycle is one of the deeper refinements of this practice.
+The Living Year is the methodological heart of this work. It treats one body, one environment, one cycle of seasons, and one sustained field of attention as a legitimate observational frame. The aim is learning what a single body reveals when it is witnessed with enough continuity.
 
-This is the Living Year as metric: not a calendar, but a complete cycle of the body's own rhythms observed from inside the practice.
+The record can hold many layers:
+
+| Layer | What is observed |
+| --- | --- |
+| Calendar | date, season, location, solar and lunar timing |
+| Body state | sleep, appetite, energy, cycle phase, pain, ease, arousal, fatigue |
+| Input | diet, water source, herbs, salt, stimulants, fasting, movement, breath |
+| Output | volume, color, scent, sediment, foam, pH, ORP, EC, TDS |
+| Practice | meditation, breathwork, movement, abstinence, intimacy, ritual, rest |
+| Distillation | source age, storage method, fraction timing, headspace, retentate behavior |
+| Phenomenology | mood, dreams, clarity, aversion, receptivity, intuition, relational field |
+| Environment | weather, travel, altitude, humidity, land, household, social field |
+
+The menstrual cycle gives one obvious rhythm: menstruation, follicular rise, ovulation, luteal deepening, return. Alchemical language might call these movements *nigredo*, *albedo*, *citrinitas*, and *rubedo*. Physiology names endocrine and tissue changes. Phenomenology names how the body actually feels as those changes pass through lived experience.
+
+The lunar cycle gives another rhythm. A twenty-eight day aged plasma cycle places the collected material in relationship with time outside the body, while the body continues its own changes inside the same period. The comparison becomes part of the record: what was collected, what changed in the jar, what changed in the body, what the still revealed, what the following days carried.
+
+Dreams belong in the record because they are part of the body's nightly processing. Digestion belongs there. Elimination belongs there. Mood belongs there. Skin, saliva, sweat, sexual charge, grief, appetite, and aversion belong there when they appear. Nothing has to become a conclusion too soon. The pattern is allowed to gather.
+
+This is the Living Year as metric: a complete cycle of the body's own participation with time.
 
 ---
 
-## Where this goes
+## A Participatory Science
 
-Sovereign Biophysics is an open record. The observations gathered through individual practice, documented carefully, contribute to something larger — a body of evidence that no institution currently holds because no institution currently values what is being tracked here.
+Sovereign Biophysics is an open record of careful participation.
 
-What you are doing is the work. The record you keep is the science.
+The entry point is witness. The proposal is simple: the body is already separating, refining, concentrating, eliminating, fermenting, returning, and recording. The experiment is already underway.
+
+Modern science often begins by removing the observer. This work begins by making the observer accountable. The body that observes is also the body being observed. The record is therefore intimate, limited, situated, and real. Its strength is continuity inside life.
+
+The historical traditions become useful when they sharpen observation. The instruments become useful when they clarify a pattern. The language becomes useful when it helps the body recognize what it already knows.
+
+What is being built here is a field of disciplined noticing.
+
+The body is already conducting the experiment. The work is learning how to witness it.
 
 ---
 
 ## Supporting documents
 
-- [All the Practice Is for the Medicine](../00-orientation/all-the-practice-is-for-the-medicine.md) — the central thesis; every practice in the sequence is cultivation of the medicine the body produces
-- [The Chapter They Skip](../00-orientation/the-chapter-they-skip.md) — what HYP Chapter 3 actually says; the Pali Canon's first-day instruction
+- [All the Practice Is for the Medicine](../00-orientation/all-the-practice-is-for-the-medicine.md) — the central thesis that practice changes what the body produces
+- [The Chapter They Skip](../00-orientation/the-chapter-they-skip.md) — what HYP Chapter 3 and the Pali Canon preserve about amarolī and fermented urine medicine
 - [Where to Begin](../00-orientation/where-to-begin.md) — entry point and archive overview for new participants
-- [Women of Alchemy](../00-orientation/women-of-alchemy.md) — suppression history, the full lineage
-- [The Grief That Was Never Recorded](../00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression
-- [The Language of Erasure](../00-orientation/the-language-of-erasure.md) — how the vocabulary was replaced
+- [Women of Alchemy](../00-orientation/women-of-alchemy.md) — lineage context for women, vessels, and alchemical practice
+- [The Grief That Was Never Recorded](../00-orientation/the-grief-that-was-never-recorded.md) — the cost of suppressing embodied knowledge
+- [The Language of Erasure](../00-orientation/the-language-of-erasure.md) — how the vocabulary of body knowledge was replaced
 - [Inanna: She Who Contains All](../00-orientation/inanna-she-who-contains-all.md) — the myth as science, deep biophysical reading
 - [Two Distillates](../00-orientation/two-distillates.md) — ghee, plasma, and the external circuit
 - [The Distillery in the Field](../00-orientation/the-distillery-in-the-field.md) — the sacred cow as external pharmacy
