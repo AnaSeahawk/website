@@ -118,6 +118,10 @@ Distillation is a deeper layer of the same work: the separation of the fluid int
 
 ---
 
-*Continue reading: [Before You Begin →](before-you-begin.md)*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
+
+---
+
+*Continue reading: [The Living Loop →](the-living-loop.md)*
 
 *[← Back to Index](../README.md)*

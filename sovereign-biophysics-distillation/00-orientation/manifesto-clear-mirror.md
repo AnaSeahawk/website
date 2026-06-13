@@ -12,7 +12,6 @@ claim_tier: interpretation
 # The Living Archive: Manifesto of the Clear Mirror *(Shen-Ming)*
 
 *A living record of biological potential, astrological memory, and the holographic nature of the human vessel.*
-*Boundary: This manifesto is a philosophical orientation text, not medical guidance.*
 
 ---
 
@@ -71,6 +70,10 @@ The mirror is clear. The record is open.
 
 ---
 
-*Continue reading: [Women of Alchemy →](women-of-alchemy.md)*
+*The threshold of the archive — one practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
+
+---
+
+*Continue reading: [The First Water →](the-first-water.md)*
 
 *[← Back to Index](../README.md)*

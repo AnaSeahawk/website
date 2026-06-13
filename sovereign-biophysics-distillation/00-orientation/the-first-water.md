@@ -83,12 +83,14 @@ The frog's secretion is not the first water. The snake's venom is not the first 
 
 *The previous document names how the word closed the question. This document names what the word was installed to prevent: the recognition that the body was already practicing what it was taught to believe impossible.*
 
-*Personal observation and interpretation. Offered as record, not instruction.*
-
 *Ana Seahawk — Sovereign Biophysics*
 
 ---
 
-*Continue reading: [The Moving Sky and the Stationary Earth →](the-moving-sky.md)*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
+
+---
+
+*Continue reading: [Women of Alchemy →](women-of-alchemy.md)*
 
 *[← Back to Index](../README.md)*

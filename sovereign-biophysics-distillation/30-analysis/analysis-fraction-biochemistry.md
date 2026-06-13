@@ -18,23 +18,9 @@ note: Biochemistry sections (steroid conjugation, distillation behaviour, EGF, t
 
 ---
 
-## Claim Posture
+## What This Note Is
 
-**Primary environments:** Instrument Table, Hypothesis Forge, Pattern Room, Comparative Archive, Practice Ethic.
-
-**Externally documented:** urinary steroid conjugation, hormone volatility and retention behaviour, heat-mediated deconjugation, transdermal steroid delivery, urinary EGF, and general urinary constituent profiles.
-
-**Measured in this archive:** pH, ORP, conductivity, fraction behaviour, and observed material qualities from the recorded distillation runs. These measurements do not provide constituent assays.
-
-**Inferred here:** the likely distribution of steroid hormones, growth factors, peptides, minerals, and volatile compounds across the Solar, Lunar, and Saturn fractions.
-
-**Observed personally:** longitudinal skin changes, cycling changes, topical qualities, and shared-practice observations recorded elsewhere in the archive.
-
-**Hypothesis:** the HPG-axis signalling section proposes a possible mechanism. It is held as a question, not as an established outcome.
-
-**Boundary:** this document does not contain GC/MS testing, hormone assays of the fractions, dose measurements, controlled topical trials, or clinical claims. Pharmaceutical transdermal delivery establishes route plausibility; it does not establish dose or effect for the retentate.
-
-For the archive's claim environments, see the [Dictionary](../Dictionary/README.md).
+This is reference material — the biochemistry behind what the fractions are and what they carry, gathered for anyone who wants it. The steroid conjugation, hormone volatility, heat-mediated deconjugation, transdermal delivery, and urinary EGF described here are externally documented science. What this archive has measured directly is narrower: pH, ORP, conductivity, and the material behaviour of the runs — not constituent assays. The distribution of hormones, peptides, and minerals across the three fractions is inferred from that science, not assayed. The longitudinal skin and cycling changes are personal observation. The HPG-axis section is a question, held openly. Nothing here is GC/MS data, dose measurement, or a clinical claim.
 
 ---
 
@@ -244,6 +230,10 @@ The biochemical data presented here does not resolve all questions about mechani
 ---
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*Reference material in support of the practice record — one body, one context. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 ---
 

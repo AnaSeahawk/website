@@ -16,8 +16,6 @@ claim_tier: interpretation
 
 *Facts in this piece are drawn from the published and public record. The structural argument — that the pharmaceutical model was oriented toward commercial dependency rather than health — is interpretation, offered as such.*
 
-**Source-proximity note:** This document uses public-record and biomedical sources for dates, laws, trial findings, and epidemiological estimates. The interpretation that links those records into a dependency architecture belongs to this archive. It is not presented as medical, legal, or historical consensus.
-
 ---
 
 ## I. What Gets Called Biology
@@ -94,8 +92,6 @@ What was removed was not an inconvenience to the science. It was the primary var
 
 The FDA formalised this in 1977, recommending the exclusion of women of childbearing potential from early clinical trials. The FDA's 1993 gender-differences guidance explicitly names that earlier 1977 "Women of Childbearing Potential" section as the policy it was revising. An act of Congress — the NIH Revitalization Act of 1993 — was required to mandate the inclusion of women and minorities in NIH-supported clinical research. The NIH issued a further directive in 2014 requiring sex to be considered as a biological variable even in preclinical cell-line and animal research. Twenty-one years after Congress mandated women in trials, the NIH was still instructing researchers to stop using exclusively male cells.
 
-**Source note:** FDA 1993 notice revising the 1977 exclusion language: [NIH Guide NOT93-224](https://grants.nih.gov/grants/guide/notice-files/not93-224.html). NIH inclusion mandate: [NIH policy on women and minorities](https://www.grants.nih.gov/policy-and-compliance/policy-topics/inclusion/women-and-minorities/guideline). NIH sex-as-biological-variable policy development: [NOT-OD-14-128](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-128.html).
-
 The exclusion was not reversed. It was formally extended to earlier stages of the pipeline twenty years after the clinical trial correction was legislated.
 
 ---
@@ -128,8 +124,6 @@ The body — an intelligent system that responds to everything — responds to t
 
 Among American adults aged 60–79, 34.5% take five or more prescription drugs simultaneously. Across older U.S. adults more broadly, polypharmacy has nearly doubled in twenty years: from 23.5% in 1999–2000 to 44.1% in 2017–2018. Women are prescribed medications at higher rates than men, and multiple adverse-drug-reaction studies report higher ADR rates in women. In a recent older-adult oncology cohort, polypharmacy and clinically significant drug-drug interactions were each associated with substantially higher ADR odds after adjustment; the exact risk size is population-specific, but the direction of risk is not marginal.
 
-**Source note:** U.S. polypharmacy trend: [NHANES 1999-2018 analysis](https://pubmed.ncbi.nlm.nih.gov/37434230/). Sex differences in ADR-related admissions and ADR risk: [Eur J Clin Pharmacol 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8091530/) and [Biol Sex Differ 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7275616/). Polypharmacy/DDI adjusted risk example: [Front Pharmacol 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12158949/).
-
 The original signal — whatever the body was trying to say on that Tuesday — is buried under layers of pharmaceutical response. The body was communicating something. That communication has been interrupted, layer by layer, until neither the person nor their doctor can locate what the original message was. The question the model is not designed to ask: *symptom of what?* Not what measurable pattern matches a named category. What was the intelligent system attempting to move through before it was interrupted?
 
 The body produces pain as a signal that something requires attention. It produces inflammation as a repair process. It produces low mood as a processing state. Each of these is the body doing something — moving toward resolution, attempting to complete something, communicating what it needs. The pharmaceutical model names these processes as the pathology and suppresses them. The message is silenced. Whatever the body was trying to say remains unsaid. The resolution the body was working toward does not complete.
@@ -146,15 +140,9 @@ Receiving a diagnosis is not a neutral information event. It is a naming deliver
 
 The nocebo effect is measurable. In Ted Kaptchuk's open-label placebo trial at Harvard (*PLOS ONE*, 2010), patients with irritable bowel syndrome told explicitly they were receiving inert sugar pills reported 59% adequate relief — higher than typical double-blind placebo response rates in pharmaceutical IBS trials. Reviews of nocebo research also document that clinical disclosure can shape symptom expectation and reported adverse effects. The naming of the possible effect can produce a proportion of the effect.
 
-**Source note:** Open-label placebo trial: [Kaptchuk et al., PLOS ONE 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733/). Nocebo and informed consent review: [Colloca and Miller, 2011](https://pubmed.ncbi.nlm.nih.gov/21862825/).
-
 The diagnostic error literature adds a further dimension. Ductal carcinoma in situ — DCIS — is routinely treated as breast cancer. DCIS research does not support one clean progression percentage across all grades and contexts, but it does document substantial overdiagnosis and overtreatment concern, especially for lower-risk lesions. The treatment for diagnosed DCIS is commonly surgery, often followed by radiation and sometimes endocrine therapy. Applied to a body that would never have developed invasive disease, the harm is manufactured by the diagnostic encounter and the treatment it drove.
 
-**Source note:** DCIS progression and overtreatment are active research questions, not settled by a single percentage. Useful anchors: [Finding the balance between over- and under-treatment of DCIS](https://pubmed.ncbi.nlm.nih.gov/27671693/) and [Low-risk DCIS review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8983540/).
-
 The thyroid cancer case is the clearest documentation. Between 1993 and 2011 in South Korea, thyroid cancer diagnosis rates increased fifteenfold after the introduction of ultrasound screening capable of detecting small nodules. Mortality was completely flat throughout the entire period. After public awareness campaigns about overdiagnosis, diagnosis rates fell substantially. Mortality did not change — in either direction. The improved instrument found more things to name. The naming drove treatment. Treatment carries harm. The underlying danger it was treating did not exist at the scale the diagnosis rate implied.
-
-**Source note:** South Korea thyroid screening/overdiagnosis: [Ahn, Kim, and Welch, NEJM 2014](https://www.nejm.org/doi/full/10.1056/NEJMp1409841).
 
 The diagnosis installs a reality. The body enacts the reality it has been given. The original state — whatever the body was moving through before the encounter — may have been temporary, cyclical, in the process of resolving. The diagnosis reframes it as a condition to be managed indefinitely. The person who might have recovered becomes the person who has a thing they have.
 
@@ -168,23 +156,13 @@ The pharmaceutical and medical sector operates within a legal and regulatory arc
 
 The **1986 National Childhood Vaccine Injury Act** redirected vaccine injury claims into a federal no-fault compensation program, removing the standard civil litigation pathway. The Supreme Court's 2011 ruling in *Bruesewitz v. Wyeth* extended this protection to preempt design-defect claims entirely. Manufacturers retain liability for manufacturing defects and deliberate fraud; the pathway for civil suit on the grounds that the product was designed in a way that caused harm was substantially closed.
 
-**Source note:** *Bruesewitz v. Wyeth LLC*, 562 U.S. 223 (2011): [Justia Supreme Court archive](https://supreme.justia.com/cases/federal/us/562/223/).
-
 The **PREP Act** provides blanket liability immunity to manufacturers, distributors, and administrators of medical countermeasures during declared public health emergencies. The declaration is the trigger. The immunity is automatic. It does not require demonstration that precautions were taken or harm was unavoidable.
-
-**Source note:** HHS PREP Act description and Q&A: [ASPR PREP Act](https://aspr.hhs.gov/legal/PREPact/Pages/default.aspx) and [PREP Act Questions and Answers](https://aspr.hhs.gov/legal/PREPact/Pages/PREP-Act-Question-and-Answers.aspx).
 
 **FDA user fee funding.** Under the Prescription Drug User Fee Act (enacted 1992), pharmaceutical companies pay fees to the FDA to fund the drug review process. In the current period, those fees cover 77% of the costs of the FDA's drug review program — the program that determines whether a drug reaches the market. The regulatory body that assesses safety and efficacy for pharmaceutical approval derives three-quarters of its operational budget for that assessment from the companies whose drugs it is assessing. This structural conflict of interest is documented in peer-reviewed literature (PMC8917050, 2022), not only in advocacy sources.
 
-**Source note:** PDUFA authority: [FDA PDUFA overview](https://www.fda.gov/prescription-drug-user-fee-act-pdufa). FY 2024 user-fee obligations and non-user-fee appropriations: [FDA FY 2024 PDUFA Financial Report](https://www.fda.gov/media/185331/download). Conflict-of-interest discussion: [J Law Med Ethics 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/).
-
 The **standard of care defence**. A physician who followed accepted medical practice is protected from liability even when that practice caused harm. Protection scales with consensus: the more widely a practice is adopted, the more protected each individual practitioner who follows it. This produces a structural incentive toward conformity — toward prescribing what the guidelines recommend, where those guidelines are shaped by the clinical trial record, where that record is funded and designed by industry.
 
-**Source note:** This is legal-structure interpretation built on malpractice doctrine. The baseline doctrine is that professional negligence is assessed against the applicable standard of care; see Cornell Wex on [standard of care](https://www.law.cornell.edu/wex/standard_of_care) and [malpractice](https://www.law.cornell.edu/wex/malpractice).
-
 **Settlement as the cost of doing business.** Rofecoxib (Vioxx, Merck) was approved by the FDA in 1999 and withdrawn in September 2004 after evidence of increased cardiovascular risk became indefensible. FDA safety officer David Graham testified to Congress that Vioxx was likely responsible for at least 55,000 deaths; a 2005 *Lancet* analysis estimated 88,000 to 140,000 excess serious coronary heart disease cases in the United States, with an estimated 44% of those cases fatal. Merck's peak annual revenue from Vioxx exceeded $2.5 billion (2003). The 2007 settlement — $4.85 billion — resolved approximately 45,000 personal injury lawsuits. No Merck executive was criminally prosecuted. The relationship between projected liability and projected revenue is a calculation that can be performed before a drug ships.
-
-**Source note:** Trial evidence of cardiovascular risk: [APPROVe trial, NEJM 2005](https://pubmed.ncbi.nlm.nih.gov/15713943/). Population estimate anchor: [Graham et al., Lancet 2005](https://www.sciencedirect.com/science/article/abs/pii/S0140673605178647), summarized in [BMJ 2005](https://www.bmj.com/content/330/7485/212.2).
 
 The protection architecture was not assembled in response to unforeseen harm. It was built in advance of harm that was, in the actuarial sense, foreseeable. The harm is legally managed rather than prevented. This is not a corruption of a system otherwise oriented toward health. It is the system operating as designed — at the intersection of commercial interests with sufficient legal insulation to survive the consequences.
 
@@ -206,9 +184,25 @@ The practice is an answer in progress.
 
 ---
 
-*Analysis. Facts and statistics drawn from published record. Structural and interpretive claims — particularly the argument that the pharmaceutical model was oriented toward commercial dependency rather than health — are offered as interpretation, not as established historical consensus. The research citations embedded in the text are verifiable from public sources; specific primary documents referenced include the NIH Revitalization Act of 1993, FDA PDUFA reauthorisation documentation, the 2010 Kaptchuk et al. open-label placebo trial (PLOS ONE), the 2014 Ahn et al. thyroid overdiagnosis paper (NEJM), the 2011 Russo entourage effect paper (British Journal of Pharmacology), and the 2005 Graham et al. Lancet analysis on rofecoxib cardiovascular risk.*
+*Analysis. The facts and statistics here are drawn from the published public record; the structural argument — that the pharmaceutical model was built toward commercial dependency rather than health — is interpretation, offered as such, not as established consensus.*
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*A reading of the public record — interpretation, not medical, legal, or historical consensus. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
+
+---
+
+### Sources
+
+*Gathered here so the argument above reads unbroken. Each is a public record; the interpretation that links them into a dependency architecture is the archive's own.*
+
+- **The male-default research pipeline:** FDA 1993 notice revising the 1977 exclusion language — [NIH Guide NOT93-224](https://grants.nih.gov/grants/guide/notice-files/not93-224.html); NIH inclusion mandate — [NIH policy on women and minorities](https://www.grants.nih.gov/policy-and-compliance/policy-topics/inclusion/women-and-minorities/guideline); NIH sex-as-biological-variable policy — [NOT-OD-14-128](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-14-128.html).
+- **Polypharmacy and sex differences in adverse reactions:** [NHANES 1999–2018 analysis](https://pubmed.ncbi.nlm.nih.gov/37434230/); [Eur J Clin Pharmacol 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8091530/); [Biol Sex Differ 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7275616/); [Front Pharmacol 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC12158949/).
+- **Nocebo and the diagnostic encounter:** open-label placebo trial — [Kaptchuk et al., PLOS ONE 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733/); nocebo and informed consent — [Colloca and Miller, 2011](https://pubmed.ncbi.nlm.nih.gov/21862825/).
+- **Overdiagnosis and overtreatment:** DCIS, an active research question — [over- vs under-treatment of DCIS](https://pubmed.ncbi.nlm.nih.gov/27671693/) and [low-risk DCIS review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8983540/); South Korea thyroid screening — [Ahn, Kim, and Welch, NEJM 2014](https://www.nejm.org/doi/full/10.1056/NEJMp1409841).
+- **The protection architecture:** *Bruesewitz v. Wyeth LLC*, 562 U.S. 223 (2011) — [Justia](https://supreme.justia.com/cases/federal/us/562/223/); PREP Act — [ASPR PREP Act](https://aspr.hhs.gov/legal/PREPact/Pages/default.aspx) and [Q&A](https://aspr.hhs.gov/legal/PREPact/Pages/PREP-Act-Question-and-Answers.aspx); PDUFA — [FDA overview](https://www.fda.gov/prescription-drug-user-fee-act-pdufa), [FY 2024 PDUFA Financial Report](https://www.fda.gov/media/185331/download), and [conflict-of-interest discussion, J Law Med Ethics 2022](https://pmc.ncbi.nlm.nih.gov/articles/PMC8917050/); standard-of-care doctrine — Cornell Wex on [standard of care](https://www.law.cornell.edu/wex/standard_of_care) and [malpractice](https://www.law.cornell.edu/wex/malpractice); rofecoxib (Vioxx) — [APPROVe trial, NEJM 2005](https://pubmed.ncbi.nlm.nih.gov/15713943/), [Graham et al., Lancet 2005](https://www.sciencedirect.com/science/article/abs/pii/S0140673605178647), and [BMJ 2005](https://www.bmj.com/content/330/7485/212.2).
 
 ---
 

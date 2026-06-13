@@ -26,18 +26,6 @@ medical_status: not_medical_advice
 
 *The consequence of the cut: what happened to sexuality, to family, to the transmission of trust, and to the natural capacities that live underneath the diagnoses.*
 
-> **Established record:** Nocebo/placebo mechanism: established research record. Parent-child physiological synchrony/co-regulation: established developmental research field.
->
-> **Source field:** Cardiac electromagnetic field and proximity claims: HeartMath Institute, held as source-field evidence rather than medical consensus.
->
-> **Tradition record:** Reich's biophysical measurements of sexual charge (1934); Taoist neidan corpus; Tantric texts. Named where cited.
->
-> **Philosophical interpretation:** The downstream consequences of the three anatomical falsifications — for desire, for lovemaking as a lost art, for family transmission through the cardiac field, and for what the diagnostic categories are actually naming upstream.
->
-> **Personal account:** This document draws on the practitioner's own experience and observation where not otherwise sourced.
->
-> *Neurodivergence framing is philosophical, not diagnostic. Not medical guidance. Single-subject archive.*
-
 ---
 
 ## What the Cut Did to Desire
@@ -61,8 +49,6 @@ Wilhelm Reich's measurements are the source-field anchor for the claim that genu
 The dissolution of the boundary of self in genuine sexual union between two practitioners is not read here as only a side effect of pleasure. In this archive's language, it is the circuit completing. It is what two currents — one ascending, one descending — produce at the moment they meet.
 
 The mechanical model cannot account for this because it was not built to measure it. What it cannot measure it pathologises or dismisses. What it cannot pathologise or dismiss it commodifies. The result is a culture saturated with sexual imagery and deeply impoverished in actual sexual experience.
-
-**Source note:** Reich 1934, Taoist neidan, and Tantric sexual-cultivation claims are tradition/source-field claims here. They need targeted primary-source extraction before individual sentences carry more weight than "this tradition records" or "this archive reads."
 
 ---
 
@@ -88,8 +74,6 @@ This is the family trust dimension of the pump model. The mechanism of co-regula
 
 The diagnoses follow: attachment disorder, anxiety, emotional dysregulation, hypervigilance. All of which name what is happening. None of which name what was disrupted upstream.
 
-**Source note:** Heart-field claims: [HeartMath energetic communication](https://www.heartmath.org/research/science-of-the-heart/energetic-communication/). Parent-child physiological synchrony and co-regulation: [A systematic review of parent-child synchrony](https://pubmed.ncbi.nlm.nih.gov/29900545/) and [caregiver-child physiological synchrony review](https://pubmed.ncbi.nlm.nih.gov/33427185/). The claim that HeartMath field dynamics are the missing upstream mechanism is the archive's interpretation.
-
 ---
 
 ## Natural Talents and What Was Made of Them
@@ -105,8 +89,6 @@ And then the diagnosis itself becomes the frame. People live their diagnoses out
 This is where Ayurveda and QiGong re-enter — not as replacement ideologies, but as the beginning of letting feeling return. The frameworks offer language for what the body is already reporting. The body was always reporting it. The language is not the thing — it is the permission to hear the thing. And the hearing, once it begins, moves.
 
 Placebo only reaches so far. But there are results, and people come to them in many different ways, as love arrives in many different ways: undeniably, when it comes.
-
-**Source note:** The diagnostic reframing of ADHD, bipolar disorder, and autism is archive interpretation and should not be read as a clinical claim. Nocebo/placebo mechanism anchor: [Kaptchuk et al., PLOS ONE 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733/) and [Colloca and Miller, 2011](https://pubmed.ncbi.nlm.nih.gov/21862825/).
 
 ---
 
@@ -154,9 +136,23 @@ The signal was never fully removed. The body did not forget. The reported result
 
 ---
 
-*Philosophical and observational. Tradition record where sourced (Reich 1934, Taoist corpus, Tantric texts). Personal account where declared. Nocebo/placebo and parent-child synchrony: established research records. Cardiac entrainment: HeartMath source field. Medical model critique: hypothesis. Neurodivergence framing: philosophical, not diagnostic. Not medical guidance. Single-subject archive.*
+*Philosophical and observational, drawing on tradition record where sourced (Reich, the Taoist corpus, Tantric texts), personal account where declared, and established research on nocebo and parent-child synchrony. The medical-model critique is hypothesis; the neurodivergence framing is philosophical, not diagnostic.*
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
+
+---
+
+### Sources
+
+*Gathered here so the piece reads unbroken. The reframings below are the archive's interpretation, not clinical claims.*
+
+- **Sexual charge and cultivation:** Reich's 1934 measurements, the Taoist neidan corpus, and Tantric sexual-cultivation texts are held as tradition/source-field claims; individual sentences need targeted primary-source extraction before carrying more weight than "this tradition records."
+- **The heart's field and family transmission:** [HeartMath energetic communication](https://www.heartmath.org/research/science-of-the-heart/energetic-communication/) (source field); parent-child physiological synchrony and co-regulation — [systematic review](https://pubmed.ncbi.nlm.nih.gov/29900545/) and [caregiver-child synchrony review](https://pubmed.ncbi.nlm.nih.gov/33427185/). That the heart-field is the missing upstream mechanism is the archive's interpretation.
+- **Diagnosis as frame, and nocebo:** the reframing of ADHD, bipolar disorder, and autism as capacities-without-context is archive interpretation, not a clinical claim; nocebo/placebo anchor — [Kaptchuk et al., PLOS ONE 2010](https://pmc.ncbi.nlm.nih.gov/articles/PMC3008733/) and [Colloca and Miller, 2011](https://pubmed.ncbi.nlm.nih.gov/21862825/).
 
 ---
 

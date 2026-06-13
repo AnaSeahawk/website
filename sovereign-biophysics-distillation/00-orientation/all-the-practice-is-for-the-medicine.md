@@ -49,7 +49,7 @@ The fourth support is unknown to most of the people who took the vow.
 
 That is not a gap in advanced attainment. That is a gap in the basics. The absolute foundation of the ordained life is missing one of its four legs — and nobody noticed, or noticed and said nothing, or said something and was not heard. The practitioners are not failing at an advanced practice. They are missing something they were given on the first day.
 
-It is also worth noting that this is not limited to the ancient texts. The five-volume *Chinese Medical Qigong Therapy* series — a modern clinical medical textbook used in Chinese Medicine programs — maps the entire relationship explicitly. Volume 2 documents how the internal alchemical sequence (Jing refined into Qi, Qi refined into Shen) is directly shaped by diet, breath, movement, sexual energy cultivation, and meditative practice. The whole series — from energetic anatomy through differential diagnosis to prescription exercises — is a systematic account of how specific practices change what the body's internal alchemical process produces. The medicine is the through-line. The practices are its cultivation. A medical textbook says so in five volumes.
+It is also worth noting that this is not limited to the ancient texts. The five-volume *Chinese Medical Qigong Therapy* series — a modern clinical medical textbook used in Chinese Medicine programs — maps the entire relationship explicitly. Volume 2 documents how the internal alchemical sequence (Jing refined into Qi, Qi refined into Shen) is directly shaped by diet, breath, movement, sexual energy cultivation, and meditative practice. The whole series — from energetic anatomy through differential diagnosis to prescription exercises — is a systematic account of how specific practices change what the body's internal alchemical process produces. The medicine is the through-line. The practices are its cultivation.
 
 The sophistication that keeps people from seeing this is not intellectual sophistication. It is the sophistication of the block. It takes real effort — the accumulated effort of years of cultural conditioning — to read *"fermented urine medicine, for the rest of your life"* and not register it. But that effort is invisible. It does not feel like effort. It feels like the natural, obvious, common-sense reading. And the actual plain reading — taking the text at its word, following the logic where it goes — looks radical. Looks fringe. Looks like the kind of thing a serious practitioner would never entertain. The connections are not hidden. The block is what makes them invisible.
 
@@ -59,10 +59,16 @@ This archive takes the texts at their word.
 
 ---
 
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
+
+---
+
 *[The Chapter They Skip →](the-chapter-they-skip.md) — the HYP mudra sequence in full*
 
 *[The Medicine: Cross-Traditional Analysis →](../30-analysis/analysis-the-medicine-cross-traditional.md) — six traditions, the convergent evidence*
 
 *[Refining the Source →](../10-method/refining-the-source.md) — what the practices do to what the body produces*
+
+*Continue reading: [Distilled Fraction Protocols →](../10-method/distilled-fraction-protocols.md)*
 
 *[← Back to Index](../README.md)*

@@ -147,7 +147,7 @@ What can be said at this stage: the progression documented in the synthesis reco
 
 ---
 
-*Single-practitioner observational record. All observations are specific to one body, one context, one dietary baseline.*
+*One practitioner's record — one body, one context, one dietary baseline. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 *Ana Seahawk — Sovereign Biophysics*
 

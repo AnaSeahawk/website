@@ -164,9 +164,11 @@ What feels most alive is the embodied practice rather than the laboratory work �
 
 ---
 
-*Single-practitioner observational record. All observations are specific to one body, one context, one dietary baseline.*
-
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*One practitioner's record — one body, one context, one dietary baseline. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 ---
 

@@ -26,16 +26,6 @@ medical_status: not_medical_advice
 
 *What was removed from the anatomical record, what was removed from bodies, and why both acts served the same function.*
 
-> **Established record:** Anatomical history — Falloppio 1561, O'Connell 1998, Taylor 1996, Sorrells et al. 2007. Astronomical cycle lengths and Gregorian calendar structure. Cardiac electromagnetic field data are source-near to HeartMath and magnetocardiography literature, with HeartMath held as a source field rather than medical consensus.
->
-> **Philosophical interpretation:** The energetic consequences of each falsification — Anahata losing its electromagnetic anchor in the pump model; Muladhara losing anatomical ground when the full pelvic anatomy was unmapped; chakra planetary correspondences severed from observable astronomical reality.
->
-> **Anthropological record:** Cultural cutting practices, their documented distribution and current status.
->
-> **Hypothesis:** The claim that these three falsifications together produce structural interference — a granthi — between the practitioner and their own body intelligence.
->
-> *Not medical guidance. Single-subject archive.*
-
 ---
 
 ## The Map Is Not the Body
@@ -60,8 +50,6 @@ What it left out was everything that did not fit the pump frame.
 
 The cardiac nervous system — often described in neurocardiology as the heart's intrinsic nervous system — was not mapped in the ordinary anatomical imagination until late twentieth-century neurocardiology made it legible. HeartMath reports that the heart's electromagnetic field can be detected several feet from the body and that cardiac-field interaction can be measured between people in proximity. The heart generates the largest rhythmic electromagnetic field in the body. In this archive's reading, it is not only a pump with an electrical component. It is also an entraining organ of the system.
 
-**Source note:** Intrinsic cardiac nervous system / neurocardiology: [Intrinsic cardiac autonomic nervous system review](https://pubmed.ncbi.nlm.nih.gov/33928710/) and Armour's earlier "intrinsic cardiac neurons" work. Heart field and proximity claims: [HeartMath energetic communication](https://www.heartmath.org/research/science-of-the-heart/energetic-communication/). The conclusion that this restores Anahata's physical anchor is the archive's philosophical interpretation.
-
 The traditions that predate Harvey worked from this premise. In Chinese medicine the heart is the emperor organ — the sovereign of the system, the seat of shen: spirit, awareness, consciousness. In that model, the heart does not merely represent the seat of consciousness. It participates in it. In Ayurveda, ojas — the body's most refined distillate — is seated in the heart. The Anahata chakra is described as a radiating field of coherence around which the body's other systems organise.
 
 When Harvey's pump replaced this model in institutional medicine, this archive reads the heart chakra as having lost part of its physical anchor. Anahata became a metaphor for love and feeling, floating above the body it was supposed to describe. A practitioner working only from the pump map has little language for the electromagnetic field. The frame has no category for it. Dysregulation that this archive would read partly through cardiac incoherence can also be named anxiety disorder, vagal dysfunction, trauma response. All of which it may be. But those names describe what is happening, not necessarily what was disrupted upstream.
@@ -78,8 +66,6 @@ Helen O'Connell rediscovered the full internal anatomy in 1998. In 2009 the firs
 
 What is actually there: the visible glans is approximately one-tenth of the total structure. The internal body extends several centimetres. The crura — bilateral legs of erectile tissue — run along the inferior pubic rami toward the sit bones. The vestibular bulbs — bilateral masses of erectile tissue — lie alongside the vaginal walls. The full structure is bilaterally symmetrical, embedded in the pelvic floor, intimately connected to the vaginal canal, the urethra, and the perineum.
 
-**Source note:** O'Connell's 1998 paper challenged then-current anatomical descriptions of female urethral and genital anatomy; see [Anatomical relationship between urethra and clitoris](https://pubmed.ncbi.nlm.nih.gov/9598482/). Later O'Connell work used MRI and 3D reconstruction; see [Clitoral anatomy in nulliparous volunteers](https://pmc.ncbi.nlm.nih.gov/articles/PMC1283096/) and [Anatomy of the clitoris](https://pubmed.ncbi.nlm.nih.gov/16145367/).
-
 This is Muladhara's anatomical territory. The root chakra maps to exactly the structures that were removed from the official record: the full pelvic floor, the deep erectile tissue, the bilateral anchor points at the sit bones. Working with the root center using the reduced map is working with a partial circuit. The parts the map omits are still there — and the body has not forgotten them. The map back is the body itself. We all begin there, in feeling, before any external diagram arrives.
 
 ---
@@ -89,8 +75,6 @@ This is Muladhara's anatomical territory. The root chakra maps to exactly the st
 The anatomical removal was followed — or preceded, depending on the tradition — by physical removal.
 
 **In males:** The foreskin was always named in anatomical texts — but as a structure, not as functional tissue. What the standard anatomical record often omitted was its specific innervation: the ridged band, identified by Canadian anatomist John Taylor in 1996 (*British Journal of Urology*), as a distinct erogenous structure at the foreskin's inner margin, densely packed with fine-touch receptors and carrying more Meissner corpuscles than any other cutaneous tissue on the male body. Taylor's paper was the foreskin's equivalent of O'Connell's 1998 clitoral mapping: a named structure finally given functional anatomical emphasis. Sorrells et al. (2007, *BJU International*) mapped fine-touch sensitivity across the intact and circumcised penis and found that the most sensitive areas in intact men were precisely the foreskin structures. This research supports what the standard record had left underemphasised: the foreskin is erogenous tissue, and its absence can matter functionally. In the Taoist cultivation tradition, as this archive currently reads it, the foreskin's sensitivity is integral to the practice: the cultivation of full-body energy through sustained contact, without discharge, depends in part on this sensitivity as a feedback mechanism. A body cut there works the same practice at reduced signal.
-
-**Source note:** Taylor 1996 is the primary ridged-band anatomy source; PubMed indexing is limited, but the article is *British Journal of Urology* 77:291-295. Sorrells fine-touch mapping: [BJU International 2007](https://pubmed.ncbi.nlm.nih.gov/17378847/). The Taoist cultivation connection is tradition interpretation and needs its own primary-source extraction before carrying anatomical weight.
 
 **In females:** Genital cutting exists across a wide spectrum — from removal of the clitoral hood, to clitoridectomy (removal of the glans), to infibulation, in which the labia majora are sutured to narrow or close the vaginal opening. The most extreme forms are documented across specific regions of Africa and the Middle East. The practice is not ancient aberration. It is living and current.
 
@@ -114,8 +98,6 @@ This is the territory that was cut, closed, sutured. The most extreme forms of f
 
 The practice did not end with traditional cutting. In contemporary obstetric settings, women have documented the giving of an additional suture during perineal repair after childbirth — placed at the vaginal opening without specific consent, tightening the passage beyond its pre-birth state for a purpose that has nothing to do with the woman's healing. Known colloquially as the "husband stitch," the practice lives primarily in testimony, medical ethics discussion, and patient-facing accounts rather than in formal procedure manuals. This is not a characterisation of obstetric care as a field. It is documentation of a specific reported practice that extends the same logic into the delivery room: the body's most generative passage intervened upon, at the moment it has just done the most extraordinary thing it can do, without the full knowledge or consent of the person it belongs to.
 
-**Source note:** I did not find a source-near RCOG statement formally condemning the "husband stitch" by name. RCOG guidance does state that episiotomies are done with consent and provides consent guidance for severe perineal tear repair: [RCOG perineal tears](https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/perineal-tears-during-childbirth/) and [RCOG Consent Advice No. 9](https://www.rcog.org.uk/guidance/browse-all-guidance/consent-advice/repair-of-third-and-fourth-degree-perineal-tears-following-childbirth-consent-advice-no-9/). Patient-facing medical sources describe the husband stitch as non-standard and not approved; see [Medical News Today](https://www.medicalnewstoday.com/articles/husband-stitch).
-
 Within common genital-cutting frameworks, there is no routine male equivalent to infibulation. The most culturally standardised male cutting removes surface tissue. The most extreme female cutting attempts to close the passage itself. The asymmetry in the cutting reflects the asymmetry in what was being controlled: not primarily sexual experience, but generation. The body that receives, carries, and releases life — this is the body that received the most extreme intervention.
 
 ---
@@ -131,8 +113,6 @@ This is the structural difference between a living astronomical system and an ad
 The moon is not in the calendar at all. The months are administrative averages — the word *month* descends from *moon*, but the calendar month no longer tracks it. The actual lunar phase cycle is about 29.5 days. No Gregorian month corresponds to this. The body's primary feminine rhythm — the menstrual cycle, the immune oscillation, the hormonal arc that moves from new moon to full and back — has no representation in the official time system. It must be tracked separately, against a structure the administrative calendar does not acknowledge.
 
 In this archive's reading, the chakra system's classical planetary correspondences — Saturn at the root, Jupiter at the sacral, Mars at the solar plexus, Venus at the heart, Mercury at the throat, Moon at the third eye, Sun at the crown — are not merely symbolic assignments. They are read as descriptions of biological relationships to astronomical cycles. The Saturn return at roughly 29.5 years is an event the body moves through whether or not the calendar marks it. The Venus synodic cycle — which the Inanna myth encodes in its seven-day underworld passage and the pentagram she draws across eight years — is an astronomical pattern the body participates in. These are ongoing relationships in the archive's cosmology, not metaphors.
-
-**Source note:** Lunar phase cycle: [NASA Moon phases](https://science.nasa.gov/moon/lunar-phases-and-eclipses/). More precise mean synodic month: [NASA eclipse glossary/orbit page](https://eclipse.gsfc.nasa.gov/SEhelp/moonorbit.html). Venus phase/synodic cycle: [NASA Venus facts](https://science.nasa.gov/venus/facts/) and [ESO Venus synodic period explainer](https://www.eso.org/public/outreach/eduoff/vt-2004/Education/edu1app4.html). Chakra-planetary embodiment remains tradition-philosophical interpretation.
 
 When the administrative calendar becomes the only clock, those relationships become invisible. Saturn becomes an archetype. The lunar cycle becomes a symbol. The Venus return becomes astrology in the dismissive sense — something to be performed rather than a real cycle the body is moving through. The chakra system's planetary anchors become abstract because the cycles they are anchored to have no representation in the time system the practitioner lives inside. The meaning has to be taught because the placement means nothing. The map does not show the reality. It has replaced it with a grid of administrative convenience.
 
@@ -218,9 +198,25 @@ That is what this archive is: one practitioner's record of the hearing.
 
 ---
 
-*Anatomical history: established record where source-near (Falloppio 1561, O'Connell 1998/2005, Taylor 1996, Sorrells 2007). HeartMath: source-field record for cardiac field claims. Energetic map consequences: philosophical interpretation. Cultural practice documentation: anthropological record. Medical model critique: hypothesis. Astronomical time: established record for cycle lengths; planetary correspondences and the claim that calendar replacement generates chakra disruption are tradition-philosophical interpretation. Not medical guidance. Single-subject archive.*
+*Anatomical history is established record where source-near; the energetic-map consequences and the planetary-cycle correspondences are this archive's philosophical reading; the medical-model critique is hypothesis. Cultural cutting practices are anthropological record.*
 
 *Ana Seahawk — Sovereign Biophysics*
+
+---
+
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
+
+---
+
+### Sources
+
+*Gathered here so the piece reads unbroken. Where a claim could not be sourced cleanly, that is said plainly.*
+
+- **The heart's intrinsic nervous system and electromagnetic field:** [intrinsic cardiac autonomic nervous system review](https://pubmed.ncbi.nlm.nih.gov/33928710/) and Armour's "intrinsic cardiac neurons" work; [HeartMath energetic communication](https://www.heartmath.org/research/science-of-the-heart/energetic-communication/) (held as a source field, not medical consensus). The reading that this restores Anahata's physical anchor is the archive's interpretation.
+- **Clitoral anatomy:** O'Connell's 1998 challenge to standard descriptions — [Anatomical relationship between urethra and clitoris](https://pubmed.ncbi.nlm.nih.gov/9598482/); later MRI/3D work — [Clitoral anatomy in nulliparous volunteers](https://pmc.ncbi.nlm.nih.gov/articles/PMC1283096/) and [Anatomy of the clitoris](https://pubmed.ncbi.nlm.nih.gov/16145367/).
+- **Foreskin anatomy:** Taylor's ridged-band paper, *British Journal of Urology* 77:291–295 (1996; limited PubMed indexing); Sorrells fine-touch mapping — [BJU International 2007](https://pubmed.ncbi.nlm.nih.gov/17378847/). The Taoist cultivation connection is tradition interpretation and needs its own primary-source extraction before carrying anatomical weight.
+- **The "husband stitch":** no source-near RCOG statement condemning it by name was found. RCOG guidance does state episiotomies are done with consent and gives consent guidance for severe tear repair — [RCOG perineal tears](https://www.rcog.org.uk/for-the-public/perineal-tears-and-episiotomies-in-childbirth/perineal-tears-during-childbirth/) and [RCOG Consent Advice No. 9](https://www.rcog.org.uk/guidance/browse-all-guidance/consent-advice/repair-of-third-and-fourth-degree-perineal-tears-following-childbirth-consent-advice-no-9/); patient-facing sources describe it as non-standard and not approved — [Medical News Today](https://www.medicalnewstoday.com/articles/husband-stitch).
+- **Astronomical cycles:** lunar phase — [NASA Moon phases](https://science.nasa.gov/moon/lunar-phases-and-eclipses/) and [mean synodic month](https://eclipse.gsfc.nasa.gov/SEhelp/moonorbit.html); Venus synodic cycle — [NASA Venus facts](https://science.nasa.gov/venus/facts/) and [ESO Venus synodic period explainer](https://www.eso.org/public/outreach/eduoff/vt-2004/Education/edu1app4.html). The chakra-planetary embodiment remains tradition-philosophical interpretation.
 
 ---
 

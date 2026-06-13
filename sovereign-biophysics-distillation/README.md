@@ -6,7 +6,7 @@ This is a living research archive — single-subject, autoethnographic, non-inst
 What is documented here is one practitioner's record of endogenous distillation:
 the history behind it, the method, the measurements, and what they mean.
 
-*Nothing here constitutes medical guidance. All records are specific to one body and context.*
+*Nothing here is medical guidance. All records are specific to one body and one context. → [How to read this archive](00-orientation/how-to-read-this.md)*
 
 This public archive holds orientation, bounded method notes, measurements, analysis, synthesis, and vocabulary. Sensitive operational and intimate field records are held in the private Vessel layer, where they can remain part of the work without becoming public operational content.
 
@@ -26,21 +26,30 @@ The history has not been demoted. It is simply no longer the only door.
 
 ### Reader Routes
 
-**Read the whole archive**
+**The reading path** *(the journey, in sequence)*
 
-Begin with [Where to Begin](00-orientation/where-to-begin.md), then follow the continue-reading links through the Orientation sequence. This route gives the lineage, the language of erasure, the mythic ground, the biological frame, and then the empirical record.
+This is the spine of the archive — one continuous path from the first recognition, through the practice, to where the work stands now. Each piece links to the next at its foot.
 
-**Go straight to the working material**
+1. [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow, the threshold, the jar held to the light
+2. [The First Water](00-orientation/the-first-water.md) — we all began in this water; the body knew before the word
+3. [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance, and the women who carried it through the fires
+4. [Shivambu](10-method/shivambu.md) — beginning the relationship: the name, the substance, where the practice starts
+5. [The Living Loop](10-method/the-living-loop.md) — four years of the closed loop, raw to distilled, the body teaching
+6. [Agni](00-orientation/agni.md) — the fire that knows: the Ayurvedic ground that holds the whole work
+7. [All the Practice Is for the Medicine](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis: what the practices are for, and what the texts actually say
+8. [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, Saturn: what each fraction is and how each is worked
+9. [Three Years of Topical Practice](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling, vitality: what has been observed across the years
+10. [Current State of the Work](40-synthesis/synthesis-current-state-may-2026.md) — where the work stands now, honestly, with its open questions
 
-Begin with the [Dictionary](Dictionary/README.md), then [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md), [Before You Begin](10-method/before-you-begin.md), [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md), and the [first experiment report](20-experiments/experiment-report-aged-plasma-distillation.md). This route is for readers who want the material map before the long historical arc.
+New here? Start with [How to Read This Archive](00-orientation/how-to-read-this.md), then open the path at the Manifesto.
 
-**Enter through alchemy and symbolic language**
+**Other ways in** *(the rooms off the path)*
 
-Begin with [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md), then [Sovereign Biophysics Translation Map](10-method/sovereign-biophysics-translation-map.md), [The Medicine: Cross-Traditional Analysis](30-analysis/analysis-the-medicine-cross-traditional.md), and [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md).
-
-**See the current state**
-
-Begin with [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md), then return to the [Dictionary](Dictionary/README.md) and [Where to Begin](00-orientation/where-to-begin.md) for orientation.
+- **The measured record** — the [experiment reports](20-experiments/experiment-report-ana-distillation-feb22.md): runs, readings, conditions, outcomes.
+- **The working material** — [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md), then [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) and the [Translation Map](10-method/sovereign-biophysics-translation-map.md).
+- **The mythic and cosmological ground** — [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) and [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md).
+- **What was done to this knowledge** — [The Language of Erasure](00-orientation/the-language-of-erasure.md), [The Map and the Cut](00-orientation/the-map-and-the-cut.md), [The Mother Wound](00-orientation/the-mother-wound.md).
+- **The full reader's map** — [Where to Begin](00-orientation/where-to-begin.md) lays out the layers and the claim ecology in detail.
 
 ### Archive Layers
 
@@ -70,10 +79,11 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 #### Entry and Reading Ethic
 
-- [Where to Begin](00-orientation/where-to-begin.md) — an entry point for new readers: what this archive is, how to read it, where to start
-- [The Archive Learns to Read Itself](00-orientation/the-archive-learns-to-read-itself.md) — a claim-architecture orientation for distinguishing measurement, observation, interpretation, hypothesis, myth, philosophy, and practice ethic
-- [The Archive as Biological Memory](00-orientation/the-archive-as-biological-memory.md) — a philosophical orientation to the archive as relational field, ecological mirror, and record of changing perception
-- [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow and the opening
+- [How to Read This Archive](00-orientation/how-to-read-this.md) — the one orientation: one body's record, many kinds of knowing, science as companion rather than gatekeeper. Start here.
+- [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow, the threshold, the opening of the reading path
+- [Where to Begin](00-orientation/where-to-begin.md) — the longer reader's map: the layers, the routes, the claim ecology
+- [The Archive Learns to Read Itself](00-orientation/the-archive-learns-to-read-itself.md) — the claim architecture in full, for readers who want to know how the work sorts its own kinds of knowing
+- [The Archive as Biological Memory](00-orientation/the-archive-as-biological-memory.md) — a philosophical orientation to the archive as relational field and record of changing perception
 
 #### Central Thesis
 
@@ -142,6 +152,8 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Experiment Report: Fresh Combined Plasma — Two-Pass Distillation](20-experiments/experiment-report-fresh-combined-two-pass.md) — fresh combined plasma run: Phase 1 hydrolysis pass and Phase 2 purification pass, with key observations on fresh vs aged behaviour
 - [Experiment Report: March 8 — The Polishing Run](20-experiments/experiment-report-march8-polishing-run.md) — third distillation of aged Phase II Pure Plasma: threshold tracking to 0 mV at 133 USCM
 - [Experiment Report: June 4 — Fresh Plasma H2 Retention](20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md) — fresh mixed-source morning batch: stable pH at 9.3-9.4 while H2 varied from 0 to 52 ppb under incomplete baseline, source, and timing controls
+- [Experiment Report: June 10 — Three-Batch Fresh Plasma Comparison](20-experiments/experiment-report-june10-three-batch-fresh-plasma.md) — two paired fresh-baseline batches plus a redistillation: distillates converged to pH 9.4–9.6 and ~1,100–1,200 µS/cm regardless of starting concentration, with H₂ the most variable parameter
+- [Experiment Report: June 13 — Menstrual Plasma Distillation Series](20-experiments/experiment-report-june13-menstrual-plasma.md) — the first run including menstrual blood (artava): a highly concentrated raw morning collection (EC 10,690 µS/cm) distilled and redistilled through the familiar charge-inversion arc to pH 9.7 / 915 µS/cm
 
 ### Analysis
 
@@ -161,9 +173,11 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
 - [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md) — crystal blueprint, heart geometry, vortex water, and the body's own living crystalline medium
 
-### Dictionary
+### Dictionary — an optional key
 
-- [Dictionary](Dictionary/README.md) — the archive's key and legend: claim environments, claim tiers, measurement shorthand, language guardrails, and working terms for reading without collapse
+*Not required to read the archive. A reference for anyone who wants to know how the work distinguishes measurement, observation, hypothesis, myth, and interpretation.*
+
+- [Dictionary](Dictionary/README.md) — the archive's key and legend: claim environments, measurement shorthand, language guardrails, and working terms
 
 ### The Living Record
 

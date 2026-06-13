@@ -149,7 +149,7 @@ The still is reading what the body has been doing for years. What it reads is ch
 
 ---
 
-*Single-practitioner observational record. All observations are specific to one body, one context, one dietary baseline.*
+*One practitioner's record — one body, one context, one dietary baseline. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 *Ana Seahawk — Sovereign Biophysics*
 

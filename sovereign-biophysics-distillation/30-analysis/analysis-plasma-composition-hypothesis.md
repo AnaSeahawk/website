@@ -13,21 +13,9 @@ claim_tier: hypothesis
 
 ---
 
-## Claim Posture
+## What This Note Is
 
-**Primary environments:** Instrument Table, Hypothesis Forge, Pattern Room, Comparative Archive, Practice Ethic.
-
-**Externally documented:** general urine composition, dietary influence on urinary solutes, urea hydrolysis, distillation behaviour of volatile compounds and fixed salts, and the natural moisturising factor literature.
-
-**Measured in this archive:** pH, ORP, conductivity, fraction behaviour, and sample state from the recorded distillation runs. These readings characterize the fractions; they do not identify exact compounds.
-
-**Inferred here:** the likely composition of raw plasma, aged plasma, Solar spirit, Lunar essence, and Saturn retentate based on diet, fermentation, and distillation chemistry.
-
-**Observed personally:** grain-softening behaviour, topical and sensory qualities, and transition-state observations from one practitioner context.
-
-**Boundary:** no 24-hour urinalysis, GC/MS, microbial characterization, or controlled comparison is available in this document. This page proposes a biochemical map for future testing. It is not a universal composition claim, medical instruction, or proof of the alchemical interpretation.
-
-For the archive's claim environments, see the [Dictionary](../Dictionary/README.md).
+This is a working hypothesis, not a claim — a biochemical map for future testing. The general composition of urine, the effect of diet on it, urea hydrolysis, and the distillation behaviour of volatile compounds and fixed salts are externally documented. What this archive has measured directly is narrower: pH, ORP, conductivity, and fraction behaviour — readings that characterize the fractions without identifying exact compounds. The likely composition of each fraction is reasoned from that chemistry, not assayed. There is no 24-hour urinalysis, GC/MS, or controlled comparison here. It is not a universal composition claim or proof of the alchemical reading.
 
 ---
 
@@ -185,6 +173,10 @@ The electrochemical measurements documented in this body of work — fresh basel
 - *Shivambu Kalpa Vidhi* (from the Damar Tantra — traditional dating contested; text available in several modern translations)
 - Armstrong, J.W. (1944). *The Water of Life*. London: True Health Publishing.
 - van der Kroon, C. (1996). *The Golden Fountain*. Banyan Books.
+
+---
+
+*Reference material in support of the practice record — one body, one context. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 ---
 

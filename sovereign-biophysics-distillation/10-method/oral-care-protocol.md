@@ -117,7 +117,7 @@ Store in a dark amber dropper bottle with an airtight cap. The serum is hygrosco
 
 ---
 
-*Personal observation. Offered as record, not instruction.*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 *Ana Seahawk — Sovereign Biophysics*
 

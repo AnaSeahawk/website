@@ -95,7 +95,7 @@ The key to reading which direction is operative is the four states of agni: sama
 
 ---
 
-*Personal observation and interpretation. Offered as record, not instruction.*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 *Ana Seahawk — Sovereign Biophysics*
 

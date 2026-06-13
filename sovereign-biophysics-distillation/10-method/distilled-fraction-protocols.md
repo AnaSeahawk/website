@@ -145,12 +145,14 @@ The practice of combining the purified fractions belongs to the reunion language
 
 ---
 
-*Personal observation. Offered as record, not instruction.*
-
 *Ana Seahawk — Sovereign Biophysics*
 
 ---
 
-*Continue reading: [The Apothecary Balm →](apothecary-balm.md)*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
+
+---
+
+*Continue reading: [Three Years of Topical Practice →](../40-synthesis/synthesis-three-year-topical-observations.md)*
 
 *[← Back to Index](../README.md)*

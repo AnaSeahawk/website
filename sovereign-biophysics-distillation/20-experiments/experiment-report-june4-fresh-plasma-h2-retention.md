@@ -15,8 +15,6 @@ note: Fresh plasma collected through the evening and early morning of June 3-4, 
 **Run structure:** Four morning distillation runs, each about 900 ml
 **Known limits:** Mixed-source input; no raw source readings; jar provenance not tracked
 
-*Single-subject observational record. Not medical guidance.*
-
 ---
 
 ## Run Context
@@ -85,5 +83,11 @@ The alkaline volatile fraction appears stable across this batch. The H2 signal a
 The jar can hold a pH pattern while the gas reading moves.
 
 ---
+
+*One practitioner's record — measurements from one body, one run. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
+
+---
+
+*Continue reading: [Experiment Report: June 10 — Three-Batch Fresh Plasma Comparison →](experiment-report-june10-three-batch-fresh-plasma.md)*
 
 *[← Back to Index](../README.md)*

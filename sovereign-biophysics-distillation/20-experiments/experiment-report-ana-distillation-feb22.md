@@ -13,8 +13,6 @@ claim_tier: observed
 **Input:** Ana's aged plasma, batch origin February 1, 2026 (Sun in Aquarius / Moon in Leo)
 **Starting Volume:** ~1500ml, syphoned
 
-*Single-subject observational record. Not medical guidance.*
-
 ---
 
 ## Preparation
@@ -71,6 +69,10 @@ The batch was prepared using the Golden Syphon ritual. The full ritual context i
 ## Context
 
 This was the first formal distillation of Ana's own plasma — four days after Olivier's first run (February 18–19, documented in [the preceding experiment record](experiment-report-aged-plasma-distillation.md)). The recognition that came with Olivier's run — the clear water, the realisation of what the apparatus was actually doing — belongs to the practitioner's account in [The Living Record](../../The-Vessel/README.md).
+
+---
+
+*One practitioner's record — measurements from one body, one run. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 ---
 

@@ -10,8 +10,6 @@ claim_tier: practice
 
 **Ana Seahawk — Torremolinos, Spain — February 2026**
 
-*Single-practitioner observational record. Not medical guidance.*
-
 ---
 
 ## The Observation
@@ -57,6 +55,10 @@ One body. One run. Not a universal claim.
 What it motivates: comparison across dietary baselines, across practitioners, across gestation windows. The research vectors are open. The Beloeil batch (transitional diet, residual sodium chloride) and approximately 60 litres stored in Torremolinos represent the next comparative runs.
 
 The body that has been prepared — through diet, through years of closed-loop practice, through attention — produces a different chemistry than the body that has not. This is the central observation. It does not require belief. It requires measurement.
+
+---
+
+*One practitioner's record — one body, one run. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
 
 ---
 

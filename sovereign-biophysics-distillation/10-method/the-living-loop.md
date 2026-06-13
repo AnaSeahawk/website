@@ -295,6 +295,10 @@ This is corroborated by what experienced practitioners consistently report when 
 
 ---
 
-*Continue reading: [Refining the Source →](refining-the-source.md)*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
+
+---
+
+*Continue reading: [Agni →](../00-orientation/agni.md)*
 
 *[← Back to Index](../README.md)*

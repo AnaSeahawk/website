@@ -17,8 +17,6 @@ note: Location Torremolinos, Spain. Two days before the March 8 polishing run.
 **Input:** Fresh combined plasma (< 24 hours old)  
 **Run structure:** Two sequential passes — Phase 1 primary distillation, Phase 2 redistillation of combined Phase 1 distillate
 
-*Single-subject observational record. Not medical guidance.*
-
 ---
 
 ## Phase 1 — Primary Distillation (The Hydrolysis Pass)
@@ -63,6 +61,10 @@ Double-distilling inverts the thermal timeline. The ammonia synthesised during P
 **Fresh vs aged retentate behaviour.** Fresh runs produce an unstable sludge retentate — not workable as a topical preparation. Aged runs produce the concentrated mineral matrix (Saturn Gold) that is the basis of the topical serum practice. The gestation process physically digests the intact proteins into water-soluble organic salts, making the retentate accessible. This is the practical function of aging beyond electrochemical changes. The divergence in retentate behaviour is one of the clearest observable differences between fresh and aged input.
 
 **The 1/4 volume protocol** (terminating when one quarter of volume remains) applies to aged runs. For fresh runs, the residue is not retained — it is the one point in the process where the material is genuinely spent.
+
+---
+
+*One practitioner's record — measurements from one body, one run. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 ---
 

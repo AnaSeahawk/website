@@ -133,7 +133,7 @@ The ouroboros. The serpent eating its own tail. In the erotic body, this is not 
 
 ---
 
-*Single-practitioner observational record. All observations are specific to one body, one context, one dietary baseline.*
+*One practitioner's record — one body, one context, one dietary baseline. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
 
 *Ana Seahawk — Sovereign Biophysics*
 

@@ -144,7 +144,7 @@ The cow in the field is still processing prima materia into panchagavya. The bod
 
 ---
 
-*Personal observation. Offered as record, not instruction.*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
 
 *Ana Seahawk — Sovereign Biophysics*
 

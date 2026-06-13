@@ -454,6 +454,10 @@ that we remember ourselves again.
 
 ---
 
-*Continue reading: [Sun Bu-er and the Inner Furnace →](sun-bu-er-and-the-inner-furnace.md)*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
+
+---
+
+*Continue reading: [Shivambu →](../10-method/shivambu.md)*
 
 *[← Back to Index](../README.md)*

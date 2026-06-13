@@ -18,8 +18,6 @@ note: Third distillation pass. Input was a 3-litre master batch of aged Phase II
 **Input:** 3-litre master batch of aged Phase II Pure Plasma — entering chamber at 993 USCM  
 **Run structure:** Third distillation pass (polishing run) — tracking the threshold at which residual volatile compounds clear and the fluid stabilises as a pure carrier
 
-*Single-subject observational record. Not medical guidance.*
-
 ---
 
 ## Run Context
@@ -78,6 +76,10 @@ The physical behaviour of the fluid at the start of the run confirmed the cleanl
 **Retentate stability under extended thermal extraction.** The aged input Saturn portion remained workable after the longer, deeper reduction used in this run. This contrasts with fresh-run residue behaviour and confirms that gestation is the enabling condition for retentate quality, not run duration alone.
 
 **The 3-pass law for aged plasma.** For aged input, Phase II distillate commonly enters a third run at elevated conductivity (~993 USCM). The polishing run reduces this to the 133 USCM stable range. Fresh plasma reaches that threshold in two passes; aged plasma, which carries more dissolved conductive material even after two passes, requires a third to reach the same stable endpoint. See also: [Fresh Combined Two-Pass Run →](experiment-report-fresh-combined-two-pass.md).
+
+---
+
+*One practitioner's record — measurements from one body, one run. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 ---
 

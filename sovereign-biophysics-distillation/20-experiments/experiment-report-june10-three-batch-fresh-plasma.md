@@ -4,7 +4,7 @@ sun:
 moon:
 moon-phase:
 type: experiment
-visibility: community
+visibility: public
 status: draft
 claim_tier: preliminary-observation
 note: Three runs — Batch A and Batch B fresh plasma with before/after measurements, plus a redistillation of a previous blow-over batch with before/after measurements at the redistillation step. First day with paired fresh-baseline and distilled-product readings on two independent batches.
@@ -16,8 +16,6 @@ note: Three runs — Batch A and Batch B fresh plasma with before/after measurem
 **Date:** June 10, 2026  
 **Input:** Two independent fresh plasma batches (< 12 hours old) and one redistillation of a prior blow-over fraction  
 **Run structure:** Three sequential measurements — Batch A (fresh → distilled), Batch B (fresh → distilled), Redistillation Run (blow-over distillate → re-distilled)
-
-*Single-subject observational record. Not medical guidance.*
 
 ---
 
@@ -173,5 +171,11 @@ The ORP direction in Run 3 is a new open question. In fresh-to-distilled runs, O
 Distillation appears to drive the plasma toward a characteristic profile — alkaline pH, moderate conductivity, negative ORP — that is substantially independent of the starting concentration within the range tested today. The alkaline volatile fraction is the stable anchor. The hydrogen reading remains the most condition-sensitive variable.
 
 ---
+
+*One practitioner's record — measurements from one body, one run. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
+
+---
+
+*Continue reading: [Experiment Report: June 13 — Menstrual Plasma Distillation Series →](experiment-report-june13-menstrual-plasma.md)*
 
 *[← Back to Index](../README.md)*

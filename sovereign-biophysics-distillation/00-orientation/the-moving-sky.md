@@ -123,7 +123,7 @@ The practice is the return of the morning star.
 
 ---
 
-*Personal observation. Offered as record, not instruction.*
+*One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
 
 *Ana Seahawk — Sovereign Biophysics*
 
