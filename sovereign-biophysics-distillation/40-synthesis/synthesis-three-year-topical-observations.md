@@ -12,47 +12,70 @@ note: Observed outcomes are personal-account tier — single-subject, non-clinic
 
 # Three Years of Topical Practice — Observed Outcomes
 
-*This document holds the observed outcomes from three years of daily topical application of concentrated endogenous material — open evaporation concentrate from April 2023, distillation fractions from February 2026. It is a companion to [The Living Record →](../../The-Vessel/README.md) and draws on the biochemical framework in [The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md).*
+*This document holds observed outcomes from three years of daily topical application of concentrated endogenous material — open evaporation concentrate from April 2023, distillation fractions from February 2026. The observations lead. Mechanism notes are gathered at the end for readers who want the biochemical room.*
 
 ---
 
-## 1. Skin
+## Skin
 
-**The observation:** Changes to skin tone and elasticity became apparent within months of beginning the topical practice and have continued to deepen over three years. At 52, fair-skinned, the skin is not behaving as expected for the age or history. Sun tolerance has improved noticeably — a significant shift for someone who has managed sun exposure carefully throughout adult life. Texture is changing: depth of softness, evenness of tone, a quality that reads as different in kind from any other topical practice, including years of moringa oil use prior.
+Changes to skin tone and elasticity became apparent within months of beginning the topical practice and have continued to deepen over three years.
 
-**The mechanism:** Whether produced by open evaporation or by distillation, the concentrated material retains the non-volatile constituents that do not cross into the distillate — including Epidermal Growth Factor (EGF) and the steroid hormone profile. EGF is a 53-amino-acid peptide that directly stimulates keratinocyte proliferation and fibroblast activation — the cells responsible for collagen and elastin synthesis. Steroid hormones (estrogens and androgens) have well-established roles in skin structure, hydration, and photoprotection. Transdermal absorption of steroid hormones is established pharmaceutical science. The pharmaceutical industry sells EGF and transdermal sex hormones separately, in synthetic or isolated forms, at significant cost. The retentate delivers them together, in a biological matrix, as the body's own production.
+At 52, fair-skinned, the skin is not behaving as expected for the age or history. Sun tolerance has changed noticeably — a significant shift for someone who has managed sun exposure carefully throughout adult life. Texture is changing: depth of softness, evenness of tone, a quality different in kind from any other topical practice used before, including years of moringa oil.
 
-The full constituent profile and mechanism documentation is in [The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md).
+The change is easiest to see where contact has been most consistent: face first, then feet, then the body. The face receives Solar spirit and Lunar essence most regularly. The feet show the Solar spirit's cleaning and softening action most visibly. The whole body receives the Lunar essence as a daily carrier.
 
----
-
-## 2. Cycling at 52 — HPG Recovery
-
-**The observation:** Cycling regularly at 52, after taking the birth control pill for most of adult reproductive life — including continuously from approximately 2011 to 2022 to suppress menstruation entirely. The cycle resumed after stopping the pill in 2022 and has continued without significant disruption. Cycle arrives on time or close to it. It is light, with minimal cramping. A quality of interoception — interior sensing, the ability to feel what the body is doing from inside — that was gradually lost under the pill has been recovering.
-
-**The context:** Fertility has always been robust. First attempt conception after coming off the pill in 1997. Nearly three years of breastfeeding, with its own arc of prolactin, oxytocin, and suppression-and-recovery of cyclicity. The HPG axis has proven resilient across multiple suppression-and-recovery cycles across adult life. Resilience alone does not fully account for what is currently observed.
-
-**The hypothesis:** Urine contains fragments of LH and FSH — the pituitary gonadotropins that drive the hypothalamic-pituitary-gonadal axis and govern sex steroid production and cyclicity. These concentrate in the retentate. If partially intact gonadotropin fragments are absorbed transdermally from the applied serum, the body may be receiving an external echo of its own regulatory signals — a feedback amplification of the HPG axis. During the years of post-pill HPG recovery, the practice may have supported the axis as it rebuilt. This is a hypothesis that fits the observed timeline, not a mechanism established at clinical trial level.
-
-The HPG axis dimension is discussed further in [The Biochemistry of the Distillation Fractions, Section 6 →](../30-analysis/analysis-fraction-biochemistry.md).
+The observation is not only cosmetic. The skin reads as a surface record of the practice: diet, contact, sun, fraction, season, and continuity all appearing in one tissue over time.
 
 ---
 
-## 3. Sexual Vitality and Relational Depth
+## Cycling at 52
 
-**The observation:** Libido has remained strong and in many ways deepened over the four years of practice — through the post-pill period, through the dietary transitions, through the combined practice with Olivier. The quality of sexual engagement has changed: sustained duration (regularly over an hour), satiation without depletion, a state of completion that does not depend on ejaculation. The relational depth between partners has deepened in ways not fully separable from the practice.
+Cycling continues regularly at 52, after taking the birth control pill for most of adult reproductive life, including continuously from approximately 2011 to 2022 to suppress menstruation entirely.
 
-**The biochemical framing:** Testosterone drives libido in women as well as men — this is established. The retentate contains concentrated testosterone metabolites and DHEA alongside estrogen conjugates, with progressive deconjugation toward free forms under heat. Applied daily to skin, the material delivers a sustained low-dose androgenic and estrogenic signal transdermally. Nitric oxide precursors concentrated in the serum are relevant to vascular tone and sustained arousal physiology. These are the same molecular mechanisms pharmaceutical medicine uses — testosterone gel for low female libido, nitric oxide pathway support for arousal — arrived at from inside the practice rather than from a prescription.
+The cycle resumed after stopping the pill in 2022 and has continued without significant disruption. It arrives on time or close to it. It is light, with minimal cramping. A quality of interoception — interior sensing, the ability to feel what the body is doing from inside — has been returning after years of chemical suppression.
+
+Fertility has always been robust. First-attempt conception after coming off the pill in 1997, followed by nearly three years of breastfeeding, already showed an axis capable of suppression and return. That history matters. The current observation sits inside a body that has recovered cyclicity before.
+
+What is notable now is the combination: age, post-pill recovery, daily closed-loop practice, concentrated topical use, and the return of internal sensing. The record cannot separate those factors into clean causes. It can say that the cycle has remained present, readable, and part of the practice.
 
 ---
 
-## 4. The Combined Practice — Partner Dimension
+## Sexual Vitality and Relational Depth
 
-**The observation:** Since beginning to combine distillation material in 2025, both partners apply the combined retentate. Each is receiving the other's hormonal output transdermally alongside their own.
+Libido has remained strong and in many ways deepened over the four years of practice: through the post-pill period, through dietary transitions, and through the combined practice with Olivier.
 
-**The biochemical framing:** Male urinary androgen excretion substantially exceeds female — testosterone metabolite concentrations in male urine are significantly higher. Ana therefore receives a sustained low-dose androgenic signal from Olivier's contribution, in addition to her own estrogenic output. Olivier receives Ana's estrogenic output transdermally alongside his own androgenic profile. The mechanism is the same as pharmaceutical transdermal hormone delivery; the material is endogenous and combined rather than synthetic and prescribed.
+The quality of sexual engagement has changed: sustained duration, satiation without depletion, a state of completion that does not depend on ejaculation. The relational depth between partners has deepened in ways that cannot be separated cleanly from daily biological intimacy.
 
-**The open question:** What sustained low-dose transdermal estrogenic exposure does to male hormonal balance over years is not directly addressed in the medical literature in this context. Olivier reports no concerning feminising effects after sustained combined practice. He maintains semen retention consistently. His vitality is strong. This remains an open observation within the practice — not a concern, but a question worth holding.
+This is not recorded as a claim about what another body would experience. It is recorded because the pattern has persisted across years and because the practice has become part of the relational field itself.
+
+---
+
+## The Combined Practice
+
+Since beginning to combine distillation material in 2025, both partners apply the combined retentate. Each receives the other's biological signature alongside their own.
+
+The combined practice is intimate in a way that ordinary language does not easily hold. It is not only touch, not only sexuality, not only shared food or shared home. It is the return of each body through the material field of the other.
+
+Olivier reports no concerning feminising effects after sustained combined practice. He maintains semen retention consistently. His vitality is strong. The long-term meaning of combined topical exposure remains an open observation within the practice — not a concern, but a question worth holding carefully.
+
+---
+
+## Mechanism Notes
+
+The biochemical room sits behind these observations. It does not replace them.
+
+Whether produced by open evaporation or by distillation, the concentrated material retains non-volatile constituents that do not cross into the clear distillate. The current framework gives special attention to:
+
+- Epidermal Growth Factor (EGF) as a plausible contributor to observed skin tone, elasticity, and repair effects.
+- Steroid hormone conjugates and metabolites concentrated in the retentate.
+- Transdermal absorption as an established route for steroid hormones in pharmaceutical medicine.
+- LH and FSH fragments as an open HPG-axis hypothesis, not an established clinical mechanism.
+- Androgenic and estrogenic signatures in combined partner material.
+- Nitric oxide precursors as a possible vascular and arousal-relevant thread.
+
+The full constituent profile and mechanism documentation is held in [The Biochemistry of the Distillation Fractions](../30-analysis/analysis-fraction-biochemistry.md). The HPG axis dimension is discussed further there as hypothesis.
+
+These mechanism notes help orient the question. They do not turn a three-year personal record into a universal claim.
 
 ---
 

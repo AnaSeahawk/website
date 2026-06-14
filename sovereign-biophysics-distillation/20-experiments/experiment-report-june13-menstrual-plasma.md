@@ -21,6 +21,22 @@ note: First distillation series including menstrual blood (artava). ~300 mL morn
 
 ---
 
+## Operator's Account
+
+This run felt like a threshold before the meters said anything.
+
+The material was visibly different because the menstrual fraction was present. It was not an abstract cycle note or a symbolic correspondence. Artava entered the jar as part of the source material, filtered through woven hemp over felted wool, then brought to the still while still fresh from the morning. The feminine fraction was no longer only a theoretical line in the archive. It was in the vessel.
+
+The first reading made the difference plain: EC 10,690 µS/cm, TDS 5,400 ppm, pH 5.1. The raw morning collection was carrying a density none of the recent non-menstrual fresh runs had shown. That number changed the quality of attention in the room. The run was no longer only another fresh-plasma comparison. It had become the first measured entry of menstrual material into the distillation record.
+
+The blow-over kept the record honest. The first distillation did not produce a clean ideal sample; it carried material over and had to be redistilled. That matters. The second pass became part of the question: what remains of the charge signature when this menstrual-fraction material is clarified again?
+
+What held was the familiar arc. Acidic raw source to alkaline distillate. Positive ORP to negative ORP. Conductivity falling with each pass. H₂ appearing after distillation and remaining present through redistillation. The run did not answer what artava changes. It opened the cycle question in a form the archive can return to.
+
+The body has a new line of inquiry now.
+
+---
+
 ## Run 1 — Raw Morning Collection (Filtered)
 
 Approximately 300 mL morning collection containing menstrual blood, filtered through woven hemp over felted wool before distillation.

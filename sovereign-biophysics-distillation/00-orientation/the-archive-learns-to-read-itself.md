@@ -70,7 +70,7 @@ The opposite.
 
 The archive must learn to read itself.
 
-It must become capable of naming the environment each claim belongs to without severing the relationships between them.
+It must become capable of naming what kind of knowing each statement carries without severing the relationships between them.
 
 A measurement is not weakened by remaining a measurement.  
 A myth is not weakened by remaining mythic.  
@@ -85,11 +85,11 @@ What is emerging now is therefore not a taxonomy in the bureaucratic sense, but 
 
 An observational field.
 
-A claim architecture.
+A map for moving between different kinds of knowing.
 
 A living dictionary that teaches the reader how to move through the archive without forcing every sentence to defend itself from every possible misunderstanding.
 
-In this ecology, several environments become visible.
+In this ecology, several rooms become visible.
 
 There is the Field: the place of direct experience, where something simply happened.
 
@@ -142,7 +142,7 @@ Restraint does not diminish mystery.
 
 It protects it.
 
-The archive therefore begins constructing a built-in dictionary — not merely of terms, but of claim environments themselves.
+The archive therefore begins constructing a built-in dictionary — not merely of terms, but of the kind of knowing each term is carrying.
 
 Words like *medicine*, *plasma*, *distillate*, *evidence*, *amṛta*, *field*, *Solar*, *Saturn*, and *proof* can no longer float freely between poetry, chemistry, ritual, and philosophy without orientation.
 

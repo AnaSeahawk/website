@@ -458,6 +458,6 @@ that we remember ourselves again.
 
 ---
 
-*Continue reading: [Shivambu →](../10-method/shivambu.md)*
+*Continue reading: [The Jar Held to the Light →](the-jar-held-to-the-light.md)*
 
 *[← Back to Index](../README.md)*

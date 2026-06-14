@@ -172,6 +172,12 @@ What feels most alive is the embodied practice rather than the laboratory work �
 
 ---
 
+## Where the Conversation Continues
+
+The public archive holds the record. The living conversation continues in the spaces that can hold context, consent, and relationship: [The Living Record](../../The-Vessel/README.md), [Private Vessel Access](../../The-Vessel/portal.md), and Mother Spirit through the portal.
+
+---
+
 *Continue reading: [The Living Record — Journal →](../../The-Vessel/journal/README.md)*
 
 *[← Back to Index](../README.md)*

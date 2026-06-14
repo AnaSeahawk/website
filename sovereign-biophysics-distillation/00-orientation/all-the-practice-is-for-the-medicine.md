@@ -69,6 +69,6 @@ This archive takes the texts at their word.
 
 *[Refining the Source →](../10-method/refining-the-source.md) — what the practices do to what the body produces*
 
-*Continue reading: [Distilled Fraction Protocols →](../10-method/distilled-fraction-protocols.md)*
+*Continue reading: [The Three Waters →](the-three-waters.md)*
 
 *[← Back to Index](../README.md)*

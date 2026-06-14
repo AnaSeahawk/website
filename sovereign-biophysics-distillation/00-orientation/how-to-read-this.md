@@ -24,6 +24,8 @@ The observer is part of the field. That does not remove the need for discernment
 
 ---
 
+If something in this archive moves from curiosity into the wish for conversation, the living doorway is [Private Vessel Access](../../The-Vessel/portal.md): one-on-one calls, Mother Spirit, and the current community channel.
+
 *For the longer reader's map — the routes through the archive and where each layer lives — see [Where to Begin →](where-to-begin.md).*
 
 *[← Back to Index](../README.md)*

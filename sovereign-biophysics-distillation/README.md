@@ -20,7 +20,7 @@ There is more than one honest way into this archive.
 
 Some readers need the full ground: history, suppression, mythic language, practice, measurement, analysis, and synthesis in sequence.
 
-Other readers need to see the working material first: the forms, the apparatus, the distillation records, the fractions, the alchemical translation, and the claim boundaries. They can enter through the method and return to the historical ground when they are ready.
+Other readers need to see the working material first: the forms, the apparatus, the distillation records, the fractions, the alchemical translation, and the guardrails around what is known. They can enter through the method and return to the historical ground when they are ready.
 
 The history has not been demoted. It is simply no longer the only door.
 
@@ -33,13 +33,14 @@ This is the spine of the archive — one continuous path from the first recognit
 1. [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow, the threshold, the jar held to the light
 2. [The First Water](00-orientation/the-first-water.md) — we all began in this water; the body knew before the word
 3. [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance, and the women who carried it through the fires
-4. [Shivambu](10-method/shivambu.md) — beginning the relationship: the name, the substance, where the practice starts
-5. [The Living Loop](10-method/the-living-loop.md) — four years of the closed loop, raw to distilled, the body teaching
-6. [Agni](00-orientation/agni.md) — the fire that knows: the Ayurvedic ground that holds the whole work
-7. [All the Practice Is for the Medicine](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis: what the practices are for, and what the texts actually say
-8. [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) — Solar, Lunar, Saturn: what each fraction is and how each is worked
-9. [Three Years of Topical Practice](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling, vitality: what has been observed across the years
-10. [Current State of the Work](40-synthesis/synthesis-current-state-may-2026.md) — where the work stands now, honestly, with its open questions
+4. [The Jar Held to the Light](00-orientation/the-jar-held-to-the-light.md) — the first recognition: clear water, old symbols, and the body answering before the archive did
+5. [Shivambu](10-method/shivambu.md) — beginning the relationship: the name, the substance, where the practice starts
+6. [The Living Loop](10-method/the-living-loop.md) — four years of the closed loop, raw to distilled, the body teaching
+7. [Agni](00-orientation/agni.md) — the fire that knows: the Ayurvedic ground that holds the whole work
+8. [All the Practice Is for the Medicine](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis: what the practices are for, and what the texts actually say
+9. [The Three Waters](00-orientation/the-three-waters.md) — Solar, Lunar, Saturn as the three voices the still reveals
+10. [Three Years of Topical Practice](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling, vitality: what has been observed across the years
+11. [Current State of the Work](40-synthesis/synthesis-current-state-may-2026.md) — where the work stands now, honestly, with its open questions
 
 New here? Start with [How to Read This Archive](00-orientation/how-to-read-this.md), then open the path at the Manifesto.
 
@@ -49,7 +50,8 @@ New here? Start with [How to Read This Archive](00-orientation/how-to-read-this.
 - **The working material** — [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md), then [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) and the [Translation Map](10-method/sovereign-biophysics-translation-map.md).
 - **The mythic and cosmological ground** — [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) and [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md).
 - **What was done to this knowledge** — [The Language of Erasure](00-orientation/the-language-of-erasure.md), [The Map and the Cut](00-orientation/the-map-and-the-cut.md), [The Mother Wound](00-orientation/the-mother-wound.md).
-- **The full reader's map** — [Where to Begin](00-orientation/where-to-begin.md) lays out the layers and the claim ecology in detail.
+- **The full reader's map** — [Where to Begin](00-orientation/where-to-begin.md) lays out the living path and the rooms off it.
+- **Where the conversation continues** — [The Living Record](../The-Vessel/README.md), [Private Vessel Access](../The-Vessel/portal.md), and [Mother Spirit](https://mother-spirit.com) hold the living community around the archive.
 
 ### Archive Layers
 
@@ -63,11 +65,11 @@ New here? Start with [How to Read This Archive](00-orientation/how-to-read-this.
 
 **Synthesis** — integrated understanding across multiple runs and lived observation
 
-**Dictionary** — the key and legend: claim environments, measurement shorthand, language guardrails, and working terms
+**Dictionary** — the key and legend: kinds of knowing, measurement shorthand, language guardrails, and working terms
 
 **The Living Record** — the practitioner's account: dream, body, time, and the life behind the archive
 
-Most sequence documents link to the next at the bottom. Reference layers such as the Dictionary can be entered whenever a term or claim environment needs orientation.
+Most sequence documents link to the next at the bottom. Reference layers such as the Dictionary can be entered whenever a term, meter reading, or kind of claim needs orientation.
 
 ---
 
@@ -81,8 +83,9 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 - [How to Read This Archive](00-orientation/how-to-read-this.md) — the one orientation: one body's record, many kinds of knowing, science as companion rather than gatekeeper. Start here.
 - [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow, the threshold, the opening of the reading path
-- [Where to Begin](00-orientation/where-to-begin.md) — the longer reader's map: the layers, the routes, the claim ecology
-- [The Archive Learns to Read Itself](00-orientation/the-archive-learns-to-read-itself.md) — the claim architecture in full, for readers who want to know how the work sorts its own kinds of knowing
+- [The Jar Held to the Light](00-orientation/the-jar-held-to-the-light.md) — the first recognition: clear water, old symbols, and the body answering before the archive did
+- [Where to Begin](00-orientation/where-to-begin.md) — the longer reader's map: the living path and the rooms off it
+- [The Archive Learns to Read Itself](00-orientation/the-archive-learns-to-read-itself.md) — how the archive keeps lived record, measurement, myth, and hypothesis in their own places
 - [The Archive as Biological Memory](00-orientation/the-archive-as-biological-memory.md) — a philosophical orientation to the archive as relational field and record of changing perception
 
 #### Central Thesis
@@ -115,6 +118,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Capacity Not Substance](00-orientation/capacity-not-substance.md) — why refined living capacities cannot be understood as isolated substances: stemness, ojas, Jing, soil fertility, and functional evidence
 - [Urine-Derived Stem Cells](00-orientation/urine-derived-stem-cells.md) — what the USC literature shows, what distillation does not preserve, and why the archive is asking a different question
 - [Agni](00-orientation/agni.md) — the fire that knows: why the translation always falls short, the thirteen fires, the temperature the body holds, and tummo as the Tibetan cultivation of the same inner fire
+- [The Three Waters](00-orientation/the-three-waters.md) — Solar, Lunar, and Saturn as the three voices the still reveals before the practice turns to applications
 - [The Root and the Refinement](00-orientation/the-root-and-the-refinement.md) — the erotic root of the distillation practice: Jing as prima materia, the post-orgasm instruction across three traditions, the feminine current and menstrual alchemy, and the circuit at full extension
 - [The Medicine](00-orientation/the-medicine.md) — what six independent traditions encoded as the medicine: the Pali Canon's plain statement, the Chinese alchemical steam, the Taoist jade's broth, and why the practices cultivate the medicine by changing what the body produces
 - [The Chapter They Skip](00-orientation/the-chapter-they-skip.md) — Chapter 3 of the Hatha Yoga Pradipika: what vajroli, amaroli, and sahajoli say, what gets taught instead, and where the advanced practitioners are
@@ -169,7 +173,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 ### Synthesis
 
-- [Three Years of Topical Practice — Observed Outcomes](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling at 52, sexual vitality, and the partner dimension: observations from three years of daily topical application with mechanisms
+- [Three Years of Topical Practice — Observed Outcomes](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling at 52, sexual vitality, and the partner dimension: observations from three years of daily topical application
 - [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
 - [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md) — crystal blueprint, heart geometry, vortex water, and the body's own living crystalline medium
 
@@ -177,7 +181,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 *Not required to read the archive. A reference for anyone who wants to know how the work distinguishes measurement, observation, hypothesis, myth, and interpretation.*
 
-- [Dictionary](Dictionary/README.md) — the archive's key and legend: claim environments, measurement shorthand, language guardrails, and working terms
+- [Dictionary](Dictionary/README.md) — the archive's key and legend: kinds of knowing, measurement shorthand, language guardrails, and working terms
 
 ### The Living Record
 
@@ -187,6 +191,10 @@ More sensitive operational and intimate field records are held in the private Ve
 
 - [The Record](../The-Vessel/backstory/the-record.md) — the practitioner's full arc: HPG suppression, amaroli, the February 2026 breakthrough
 - [Living Journal 2026](../The-Vessel/journal/living-journal-2026.md) — daily field notes, harvested each lunation
+
+### Where the Conversation Continues
+
+If this archive has moved something in you, the public record is not the only container. The living conversation continues through [The Living Record](../The-Vessel/README.md), [Private Vessel Access](../The-Vessel/portal.md), [Mother Spirit](https://mother-spirit.com), and the one-on-one call link held there.
 
 ### Presentations
 
