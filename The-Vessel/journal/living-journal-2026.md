@@ -98,7 +98,27 @@ I was not prepared for what that place would do to me. The western coast of Gree
 
 Dream intensity has become the new normal — not dramatic, just baseline. Going to bed now includes a quiet mental preparation: opening without interfering. The old lucid instructions (find your hands, hold the scene) are set aside for now. What's being practiced instead is awareness without the grasping reflex. Present in the dream without announcing it loudly enough to wake up. The edge: awareness without waking *because* of it. Relaxing into observation. Not trying to see the lesson. Not trying to hold it. Just open.
 
-*(Continue below as events occur)*
+---
+
+### June 2026
+
+**2026-06-12** — A phrase emerged that may belong to this phase of the work: restoration of continuity.
+
+The observation was not only skin appearing softer or smoother. It was felt depth: skin less like a surface, tissue more continuous, sensation moving through the body with less separation. The phrase may hold a pattern appearing across skin, fascia, sexuality, dreaming, digestion, movement, and distilled plasma. Parts that had become separate appear to be communicating again.
+
+The epistemology also clarified: the body is not asked to conform to a theory. The theory remains accountable to the body.
+
+**2026-06-14** — Moon cycle day. Fresh menstrual plasma continued as lived practice after the June 13 distillation series. The denser menstrual material was worked topically; the skin felt soft, alive, and settled afterward.
+
+Later in the day, a grounding and movement sequence opened a question about density, sodium chloride, cannabis, qigong, and whether the embodied grounding associated with certain substances can also be generated through movement, breath, and awareness. No conclusion. The question feels worth tracking.
+
+**2026-06-15** — The community call landed well. Two women close to the work are moving nearer to the practice: one already doing some distillation, another now ordering a distiller after beginning plasma practice earlier.
+
+The fresh menstrual-cycle plasma has deepened the work. It feels like participation rather than observation from outside the cycle.
+
+The output is changing again. After eliminating external distilled water and relying on pure plasma, the first shift was toward greater density and lower volume. Now another transition is appearing: clearer golden output throughout the day, easier to drink, easier to distill, and accompanied by a natural increase in fresh cycling while distillation remains the primary pathway.
+
+The practice is beginning to move through relationship.
 
 ---
 
