@@ -37,6 +37,12 @@ The body has a new line of inquiry now.
 
 ---
 
+## Following Observation — June 14
+
+The following day, the menstrual material remained part of the lived practice rather than only the measured run. A small amount of the denser menstrual component was used topically; afterward the skin felt soft, alive, and settled for hours. This is recorded as a personal continuation of the experiment, not as evidence of effect or mechanism.
+
+---
+
 ## Run 1 — Raw Morning Collection (Filtered)
 
 Approximately 300 mL morning collection containing menstrual blood, filtered through woven hemp over felted wool before distillation.
