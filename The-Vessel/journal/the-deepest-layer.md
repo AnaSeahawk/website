@@ -1,4 +1,6 @@
 ---
+archive_entry: true
+title: The Deepest Layer
 date: 2026-04-23
 sun: 3° Taurus
 moon-phase: Waning crescent
@@ -6,6 +8,22 @@ type: journal
 status: draft
 visibility: public
 claim_tier: personal-record
+summary: April 2026 field entry on removing coffee, CBD, and refined sugar while the body entered a deeper clearing phase in Albania.
+phase: integration
+significance: threshold
+threads:
+  - living-record
+  - clearing
+  - nourishment
+  - sodium-chloride
+inquiries:
+  - what-is-nourishment
+  - what-is-clearing
+entry_points:
+  - food
+  - body
+  - practice
+source_layer: public-website
 ---
 
 # The Deepest Layer

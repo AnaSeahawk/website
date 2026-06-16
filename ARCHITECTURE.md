@@ -8,8 +8,10 @@ Public-facing archive for Ana Seahawk.
 - `Foundations/`: worldview, lineage, orientation texts.
 - `The-Living-Year/`: redirect surface for the temporal framework.
 - `The-Vessel/`: displayed publicly as **The Living Record**; public companion archive for backstory, dreams, journal, and temporal framework.
+- `archive/`: draft generated living-map pilot. It uses metadata to show entries chronologically and by thread without moving the source files or replacing the reader paths.
 - `Relationship/`: plant relationship notes.
 - `sovereign-biophysics-distillation/`: bounded research layer.
+- `tools/`: local helpers for generated website indexes and archive views.
 
 ## Public/Private Split
 - Public repo keeps bounded summaries and orientation.
@@ -27,3 +29,4 @@ Public-facing archive for Ana Seahawk.
 - No medical claims.
 - No instruction-like operational detail in public lane.
 - Preserve raw data context and chronology.
+- Keep generated views subordinate to the source entries and reader paths.

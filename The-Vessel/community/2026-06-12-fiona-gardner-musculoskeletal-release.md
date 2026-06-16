@@ -1,10 +1,28 @@
 ---
+archive_entry: true
 date: 2026-06-12
 title: Release of Longstanding Musculoskeletal Tension
 type: community-field-observation
 visibility: private
 status: draft
 claim_tier: personal-account
+summary: Private community field observation recording a contributor account of tissue comfort, fluidity, and release after sustained distilled plasma practice.
+phase: receiving-field
+significance: major
+threads:
+  - community-transmission
+  - restoration-of-continuity
+  - distilled-plasma
+inquiries:
+  - what-is-relationship
+  - what-is-continuity
+entry_points:
+  - community
+  - relationship
+  - body
+people:
+  - Fiona Gardner
+source_layer: public-website
 contributor: Fiona Gardner
 consent_scope: private Vessel record
 ---

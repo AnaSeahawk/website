@@ -1,4 +1,6 @@
 ---
+archive_entry: true
+title: The Three Waters
 date: 2026-06-14
 sun:
 moon:
@@ -7,6 +9,21 @@ type: orientation
 visibility: public
 status: draft
 claim_tier: orientation
+summary: Orientation to Solar, Lunar, and Saturn as the three voices the still reveals before the practice turns toward applications.
+phase: distillation
+significance: threshold
+threads:
+  - three-waters
+  - distillation
+  - fraction-language
+inquiries:
+  - what-does-distillation-reveal
+  - what-is-return
+entry_points:
+  - water
+  - practice
+  - body
+source_layer: public-website
 ---
 
 # The Three Waters

@@ -1,4 +1,6 @@
 ---
+archive_entry: true
+title: Experiment Report: June 10 Three-Batch Fresh Plasma Comparison
 date: 2026-06-10
 sun:
 moon:
@@ -7,6 +9,22 @@ type: experiment
 visibility: public
 status: draft
 claim_tier: preliminary-observation
+summary: Three-run fresh plasma comparison with paired fresh-baseline and distilled-product readings on two independent batches plus a redistillation.
+phase: distillation
+significance: major
+threads:
+  - distillation
+  - fresh-plasma
+  - measurements
+  - redistillation
+inquiries:
+  - what-does-distillation-reveal
+  - how-does-fresh-plasma-behave
+entry_points:
+  - water
+  - measurement
+  - practice
+source_layer: public-website
 note: Three runs — Batch A and Batch B fresh plasma with before/after measurements, plus a redistillation of a previous blow-over batch with before/after measurements at the redistillation step. First day with paired fresh-baseline and distilled-product readings on two independent batches.
 ---
 

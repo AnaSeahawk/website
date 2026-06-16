@@ -1,8 +1,29 @@
 ---
+archive_entry: true
+title: Living Journal 2026
+date: 2026-02-22
 date-started: 2026-02-22
+type: journal
 status: active
 visibility: community
 claim_tier: personal-account
+summary: Continuous 2026 field log holding dreams, food, distillation events, body observations, community movement, and harvest notes.
+phase: full-cycle
+significance: major
+threads:
+  - living-record
+  - full-cycle
+  - restoration-of-continuity
+  - community-transmission
+inquiries:
+  - what-is-return
+  - what-is-relationship
+  - how-does-the-body-record
+entry_points:
+  - body
+  - practice
+  - community
+source_layer: public-website
 ---
 
 # Living Journal 2026

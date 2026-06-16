@@ -1,4 +1,6 @@
 ---
+archive_entry: true
+title: The Jar Held to the Light
 date: 2026-06-14
 sun:
 moon:
@@ -7,6 +9,22 @@ type: orientation
 visibility: public
 status: draft
 claim_tier: personal-account
+summary: Threshold orientation piece naming the first recognition of clear distilled water, old alchemical symbols, and the body answering before the archive did.
+phase: distillation
+significance: threshold
+threads:
+  - first-distillation
+  - recognition
+  - alchemical-lineage
+  - distillation
+inquiries:
+  - what-does-distillation-reveal
+  - how-does-recognition-happen
+entry_points:
+  - water
+  - body
+  - lineage
+source_layer: public-website
 ---
 
 # The Jar Held to the Light

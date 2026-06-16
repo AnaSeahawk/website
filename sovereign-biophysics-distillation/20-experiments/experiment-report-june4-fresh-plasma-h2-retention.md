@@ -1,9 +1,27 @@
 ---
+archive_entry: true
+title: Experiment Report: June 4 Fresh Plasma H2 Retention
 date: 2026-06-04
 type: experiment
 visibility: public
 status: draft
 claim_tier: preliminary-observation
+summary: Fresh mixed-source morning distillation run where pH stayed nearly fixed while dissolved hydrogen varied sharply across jars.
+phase: distillation
+significance: major
+threads:
+  - distillation
+  - fresh-plasma
+  - measurements
+  - hydrogen
+inquiries:
+  - what-does-distillation-reveal
+  - how-does-fresh-plasma-behave
+entry_points:
+  - water
+  - measurement
+  - practice
+source_layer: public-website
 note: Fresh plasma collected through the evening and early morning of June 3-4, distilled June 4 from about 7:00 to 10:00. Raw baseline, source provenance by jar, and exact measurement timing were not tracked.
 ---
 

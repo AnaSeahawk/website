@@ -1,4 +1,6 @@
 ---
+archive_entry: true
+title: Three Years of Topical Practice
 date: 2026-05-16
 sun: 26° Taurus
 moon:
@@ -7,6 +9,22 @@ type: synthesis
 visibility: public
 status: reviewed
 claim_tier: mixed
+summary: Synthesis of observed skin, cycling, vitality, and partner-dimension changes across three years of daily topical practice.
+phase: integration
+significance: major
+threads:
+  - topical-practice
+  - restoration-of-continuity
+  - skin
+  - sexuality
+inquiries:
+  - what-is-continuity
+  - how-does-the-body-record
+entry_points:
+  - body
+  - relationship
+  - practice
+source_layer: public-website
 note: Observed outcomes are personal-account tier — single-subject, non-clinical. Biochemical mechanisms (EGF, transdermal steroids, HPG axis, testosterone/libido) are established-record or hypothesis as noted. All observations are specific to one practitioner over three years of daily topical application of concentrated urine (open evaporation until February 2026, distillation fractions thereafter).
 ---
 

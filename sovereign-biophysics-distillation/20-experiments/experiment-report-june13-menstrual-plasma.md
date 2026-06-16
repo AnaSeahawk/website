@@ -1,4 +1,6 @@
 ---
+archive_entry: true
+title: Experiment Report: June 13 Menstrual Plasma Distillation Series
 date: 2026-06-13
 sun:
 moon:
@@ -7,6 +9,23 @@ type: experiment
 visibility: public
 status: draft
 claim_tier: preliminary-observation
+summary: First documented distillation series including menstrual blood, with artava entering the measured record and a following-day lived observation.
+phase: full-cycle
+significance: threshold
+threads:
+  - distillation
+  - menstrual-artava
+  - measurements
+  - full-cycle
+inquiries:
+  - what-does-distillation-reveal
+  - what-is-return
+  - what-is-cycle-material
+entry_points:
+  - water
+  - body
+  - practice
+source_layer: public-website
 note: First distillation series including menstrual blood (artava). ~300 mL morning collection filtered through woven hemp over felted wool, distilled within hours; the first pass blew over and was redistilled. A later raw collection was recorded as a reference sample but not distilled. The raw morning sample read far higher in conductivity and TDS than recent non-menstrual fresh plasma.
 ---
 

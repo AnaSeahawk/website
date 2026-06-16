@@ -1,4 +1,6 @@
 ---
+archive_entry: true
+title: Current State of the Work - May 2026
 date: 2026-05-11
 sun: 21° Taurus
 moon:
@@ -7,6 +9,22 @@ type: synthesis
 visibility: community
 status: reviewed
 claim_tier: synthesis
+summary: May 2026 synthesis mapping confirmed findings, open questions, dietary clearing, and the state of the archive before the June full-cycle shift.
+phase: integration
+significance: major
+threads:
+  - current-state
+  - clearing
+  - distillation
+  - synthesis
+inquiries:
+  - what-is-known
+  - what-is-still-forming
+entry_points:
+  - practice
+  - water
+  - body
+source_layer: public-website
 ---
 
 # Current State of the Work — May 2026

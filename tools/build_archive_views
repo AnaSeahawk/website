@@ -1,0 +1,258 @@
+#!/usr/bin/env python3
+"""Build generated Markdown views for the living archive pilot."""
+
+from __future__ import annotations
+
+from dataclasses import dataclass
+from pathlib import Path
+import os
+import sys
+
+
+ROOT = Path(__file__).resolve().parents[1]
+ARCHIVE_DIR = ROOT / "archive"
+GENERATED = {
+    ARCHIVE_DIR / "README.md",
+    ARCHIVE_DIR / "by-thread.md",
+}
+
+LIST_FIELDS = {"threads", "inquiries", "entry_points", "people"}
+REQUIRED = {
+    "title",
+    "date",
+    "type",
+    "visibility",
+    "status",
+    "claim_tier",
+    "summary",
+}
+
+
+@dataclass
+class Entry:
+    path: Path
+    meta: dict[str, object]
+
+    @property
+    def rel_link(self) -> str:
+        return os.path.relpath(self.path, ARCHIVE_DIR)
+
+    @property
+    def is_private(self) -> bool:
+        return str(self.meta.get("visibility", "")).strip() == "private"
+
+
+def parse_frontmatter(path: Path) -> dict[str, object] | None:
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---\n"):
+        return None
+
+    try:
+        _, raw, _ = text.split("---", 2)
+    except ValueError:
+        return None
+
+    meta: dict[str, object] = {}
+    current_key: str | None = None
+
+    for raw_line in raw.splitlines():
+        if not raw_line.strip():
+            continue
+
+        stripped = raw_line.strip()
+        if stripped.startswith("- ") and current_key:
+            value = stripped[2:].strip()
+            if value:
+                meta.setdefault(current_key, [])
+                if isinstance(meta[current_key], list):
+                    meta[current_key].append(value)
+            continue
+
+        if ":" not in raw_line:
+            current_key = None
+            continue
+
+        key, value = raw_line.split(":", 1)
+        key = key.strip()
+        value = value.strip()
+        current_key = key
+
+        if key in LIST_FIELDS and value == "":
+            meta[key] = []
+        else:
+            meta[key] = value
+
+    return meta
+
+
+def is_true(value: object) -> bool:
+    return str(value).strip().lower() in {"true", "yes", "1"}
+
+
+def load_entries() -> list[Entry]:
+    entries: list[Entry] = []
+    errors: list[str] = []
+
+    for path in sorted(ROOT.rglob("*.md")):
+        if path in GENERATED:
+            continue
+
+        meta = parse_frontmatter(path)
+        if not meta or not is_true(meta.get("archive_entry")):
+            continue
+
+        missing = sorted(REQUIRED - set(meta))
+        if missing:
+            errors.append(f"{path.relative_to(ROOT)} missing: {', '.join(missing)}")
+            continue
+
+        entries.append(Entry(path=path, meta=meta))
+
+    if errors:
+        for error in errors:
+            print(error, file=sys.stderr)
+        raise SystemExit(1)
+
+    return sorted(entries, key=lambda entry: str(entry.meta["date"]), reverse=True)
+
+
+def scalar(meta: dict[str, object], key: str, default: str = "") -> str:
+    value = meta.get(key, default)
+    if isinstance(value, list):
+        return ", ".join(str(item) for item in value)
+    return str(value)
+
+
+def values(meta: dict[str, object], key: str) -> list[str]:
+    value = meta.get(key, [])
+    if isinstance(value, list):
+        return [str(item) for item in value if str(item).strip()]
+    if str(value).strip():
+        return [str(value)]
+    return []
+
+
+def entry_heading(entry: Entry) -> str:
+    title = scalar(entry.meta, "title")
+    date = scalar(entry.meta, "date")
+    if entry.is_private:
+        return f"{date} - {title} (private stub)"
+    return f"{date} - [{title}]({entry.rel_link})"
+
+
+def entry_block(entry: Entry, level: int = 3) -> str:
+    meta = entry.meta
+    lines = [f"{'#' * level} {entry_heading(entry)}", ""]
+
+    facts = [
+        scalar(meta, "type"),
+        scalar(meta, "phase"),
+        scalar(meta, "significance"),
+        scalar(meta, "visibility"),
+    ]
+    lines.append("`" + "` | `".join(item for item in facts if item) + "`")
+    lines.append("")
+    lines.append(scalar(meta, "summary"))
+
+    thread_values = values(meta, "threads")
+    if thread_values:
+        lines.append("")
+        lines.append("Threads: " + ", ".join(f"`{item}`" for item in thread_values))
+
+    inquiry_values = values(meta, "inquiries")
+    if inquiry_values:
+        lines.append("Inquiries: " + ", ".join(f"`{item}`" for item in inquiry_values))
+
+    entry_point_values = values(meta, "entry_points")
+    if entry_point_values:
+        lines.append(
+            "Entry points: " + ", ".join(f"`{item}`" for item in entry_point_values)
+        )
+
+    lines.append("")
+    return "\n".join(lines)
+
+
+def frontmatter(title: str) -> str:
+    return "\n".join(
+        [
+            "---",
+            f"title: {title}",
+            "type: generated-view",
+            "visibility: community",
+            "status: draft",
+            "claim_tier: orientation",
+            "---",
+            "",
+        ]
+    )
+
+
+def build_index(entries: list[Entry]) -> str:
+    lines = [
+        frontmatter("Living Archive Pilot"),
+        "# Living Archive Pilot",
+        "",
+        "*Generated from archive-entry metadata. This pilot does not replace the"
+        " Sovereign Biophysics reading path or The Living Record; it gives the"
+        " work one relational map with doors back to the rooms.*",
+        "",
+        f"Entries included: {len(entries)}",
+        "",
+        "Rebuild with:",
+        "",
+        "```sh",
+        "Components/website/tools/build_archive_views",
+        "```",
+        "",
+        "## Chronological Stream",
+        "",
+    ]
+
+    for entry in entries:
+        lines.append(entry_block(entry))
+
+    lines.append("*[View by thread ->](by-thread.md)*")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def build_by_thread(entries: list[Entry]) -> str:
+    grouped: dict[str, list[Entry]] = {}
+    for entry in entries:
+        for thread in values(entry.meta, "threads"):
+            grouped.setdefault(thread, []).append(entry)
+
+    lines = [
+        frontmatter("Living Archive By Thread"),
+        "# Living Archive By Thread",
+        "",
+        "*Generated from `threads` metadata. Threads are living cross-time lines,"
+        " not fixed categories.*",
+        "",
+    ]
+
+    for thread in sorted(grouped):
+        lines.append(f"## {thread}")
+        lines.append("")
+        for entry in grouped[thread]:
+            lines.append(f"- {entry_heading(entry)}")
+        lines.append("")
+
+    lines.append("*[<- Living Archive](README.md)*")
+    lines.append("")
+    return "\n".join(lines)
+
+
+def main() -> None:
+    ARCHIVE_DIR.mkdir(exist_ok=True)
+    entries = load_entries()
+    (ARCHIVE_DIR / "README.md").write_text(build_index(entries), encoding="utf-8")
+    (ARCHIVE_DIR / "by-thread.md").write_text(
+        build_by_thread(entries), encoding="utf-8"
+    )
+    print(f"Built {len(entries)} living archive entries.")
+
+
+if __name__ == "__main__":
+    main()
