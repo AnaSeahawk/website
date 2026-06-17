@@ -311,6 +311,22 @@ The strongest numerical pattern observed today was not any individual reading bu
 
 ---
 
+## Signal Notes
+
+Several details in this record are worth carrying forward as open signals.
+
+Fresh plasma was already carrying negative ORP in both paired fresh readings. Batch A began at -85 mV and Batch D began at -58 mV. Distillation did not create the negative charge in these samples; it moved both readings toward a less negative range, ending at -25 mV for Batch A and -14 mV for Batch D. This differs from the earlier positive-raw to negative-distilled arc seen in some prior runs.
+
+Fresh hydrogen also behaved differently between the two paired batches. Batch A began with no measurable H2 and rose to 56 ppb after distillation. Batch D began at 134 ppb and fell to 28 ppb after distillation. This means H2 cannot be treated simply as a product of distillation in this record. It may depend on source state, timing, freshness, temperature, handling, selection, or some combination of conditions not yet isolated.
+
+The paired batches show a similar EC and TDS reduction despite different fresh readings. Batch A dropped from 3950 to 1102 uS/cm, a reduction of about 72%. Batch D dropped from 3380 to 824 uS/cm, a reduction of about 76%. TDS moved in the same proportion. In this record, TDS appears to be tracking EC closely through the meter's conversion factor rather than functioning as a fully independent signal.
+
+Among the distilled samples, the densest measured distillate also carried the highest H2 and the strongest negative ORP. Batch C measured 1556 uS/cm, 102 ppb H2, and -47 mV. Batch D measured 824 uS/cm, 28 ppb H2, and -14 mV. This is not enough to establish a pattern, but it suggests that H2 and ORP may be tracking density or charge state more than distillation alone.
+
+The working question this record opens is whether the household cycle is beginning to charge the fresh material before the still touches it.
+
+---
+
 *One practitioner's record — measurements from one body, one run. Not medical guidance. → [How to read this archive](../00-orientation/how-to-read-this.md)*
 
 ---
