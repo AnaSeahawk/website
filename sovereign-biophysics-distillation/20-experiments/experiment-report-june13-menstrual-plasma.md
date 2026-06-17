@@ -176,6 +176,6 @@ The hydrogen behaviour is a second open thread: it rose into the distillate and 
 
 ---
 
-*Continue reading: [Fresh vs Aged: Comparative Distillation Behaviour →](../30-analysis/analysis-fresh-vs-aged-distillation.md)*
+*Continue reading: [Experiment Report: June 17 — Creating Our Own Ocean →](experiment-report-june17-creating-our-own-ocean.md)*
 
 *[← Back to Index](../README.md)*

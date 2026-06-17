@@ -141,6 +141,12 @@ The output is changing again. After eliminating external distilled water and rel
 
 The practice is beginning to move through relationship.
 
+**2026-06-17** — The phrase for the day was creating our own ocean.
+
+Pure plasma moved through the household as flow rather than surplus: drinking, cooking, milk infusion, skin, distillation, aged use, and the daily cycle all staying in motion. The day also produced a five-batch distillation record. Varied fresh material and selected denser portions continued to distil into the familiar alkaline signature.
+
+Full record: [Experiment Report: June 17 — Creating Our Own Ocean](../../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
+
 ---
 
 *[← Journal Index](README.md)*

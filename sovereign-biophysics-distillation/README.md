@@ -158,6 +158,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Experiment Report: June 4 — Fresh Plasma H2 Retention](20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md) — fresh mixed-source morning batch: stable pH at 9.3-9.4 while H2 varied from 0 to 52 ppb under incomplete baseline, source, and timing controls
 - [Experiment Report: June 10 — Three-Batch Fresh Plasma Comparison](20-experiments/experiment-report-june10-three-batch-fresh-plasma.md) — two paired fresh-baseline batches plus a redistillation: distillates converged to pH 9.4–9.6 and ~1,100–1,200 µS/cm regardless of starting concentration, with H₂ the most variable parameter
 - [Experiment Report: June 13 — Menstrual Plasma Distillation Series](20-experiments/experiment-report-june13-menstrual-plasma.md) — the first run including menstrual blood (artava): a highly concentrated raw morning collection (EC 10,690 µS/cm) distilled and redistilled through the familiar charge-inversion arc to pH 9.7 / 915 µS/cm
+- [Experiment Report: June 17 — Creating Our Own Ocean](20-experiments/experiment-report-june17-creating-our-own-ocean.md) — five-batch pure plasma day tying household flow, selection gradients, and repeated distilled convergence around pH 9.4-9.5
 
 ### Analysis
 

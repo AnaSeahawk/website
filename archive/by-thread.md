@@ -30,6 +30,7 @@ claim_tier: orientation
 
 ## distillation
 
+- 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-14 - [The Jar Held to the Light](../sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.md)
 - 2026-06-14 - [The Three Waters](../sovereign-biophysics-distillation/00-orientation/the-three-waters.md)
 - 2026-06-13 - [Experiment Report: June 13 Menstrual Plasma Distillation Series](../sovereign-biophysics-distillation/20-experiments/experiment-report-june13-menstrual-plasma.md)
@@ -51,13 +52,19 @@ claim_tier: orientation
 
 ## fresh-plasma
 
+- 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-10 - [Experiment Report: June 10 Three-Batch Fresh Plasma Comparison](../sovereign-biophysics-distillation/20-experiments/experiment-report-june10-three-batch-fresh-plasma.md)
 - 2026-06-04 - [Experiment Report: June 4 Fresh Plasma H2 Retention](../sovereign-biophysics-distillation/20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md)
 
 ## full-cycle
 
+- 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-13 - [Experiment Report: June 13 Menstrual Plasma Distillation Series](../sovereign-biophysics-distillation/20-experiments/experiment-report-june13-menstrual-plasma.md)
 - 2026-02-22 - [Living Journal 2026](../The-Vessel/journal/living-journal-2026.md)
+
+## household-flow
+
+- 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 
 ## hydrogen
 
@@ -70,6 +77,7 @@ claim_tier: orientation
 
 ## measurements
 
+- 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-13 - [Experiment Report: June 13 Menstrual Plasma Distillation Series](../sovereign-biophysics-distillation/20-experiments/experiment-report-june13-menstrual-plasma.md)
 - 2026-06-10 - [Experiment Report: June 10 Three-Batch Fresh Plasma Comparison](../sovereign-biophysics-distillation/20-experiments/experiment-report-june10-three-batch-fresh-plasma.md)
 - 2026-06-04 - [Experiment Report: June 4 Fresh Plasma H2 Retention](../sovereign-biophysics-distillation/20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md)

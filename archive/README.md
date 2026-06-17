@@ -10,7 +10,7 @@ claim_tier: orientation
 
 *Generated from archive-entry metadata. This pilot does not replace the Sovereign Biophysics reading path or The Living Record; it gives the work one relational map with doors back to the rooms.*
 
-Entries included: 10
+Entries included: 11
 
 Rebuild with:
 
@@ -19,6 +19,16 @@ Components/website/tools/build_archive_views
 ```
 
 ## Chronological Stream
+
+### 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
+
+`experiment` | `full-cycle` | `threshold` | `community`
+
+June 17 record tying household pure-plasma flow to five-batch distillation readings, with distilled outputs converging around pH 9.4-9.5 while fresh samples varied.
+
+Threads: `distillation`, `fresh-plasma`, `measurements`, `full-cycle`, `household-flow`
+Inquiries: `what-does-distillation-reveal`, `how-does-fresh-plasma-behave`, `what-is-return`, `what-is-nourishment`
+Entry points: `water`, `food`, `household`, `practice`
 
 ### 2026-06-14 - [The Jar Held to the Light](../sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.md)
 
