@@ -53,6 +53,18 @@ No distilled output was recorded in this note.
 
 ---
 
+## Operator's Note
+
+The interpretive turn in this record was simple: the two samples were not separate sources. They were the same body at different points in one day.
+
+That changed the value of the readings. The record no longer asks which sample was better or what one feedstock did compared with another. It shows the raw material moving across time before it entered the shared collection. Morning and midday were not categories. They were moments in the same cycle.
+
+The early morning sample carried a comparatively dilute profile. The midday sample arrived much denser, while pH stayed nearly still. That combination made the day feel less like a comparison table and more like a glimpse of rhythm: the body producing different concentrations without changing the basic acid-base character of the fresh material.
+
+This is why the June 18 entry matters even without a finished distillation record. It keeps the source state alive. It records the plasma before the still made it look more stable than it may have been.
+
+---
+
 ## Measurements
 
 ### Early Morning Sample
@@ -100,6 +112,8 @@ The primary signal is concentration. Conductivity and dissolved solids rose near
 ORP moved modestly further positive. Dissolved hydrogen remained undetectable in both raw fresh samples.
 
 Because the day's material was later blended before distillation, this record does not assign those differences to separate feedstocks. It preserves the variation present in the raw source state before the still acted on the combined material.
+
+Within the recent June record, the midday EC was higher than the June 10 Batch B fresh sample at 10,080 µS/cm and the June 13 raw menstrual morning sample at 10,690 µS/cm. The early morning June 18 sample remained much closer to the lower fresh range. The spread inside one day is therefore part of the signal.
 
 ---
 
