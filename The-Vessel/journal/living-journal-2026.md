@@ -153,6 +153,16 @@ An early morning sample measured later in the day read 3,570 µS/cm and 1,800 pp
 
 Full record: [Experiment Report: June 18 — Fresh Raw Plasma Daily Variation](../../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 
+**2026-06-19** — Li named what has been happening in our bodies as a lymphatic rebuild, maybe detox, maybe both. The phrase landed because the sensation has not felt random. There is movement in places that used to feel heavy.
+
+The day has also been full of somatic boundary work. Much of it happens on the floor, with support behind my back: rolling, twisting, reaching, finding edges of balance, engaging muscles while staying relaxed enough not to force. The movements can be small, but they ask for attention. I can feel where the skeleton supports me and where I have been compensating unnecessarily.
+
+The result is surprising. I feel stronger, not in an external performance sense, but in the sense that the body feels more coherent and more available from within. I am also sore. Very sore. The soreness does not feel wrong. It feels like tissue waking up, the way the body can feel after a first real yoga class.
+
+The day opened into the question of movement, rasa, qì, and participation as part of the medicine. The personal note became an archive essay.
+
+Full essay: [Rasa, Qì, and the Restoration of Flow](../../sovereign-biophysics-distillation/00-orientation/rasa-qi-restoration-flow.md)
+
 ---
 
 *[← Journal Index](README.md)*

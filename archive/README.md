@@ -10,7 +10,7 @@ claim_tier: orientation
 
 *Generated from archive-entry metadata. This pilot does not replace the Sovereign Biophysics reading path or The Living Record; it gives the work one relational map with doors back to the rooms.*
 
-Entries included: 12
+Entries included: 13
 
 Rebuild with:
 
@@ -19,6 +19,16 @@ Components/website/tools/build_archive_views
 ```
 
 ## Chronological Stream
+
+### 2026-06-19 - [Rasa, Qì, and the Restoration of Flow](../sovereign-biophysics-distillation/00-orientation/rasa-qi-restoration-flow.md)
+
+`orientation` | `full-cycle` | `major` | `community`
+
+June 19 orientation essay on movement, attention, rasa, qì, and participation as part of the medicine, written from inside the full-cycle practice.
+
+Threads: `restoration-of-continuity`, `movement`, `rasa`, `qi`, `participation`, `somatic-practice`, `full-cycle`
+Inquiries: `what-is-nourishment`, `what-is-continuity`, `what-is-relationship`, `how-does-the-body-record`
+Entry points: `body`, `movement`, `nourishment`, `practice`
 
 ### 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 
