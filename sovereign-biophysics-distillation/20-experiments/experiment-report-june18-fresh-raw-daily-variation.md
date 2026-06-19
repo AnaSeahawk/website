@@ -64,7 +64,7 @@ Collected approximately 6-7 AM and measured around 1 PM.
 | Temperature |      25.9°C |
 | pH          |         5.2 |
 | EC          | 3,570 µS/cm |
-| TDS         |   1,810 ppm |
+| TDS         |   1,800 ppm |
 | ORP         |       +3 mV |
 | H₂ ppb      |           0 |
 | H₂ ppm      |       0.000 |
@@ -91,7 +91,7 @@ Collected minutes before measurement.
 | :-------- | ------------: | -----------: | -----: |
 | pH        |           5.2 |          5.3 |   +0.1 |
 | EC        |  3,570 µS/cm | 13,590 µS/cm |   3.8x |
-| TDS       |    1,810 ppm |    6,850 ppm |   3.8x |
+| TDS       |    1,800 ppm |    6,850 ppm |   3.8x |
 | ORP       |        +3 mV |       +33 mV | +30 mV |
 | H₂ ppb    |            0 |            0 |      0 |
 
@@ -113,7 +113,7 @@ The TDS values support keeping that conversion:
 
 | Sample | EC | TDS | TDS / EC |
 | :----- | -: | --: | -------: |
-| Early morning | 3,570 µS/cm | 1,810 ppm | 0.51 |
+| Early morning | 3,570 µS/cm | 1,800 ppm | 0.50 |
 | Midday fresh | 13,590 µS/cm | 6,850 ppm | 0.50 |
 
 Both samples track the meter's approximate TDS conversion factor. The EC/TDS pairs are internally coherent.

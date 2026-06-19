@@ -149,7 +149,7 @@ Full record: [Experiment Report: June 17 — Creating Our Own Ocean](../../sover
 
 **2026-06-18** — Two fresh raw plasma readings made the within-day variation visible.
 
-An early morning sample measured later in the day read 3,570 µS/cm and 1,810 ppm. A midday fresh sample measured within minutes read 13,590 µS/cm and 6,850 ppm. pH held close at 5.2-5.3, and H₂ remained undetectable in both raw samples. Because the material was later blended before distillation, the record belongs to source-state variation rather than separate feedstock comparison.
+An early morning sample measured later in the day read 3,570 µS/cm and 1,800 ppm. A midday fresh sample measured within minutes read 13,590 µS/cm and 6,850 ppm. pH held close at 5.2-5.3, and H₂ remained undetectable in both raw samples. Because the material was later blended before distillation, the record belongs to source-state variation rather than separate feedstock comparison.
 
 Full record: [Experiment Report: June 18 — Fresh Raw Plasma Daily Variation](../../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 
