@@ -83,6 +83,8 @@ Rasa is often translated as plasma, lymph, or the primary nourishing fluid of th
 
 If a modern anatomical doorway is needed, the doorway is the lymphatic system. This is a felt-anatomy statement rather than a claim of mechanism. What I am sensing is the body's slow water: interstitial fluid, lymph, and the soft transit between tissue and blood.
 
+Even the word water is incomplete here. The fluid body does not feel like inert liquid moving through inert tubes. It feels more like a responsive, liquid-crystalline medium: charged, patterned, shaped by pressure, contact, movement, heat, attention, and time.
+
 Pure plasma has felt important at this exact level. Its influence has been quiet and aqueous: a change in internal wetness, pressure, tenderness, and willingness to move. Topical, oral, and retained forms meet different thresholds of the same fluid body: skin, mouth, gut, bowel, fascia, and the internal tide that responds after contact.
 
 J. W. Armstrong's older urine-therapy language gives one historical phrase for this intuition. He called urine "living solution." I hold that as a historical witness to a felt reality rather than as proof.
@@ -109,7 +111,9 @@ Without movement, nourishment cannot reach where it is needed.
 
 Without movement, even a pure substance can become stagnant.
 
-In modern anatomy, lymph has no central pump. It is moved by pressure changes, breath, muscle contraction, and the shifting architecture of fascia and tissue. Movement becomes part of the fluid conversation itself.
+The body is not a plumbing system. The heart-vortex work has already moved this archive away from pump language and toward rhythm, spiral, field, and coherence. Lymph belongs to that same living architecture. It moves as the tissue field moves: through breath, pressure, fascia, muscular wave, posture, and the charge state of the fluid itself.
+
+Movement becomes part of the fluid conversation itself.
 
 This has become apparent through practice. A walk changes something. A stretch changes something. Dancing changes something. Rolling on the floor changes something. Lying still with attention placed inside one region of the body also changes something.
 
@@ -207,6 +211,6 @@ Source note: David Frawley, *Soma in Yoga and Ayurveda* (2012), Part IV; J. W. A
 
 *Origin note: [Living Journal 2026 — June 19](../../The-Vessel/journal/living-journal-2026.md)*
 
-*See also: [Agni](agni.md) · [The Living Loop](../10-method/the-living-loop.md) · [Three Years of Topical Practice](../40-synthesis/synthesis-three-year-topical-observations.md)*
+*See also: [Agni](agni.md) · [The Living Loop](../10-method/the-living-loop.md) · [The Vortex Inheritance](../40-synthesis/crystal-blueprint-vortex-inheritance.md) · [Three Years of Topical Practice](../40-synthesis/synthesis-three-year-topical-observations.md)*
 
 *[← Back to Index](../README.md)*
