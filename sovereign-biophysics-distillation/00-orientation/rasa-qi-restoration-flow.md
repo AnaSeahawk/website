@@ -79,7 +79,13 @@ The foundation has been exposed. Space has been cleared. Now something is learni
 
 The experience brought me back to *rasa dhātu*.
 
-Rasa is often translated as plasma, lymph, or the primary nourishing fluid of the body. Those translations are useful, but they do not carry the whole meaning. Rasa is nourishment in motion. It is the first expression of what the body receives from life and begins to make its own.
+Rasa is often translated as plasma, lymph, or the primary nourishing fluid of the body. Those translations are useful, but they do not carry the whole meaning. David Frawley, writing on soma and rasayana, says rasa means both "fluid" and "essence." That double meaning matters here. Rasa is nourishment in motion. It is the first expression of what the body receives from life and begins to make its own.
+
+If a modern anatomical doorway is needed, the doorway is the lymphatic system. This is a felt-anatomy statement rather than a claim of mechanism. What I am sensing is the body's slow water: interstitial fluid, lymph, and the soft transit between tissue and blood.
+
+Pure plasma has felt important at this exact level. Its influence has been quiet and aqueous: a change in internal wetness, pressure, tenderness, and willingness to move. Topical, oral, and retained forms meet different thresholds of the same fluid body: skin, mouth, gut, bowel, fascia, and the internal tide that responds after contact.
+
+J. W. Armstrong's older urine-therapy language gives one historical phrase for this intuition. He called urine "living solution." I hold that as a historical witness to a felt reality rather than as proof.
 
 When rasa is abundant and moving, there is a felt quality of softness, vitality, lubrication, adaptability, and ease. When rasa stagnates, life can feel stagnant with it: heavy, dull, congested, emotionally held, no longer communicating freely.
 
@@ -102,6 +108,8 @@ Vāta is not simply air. It is the principle of movement itself: breath, percept
 Without movement, nourishment cannot reach where it is needed.
 
 Without movement, even a pure substance can become stagnant.
+
+In modern anatomy, lymph has no central pump. It is moved by pressure changes, breath, muscle contraction, and the shifting architecture of fascia and tissue. Movement becomes part of the fluid conversation itself.
 
 This has become apparent through practice. A walk changes something. A stretch changes something. Dancing changes something. Rolling on the floor changes something. Lying still with attention placed inside one region of the body also changes something.
 
@@ -159,6 +167,10 @@ The body is an active participant in its own unfolding. It does not only receive
 
 This is why the soreness felt different from depletion. It did not feel like something breaking down. It felt like something waking up.
 
+The waking was not only muscular.
+
+It felt lymphatic: slow, wet, pressurized, tender. The kind of waking that happens when a place is no longer sealed off from circulation.
+
 Areas that had been quiet began to speak.
 
 Areas that had been dormant began to participate.
@@ -186,6 +198,10 @@ The gradual restoration of participation in life itself.
 ---
 
 *One practitioner's record, written from inside the work. Not medical guidance. → [How to read this archive](how-to-read-this.md)*
+
+---
+
+Source note: David Frawley, *Soma in Yoga and Ayurveda* (2012), Part IV; J. W. Armstrong, *The Water of Life* (1944), Ch. 7.
 
 ---
 
