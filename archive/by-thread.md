@@ -28,6 +28,10 @@ claim_tier: orientation
 
 - 2026-05-11 - [Current State of the Work - May 2026](../sovereign-biophysics-distillation/40-synthesis/synthesis-current-state-may-2026.md)
 
+## daily-variation
+
+- 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
+
 ## distillation
 
 - 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
@@ -52,12 +56,14 @@ claim_tier: orientation
 
 ## fresh-plasma
 
+- 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 - 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-10 - [Experiment Report: June 10 Three-Batch Fresh Plasma Comparison](../sovereign-biophysics-distillation/20-experiments/experiment-report-june10-three-batch-fresh-plasma.md)
 - 2026-06-04 - [Experiment Report: June 4 Fresh Plasma H2 Retention](../sovereign-biophysics-distillation/20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md)
 
 ## full-cycle
 
+- 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 - 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-13 - [Experiment Report: June 13 Menstrual Plasma Distillation Series](../sovereign-biophysics-distillation/20-experiments/experiment-report-june13-menstrual-plasma.md)
 - 2026-02-22 - [Living Journal 2026](../The-Vessel/journal/living-journal-2026.md)
@@ -77,6 +83,7 @@ claim_tier: orientation
 
 ## measurements
 
+- 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 - 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-13 - [Experiment Report: June 13 Menstrual Plasma Distillation Series](../sovereign-biophysics-distillation/20-experiments/experiment-report-june13-menstrual-plasma.md)
 - 2026-06-10 - [Experiment Report: June 10 Three-Batch Fresh Plasma Comparison](../sovereign-biophysics-distillation/20-experiments/experiment-report-june10-three-batch-fresh-plasma.md)
@@ -115,6 +122,10 @@ claim_tier: orientation
 ## sodium-chloride
 
 - 2026-04-23 - [The Deepest Layer](../The-Vessel/journal/the-deepest-layer.md)
+
+## source-state
+
+- 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 
 ## synthesis
 

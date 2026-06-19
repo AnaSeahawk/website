@@ -10,7 +10,7 @@ claim_tier: orientation
 
 *Generated from archive-entry metadata. This pilot does not replace the Sovereign Biophysics reading path or The Living Record; it gives the work one relational map with doors back to the rooms.*
 
-Entries included: 11
+Entries included: 12
 
 Rebuild with:
 
@@ -19,6 +19,16 @@ Components/website/tools/build_archive_views
 ```
 
 ## Chronological Stream
+
+### 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
+
+`experiment` | `full-cycle` | `major` | `community`
+
+June 18 fresh raw plasma record comparing early morning and midday samples from the same individual before the day's material was blended for distillation.
+
+Threads: `fresh-plasma`, `measurements`, `daily-variation`, `source-state`, `full-cycle`
+Inquiries: `how-does-fresh-plasma-behave`, `what-does-timing-reveal`, `what-does-distillation-reveal`
+Entry points: `water`, `body`, `measurement`, `practice`
 
 ### 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 

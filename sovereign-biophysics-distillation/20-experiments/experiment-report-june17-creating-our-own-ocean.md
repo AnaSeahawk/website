@@ -331,6 +331,6 @@ The working question this record opens is whether the household cycle is beginni
 
 ---
 
-*Continue reading: [Fresh vs Aged: Comparative Distillation Behaviour →](../30-analysis/analysis-fresh-vs-aged-distillation.md)*
+*Continue reading: [Experiment Report: June 18 — Fresh Raw Plasma Daily Variation →](experiment-report-june18-fresh-raw-daily-variation.md)*
 
 *[← Back to Index](../README.md)*
