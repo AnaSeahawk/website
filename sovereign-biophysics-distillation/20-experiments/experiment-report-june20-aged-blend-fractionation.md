@@ -25,7 +25,7 @@ entry_points:
   - measurement
   - practice
 source_layer: public-website
-note: Minimum one-month-aged blended source material from Ana and partner. Run A and Run B were separate first-pass distillations from the same bottle, not sequential passes of the same distillate. Run B was performed to capture and measure the serum fraction after Run A approached shutdown without a separate serum measurement.
+note: Minimum one-month-aged blended source material from Ana and partner. The batch had been syphoned two days before measurement. Run A and Run B were separate first-pass distillations from the same bottle, not sequential passes of the same distillate. Run A's raw portion was filtered through hemp and felted wool before distillation; Run B's raw portion was not filtered before distillation. Run B was performed to capture and measure the serum fraction after Run A approached shutdown without a separate serum measurement.
 ---
 
 # Experiment Report: June 20 — Aged Blend Fractionation
@@ -49,7 +49,9 @@ No medical or therapeutic claim is made.
 
 ## Run Context
 
-The source material was at least one month old. It was already alkaline, conductive, and near-neutral by ORP before distillation.
+The source material was at least one month old. The batch had been syphoned two days before this run and was visually clean: medium amber, with a strong but pleasant earthy smell. It was already alkaline, conductive, and near-neutral by ORP before distillation.
+
+The raw portion for Run A was filtered through hemp and felted wool before entering the still. The raw portion for Run B was not filtered before distillation. This handling difference matters, but both portions came from the same syphoned aged batch.
 
 Run A began as an ordinary fractionation run. The still was not stopped early enough to retain a separately measured serum fraction; by the time the state was noticed, the apparatus was close to shutdown and little remained in the chamber.
 
@@ -162,6 +164,8 @@ The serum, measured only in Run B, occupied a different profile: lower pH, highe
 
 **The aged source was already alkaline and conductive.** The raw blend entered the still at pH 9.1 and 23.0 mS/cm, with 11.5 ppt salinity and no measurable dissolved hydrogen.
 
+**The source handling was not identical.** Run A's raw portion was filtered through hemp and felted wool before distillation. Run B's raw portion was not filtered before distillation. The shared source bottle keeps the comparison useful, while the filtration difference remains part of the record.
+
 **The spirit fraction repeated closely across independent runs.** Run A spirit and Run B spirit both landed near pH 10, strongly negative ORP, high conductivity, and approximately 0.2 ppm H₂.
 
 **The essence fraction retained the same ORP in both runs.** Both essence readings measured -58 mV. H₂ also stayed close, while EC differed by roughly half.
@@ -177,6 +181,8 @@ The serum, measured only in Run B, occupied a different profile: lower pH, highe
 Only one serum fraction was measured. The archive cannot yet say whether this serum profile repeats across aged batches, different bottles, different fill levels, or different stopping points.
 
 The two essence conductivity readings also need more context. ORP and H₂ held closely, while EC varied from 1368 to 649 µS/cm. Collection timing, fraction boundaries, chamber level, cooling state, and measurement timing may all matter.
+
+The filtration mismatch is now part of the open question. Run A and Run B were separate first-pass distillations from the same syphoned aged batch, but only Run A's raw portion was filtered through hemp and felted wool before distillation.
 
 The blended source is a boundary condition. This run can support apparatus and fractionation questions, but it cannot be treated as a single-subject physiological finding.
 
