@@ -14,11 +14,7 @@ phase: full-cycle
 significance: major
 threads:
   - restoration-of-continuity
-  - movement
-  - rasa
-  - qi
-  - participation
-  - somatic-practice
+  - rasa-qi-flow
   - full-cycle
 inquiries:
   - what-is-nourishment

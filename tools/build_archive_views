@@ -212,7 +212,7 @@ def build_index(entries: list[Entry]) -> str:
     for entry in entries:
         lines.append(entry_block(entry))
 
-    lines.append("*[View by thread ->](by-thread.md)*")
+    lines.append("*[View by thread ->](by-thread.md) | [Thread vocabulary](THREADS.md)*")
     lines.append("")
     return "\n".join(lines)
 
@@ -229,6 +229,8 @@ def build_by_thread(entries: list[Entry]) -> str:
         "",
         "*Generated from `threads` metadata. Threads are living cross-time lines,"
         " not fixed categories.*",
+        "",
+        "*[Thread vocabulary](THREADS.md)*",
         "",
     ]
 

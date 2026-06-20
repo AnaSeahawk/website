@@ -10,10 +10,8 @@ summary: Fresh mixed-source morning distillation run where pH stayed nearly fixe
 phase: distillation
 significance: major
 threads:
-  - distillation
+  - distillation-record
   - fresh-plasma
-  - measurements
-  - hydrogen
 inquiries:
   - what-does-distillation-reveal
   - how-does-fresh-plasma-behave

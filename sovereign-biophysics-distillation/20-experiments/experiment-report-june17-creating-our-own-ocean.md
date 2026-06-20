@@ -13,11 +13,9 @@ summary: June 17 record tying household pure-plasma flow to five-batch distillat
 phase: full-cycle
 significance: threshold
 threads:
-  - distillation
+  - distillation-record
   - fresh-plasma
-  - measurements
   - full-cycle
-  - household-flow
 inquiries:
   - what-does-distillation-reveal
   - how-does-fresh-plasma-behave

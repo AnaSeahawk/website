@@ -26,7 +26,7 @@ Components/website/tools/build_archive_views
 
 June 19 orientation essay on movement, attention, rasa, qì, and participation as part of the medicine, written from inside the full-cycle practice.
 
-Threads: `restoration-of-continuity`, `movement`, `rasa`, `qi`, `participation`, `somatic-practice`, `full-cycle`
+Threads: `restoration-of-continuity`, `rasa-qi-flow`, `full-cycle`
 Inquiries: `what-is-nourishment`, `what-is-continuity`, `what-is-relationship`, `how-does-the-body-record`
 Entry points: `body`, `movement`, `nourishment`, `practice`
 
@@ -36,7 +36,7 @@ Entry points: `body`, `movement`, `nourishment`, `practice`
 
 June 18 fresh raw plasma record comparing early morning and midday samples from the same individual before the day's material was blended for distillation.
 
-Threads: `fresh-plasma`, `measurements`, `daily-variation`, `source-state`, `full-cycle`
+Threads: `fresh-plasma`, `source-state`, `full-cycle`
 Inquiries: `how-does-fresh-plasma-behave`, `what-does-timing-reveal`, `what-does-distillation-reveal`
 Entry points: `water`, `body`, `measurement`, `practice`
 
@@ -46,7 +46,7 @@ Entry points: `water`, `body`, `measurement`, `practice`
 
 June 17 record tying household pure-plasma flow to five-batch distillation readings, with distilled outputs converging around pH 9.4-9.5 while fresh samples varied.
 
-Threads: `distillation`, `fresh-plasma`, `measurements`, `full-cycle`, `household-flow`
+Threads: `distillation-record`, `fresh-plasma`, `full-cycle`
 Inquiries: `what-does-distillation-reveal`, `how-does-fresh-plasma-behave`, `what-is-return`, `what-is-nourishment`
 Entry points: `water`, `food`, `household`, `practice`
 
@@ -56,7 +56,7 @@ Entry points: `water`, `food`, `household`, `practice`
 
 Threshold orientation piece naming the first recognition of clear distilled water, old alchemical symbols, and the body answering before the archive did.
 
-Threads: `first-distillation`, `recognition`, `alchemical-lineage`, `distillation`
+Threads: `lineage-recognition`, `distillation-record`
 Inquiries: `what-does-distillation-reveal`, `how-does-recognition-happen`
 Entry points: `water`, `body`, `lineage`
 
@@ -66,7 +66,7 @@ Entry points: `water`, `body`, `lineage`
 
 Orientation to Solar, Lunar, and Saturn as the three voices the still reveals before the practice turns toward applications.
 
-Threads: `three-waters`, `distillation`, `fraction-language`
+Threads: `three-waters`, `distillation-record`
 Inquiries: `what-does-distillation-reveal`, `what-is-return`
 Entry points: `water`, `practice`, `body`
 
@@ -76,17 +76,17 @@ Entry points: `water`, `practice`, `body`
 
 First documented distillation series including menstrual blood, with artava entering the measured record and a following-day lived observation.
 
-Threads: `distillation`, `menstrual-artava`, `measurements`, `full-cycle`
+Threads: `distillation-record`, `menstrual-artava`, `full-cycle`
 Inquiries: `what-does-distillation-reveal`, `what-is-return`, `what-is-cycle-material`
 Entry points: `water`, `body`, `practice`
 
-### 2026-06-12 - Release of Longstanding Musculoskeletal Tension (private stub)
+### 2026-06-12 - Community Field Observation - Tissue Softening And Release (private stub)
 
-`community-field-observation` | `receiving-field` | `major` | `private`
+`community-field-observation-stub` | `receiving-field` | `major` | `private`
 
-Private community field observation recording a contributor account of tissue comfort, fluidity, and release after sustained distilled plasma practice.
+Redacted private stub for a consent-held community field observation. The full contributor account is held only in the private Vessel repository.
 
-Threads: `community-transmission`, `restoration-of-continuity`, `distilled-plasma`
+Threads: `community-transmission`, `restoration-of-continuity`
 Inquiries: `what-is-relationship`, `what-is-continuity`
 Entry points: `community`, `relationship`, `body`
 
@@ -96,7 +96,7 @@ Entry points: `community`, `relationship`, `body`
 
 Three-run fresh plasma comparison with paired fresh-baseline and distilled-product readings on two independent batches plus a redistillation.
 
-Threads: `distillation`, `fresh-plasma`, `measurements`, `redistillation`
+Threads: `distillation-record`, `fresh-plasma`
 Inquiries: `what-does-distillation-reveal`, `how-does-fresh-plasma-behave`
 Entry points: `water`, `measurement`, `practice`
 
@@ -106,7 +106,7 @@ Entry points: `water`, `measurement`, `practice`
 
 Fresh mixed-source morning distillation run where pH stayed nearly fixed while dissolved hydrogen varied sharply across jars.
 
-Threads: `distillation`, `fresh-plasma`, `measurements`, `hydrogen`
+Threads: `distillation-record`, `fresh-plasma`
 Inquiries: `what-does-distillation-reveal`, `how-does-fresh-plasma-behave`
 Entry points: `water`, `measurement`, `practice`
 
@@ -116,7 +116,7 @@ Entry points: `water`, `measurement`, `practice`
 
 Synthesis of observed skin, cycling, vitality, and partner-dimension changes across three years of daily topical practice.
 
-Threads: `topical-practice`, `restoration-of-continuity`, `skin`, `sexuality`
+Threads: `topical-practice`, `restoration-of-continuity`
 Inquiries: `what-is-continuity`, `how-does-the-body-record`
 Entry points: `body`, `relationship`, `practice`
 
@@ -126,7 +126,7 @@ Entry points: `body`, `relationship`, `practice`
 
 May 2026 synthesis mapping confirmed findings, open questions, dietary clearing, and the state of the archive before the June full-cycle shift.
 
-Threads: `current-state`, `clearing`, `distillation`, `synthesis`
+Threads: `current-state`, `clearing-nourishment`, `distillation-record`
 Inquiries: `what-is-known`, `what-is-still-forming`
 Entry points: `practice`, `water`, `body`
 
@@ -136,7 +136,7 @@ Entry points: `practice`, `water`, `body`
 
 April 2026 field entry on removing coffee, CBD, and refined sugar while the body entered a deeper clearing phase in Albania.
 
-Threads: `living-record`, `clearing`, `nourishment`, `sodium-chloride`
+Threads: `living-record`, `clearing-nourishment`
 Inquiries: `what-is-nourishment`, `what-is-clearing`
 Entry points: `food`, `body`, `practice`
 
@@ -150,4 +150,4 @@ Threads: `living-record`, `full-cycle`, `restoration-of-continuity`, `community-
 Inquiries: `what-is-return`, `what-is-relationship`, `how-does-the-body-record`
 Entry points: `body`, `practice`, `community`
 
-*[View by thread ->](by-thread.md)*
+*[View by thread ->](by-thread.md) | [Thread vocabulary](THREADS.md)*

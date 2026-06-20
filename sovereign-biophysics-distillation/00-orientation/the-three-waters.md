@@ -14,8 +14,7 @@ phase: distillation
 significance: threshold
 threads:
   - three-waters
-  - distillation
-  - fraction-language
+  - distillation-record
 inquiries:
   - what-does-distillation-reveal
   - what-is-return

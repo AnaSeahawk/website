@@ -9,6 +9,7 @@ Run this before each push to `main`.
 5. Verify links resolve and use canonical URLs.
 6. Ensure filename is clear and stable.
 7. Confirm page fits intended lane: public, community, or private.
+   See `ACCESS_BOUNDARIES.md`; frontmatter is not access control.
 8. Check spelling/typos in titles and key sections.
 9. Update `REVIEW_QUEUE.md` status after merge.
 10. Commit with a clear message describing scope.

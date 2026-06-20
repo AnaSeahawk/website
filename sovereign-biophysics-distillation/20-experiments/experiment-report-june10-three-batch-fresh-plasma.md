@@ -13,10 +13,8 @@ summary: Three-run fresh plasma comparison with paired fresh-baseline and distil
 phase: distillation
 significance: major
 threads:
-  - distillation
+  - distillation-record
   - fresh-plasma
-  - measurements
-  - redistillation
 inquiries:
   - what-does-distillation-reveal
   - how-does-fresh-plasma-behave

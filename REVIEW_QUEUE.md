@@ -6,6 +6,9 @@ This is not a complete website inventory. It records front doors, active review 
 
 This queue records website visibility only. The private source/member container is tracked in `Components/the-vessel/QUEUE.md`.
 
+For the operational meaning of `public`, `community`, and `private`, see
+`ACCESS_BOUNDARIES.md`. Frontmatter is not access control.
+
 ---
 
 ## Public Front Doors

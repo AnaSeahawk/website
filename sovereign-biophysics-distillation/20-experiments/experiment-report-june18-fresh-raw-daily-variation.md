@@ -14,8 +14,6 @@ phase: full-cycle
 significance: major
 threads:
   - fresh-plasma
-  - measurements
-  - daily-variation
   - source-state
   - full-cycle
 inquiries:

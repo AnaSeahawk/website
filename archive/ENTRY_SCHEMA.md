@@ -46,7 +46,9 @@ source_record:
   `integration`, `receiving-field`, or `full-cycle`.
 - `significance` names how strongly the entry functions in the living map:
   `minor`, `major`, or `threshold`.
-- `threads` are living cross-time lines, not fixed categories.
+- `threads` are living cross-time lines. Use the controlled list in
+  [THREADS.md](THREADS.md) and keep each entry to one to three threads when
+  possible.
 - `inquiries` preserve questions the entry belongs to.
 - `entry_points` name doors a reader might enter through.
 - `people` should be used only where consent and privacy allow.
@@ -54,6 +56,8 @@ source_record:
   `private-vessel`, `external-source`, or `report`.
 - `source_record` can point to a protected source record when a public or
   community-facing entry is only a summary or stub.
+  For private records, this should be a repository path for maintainers, not a
+  public link.
 
 ## Current Pilot Views
 
@@ -61,6 +65,7 @@ Generated views live in this folder:
 
 - `README.md` - chronological stream
 - `by-thread.md` - entries grouped by thread
+- `THREADS.md` - controlled thread vocabulary
 
 Rebuild them with:
 

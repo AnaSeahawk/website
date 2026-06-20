@@ -1,6 +1,7 @@
 ---
 status: redirected
 visibility: public
+claim_tier: orientation
 ---
 
 # The Living Year

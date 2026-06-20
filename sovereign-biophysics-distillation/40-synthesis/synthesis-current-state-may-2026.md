@@ -14,9 +14,8 @@ phase: integration
 significance: major
 threads:
   - current-state
-  - clearing
-  - distillation
-  - synthesis
+  - clearing-nourishment
+  - distillation-record
 inquiries:
   - what-is-known
   - what-is-still-forming

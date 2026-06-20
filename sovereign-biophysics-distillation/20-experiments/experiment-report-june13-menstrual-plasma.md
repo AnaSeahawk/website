@@ -13,9 +13,8 @@ summary: First documented distillation series including menstrual blood, with ar
 phase: full-cycle
 significance: threshold
 threads:
-  - distillation
+  - distillation-record
   - menstrual-artava
-  - measurements
   - full-cycle
 inquiries:
   - what-does-distillation-reveal

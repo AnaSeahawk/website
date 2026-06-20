@@ -13,10 +13,8 @@ summary: Threshold orientation piece naming the first recognition of clear disti
 phase: distillation
 significance: threshold
 threads:
-  - first-distillation
-  - recognition
-  - alchemical-lineage
-  - distillation
+  - lineage-recognition
+  - distillation-record
 inquiries:
   - what-does-distillation-reveal
   - how-does-recognition-happen

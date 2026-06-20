@@ -15,8 +15,6 @@ significance: major
 threads:
   - topical-practice
   - restoration-of-continuity
-  - skin
-  - sexuality
 inquiries:
   - what-is-continuity
   - how-does-the-body-record

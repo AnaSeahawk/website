@@ -1,33 +1,26 @@
 ---
-title: Community Story Template
+title: Community Story Stub Template
 type: template
 visibility: private
 status: draft
 claim_tier: personal-account
 ---
 
-# <Story Title>
+# <Stub Title>
 
-**Contributor:**  
 **Date received:**  
-**Practice context:**  
-**Consent scope:** Private Vessel record unless re-cleared.
+**Consent scope:** Private Vessel record only unless re-cleared.
+**Private source record:** `Components/the-vessel/30-community-private/<file>.md`
 
 ---
 
-## Contributor Account
+## Redacted Stub
 
-Write the story as close to the contributor's own language as possible.
+Keep only the date, high-level topic, source path, and thread placement needed
+for archive continuity.
 
----
-
-## Ana's Archive Notes
-
-Keep interpretation separate from the contributor's account.
-
-Possible future harvest:
-
-This remains a lived report, not evidence of mechanism.
+Do not include names, direct quotes, health context, detailed practice notes, or
+Ana's interpretation in the public website repo.
 
 ---
 

@@ -6,46 +6,56 @@ status: draft
 claim_tier: personal-account
 ---
 
-# Community Stories
+# Community Story Stubs
 ## Private Witness From the Living Practice
 
-*Consent-held accounts from people in relationship with the work.*
+*Redacted markers for consent-held accounts from people in relationship with
+the work.*
 
-This folder holds stories, field observations, and follow-up notes shared with Ana by people who are practicing, experimenting, or coming into contact with the living waters work.
+This folder lives in the public website repo. It should hold only redacted
+stubs, not full private contributor records.
+
+Full community stories, field observations, and follow-up notes belong in the
+private Vessel repository:
+
+`Components/the-vessel/30-community-private/`
 
 These are personal accounts. They are not case studies, clinical evidence, public testimonials, or promises of outcome.
 
-Consent to share a story with Ana does not imply consent for public use. Anything gathered here remains inside the private Vessel unless it is specifically re-cleared for another context.
+Consent to share a story with Ana does not imply consent for public use. A
+public stub may preserve chronology and thread placement, but names, health
+context, direct quotes, and detailed practice notes stay private unless
+specifically re-cleared for another context.
 
 ---
 
 ## What Belongs Here
 
-- practitioner stories shared with consent
-- community field observations
-- follow-up notes over time
-- patterns that may later be harvested into synthesis
-- context that needs privacy, relationship, or care before it can be read
+- redacted stubs for private Vessel community records
+- chronology markers for generated archive views
+- high-level thread placement
+- source pointers for maintainers
+
+Do not place full contributor accounts here.
 
 ---
 
 ## Record Form
 
-Each story should keep these fields visible:
+Each stub should keep these fields visible:
 
 - date received
-- contributor name or private label
 - consent scope
-- practice context
-- observation in the contributor's own language where possible
-- Ana's notes kept separate from the contributor's account
-- possible archive harvest, if any
+- high-level topic without identifying detail
+- source record path in the private Vessel
+- thread placement
+- possible archive harvest, if any, without content details
 
 Use individual dated files when a new story arrives.
 
 Suggested filename:
 
-`YYYY-MM-DD-private-label-short-observation.md`
+`YYYY-MM-DD-community-short-observation-stub.md`
 
 ---
 
@@ -53,7 +63,7 @@ Suggested filename:
 
 | Date | Contributor | Entry |
 |---|---|---|
-| 2026-06-12 | Fiona Gardner | [Release of Longstanding Musculoskeletal Tension](2026-06-12-fiona-gardner-musculoskeletal-release.md) |
+| 2026-06-12 | private | [Tissue Softening And Release](2026-06-12-community-musculoskeletal-release-stub.md) |
 
 ---
 
