@@ -13,9 +13,7 @@ phase: integration
 significance: threshold
 threads:
   - living-record
-  - clearing
-  - nourishment
-  - sodium-chloride
+  - clearing-nourishment
 inquiries:
   - what-is-nourishment
   - what-is-clearing
