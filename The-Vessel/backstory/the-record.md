@@ -49,7 +49,7 @@ I had been taking the birth control pill since after my son's birth in 1998. By 
 
 In Laos, the question came home. I stopped the pill. Olivier and I went vegetarian. The cycle, which had been chemically suspended for years, returned. A few months later, on April 3rd, we began the amaroli practice — daily, committed, not as experiment but as direction.
 
-After about a year we added open evaporation on the stovetop: reducing collected urine until what remained was thick, dark, mineral-dense. No still, no fractions yet. This is what we applied topically for three years, moving through rented kitchens across Asia and Latin America. We started with separate waters. We began combining in 2025. By the time we ordered the countertop distiller — from an airport in Montenegro, so it would be waiting for us in Spain — three years of practice were already in the body's baseline. Spain was where the distiller arrived.
+After about a year we added open evaporation on the stovetop: reducing aged plasma — urine older than 28 days, a full lunation cycle — until what remained was thick, dark, mineral-dense. No still, no fractions yet. This is what we applied topically for three years, moving through rented kitchens across Asia and Latin America. We started with separate waters. We began combining in 2025. By the time we ordered the countertop distiller — from an airport in Montenegro, so it would be waiting for us in Spain — three years of practice were already in the body's baseline. Spain was where the distiller arrived.
 
 ---
 
