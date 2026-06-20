@@ -28,6 +28,7 @@ claim_tier: orientation
 
 ## distillation-record
 
+- 2026-06-20 - [Experiment Report: June 20 Aged Blend Fractionation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md)
 - 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-14 - [The Jar Held to the Light](../sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.md)
 - 2026-06-14 - [The Three Waters](../sovereign-biophysics-distillation/00-orientation/the-three-waters.md)
@@ -77,10 +78,12 @@ claim_tier: orientation
 
 ## source-state
 
+- 2026-06-20 - [Experiment Report: June 20 Aged Blend Fractionation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md)
 - 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 
 ## three-waters
 
+- 2026-06-20 - [Experiment Report: June 20 Aged Blend Fractionation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md)
 - 2026-06-14 - [The Three Waters](../sovereign-biophysics-distillation/00-orientation/the-three-waters.md)
 
 ## topical-practice

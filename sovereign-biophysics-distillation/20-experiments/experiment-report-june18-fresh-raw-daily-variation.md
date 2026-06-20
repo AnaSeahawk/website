@@ -156,6 +156,6 @@ Paired fresh measurements taken immediately at several points in the day would h
 
 ---
 
-*Continue reading: [Fresh vs Aged: Comparative Distillation Behaviour →](../30-analysis/analysis-fresh-vs-aged-distillation.md)*
+*Continue reading: [Experiment Report: June 20 — Aged Blend Fractionation →](experiment-report-june20-aged-blend-fractionation.md)*
 
 *[← Back to Index](../README.md)*

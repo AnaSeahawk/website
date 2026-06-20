@@ -10,7 +10,7 @@ claim_tier: orientation
 
 *Generated from archive-entry metadata. This pilot does not replace the Sovereign Biophysics reading path or The Living Record; it gives the work one relational map with doors back to the rooms.*
 
-Entries included: 13
+Entries included: 14
 
 Rebuild with:
 
@@ -19,6 +19,16 @@ Components/website/tools/build_archive_views
 ```
 
 ## Chronological Stream
+
+### 2026-06-20 - [Experiment Report: June 20 Aged Blend Fractionation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md)
+
+`experiment` | `distillation` | `major` | `public`
+
+Two independent first-pass distillation runs from the same minimum one-month-aged blended source, with close spirit repeatability and a separately captured serum fraction.
+
+Threads: `distillation-record`, `source-state`, `three-waters`
+Inquiries: `what-does-distillation-reveal`, `how-does-aged-plasma-behave`, `what-do-the-fractions-carry`
+Entry points: `water`, `measurement`, `practice`
 
 ### 2026-06-19 - [Rasa, Qì, and the Restoration of Flow](../sovereign-biophysics-distillation/00-orientation/rasa-qi-restoration-flow.md)
 

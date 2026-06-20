@@ -77,6 +77,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-aged-plasma-distillation.md`
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-ana-distillation-feb22.md`
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md`
+- `sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md`
 - `sovereign-biophysics-distillation/30-analysis/analysis-water-plasma-fourth-phase.md`
 - `sovereign-biophysics-distillation/40-synthesis/synthesis-three-year-topical-observations.md`
 - `sovereign-biophysics-distillation/40-synthesis/synthesis-current-state-may-2026.md`

@@ -161,6 +161,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Experiment Report: June 13 — Menstrual Plasma Distillation Series](20-experiments/experiment-report-june13-menstrual-plasma.md) — the first run including menstrual blood (artava): a highly concentrated raw morning collection (EC 10,690 µS/cm) distilled and redistilled through the familiar charge-inversion arc to pH 9.7 / 915 µS/cm
 - [Experiment Report: June 17 — Creating Our Own Ocean](20-experiments/experiment-report-june17-creating-our-own-ocean.md) — five-batch pure plasma day tying household flow, selection gradients, and repeated distilled convergence around pH 9.4-9.5
 - [Experiment Report: June 18 — Fresh Raw Plasma Daily Variation](20-experiments/experiment-report-june18-fresh-raw-daily-variation.md) — two same-day fresh raw samples showing EC/TDS rising from 3,570 µS/cm / 1,800 ppm to 13,590 µS/cm / 6,850 ppm while pH held at 5.2-5.3
+- [Experiment Report: June 20 — Aged Blend Fractionation](20-experiments/experiment-report-june20-aged-blend-fractionation.md) — two independent first-pass runs from the same minimum one-month-aged blended source, with close spirit repeatability and a separately captured serum fraction
 
 ### Analysis
 
