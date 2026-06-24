@@ -8,6 +8,7 @@ visibility: community
 status: draft
 claim_tier: practice
 format: 60 min online
+watermark_asset: ../assets/ana-seahawk-watermark.png
 ---
 
 # The Living Waters: Sovereign Biophysics and the Body's Original Distillation
