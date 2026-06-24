@@ -204,7 +204,7 @@ If this archive has moved something in you, the public record is not the only co
 
 *For practitioners sharing this work with others.*
 
-- [The Living Waters: Sovereign Biophysics and the Body's Original Distillation](50-presentations/presentation-living-waters-v1.md) — 60-minute talk outline; draft V3; covers the ground, the lineage, the translation, and the process from practice
+- [The Living Waters: Sovereign Biophysics and the Body's Original Distillation](50-presentations/presentation-living-waters-v1.md) — 60-minute story presentation; draft V8; carries the ground, the lineage, the translation, and the process from practice
 
 ### Companion Archive
 
