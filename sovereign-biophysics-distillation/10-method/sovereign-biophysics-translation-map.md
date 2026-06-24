@@ -20,6 +20,17 @@ This document does a different job.
 
 It preserves the older vocabulary: Prima Materia, Eagle, Solve et Coagula, Tria Prima, VITRIOL, Chymical Wedding, Opus Mulierum. These terms do not replace measurement. They give the archive a symbolic language for processes the body and apparatus are already recording.
 
+## Compact Register Map
+
+| Process | Alchemy | Physiology | Lived record |
+|:---|:---|:---|:---|
+| Vessel | flask, retort | womb, organ, boundary | held field |
+| Fire | heat | metabolism | intensity |
+| Volatile | spirit | fast-moving fraction | solar sharpness |
+| Carrier | mercury / essence | clear middle fraction | lunar quiet clarity |
+| Fixed | salt | retentate, mineral load | saturn weight, residue |
+| Return | ouroboros | feedback loop | recognition |
+
 ---
 
 ## The Lineage

@@ -99,9 +99,9 @@ The vessel is the bridge term. In alchemy, it is the flask or retort. In Ayurved
 | Fire | heat beneath the retort | *agni* | metabolism / thermal process | activation energy | intensity |
 | Time transformation | putrefaction / *nigredo* | *āsava* | fermentation / microbial change | phase transition | ripening |
 | Separation | solve | *pāka* / refinement | distillation / fractionation | sorting across thresholds | distinction becomes felt |
-| Volatile fraction | spirit / Solar | *tejas* / upward fire | early volatile distillate | fast-moving signal | sharpness, brightness |
-| Carrier fraction | Mercury / Lunar | soma / carrier essence | clear middle fraction | medium of continuity | quiet clarity |
-| Fixed remainder | salt / Saturn | serum | retentate / mineral load | retained structure | weight, residue |
+| Volatile fraction | spirit / Solar | *tejas* / upward fire | early volatile distillate | fast-moving signal | solar sharpness |
+| Carrier fraction | Mercury / essence | soma / carrier essence | clear middle fraction | medium of continuity | lunar quiet clarity |
+| Fixed remainder | salt / Saturn | serum | retentate / mineral load | retained structure | Saturn weight, residue |
 | Repetition | flying the eagle | *bhāvana* | repeated processing | recursive loop | familiarity |
 | Completion | *lapis* / quintessence | ojas | integrated pattern | coherent adaptation | the body recognizes itself |
 
@@ -137,6 +137,11 @@ Field observations so far:
 - The middle fraction is quieter and clearer. This is the Lunar essence.
 - The fixed remainder stays in the chamber. This is the Saturn serum or retentate.
 - Fresh and aged inputs may require different numbers of passes and produce different retentate behavior.
+- Recent measurements have begun to show distinct fraction profiles rather than one uniform material.
+- Essence and redistillates have shown lower-conductivity profiles, while aged spirit can remain strongly conductive.
+- Retentate or serum has carried the dense conductive counter-pole.
+- Menstrual material opened a distinct cycle inquiry.
+- Two aged spirit cuts from one aged blend repeated closely.
 
 Measurement gives the observation another layer: pH, ORP, electrical conductivity, TDS, temperature, volume, fraction timing. Phenomenology gives another: scent, taste, texture, foam, clarity, the quality of what rises, the body's response in the hours and days after the work.
 
