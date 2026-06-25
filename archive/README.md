@@ -10,7 +10,7 @@ claim_tier: orientation
 
 *Generated from archive-entry metadata. This pilot does not replace the Sovereign Biophysics reading path or The Living Record; it gives the work one relational map with doors back to the rooms.*
 
-Entries included: 14
+Entries included: 15
 
 Rebuild with:
 
@@ -19,6 +19,16 @@ Components/website/tools/build_archive_views
 ```
 
 ## Chronological Stream
+
+### 2026-06-25 - [Current State of the Work - June 2026](../sovereign-biophysics-distillation/40-synthesis/synthesis-current-state-june-2026.md)
+
+`synthesis` | `full-cycle` | `major` | `community`
+
+June 2026 synthesis of the full-cycle shift, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged-blend fraction repeatability.
+
+Threads: `current-state`, `full-cycle`, `distillation-record`
+Inquiries: `what-is-known`, `what-is-still-forming`, `what-does-distillation-reveal`, `how-does-the-body-record`, `what-is-return`
+Entry points: `practice`, `water`, `body`
 
 ### 2026-06-20 - [Experiment Report: June 20 Aged Blend Fractionation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md)
 

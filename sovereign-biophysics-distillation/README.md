@@ -179,6 +179,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 
 - [Three Years of Topical Practice — Observed Outcomes](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling at 52, sexual vitality, and the partner dimension: observations from three years of daily topical application
 - [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
+- [Current State of the Work — June 2026](40-synthesis/synthesis-current-state-june-2026.md) — draft synthesis of the full-cycle shift, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged-blend fraction repeatability
 - [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md) — crystal blueprint, heart geometry, vortex water, and the body's own living crystalline medium
 
 ### Dictionary — an optional key

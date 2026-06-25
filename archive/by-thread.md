@@ -24,10 +24,12 @@ claim_tier: orientation
 
 ## current-state
 
+- 2026-06-25 - [Current State of the Work - June 2026](../sovereign-biophysics-distillation/40-synthesis/synthesis-current-state-june-2026.md)
 - 2026-05-11 - [Current State of the Work - May 2026](../sovereign-biophysics-distillation/40-synthesis/synthesis-current-state-may-2026.md)
 
 ## distillation-record
 
+- 2026-06-25 - [Current State of the Work - June 2026](../sovereign-biophysics-distillation/40-synthesis/synthesis-current-state-june-2026.md)
 - 2026-06-20 - [Experiment Report: June 20 Aged Blend Fractionation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md)
 - 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
 - 2026-06-14 - [The Jar Held to the Light](../sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.md)
@@ -46,6 +48,7 @@ claim_tier: orientation
 
 ## full-cycle
 
+- 2026-06-25 - [Current State of the Work - June 2026](../sovereign-biophysics-distillation/40-synthesis/synthesis-current-state-june-2026.md)
 - 2026-06-19 - [Rasa, Qì, and the Restoration of Flow](../sovereign-biophysics-distillation/00-orientation/rasa-qi-restoration-flow.md)
 - 2026-06-18 - [Experiment Report: June 18 Fresh Raw Plasma Daily Variation](../sovereign-biophysics-distillation/20-experiments/experiment-report-june18-fresh-raw-daily-variation.md)
 - 2026-06-17 - [Experiment Report: June 17 Creating Our Own Ocean](../sovereign-biophysics-distillation/20-experiments/experiment-report-june17-creating-our-own-ocean.md)
