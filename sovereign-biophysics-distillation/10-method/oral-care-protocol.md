@@ -34,7 +34,7 @@ The sequencing is the point: the spirit prepares the surface. The serum delivers
 
 **Material:** Solar spirit — the clear, alkaline, ammonia-carrying first cut of an aged distillation run.
 
-**Application:** Take a small sip. Swish vigorously around the teeth and along the gumline for 15 to 30 seconds.
+**Application:** Use diluted, or apply directly to teeth and gumline with a cotton swab. Undiluted spirit can burn soft tissue on contact. If swishing, take a small sip and move it gently around the teeth and along the gumline for 15 to 30 seconds — do not hold against soft tissue.
 
 **What is happening:** The alkaline shift neutralises acid and lifts surface stains through the same mild bleaching action as the ammonia chemistry. The enamel pores open in response to the pH change, becoming receptive to mineral uptake. Bacteria in acid pockets at the gumline cannot survive the alkaline environment.
 

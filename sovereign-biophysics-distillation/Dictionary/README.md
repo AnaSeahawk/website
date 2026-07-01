@@ -31,18 +31,11 @@ It can be read like an appendix. Scroll when a word, number, instrument, traditi
 
 - [Measurement Legend](measurement-legend.md) - pH, ORP, EC, TDS, PPM, PPT, salt percentage, H2, temperature, and the field meters named in the experiment reports
 
-### Material Language
+### Terms
 
-- [Plasma](terms/plasma.md)
-- [Distillate](terms/distillate.md)
+- [Terms](terms.md) — Plasma, Distillate, Field, Evidence, Hypothesis
 
 For the larger material map, see [Plasma Forms Taxonomy](../10-method/plasma-forms-taxonomy.md).
-
-### Claim and Reading Terms
-
-- [Field](terms/field.md)
-- [Evidence](terms/evidence.md)
-- [Hypothesis](terms/hypothesis.md)
 
 ### Tradition and Symbol Maps
 
@@ -66,9 +59,9 @@ Dedicated term pages for ojas, jing, qi, prana, Solar, Lunar, Saturn, medicine, 
 | Saturn / Serum | chamber retentate; see [Plasma Forms Taxonomy](../10-method/plasma-forms-taxonomy.md) |
 | Sulfur / Mercury / Salt | alchemical register for the three principles; see [Translation Map](../10-method/sovereign-biophysics-translation-map.md) |
 | Ayurveda / qigong / alchemy | comparative systems, not automatic proof; see [Tradition Registers](tradition-registers.md) |
-| evidence | support type must be named; see [Evidence](terms/evidence.md) |
-| hypothesis | provisional mechanism; see [Hypothesis](terms/hypothesis.md) |
-| field | living context of observation; see [Field](terms/field.md) |
+| evidence | support type must be named; see [Terms](terms.md) |
+| hypothesis | provisional mechanism; see [Terms](terms.md) |
+| field | living context of observation; see [Terms](terms.md) |
 
 ## Use
 
