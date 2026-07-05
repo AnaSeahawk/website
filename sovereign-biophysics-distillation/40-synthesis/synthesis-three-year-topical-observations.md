@@ -103,6 +103,6 @@ These mechanism notes help orient the question. They do not turn a three-year pe
 
 *[The Biochemistry of the Distillation Fractions →](../30-analysis/analysis-fraction-biochemistry.md) — constituent profile and mechanism documentation*
 
-*Continue reading: [Current State of the Work — May 2026 →](synthesis-current-state-may-2026.md)*
+*Continue reading: [Current State of the Work — June 2026 →](synthesis-current-state-june-2026.md)*
 
 *[← Back to Index](../README.md)*

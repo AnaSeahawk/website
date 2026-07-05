@@ -195,6 +195,6 @@ The public archive holds the record. The living conversation continues in the sp
 
 ---
 
-*Continue reading: [The Living Record — Journal →](../../The-Vessel/journal/README.md)*
+*Continue reading: [Current State of the Work — June 2026 →](synthesis-current-state-june-2026.md)*
 
 *[← Back to Index](../README.md)*

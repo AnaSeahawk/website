@@ -40,7 +40,7 @@ This is the spine of the archive — one continuous path from the first recognit
 8. [All the Practice Is for the Medicine](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis: what the practices are for, and what the texts actually say
 9. [The Three Waters](00-orientation/the-three-waters.md) — Solar, Lunar, Saturn as the three voices the still reveals
 10. [Three Years of Topical Practice](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling, vitality: what has been observed across the years
-11. [Current State of the Work](40-synthesis/synthesis-current-state-may-2026.md) — where the work stands now, honestly, with its open questions
+11. [Current State of the Work](40-synthesis/synthesis-current-state-june-2026.md) — the current endpoint: full-cycle observation, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged fraction repeatability
 
 New here? Start with [How to Read This Archive](00-orientation/how-to-read-this.md), then open the path at the Manifesto.
 
@@ -178,8 +178,8 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 ### Synthesis
 
 - [Three Years of Topical Practice — Observed Outcomes](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling at 52, sexual vitality, and the partner dimension: observations from three years of daily topical application
-- [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — what the archive now holds: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions
-- [Current State of the Work — June 2026](40-synthesis/synthesis-current-state-june-2026.md) — draft synthesis of the full-cycle shift, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged-blend fraction repeatability
+- [Current State of the Work — May 2026](40-synthesis/synthesis-current-state-may-2026.md) — historical predecessor: confirmed findings, the dietary clearing, the Ayurvedic frame, gaps and open directions before the June full-cycle shift
+- [Current State of the Work — June 2026](40-synthesis/synthesis-current-state-june-2026.md) — current endpoint: full-cycle shift, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged-blend fraction repeatability
 - [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md) — crystal blueprint, heart geometry, vortex water, and the body's own living crystalline medium
 
 ### Dictionary — an optional key

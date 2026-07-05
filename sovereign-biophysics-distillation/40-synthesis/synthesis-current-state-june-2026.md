@@ -7,7 +7,7 @@ moon:
 moon-phase:
 type: synthesis
 visibility: community
-status: draft
+status: approved
 claim_tier: synthesis
 summary: June 2026 synthesis of the full-cycle shift, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged-blend fraction repeatability.
 phase: full-cycle
@@ -27,7 +27,7 @@ entry_points:
   - water
   - body
 source_layer: public-website
-note: Draft synthesis written after the June 4, June 10, June 13, June 17, June 18, June 19, and June 20 records. It supersedes nothing yet; May 2026 remains the current endpoint of the protected reader path until Ana approves a path update.
+note: Approved by Ana as the current reader-path endpoint on 2026-07-05. Succeeds the May 2026 synthesis as the protected path endpoint while keeping May as the historical predecessor.
 ---
 
 # Current State of the Work — June 2026

@@ -51,7 +51,7 @@ The main sequence is the archive's spine. It begins with recognition and moves t
 8. [All the Practice Is for the Medicine](all-the-practice-is-for-the-medicine.md) — the thesis of what the practices are for.
 9. [The Three Waters](the-three-waters.md) — Solar, Lunar, and Saturn as the three voices the still reveals.
 10. [Three Years of Topical Practice](../40-synthesis/synthesis-three-year-topical-observations.md) — what has been observed across years.
-11. [Current State of the Work](../40-synthesis/synthesis-current-state-may-2026.md) — what is known, what is open, and where the practice is moving.
+11. [Current State of the Work](../40-synthesis/synthesis-current-state-june-2026.md) — the current endpoint: full-cycle observation, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged fraction repeatability.
 
 This path does not require agreement. It asks only that each page be read in its own register: personal record as personal record, measurement as measurement, myth as myth, hypothesis as hypothesis.
 
