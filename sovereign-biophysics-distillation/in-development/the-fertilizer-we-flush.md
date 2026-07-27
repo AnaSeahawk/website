@@ -32,6 +32,34 @@ Strip away the associations and it's simple. Urine is mostly water, and the rest
 
 The numbers are almost comic in their tidiness. The urine a single adult produces in one day contains roughly enough nitrogen and phosphorus to grow about 400 grams of wheat - enough for a loaf of bread. Eat the bread, and the loop turns again. What went out of you grows what comes back to you. It's not a metaphor. It's the actual cycle, and it closes at the scale of one person and one meal.
 
+## What the crop trials show
+
+The research record is no longer empty. Stored, source-separated urine has been
+tested directly as a crop fertilizer, and the basic result is steady: whole
+urine can be agriculturally legible before anyone distills, refines, or
+industrializes it.
+
+In cabbage trials, stored human urine applied at the same nitrogen rate as
+industrial fertilizer produced comparable fertilizer value, with chemical,
+microbial, and flavor quality assessed in the crop. In red beet trials, urine
+alone and urine combined with wood ash increased root biomass compared with
+mineral fertilizer, while protein, betanin, microbial quality, and chemical
+quality remained broadly comparable to the mineral-fertilized crop.
+
+The pattern also appears outside vegetable trials. Rich Earth Institute field
+work, reported through a SARE project, found that undiluted urine increased
+second-cut hay yield without visible ammonia damage to the grass. A 50/50
+urine-water treatment yielded more hay in one trial, but the difference was not
+statistically significant, so that part remains a question for larger trials.
+
+The review literature keeps the boundary visible. Urine-based fertilizers often
+show high nitrogen fertilizer value, but they are not problem-free. Salt load,
+ammonia volatilization, odor, pharmaceuticals, pathogens, application logistics,
+crop choice, and long-term soil effects remain live design questions.
+
+That is the useful balance: the old loop has evidence behind it, and the
+evidence still asks for care.
+
 ## The safety no one mentions
 
 Here's a factor that rarely makes it into the conversation, and it deserves to lead: urine is one of the *safest* fertilizers you can handle.
@@ -117,3 +145,7 @@ Closing it again is not a sacrifice or a stunt. It's just picking the cycle back
 - **Aurin** - the world's first urine-derived fertilizer with full regulatory approval, produced via the VUNA process developed at Eawag (Swiss Federal Institute of Aquatic Science and Technology) and commercialized by VUNA / VunaNexus. Approved by the Swiss Federal Office for Agriculture for use on edible plants (2018), and later in Liechtenstein and Austria. eawag.ch; vuna.ch.
 - **Pathogen safety & storage** - guidance on sanitizing urine through storage (time and temperature allowing naturally occurring ammonia to inactivate pathogens) traces to the Stockholm Environment Institute and related WHO guidelines on the productive use of excreta.
 - **Nutrient content & the phosphorus question** - urine carries the majority of the nitrogen and much of the phosphorus excreted by the body; on "peak phosphorus" and the finite, geographically concentrated nature of mined rock phosphate, see the broader sustainability literature (e.g., Cordell et al. on the global phosphorus challenge).
+- Martin, T. M. P., Esculier, F., Levavasseur, F., & Houot, S. (2022). *Human urine-based fertilizers: A review.* Critical Reviews in Environmental Science and Technology, 52(6), 890-936. https://doi.org/10.1080/10643389.2020.1838214
+- Pradhan, S. K., Holopainen, J. K., Weisell, J., & Heinonen-Tanski, H. (2010). *Human urine and wood ash as plant nutrients for red beet (Beta vulgaris) cultivation: impacts on yield quality.* Journal of Agricultural and Food Chemistry, 58(3), 2034-2039. https://doi.org/10.1021/jf9029157
+- Pradhan, S. K., Nerg, A.-M., Sjöblom, A., Holopainen, J. K., & Heinonen-Tanski, H. (2007). *Use of human urine fertilizer in cultivation of cabbage (Brassica oleracea): impacts on chemical, microbial, and flavor quality.* Journal of Agricultural and Food Chemistry, 55(21), 8657-8663. https://doi.org/10.1021/jf0717891
+- Rich Earth Institute. (2015). *Urine as fertilizer: Maximizing hay yield and enriching low-N composts.* SARE Project ONE14-218. https://projects.sare.org/project-reports/one14-218/
