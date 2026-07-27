@@ -88,9 +88,10 @@ The useful findings for this archive are the distinctions:
   performing best across the tested urine types.
 - **Synthetic urine was only a partial proxy.** It behaved similarly to real
   urine for water recovery, but not for phosphate precipitation.
-- **Diclofenac mostly stayed behind, but not completely.** The pharmaceutical
-  test case concentrated primarily in the residue, with some measurable transfer
-  into the distillate.
+- **A pharmaceutical marker mostly stayed behind, but not completely.**
+  Diclofenac, an anti-inflammatory medication, was used in the study as a marker
+  for pharmaceutical carryover. It concentrated primarily in the residue, with
+  some measurable transfer into the distillate.
 
 The study's strongest conclusion is modest and important: a low-tech solar
 still can separate urine into recovered non-potable water, a nutrient
