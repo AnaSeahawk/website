@@ -1,8 +1,8 @@
 ---
 date: 2026-07-27
-type: development-draft
-visibility: private
-status: draft
+type: analysis
+visibility: public
+status: review
 claim_tier: evidential
 ---
 

@@ -173,6 +173,8 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [The Medicine: Cross-Traditional Analysis](30-analysis/analysis-the-medicine-cross-traditional.md) — six independent traditions encoding the same substrate: the Pali Canon's plain statement, the neidan synonym tables, Chinese Medical Qigong's anatomical distillation, Vedic soma as cultivated endogenous nectar, and the biochemical mechanisms by which practice modifies what the body produces
 - [Fresh vs Aged: Comparative Distillation Behaviour](30-analysis/analysis-fresh-vs-aged-distillation.md) — the 2-pass vs 3-pass law, the Saturn Yield law, and three open contrast baselines
 - [What the Model Was Built For: On the Architecture of Pharmaceutical Medicine](30-analysis/analysis-pharmacological-jurisdiction.md) — the machine model, the dead fragment, naming as commercial infrastructure, the polypharmacy cascade, and the connection to Sovereign Biophysics
+- [The Fertilizer We Flush](30-analysis/analysis-the-fertilizer-we-flush.md) — whole urine as a fertilizer stream: phosphorus cycling, crop trials, safety boundaries, and the public perception barrier
+- [Solar Distillation and Resource Recovery](30-analysis/analysis-solar-distillation-resource-recovery.md) — external resource-recovery research on solar urine distillation, recovered water, nutrient concentrate, phosphate minerals, and contaminant partitioning
 - [The Bioelectric Body and the Charged Substrate](30-analysis/analysis-reich-bioelectrical.md) — Wilhelm Reich's 1934 measurements: the expansion/contraction polarity, the orgasm formula, armoring as blocked channel, and the structural parallel between Reich's surface charge data and the archive's ORP measurements
 
 ### Synthesis
