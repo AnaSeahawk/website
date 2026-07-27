@@ -33,10 +33,43 @@ two practical problems:
 - **Water recovery.** In dry, off-grid, or infrastructure-poor settings, even
   non-potable water recovered from a separated waste stream can matter.
 
+Whole source-separated urine is already studied as a fertilizer. Solar
+distillation enters as a second question: what can be separated, concentrated,
+or recovered when that same material stream is passed through heat?
+
 Conventional distillation requires substantial energy input. Solar distillation
 uses sunlight as the heat source, which makes it attractive for low-resource
 sanitation systems, arid regions, and buildings where urine can be collected
 separately.
+
+## Before Distillation: Whole Urine as Fertilizer
+
+The fertilizer literature matters because it establishes the first layer of the
+resource-recovery frame: urine does not need distillation to be agriculturally
+legible. Its nitrogen, phosphorus, potassium, and salt profile has been studied
+directly in crop systems.
+
+In cabbage trials, stored human urine applied at the same nitrogen rate as
+industrial fertilizer produced comparable fertilizer value, with chemical,
+microbial, and flavor quality assessed in the crop. In red beet trials, urine
+alone and urine combined with wood ash increased root biomass compared with
+mineral fertilizer, while protein, betanin, microbial quality, and chemical
+quality remained broadly comparable to the mineral-fertilized crop.
+
+The pattern also appears outside vegetable trials. Rich Earth Institute field
+work, reported through a SARE project, found that undiluted urine increased
+second-cut hay yield without visible ammonia damage to the grass. A 50/50
+urine-water treatment yielded more hay in one trial, but the difference was not
+statistically significant, so the result remains a question for larger trials.
+
+The review literature keeps the boundary visible. Urine-based fertilizers often
+show high nitrogen fertilizer value, but they are not problem-free. Salt load,
+ammonia volatilization, odor, pharmaceuticals, pathogens, application logistics,
+crop choice, and long-term soil effects remain live design questions.
+
+This is the ground solar distillation enters. Whole urine can feed plants.
+Distillation asks how the water, volatile chemistry, nutrients, minerals, and
+contaminants partition when the same material is separated by heat.
 
 ## The basic operation
 
@@ -143,6 +176,8 @@ Across these studies, the same cautions recur:
   with the vapor into the distillate.
 - **Contaminant fate.** Pharmaceuticals, hormones, pathogens, and salts must be
   tracked across all outputs, not only measured in the starting liquid.
+- **Salt and soil effects.** Whole-urine fertilizer research repeatedly treats
+  salinity, soil sensitivity, and crop choice as practical limits.
 - **Throughput.** Passive systems recover small volumes unless surface area is
   large.
 - **System design.** Practical deployment likely requires more than one step:
@@ -165,6 +200,12 @@ archive a grounded external comparison: when urine is treated as a material with
 water, minerals, volatile compounds, and recoverable nutrients, distillation
 becomes a way of reading its fractions.
 
+The whole-urine fertilizer literature strengthens that comparison. It shows
+that the undistilled material is already legible as fertility. Solar
+distillation adds another layer: not whether urine contains value, but how that
+value separates into water, volatile fraction, mineral residue, nutrient
+concentrate, and contaminant pathways.
+
 The useful question is limited:
 
 What does the separation reveal?
@@ -182,6 +223,22 @@ What does the separation reveal?
 - Maurer, M., Schwegler, P., & Larsen, T. A. (2003). *Nutrients in urine:
   energetic aspects of removal and recovery.* Water Science and Technology,
   48(1), 37-46.
+- Martin, T. M. P., Esculier, F., Levavasseur, F., & Houot, S. (2022). *Human
+  urine-based fertilizers: A review.* Critical Reviews in Environmental Science
+  and Technology, 52(6), 890-936.
+  https://doi.org/10.1080/10643389.2020.1838214
+- Pradhan, S. K., Holopainen, J. K., Weisell, J., & Heinonen-Tanski, H. (2010).
+  *Human urine and wood ash as plant nutrients for red beet (Beta vulgaris)
+  cultivation: impacts on yield quality.* Journal of Agricultural and Food
+  Chemistry, 58(3), 2034-2039. https://doi.org/10.1021/jf9029157
+- Pradhan, S. K., Nerg, A.-M., Sjöblom, A., Holopainen, J. K., &
+  Heinonen-Tanski, H. (2007). *Use of human urine fertilizer in cultivation of
+  cabbage (Brassica oleracea): impacts on chemical, microbial, and flavor
+  quality.* Journal of Agricultural and Food Chemistry, 55(21), 8657-8663.
+  https://doi.org/10.1021/jf0717891
+- Rich Earth Institute. (2015). *Urine as fertilizer: Maximizing hay yield and
+  enriching low-N composts.* SARE Project ONE14-218.
+  https://projects.sare.org/project-reports/one14-218/
 - Zhang, L., Liu, J., Yang, L., Yu, Z., Chen, J., Zhang, Y., & Zhou, X. (2022).
   *Interfacial solar evaporation toward efficient recovery of clean water and
   concentration of nutrients from urine with polypyrrole-based photothermal
