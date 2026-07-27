@@ -93,9 +93,14 @@ The useful findings for this archive are the distinctions:
 - **Synthetic urine was only a partial proxy.** It behaved similarly to real
   urine for water recovery, but not for phosphate precipitation.
 - **A pharmaceutical marker mostly stayed behind, but not completely.**
-  Diclofenac, an anti-inflammatory medication, was used in the study as a marker
-  for pharmaceutical carryover. It concentrated primarily in the residue, with
-  some measurable transfer into the distillate.
+  Diclofenac, an anti-inflammatory medication, was added to synthetic urine in
+  select experiments as a model pharmaceutical. That method boundary matters.
+  Adding diclofenac sodium salt to synthetic urine is different from collecting
+  urine from a person who has taken diclofenac. In the body, diclofenac is
+  metabolized; urine carries mostly conjugated metabolites, with little or no
+  free unchanged diclofenac. The result is still useful as a partitioning
+  signal, but it should not be read as a complete map of body-processed
+  diclofenac.
 
 The study's strongest conclusion is modest and important: a low-tech solar
 still can separate urine into recovered non-potable water, a nutrient
@@ -187,6 +192,9 @@ What does the separation reveal?
   (2023). *Solar distillation of human urine to recover non-potable water and
   metal phosphate mineral.* Water Science & Technology, 88(2), 486-501.
   https://doi.org/10.2166/wst.2023.218
+- DailyMed. (n.d.). *Diclofenac sodium: metabolism and elimination.* National
+  Library of Medicine.
+  https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3330ea92-fc9d-4541-b378-be399b0995d3
 - Maurer, M., Schwegler, P., & Larsen, T. A. (2003). *Nutrients in urine:
   energetic aspects of removal and recovery.* Water Science and Technology,
   48(1), 37-46.
