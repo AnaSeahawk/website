@@ -63,6 +63,45 @@ The word *distillate* names process and material state. It does not, by itself, 
 
 ---
 
+## Hydrolysis / Hydrolyzed
+
+### Working Definition
+
+*Hydrolysis* is chemical splitting through water. In urine research, the word
+often refers to urea breaking down into ammonia and carbon dioxide through
+urease activity during storage or aging.
+
+*Hydrolyzed urine* is urine in which that urea breakdown has already occurred
+to a meaningful degree. The chemistry usually shifts alkaline, volatile ammonia
+becomes more important, and distillation behaviour changes.
+
+### Active Registers
+
+- **Chemistry:** a reaction pathway, not a symbolic claim
+- **Environmental Engineering:** stored or hydrolyzed urine as a research
+  category distinct from fresh urine
+- **Instrument Table:** a possible explanation for pH, conductivity, ammonia
+  carryover, odor, and volatile fraction behaviour
+- **Method:** one component of what the archive often calls aging or gestation
+
+### Distinctions
+
+Hydrolyzed is not identical to aged.
+
+In external research, *hydrolyzed* usually names the chemical state of urea
+after storage. In this archive, *aged* or *gestated* may include hydrolysis, but
+also names the wider material condition: time, microbial transformation,
+sediment, volatile load, field context, and fraction behaviour.
+
+### Guardrail
+
+Hydrolysis does not establish purity, potency, safety, or medical value.
+
+It names a chemical transformation that should remain distinct from symbolic,
+therapeutic, or experiential interpretation.
+
+---
+
 ## Field
 
 ### Working Definition

@@ -33,7 +33,7 @@ It can be read like an appendix. Scroll when a word, number, instrument, traditi
 
 ### Terms
 
-- [Terms](terms.md) — Plasma, Distillate, Field, Evidence, Hypothesis
+- [Terms](terms.md) — Plasma, Distillate, Hydrolysis, Field, Evidence, Hypothesis
 
 For the larger material map, see [Plasma Forms Taxonomy](../10-method/plasma-forms-taxonomy.md).
 
@@ -58,6 +58,7 @@ Dedicated term pages for ojas, jing, qi, prana, Solar, Lunar, Saturn, medicine, 
 | Lunar / Essence | middle clear fraction; see [Plasma Forms Taxonomy](../10-method/plasma-forms-taxonomy.md) |
 | Saturn / Serum | chamber retentate; see [Plasma Forms Taxonomy](../10-method/plasma-forms-taxonomy.md) |
 | Sulfur / Mercury / Salt | alchemical register for the three principles; see [Translation Map](../10-method/sovereign-biophysics-translation-map.md) |
+| hydrolysis / hydrolyzed | chemical splitting by water; in urine research, often urea breakdown into ammonia chemistry; see [Terms](terms.md#hydrolysis--hydrolyzed) |
 | Ayurveda / qigong / alchemy | comparative systems, not automatic proof; see [Tradition Registers](tradition-registers.md) |
 | evidence | support type must be named; see [Terms](terms.md) |
 | hypothesis | provisional mechanism; see [Terms](terms.md) |

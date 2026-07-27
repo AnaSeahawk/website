@@ -65,8 +65,9 @@ basin. Vapor condenses on the underside of the cover and is collected.
 ### Bucholtz et al. (2023)
 
 Bucholtz, Steele, Tripathi, Graham, Crane, and Boyer tested a small passive
-solar distillation system using synthetic fresh urine, synthetic hydrolyzed
-urine, real fresh urine, real hydrolyzed urine, and acidified fresh urine.
+solar distillation system using synthetic fresh urine, synthetic
+[hydrolyzed](../Dictionary/terms.md#hydrolysis--hydrolyzed) urine, real fresh
+urine, real hydrolyzed urine, and acidified fresh urine.
 
 Their setup used clear plastic bowls, small glass collection bottles, plastic
 wrap as the condensation surface, and direct outdoor sunlight. The urine surface
