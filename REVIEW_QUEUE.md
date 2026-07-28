@@ -52,6 +52,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 
 - `sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.md`
 - `sovereign-biophysics-distillation/00-orientation/women-of-alchemy.md`
+- `sovereign-biophysics-distillation/00-orientation/the-measure-of-your-fire.md` — new draft (2026-07-28), awaiting Ana's review
 - `sovereign-biophysics-distillation/00-orientation/the-grief-that-was-never-recorded.md`
 - `sovereign-biophysics-distillation/00-orientation/the-language-of-erasure.md`
 - `sovereign-biophysics-distillation/00-orientation/inanna-she-who-contains-all.md`

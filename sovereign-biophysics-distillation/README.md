@@ -95,6 +95,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 #### Suppression and Lineage
 
 - [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance: the lineage, the suppression, why the history matters
+- [The Measure of Your Fire](00-orientation/the-measure-of-your-fire.md) — the Cabala mineralis plate by plate: the living water gathered from the body's own mine, a wordless second book, and Mary the Prophetess naming the vessel as the fire-regimen itself
 - [Sun Bu-er and the Inner Furnace](00-orientation/sun-bu-er-and-the-inner-furnace.md) — the Taoist women's tradition of cyclical refinement: xue, qi, shen, and the heart as inner furnace
 - [Beauty and the Binding](00-orientation/beauty-and-the-binding.md) — how every civilization found its own way to close the question: foot binding, leblouh, chhaupadi, and the mechanism that ran through women's hands
 - [The Map and the Cut](00-orientation/the-map-and-the-cut.md) — three falsifications running simultaneously: the heart mechanised, the clitoris unmapped, the sky replaced by a calendar — and why the living practice cannot be found from inside those maps
