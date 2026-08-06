@@ -1,14 +1,17 @@
 ---
-title: Living Archive Pilot
+title: Living Archive - Member Map
 type: generated-view
-visibility: community
-status: draft
+visibility: member
+status: approved
 claim_tier: orientation
+decision: Ana confirmed 2026-08-06 that this is the community member map, not a hidden view and not a public excerpt.
 ---
 
-# Living Archive Pilot
+# Living Archive — Member Map
 
-*Generated from archive-entry metadata. This pilot does not replace the Sovereign Biophysics reading path or The Living Record; it gives the work one relational map with doors back to the rooms.*
+*Generated from archive-entry metadata. This is the member-facing relational map of the work: one view with doors back to the rooms. It does not replace the Sovereign Biophysics reading path or The Living Record.*
+
+*Scope decided 2026-08-06: member map. Entries carrying `visibility: private` appear here as stubs pointing at their room, never as content. Check `ACCESS_BOUNDARIES.md` before any entry's visibility is widened.*
 
 Entries included: 15
 

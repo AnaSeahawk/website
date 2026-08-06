@@ -1,9 +1,10 @@
 ---
 title: Living Archive By Thread
 type: generated-view
-visibility: community
-status: draft
+visibility: member
+status: approved
 claim_tier: orientation
+decision: Ana confirmed 2026-08-06 that this is the community member map, not a hidden view and not a public excerpt.
 ---
 
 # Living Archive By Thread

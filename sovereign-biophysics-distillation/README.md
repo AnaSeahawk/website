@@ -49,7 +49,7 @@ New here? Start with [How to Read This Archive](00-orientation/how-to-read-this.
 - **The measured record** — the [experiment reports](20-experiments/experiment-report-ana-distillation-feb22.md): runs, readings, conditions, outcomes.
 - **The working material** — [Plasma Forms Taxonomy](10-method/plasma-forms-taxonomy.md), then [Distilled Fraction Protocols](10-method/distilled-fraction-protocols.md) and the [Translation Map](10-method/sovereign-biophysics-translation-map.md).
 - **The mythic and cosmological ground** — [Inanna: She Who Contains All](00-orientation/inanna-she-who-contains-all.md) and [The Vortex Inheritance](40-synthesis/crystal-blueprint-vortex-inheritance.md).
-- **What was done to this knowledge** — [The Language of Erasure](00-orientation/the-language-of-erasure.md), [The Map and the Cut](00-orientation/the-map-and-the-cut.md), [The Mother Wound](00-orientation/the-mother-wound.md).
+- **What was done to this knowledge** — [The Language of Erasure](00-orientation/the-language-of-erasure.md), [The Vacancy Was Manufactured](00-orientation/the-vacancy-was-manufactured.md), [The Map and the Cut](00-orientation/the-map-and-the-cut.md), [The Mother Wound](00-orientation/the-mother-wound.md).
 - **The full reader's map** — [Where to Begin](00-orientation/where-to-begin.md) lays out the living path and the rooms off it.
 - **Where the conversation continues** — [The Living Record](../The-Vessel/README.md), [Private Vessel Access](../The-Vessel/portal.md), and [Mother Spirit](https://mother-spirit.com) hold the living community around the archive.
 
@@ -104,6 +104,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [Why the Distillation Is Missing](00-orientation/why-the-distillation-is-missing.md) — three silences that make the sophisticated end of this practice invisible: heat-aversion, the alchemical wall, and official suppression
 - [The Grief That Was Never Recorded](00-orientation/the-grief-that-was-never-recorded.md) — the cost of the suppression, and what the body still carries
 - [The Language of Erasure](00-orientation/the-language-of-erasure.md) — how a word closes a question before it can be asked: the mechanism of suggestion applied to the body's own vocabulary
+- [The Vacancy Was Manufactured](00-orientation/the-vacancy-was-manufactured.md) — the architecture of possession inverted: the body does not need to be invaded if it was never allowed to know what it contains, and the knowledge gap is itself the occupation
 
 #### Mythic and Cosmological Ground
 
