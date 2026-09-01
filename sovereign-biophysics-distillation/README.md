@@ -30,17 +30,18 @@ The history has not been demoted. It is simply no longer the only door.
 
 This is the spine of the archive — one continuous path from the first recognition, through the practice, to where the work stands now. Each piece links to the next at its foot.
 
-1. [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow, the threshold, the jar held to the light
-2. [The First Water](00-orientation/the-first-water.md) — we all began in this water; the body knew before the word
-3. [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance, and the women who carried it through the fires
-4. [The Jar Held to the Light](00-orientation/the-jar-held-to-the-light.md) — the first recognition: clear water, old symbols, and the body answering before the archive did
-5. [Shivambu](10-method/shivambu.md) — beginning the relationship: the name, the substance, where the practice starts
-6. [The Living Loop](10-method/the-living-loop.md) — four years of the closed loop, raw to distilled, the body teaching
-7. [Agni](00-orientation/agni.md) — the fire that knows: the Ayurvedic ground that holds the whole work
-8. [All the Practice Is for the Medicine](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis: what the practices are for, and what the texts actually say
-9. [The Three Waters](00-orientation/the-three-waters.md) — Solar, Lunar, Saturn as the three voices the still reveals
-10. [Three Years of Topical Practice](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling, vitality: what has been observed across the years
-11. [Current State of the Work](40-synthesis/synthesis-current-state-june-2026.md) — the current endpoint: full-cycle observation, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged fraction repeatability
+1. [Golden Lexicon](00-orientation/golden-lexicon.html) — symbols, science, and names for the Water of Life across every literate civilization: the historical ground
+2. [Manifesto of the Clear Mirror](00-orientation/manifesto-clear-mirror.md) — the vow, the threshold, the jar held to the light
+3. [The First Water](00-orientation/the-first-water.md) — we all began in this water; the body knew before the word
+4. [Women of Alchemy](00-orientation/women-of-alchemy.md) — 5,000 years of the hidden substance, and the women who carried it through the fires
+5. [The Jar Held to the Light](00-orientation/the-jar-held-to-the-light.md) — the first recognition: clear water, old symbols, and the body answering before the archive did
+6. [Shivambu](10-method/shivambu.md) — beginning the relationship: the name, the substance, where the practice starts
+7. [The Living Loop](10-method/the-living-loop.md) — four years of the closed loop, raw to distilled, the body teaching
+8. [Agni](00-orientation/agni.md) — the fire that knows: the Ayurvedic ground that holds the whole work
+9. [All the Practice Is for the Medicine](00-orientation/all-the-practice-is-for-the-medicine.md) — the thesis: what the practices are for, and what the texts actually say
+10. [The Three Waters](00-orientation/the-three-waters.md) — Solar, Lunar, Saturn as the three voices the still reveals
+11. [Three Years of Topical Practice](40-synthesis/synthesis-three-year-topical-observations.md) — skin, cycling, vitality: what has been observed across the years
+12. [Current State of the Work](40-synthesis/synthesis-current-state-june-2026.md) — the current endpoint: full-cycle observation, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged fraction repeatability
 
 New here? Start with [How to Read This Archive](00-orientation/how-to-read-this.md), then open the path at the Manifesto.
 
@@ -78,6 +79,10 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 ### Orientation
 
 *The complete ground. Read in sequence for the full archive path, or enter specific pieces from the reader routes above.*
+
+#### Historical Ground
+
+- [Golden Lexicon](00-orientation/golden-lexicon.html) — symbols, science, and names for the Water of Life across tradition: Egyptian hieroglyphs and the world's first pregnancy test, Tibetan nine-fold urinalysis, the twenty-color medieval spectrum, alchemical symbols, women alchemists and their apparatus, shamanic fly agaric circuits, and the names every civilization gave to what the body produces
 
 #### Entry and Reading Ethic
 
