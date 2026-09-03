@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ana Seahawk</title>
+<meta name="description" content="Living as Art. Sovereign Biophysics, endogenous distillation, and the path of Heart.">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garant:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+:root {
+  --ground: #EDEBE3;
+  --surface: #F4F1E8;
+  --ink: #2C2A24;
+  --ink-soft: #706B60;
+  --gold: #B08926;
+  --gold-glow: rgba(176,137,38,0.12);
+  --verdigris: #4A7966;
+  --mother: #6F5E8C;
+  --vessel: #8B5A3C;
+  --rule: #D2CCBC;
+  --fd: 'Cormorant Garant', Garamond, Georgia, serif;
+  --fb: 'Source Serif 4', Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #141310;
+    --surface: #1D1C18;
+    --ink: #D4CFC3;
+    --ink-soft: #8A857A;
+    --gold: #D4A83C;
+    --gold-glow: rgba(212,168,60,0.10);
+    --verdigris: #6AAA92;
+    --mother: #9B87B5;
+    --vessel: #C08860;
+    --rule: #33302A;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #141310;
+  --surface: #1D1C18;
+  --ink: #D4CFC3;
+  --ink-soft: #8A857A;
+  --gold: #D4A83C;
+  --gold-glow: rgba(212,168,60,0.10);
+  --verdigris: #6AAA92;
+  --mother: #9B87B5;
+  --vessel: #C08860;
+  --rule: #33302A;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--fb);
+  line-height: 1.65;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  max-width: 38rem;
+  margin: 0 auto;
+  padding: 4.5rem 1.5rem 3.5rem;
+}
+
+/* ── HERO ── */
+.hero {
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.hero .statement {
+  font-family: var(--fd);
+  font-weight: 400;
+  font-style: italic;
+  font-size: 2.8rem;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--ink);
+  margin-bottom: 0.6rem;
+  text-wrap: balance;
+}
+
+.hero .name {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 2rem;
+}
+
+.hero .rule {
+  width: 3rem;
+  height: 1px;
+  background: var(--rule);
+  margin: 0 auto 2rem;
+}
+
+.hero .bio {
+  font-size: 0.93rem;
+  color: var(--ink-soft);
+  line-height: 1.8;
+  max-width: 30rem;
+  margin: 0 auto;
+}
+
+/* ── READING ROOM ── */
+.reading-room {
+  margin-bottom: 3.5rem;
+}
+
+.section-label {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 0.85rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 1.2rem;
+}
+
+.doorways {
+  display: grid;
+  gap: 1px;
+  background: var(--rule);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.door {
+  display: grid;
+  grid-template-columns: 3px 1fr;
+  background: var(--surface);
+  text-decoration: none;
+  color: var(--ink);
+  transition: background 0.15s;
+}
+.door:hover {
+  background: var(--ground);
+}
+
+.door-rail {
+  background: var(--gold);
+}
+.door[data-tone="verdigris"] .door-rail { background: var(--verdigris); }
+.door[data-tone="mother"] .door-rail { background: var(--mother); }
+.door[data-tone="vessel"] .door-rail { background: var(--vessel); }
+
+.door-body {
+  padding: 1.1rem 1.3rem;
+}
+
+.door-title {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1.08rem;
+  margin-bottom: 0.2rem;
+}
+
+.door-access {
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  opacity: 0.7;
+}
+
+.door-desc {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+  margin-top: 0.3rem;
+}
+
+/* ── SUBSCRIBE ── */
+.subscribe {
+  margin-bottom: 3.5rem;
+}
+
+.subscribe .prompt {
+  font-family: var(--fd);
+  font-style: italic;
+  font-size: 1.2rem;
+  color: var(--ink);
+  text-align: center;
+  margin-bottom: 0.4rem;
+}
+
+.subscribe .aside {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  text-align: center;
+  margin-bottom: 1.4rem;
+}
+
+/* Kit form overrides */
+.formkit-form {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  max-width: 100% !important;
+}
+
+.formkit-form .formkit-fields {
+  display: flex !important;
+  gap: 0.5rem !important;
+}
+
+.formkit-form .formkit-field {
+  flex: 1 1 180px !important;
+}
+
+.formkit-form .formkit-input {
+  font-family: var(--fb) !important;
+  font-size: 0.9rem !important;
+  background: var(--surface) !important;
+  color: var(--ink) !important;
+  border: 1px solid var(--rule) !important;
+  border-radius: 3px !important;
+  padding: 0.6rem 0.85rem !important;
+  width: 100% !important;
+  transition: border-color 0.15s !important;
+}
+
+.formkit-form .formkit-input::placeholder {
+  color: var(--ink-soft) !important;
+  opacity: 0.5 !important;
+}
+
+.formkit-form .formkit-input:focus {
+  outline: none !important;
+  border-color: var(--gold) !important;
+  box-shadow: 0 0 0 2px var(--gold-glow) !important;
+}
+
+.formkit-form .formkit-submit {
+  flex: 0 0 auto !important;
+}
+
+.formkit-form .formkit-submit span {
+  font-family: var(--fd) !important;
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+  letter-spacing: 0.06em !important;
+  background: var(--gold) !important;
+  color: var(--ground) !important;
+  border: none !important;
+  border-radius: 3px !important;
+  padding: 0.6rem 1.5rem !important;
+  cursor: pointer !important;
+  transition: opacity 0.15s !important;
+}
+
+.formkit-form .formkit-submit:hover span {
+  opacity: 0.85 !important;
+}
+
+.formkit-form .formkit-guarantee,
+.formkit-form .formkit-powered-by-convertkit-container {
+  display: none !important;
+}
+
+.formkit-form .formkit-alert-error {
+  list-style: none !important;
+  color: var(--vessel) !important;
+  font-size: 0.85rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* ── FIND ME ── */
+.channels {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 3.5rem;
+}
+
+.channels a {
+  font-family: var(--fd);
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  text-decoration: none;
+  letter-spacing: 0.03em;
+  padding-bottom: 1px;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+.channels a:hover {
+  color: var(--ink);
+  border-bottom-color: var(--rule);
+}
+
+/* ── FOOTER ── */
+.foot {
+  text-align: center;
+  padding-top: 2rem;
+  border-top: 1px solid var(--rule);
+}
+
+.foot .closing {
+  font-family: var(--fd);
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--ink-soft);
+  margin-bottom: 0.5rem;
+  text-wrap: balance;
+}
+
+.foot .copy {
+  font-size: 0.75rem;
+  color: var(--ink-soft);
+  opacity: 0.5;
+}
+
+/* ── RESPONSIVE ── */
+@media (max-width: 500px) {
+  .page { padding: 3rem 1.2rem 2.5rem; }
+  .hero .statement { font-size: 2.1rem; }
+  .formkit-form .formkit-fields {
+    flex-direction: column !important;
+  }
+  .formkit-form .formkit-submit {
+    width: 100% !important;
+  }
+  .formkit-form .formkit-submit span {
+    width: 100% !important;
+    display: block !important;
+    text-align: center !important;
+  }
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <header class="hero">
+    <p class="statement">Living as Art</p>
+    <p class="name">Ana Seahawk</p>
+    <div class="rule"></div>
+    <p class="bio">
+      Amaroli practitioner and field researcher since April 2022.
+      Four years of practice has become the sounding board for research
+      that reaches back five thousand years&mdash;through the alchemical
+      women of Alexandria, the Vedic pharmacology of the sacred cow,
+      and forward into territory still being mapped.
+    </p>
+  </header>
+
+  <section class="reading-room">
+    <h2 class="section-label">The Reading Room</h2>
+    <div class="doorways">
+
+      <a class="door" href="sovereign-biophysics-distillation/README.md">
+        <div class="door-rail"></div>
+        <div class="door-body">
+          <div class="door-title">Sovereign Biophysics</div>
+          <span class="door-access">open</span>
+          <p class="door-desc">
+            The study of what the body already produces, already knows,
+            and already carries. Method, experiments, synthesis, and the
+            Golden Lexicon.
+          </p>
+        </div>
+      </a>
+
+      <a class="door" data-tone="verdigris" href="Foundations/README.md">
+        <div class="door-rail"></div>
+        <div class="door-body">
+          <div class="door-title">Foundations</div>
+          <span class="door-access">open</span>
+          <p class="door-desc">
+            Ground-level practices, terminology, and the lived framework
+            beneath everything else.
+          </p>
+        </div>
+      </a>
+
+      <a class="door" data-tone="mother" href="Relationship/README.md">
+        <div class="door-rail"></div>
+        <div class="door-body">
+          <div class="door-title">Relationship</div>
+          <span class="door-access">open</span>
+          <p class="door-desc">
+            Relational practice, consent as compass, and the intelligence
+            of the body in connection.
+          </p>
+        </div>
+      </a>
+
+      <a class="door" data-tone="vessel" href="The-Vessel/portal.md">
+        <div class="door-rail"></div>
+        <div class="door-body">
+          <div class="door-title">The Vessel</div>
+          <span class="door-access">membership</span>
+          <p class="door-desc">
+            The protected container for material that needs context,
+            consent, or relationship before it can be read.
+          </p>
+        </div>
+      </a>
+
+    </div>
+  </section>
+
+  <section class="subscribe">
+    <p class="prompt">Stay in the field</p>
+    <p class="aside">New research, writing, and community updates. No spam. Unsubscribe any time.</p>
+    <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+    <form action="https://app.kit.com/forms/9877706/subscriptions" class="seva-form formkit-form" method="post"
+      data-sv-form="9877706" data-uid="f98310d679" data-format="inline" data-version="5"
+      min-width="400 500 600 700 800">
+      <div data-style="clean">
+        <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
+        <div data-element="fields" class="seva-fields formkit-fields">
+          <div class="formkit-field">
+            <input class="formkit-input" name="email_address" aria-label="Email address"
+              placeholder="email" type="email">
+          </div>
+          <div class="formkit-field">
+            <input class="formkit-input" name="fields[first_name]" aria-label="First name"
+              placeholder="first name" type="text">
+          </div>
+          <button data-element="submit" class="formkit-submit">
+            <div class="formkit-spinner"><div></div><div></div><div></div></div>
+            <span>Subscribe</span>
+          </button>
+        </div>
+      </div>
+    </form>
+  </section>
+
+  <nav class="channels">
+    <a href="https://www.youtube.com/@AnaSeahawk" target="_blank" rel="noopener">YouTube</a>
+    <a href="https://matrix.to/#/@anaseahawk:matrix.org" target="_blank" rel="noopener">Element</a>
+  </nav>
+
+  <footer class="foot">
+    <p class="closing">What matters most is the path of Heart.</p>
+    <p class="copy">&copy; Ana Seahawk</p>
+  </footer>
+
+</div>
+</body>
+</html>
