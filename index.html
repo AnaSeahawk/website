@@ -278,28 +278,37 @@ body {
 }
 
 /* ── FIND ME ── */
-.channels {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 0.6rem 1.5rem;
+.findme {
   margin-bottom: 3.5rem;
 }
 
-.channels a {
+.link-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
+
+.link-grid a {
+  display: block;
   font-family: var(--fd);
   font-weight: 500;
   font-size: 0.95rem;
-  color: var(--ink-soft);
+  color: var(--ink);
   text-decoration: none;
   letter-spacing: 0.03em;
-  padding-bottom: 1px;
-  border-bottom: 1px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  text-align: center;
+  transition: border-color 0.15s, color 0.15s;
 }
-.channels a:hover {
-  color: var(--ink);
-  border-bottom-color: var(--rule);
+.link-grid a:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+@media (max-width: 400px) {
+  .link-grid { grid-template-columns: 1fr; }
 }
 
 /* ── FOOTER ── */
@@ -442,11 +451,19 @@ body {
     </form>
   </section>
 
-  <nav class="channels">
-    <a href="https://mother-spirit.com" target="_blank" rel="noopener">Shivambu Women's Circle</a>
-    <a href="https://www.youtube.com/@AnaSeahawk" target="_blank" rel="noopener">YouTube</a>
-    <a href="https://matrix.to/#/@anaseahawk:matrix.org" target="_blank" rel="noopener">Element</a>
-  </nav>
+  <section class="findme">
+    <h2 class="section-label">Find Me</h2>
+    <div class="link-grid">
+      <a href="https://mother-spirit.com" target="_blank" rel="noopener">Shivambu Women's Circle</a>
+      <a href="https://www.youtube.com/@AnaSeahawk" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://www.instagram.com/anaseahawk" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://t.me/AnaSeahawk" target="_blank" rel="noopener">Telegram</a>
+      <a href="https://www.facebook.com/AnaSeahawk" target="_blank" rel="noopener">Facebook</a>
+      <a href="https://x.com/AnaSeahawk" target="_blank" rel="noopener">X</a>
+      <a href="https://cal.com/anaseahawk" target="_blank" rel="noopener">Book a Call</a>
+      <a href="https://anaseahawk.github.io/the-water-of-life/" target="_blank" rel="noopener">The Water of Life</a>
+    </div>
+  </section>
 
   <footer class="foot">
     <p class="closing">What matters most is the path of Heart.</p>
