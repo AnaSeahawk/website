@@ -277,6 +277,50 @@ body {
   margin-bottom: 0.5rem !important;
 }
 
+/* ── COMMUNITY ── */
+.community {
+  margin-bottom: 3.5rem;
+}
+
+.community-cards {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.community-card {
+  display: block;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: 1.1rem 1.3rem;
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color 0.15s;
+}
+.community-card:hover {
+  border-color: var(--gold);
+}
+
+.community-card .cc-title {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1.08rem;
+  margin-bottom: 0.15rem;
+}
+
+.community-card .cc-tag {
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  color: var(--gold);
+  margin-bottom: 0.35rem;
+}
+
+.community-card .cc-desc {
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
 /* ── FIND ME ── */
 .findme {
   margin-bottom: 3.5rem;
@@ -451,17 +495,38 @@ body {
     </form>
   </section>
 
+  <section class="community">
+    <h2 class="section-label">Community</h2>
+    <div class="community-cards">
+      <a class="community-card" href="https://mother-spirit.com" target="_blank" rel="noopener">
+        <div class="cc-title">Mother Spirit</div>
+        <div class="cc-tag">free community</div>
+        <p class="cc-desc">
+          The ongoing gathering &mdash; people sharing practice, observation,
+          and company while this work unfolds. The Shivambu Women's Circle
+          lives here.
+        </p>
+      </a>
+      <a class="community-card" href="https://anaseahawk.github.io/the-water-of-life/" target="_blank" rel="noopener">
+        <div class="cc-title">The Water of Life</div>
+        <div class="cc-tag">open archive</div>
+        <p class="cc-desc">
+          A living observational archive you can read and participate in.
+          Women who want to join the Shivambu Women's Circle subscribe here.
+        </p>
+      </a>
+    </div>
+  </section>
+
   <section class="findme">
     <h2 class="section-label">Find Me</h2>
     <div class="link-grid">
-      <a href="https://mother-spirit.com" target="_blank" rel="noopener">Shivambu Women's Circle</a>
       <a href="https://www.youtube.com/@AnaSeahawk" target="_blank" rel="noopener">YouTube</a>
       <a href="https://www.instagram.com/anaseahawk" target="_blank" rel="noopener">Instagram</a>
       <a href="https://t.me/AnaSeahawk" target="_blank" rel="noopener">Telegram</a>
       <a href="https://www.facebook.com/AnaSeahawk" target="_blank" rel="noopener">Facebook</a>
       <a href="https://x.com/AnaSeahawk" target="_blank" rel="noopener">X</a>
       <a href="https://cal.com/anaseahawk" target="_blank" rel="noopener">Book a Call</a>
-      <a href="https://anaseahawk.github.io/the-water-of-life/" target="_blank" rel="noopener">The Water of Life</a>
     </div>
   </section>
 
