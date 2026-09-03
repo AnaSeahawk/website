@@ -1,0 +1,1441 @@
+<title>Golden Lexicon</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garant:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+:root {
+  --ground: #EDEBE3;
+  --surface: #F4F1E8;
+  --ink: #2C2A24;
+  --ink-soft: #706B60;
+  --gold: #B08926;
+  --gold-glow: rgba(176,137,38,0.10);
+  --verdigris: #4A7966;
+  --rule: #D2CCBC;
+  --fd: 'Cormorant Garant', Garamond, Georgia, serif;
+  --fb: 'Source Serif 4', Georgia, serif;
+  --fm: 'SF Mono', Consolas, 'Liberation Mono', monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #141310;
+    --surface: #1D1C18;
+    --ink: #D4CFC3;
+    --ink-soft: #8A857A;
+    --gold: #D4A83C;
+    --gold-glow: rgba(212,168,60,0.08);
+    --verdigris: #6AAA92;
+    --rule: #33302A;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #141310;
+  --surface: #1D1C18;
+  --ink: #D4CFC3;
+  --ink-soft: #8A857A;
+  --gold: #D4A83C;
+  --gold-glow: rgba(212,168,60,0.08);
+  --verdigris: #6AAA92;
+  --rule: #33302A;
+}
+
+body {
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--fb);
+  line-height: 1.65;
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+/* HERO */
+.hero { text-align: center; padding: 1.5rem 0 2rem; }
+.hero-mark { margin-bottom: 1rem; }
+.hero h1 {
+  font-family: var(--fd);
+  font-weight: 500;
+  font-size: 2.4rem;
+  letter-spacing: 0.05em;
+  color: var(--ink);
+  margin: 0 0 0.4rem;
+  text-wrap: balance;
+}
+.hero .sub {
+  font-family: var(--fd);
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+.intro {
+  max-width: 36rem;
+  margin: 0 auto 2.5rem;
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 0.93rem;
+  line-height: 1.7;
+}
+
+/* TABLE OF CONTENTS */
+.toc {
+  max-width: 28rem;
+  margin: 0 auto 2.5rem;
+  padding: 1.25rem 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+}
+.toc h2 {
+  font-size: 1rem;
+  color: var(--ink-soft);
+  margin: 0 0 0.6rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.toc ol {
+  margin: 0;
+  padding: 0 0 0 1.2rem;
+  font-family: var(--fd);
+  font-size: 1rem;
+  line-height: 2;
+}
+.toc a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+  transition: border-color 0.2s;
+}
+.toc a:hover { border-color: var(--gold); }
+
+/* SECTION HEADS */
+h2 {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1.5rem;
+  color: var(--gold);
+  margin: 0 0 0.3rem;
+  text-wrap: balance;
+}
+h3.sub-head {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: var(--verdigris);
+  margin: 1.5rem 0 0.5rem;
+}
+.lead {
+  color: var(--ink-soft);
+  font-size: 0.92rem;
+  margin: 0 0 1.75rem;
+  font-style: italic;
+}
+
+hr.div {
+  width: 48px;
+  height: 1px;
+  background: var(--gold);
+  border: none;
+  margin: 3rem auto;
+}
+
+/* SPECIMENS */
+.specimen {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 1.25rem;
+  align-items: start;
+  padding: 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  margin-bottom: 0.75rem;
+}
+.spec-sym {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+  background: var(--gold-glow);
+  border-radius: 2px;
+  color: var(--gold);
+}
+.spec-sym svg { width: 55%; height: auto; }
+.specimen h3 {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: var(--ink);
+  margin: 0 0 0.1rem;
+}
+.specimen .date {
+  display: block;
+  font-family: var(--fm);
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  margin-bottom: 0.5rem;
+}
+.specimen p { margin: 0; font-size: 0.9rem; line-height: 1.6; }
+.specimen p + p { margin-top: 0.4rem; }
+.script-lg {
+  font-family: system-ui, 'Noto Sans', sans-serif;
+  font-size: 3.2rem;
+  line-height: 1;
+  color: var(--gold);
+}
+@media (max-width: 580px) {
+  .specimen { grid-template-columns: 1fr; }
+  .spec-sym { max-width: 130px; }
+}
+
+/* TRADITION GROUPS */
+.trad { margin-bottom: 2.25rem; }
+.trad h3 {
+  font-family: var(--fd);
+  font-weight: 500;
+  font-size: 1.15rem;
+  color: var(--verdigris);
+  margin: 0 0 0.6rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 2px solid var(--rule);
+}
+.terms { margin: 0; }
+.te {
+  display: grid;
+  grid-template-columns: 10.5rem 1fr;
+  gap: 0.75rem;
+  padding: 0.45rem 0;
+  border-bottom: 1px solid var(--rule);
+  align-items: baseline;
+}
+.te:last-child { border-bottom: none; }
+.te dt {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1rem;
+  margin: 0;
+}
+.te dd { margin: 0; font-size: 0.9rem; line-height: 1.55; }
+.sc {
+  font-family: system-ui, sans-serif;
+  font-weight: 400;
+  color: var(--ink-soft);
+  font-size: 0.88em;
+  margin-left: 0.2rem;
+}
+.trad-note {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  font-style: italic;
+  margin: 0.5rem 0 0;
+  line-height: 1.6;
+}
+@media (max-width: 580px) {
+  .te { grid-template-columns: 1fr; gap: 0.1rem; }
+}
+
+/* TIMELINE */
+.tl {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0 0.6rem;
+  border-left: 2px solid var(--rule);
+}
+.tl li {
+  padding: 0 0 1.15rem 1.4rem;
+  position: relative;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.tl li:last-child { padding-bottom: 0; }
+.tl li::before {
+  content: '';
+  position: absolute;
+  left: -5px;
+  top: 0.4rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--gold);
+}
+.tl-d {
+  display: block;
+  font-family: var(--fm);
+  font-size: 0.75rem;
+  color: var(--ink-soft);
+  margin-bottom: 0.1rem;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ETYMOLOGY */
+.etym p { line-height: 1.75; font-size: 0.95rem; }
+.etym em { color: var(--verdigris); }
+.rt {
+  font-family: var(--fm);
+  font-weight: 600;
+  color: var(--gold);
+}
+
+/* COLOPHON */
+.col {
+  text-align: center;
+  color: var(--ink-soft);
+  font-size: 0.78rem;
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--rule);
+  line-height: 1.6;
+}
+
+/* 20-COLOR SPECTRUM */
+.spectrum { margin-bottom: 2rem; }
+.color-row {
+  display: grid;
+  grid-template-columns: 2.8rem 8rem 1fr;
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  padding: 0.35rem 0;
+  border-bottom: 1px solid var(--rule);
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+.color-row:last-child { border-bottom: none; }
+.swatch {
+  width: 2.8rem;
+  height: 1.4rem;
+  border-radius: 2px;
+  border: 1px solid var(--rule);
+}
+.color-name {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+.color-desc {
+  color: var(--ink-soft);
+  font-size: 0.82rem;
+  line-height: 1.45;
+}
+@media (max-width: 580px) {
+  .color-row { grid-template-columns: 2.4rem 1fr; }
+  .color-desc { grid-column: 1 / -1; }
+}
+
+/* MATULA BODY MAP */
+.matula-map {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1.5rem;
+  padding: 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+.matula-map svg { width: 100%; height: auto; }
+.matula-zones { font-size: 0.88rem; line-height: 1.65; }
+.matula-zones dt {
+  font-family: var(--fd);
+  font-weight: 600;
+  color: var(--gold);
+  margin-top: 0.6rem;
+}
+.matula-zones dt:first-child { margin-top: 0; }
+.matula-zones dd { margin: 0 0 0.15rem; font-size: 0.85rem; }
+@media (max-width: 580px) {
+  .matula-map { grid-template-columns: 1fr; }
+  .matula-map svg { max-width: 140px; }
+}
+
+/* USES GRID */
+.uses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: 0.65rem;
+  margin-bottom: 1.5rem;
+}
+.use-card {
+  padding: 0.75rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+.use-card strong {
+  display: block;
+  font-family: var(--fd);
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+/* DIAGNOSTIC TABLE */
+.diag-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+  font-size: 0.88rem;
+}
+.diag-table th {
+  font-family: var(--fd);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.5rem 0.6rem;
+  border-bottom: 2px solid var(--gold);
+  color: var(--gold);
+  font-size: 0.95rem;
+}
+.diag-table td {
+  padding: 0.45rem 0.6rem;
+  border-bottom: 1px solid var(--rule);
+  vertical-align: top;
+  line-height: 1.5;
+}
+.diag-table tr:last-child td { border-bottom: none; }
+
+/* CALLOUT BOX */
+.callout {
+  padding: 1rem 1.25rem;
+  background: var(--gold-glow);
+  border-left: 3px solid var(--gold);
+  border-radius: 0 3px 3px 0;
+  margin: 1.25rem 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+.callout strong { color: var(--gold); }
+
+/* PROSE SECTION */
+.prose { margin-bottom: 1.5rem; }
+.prose p {
+  font-size: 0.93rem;
+  line-height: 1.7;
+  margin: 0 0 0.8rem;
+}
+.prose p:last-child { margin-bottom: 0; }
+
+/* MODERN CHART */
+.modern-scale {
+  display: flex;
+  gap: 0;
+  margin: 1rem 0 0.5rem;
+  border-radius: 3px;
+  overflow: hidden;
+  height: 2.2rem;
+}
+.modern-scale div {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  font-family: var(--fm);
+  font-weight: 600;
+}
+.modern-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: var(--ink-soft);
+  margin-bottom: 1rem;
+}
+
+/* HIEROGLYPH EXPLAINER */
+.hiero-row {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 1rem;
+  padding: 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  margin-bottom: 0.5rem;
+  align-items: center;
+}
+.hiero-row svg { width: 100%; height: auto; }
+.hiero-row .hiero-label {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--gold);
+}
+.hiero-row p { margin: 0; font-size: 0.85rem; line-height: 1.55; }
+@media (max-width: 580px) {
+  .hiero-row { grid-template-columns: 60px 1fr; }
+}
+
+/* WOMEN SECTION */
+.women-entry {
+  padding: 1rem 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  margin-bottom: 0.65rem;
+}
+.women-entry h4 {
+  font-family: var(--fd);
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: var(--ink);
+  margin: 0 0 0.1rem;
+}
+.women-entry .date {
+  display: block;
+  font-family: var(--fm);
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  margin-bottom: 0.4rem;
+}
+.women-entry p { margin: 0; font-size: 0.88rem; line-height: 1.6; }
+.women-entry p + p { margin-top: 0.4rem; }
+
+/* TIBETAN DETAIL */
+.tib-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.tib-card {
+  padding: 0.6rem 0.8rem;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+.tib-card strong {
+  display: block;
+  font-family: var(--fd);
+  font-size: 0.9rem;
+  color: var(--gold);
+  margin-bottom: 0.15rem;
+}
+
+</style>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="hero-mark">
+    <svg viewBox="0 0 60 60" width="52" aria-hidden="true">
+      <defs><radialGradient id="hg"><stop offset="0%" stop-color="var(--gold)" stop-opacity="0.18"/><stop offset="100%" stop-color="var(--gold)" stop-opacity="0"/></radialGradient></defs>
+      <circle cx="30" cy="30" r="28" fill="url(#hg)"/>
+      <rect x="10" y="10" width="40" height="40" rx="2" fill="none" stroke="var(--gold)" stroke-width="2.5"/>
+      <circle cx="30" cy="30" r="4" fill="var(--gold)"/>
+    </svg>
+  </div>
+  <h1>Golden Lexicon</h1>
+  <p class="sub">Symbols, science, and names for the Water of Life across tradition</p>
+</header>
+
+<p class="intro">
+  Urine has been observed, named, diagnosed from, and symbolized across every literate civilization. This lexicon collects the visual symbols, diagnostic systems, industrial uses, and linguistic names that mark its presence in medicine, religion, alchemy, and daily life&thinsp;&mdash;&thinsp;from Egyptian hieroglyphs and pregnancy tests to medieval color wheels, women&rsquo;s laboratory apparatus, shamanic reindeer circuits, and Renaissance chemistry.
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<nav class="toc">
+  <h2>Contents</h2>
+  <ol>
+    <li><a href="#symbols">Symbols &amp; Glyphs</a></li>
+    <li><a href="#women">Women and the Water</a></li>
+    <li><a href="#pregnancy">The First Pregnancy Test</a></li>
+    <li><a href="#uroscopy">Reading the Water &mdash; The Uroscopy Tradition</a></li>
+    <li><a href="#shamanic">The Shamanic Circuit</a></li>
+    <li><a href="#industry">Urine as Industry</a></li>
+    <li><a href="#names">Names Across Traditions</a></li>
+    <li><a href="#texts">Key Texts</a></li>
+    <li><a href="#root">At the Root</a></li>
+  </ol>
+</nav>
+
+<!-- ============================================================ -->
+<!-- 1. SYMBOLS & GLYPHS -->
+<!-- ============================================================ -->
+<section id="symbols">
+  <h2>Symbols &amp; Glyphs</h2>
+  <p class="lead">Seven visual traditions, each assigning urine a distinct symbolic form.</p>
+
+  <!-- Egyptian -->
+  <article class="specimen">
+    <div class="spec-sym">
+      <svg viewBox="0 0 80 70" aria-label="Egyptian hieroglyphs for urine: phallus glyph D52 followed by water determinative N35">
+        <!-- D52: stylized phallus (Gardiner convention: elongated vertical with angled tip) -->
+        <line x1="22" y1="50" x2="22" y2="18" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+        <line x1="22" y1="18" x2="30" y2="10" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+        <!-- N35: three wavy water lines -->
+        <path d="M40,20 Q48,14 56,20 Q64,26 72,20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path d="M40,34 Q48,28 56,34 Q64,40 72,34" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path d="M40,48 Q48,42 56,48 Q64,54 72,48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div>
+      <h3>mwyt &mdash; Water Determinative</h3>
+      <span class="date">Gardiner D52 + N35 &middot; c. 1550 BCE</span>
+      <p>Egyptian hieroglyphic writing is consonantal&thinsp;&mdash;&thinsp;no vowels are written. The transliteration <em>mwyt</em> renders only the consonant skeleton <strong>m-w-t</strong>, with vowels supplied by modern convention. The word is spelled with the Gardiner sign <strong>D52</strong> (a stylized erect phallus, providing both the phonetic value <em>mt/mwt</em> and the semantic category &ldquo;male member&rdquo;), followed by <strong>N35</strong> (three wavy lines, the water determinative) to mark the word as a liquid. The eye reads a visual sentence: <em>liquid from the body</em>.</p>
+      <p>Two alternate terms exist: <em>wsst</em> (from Gardiner D53, the phallus-with-emission glyph, meaning &ldquo;to urinate/emit&rdquo;) and <em>bkn</em>, a rarer medical-register term. All three appear in the Ebers and Berlin papyri with water determinatives.</p>
+    </div>
+  </article>
+
+  <!-- Hieroglyph explanation -->
+  <h3 class="sub-head">Reading the Hieroglyphs</h3>
+  <div class="prose" style="margin-bottom:1rem">
+    <p>The transliteration system used here (called <em>Manuel de Codage</em>, standardized 1988) maps each hieroglyph to a Latin consonant. Egyptian scribes classified words by appending &ldquo;determinative&rdquo; signs&thinsp;&mdash;&thinsp;silent visual category markers. A word ending in three wavy lines meant &ldquo;this is about liquid.&rdquo; A word with the phallus glyph meant &ldquo;this comes from the male body.&rdquo; Together: urine.</p>
+  </div>
+
+  <div class="hiero-row">
+    <svg viewBox="0 0 60 60" aria-label="Gardiner D52: stylized phallus glyph">
+      <line x1="30" y1="52" x2="30" y2="18" stroke="var(--gold)" stroke-width="3.5" stroke-linecap="round"/>
+      <line x1="30" y1="18" x2="40" y2="8" stroke="var(--gold)" stroke-width="3.5" stroke-linecap="round"/>
+    </svg>
+    <div>
+      <span class="hiero-label">D52 &mdash; Phallus</span>
+      <p>Phonetic values <em>mt</em>, <em>mwt</em>. Determinative for male body, virility, and body-fluid words. The base sign in <em>mwyt</em> (urine) and <em>mtwt</em> (semen).</p>
+    </div>
+  </div>
+  <div class="hiero-row">
+    <svg viewBox="0 0 60 50" aria-label="Gardiner D53: phallus with emission">
+      <line x1="20" y1="42" x2="20" y2="14" stroke="var(--gold)" stroke-width="3.5" stroke-linecap="round"/>
+      <line x1="20" y1="14" x2="30" y2="6" stroke="var(--gold)" stroke-width="3.5" stroke-linecap="round"/>
+      <!-- emission drops -->
+      <circle cx="38" cy="12" r="2.5" fill="var(--gold)"/>
+      <circle cx="44" cy="20" r="2.5" fill="var(--gold)"/>
+      <circle cx="48" cy="30" r="2.5" fill="var(--gold)"/>
+    </svg>
+    <div>
+      <span class="hiero-label">D53 &mdash; Phallus with Emission</span>
+      <p>Phonetic values <em>ws&#353;</em>, <em>b&#7731;n</em>. Used as both determinative and full logogram for &ldquo;to urinate.&rdquo; The more explicit sign; root of the alternate term <em>wsst</em>.</p>
+    </div>
+  </div>
+  <div class="hiero-row">
+    <svg viewBox="0 0 60 50" aria-label="Gardiner N35: three wavy water lines">
+      <path d="M8,12 Q18,4 28,12 Q38,20 48,12" fill="none" stroke="var(--gold)" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M8,26 Q18,18 28,26 Q38,34 48,26" fill="none" stroke="var(--gold)" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M8,40 Q18,32 28,40 Q38,48 48,40" fill="none" stroke="var(--gold)" stroke-width="2.5" stroke-linecap="round"/>
+    </svg>
+    <div>
+      <span class="hiero-label">N35 &mdash; Water Ripple</span>
+      <p>The universal liquid determinative. Three wavy lines marking a word as relating to water, fluids, or liquids. This sign, through Phoenician <em>mem</em>, is the ancestor of our letter <strong>M</strong>.</p>
+    </div>
+  </div>
+
+  <!-- Chinese -->
+  <article class="specimen" style="margin-top:1.5rem">
+    <div class="spec-sym">
+      <span class="script-lg">尿</span>
+    </div>
+    <div>
+      <h3>Ni&agrave;o (尿)</h3>
+      <span class="date">Chinese medicine &middot; traditional</span>
+      <p>The standard character for urine, read <em>ni&agrave;o</em> in Mandarin and <em>ny&#333;</em> in Japanese. Traditional Chinese medicine developed urine-derived materia medica: <em>R&eacute;n Zh&#333;ng B&aacute;i</em> (人中白, powdered urine sediment), <em>T&oacute;ng Z&#464; Ni&agrave;o</em> (童子尿, boy&rsquo;s urine), and <em>D&agrave;n Qi&#363; Sh&iacute;</em> (淡秋石, &ldquo;autumn stone&rdquo;&thinsp;&mdash;&thinsp;likely an early steroid extraction).</p>
+    </div>
+  </article>
+
+  <!-- Alchemical: Square with Dot (CORRECTED) -->
+  <article class="specimen">
+    <div class="spec-sym">
+      <svg viewBox="0 0 60 60" aria-label="Alchemical symbol for urine: square with central dot">
+        <rect x="10" y="10" width="40" height="40" rx="2" fill="none" stroke="currentColor" stroke-width="2.5"/>
+        <circle cx="30" cy="30" r="4" fill="currentColor"/>
+      </svg>
+    </div>
+    <div>
+      <h3>Pharmaceutical Symbol</h3>
+      <span class="date">U+1F755 &#x1F755; &middot; Sommerhoff 1701</span>
+      <p>A square with a central dot&thinsp;&mdash;&thinsp;the Unicode alchemical symbol for urine (U+1F755), cross-referenced by Unicode itself to the squared dot operator (U+22A1, &#x22A1;). Attested in Johann Christoph Sommerhoff&rsquo;s 1701 <em>Lexicon pharmaceutico-chymicum</em>, where it marks urine in apothecary recipes&thinsp;&mdash;&thinsp;including one calling for &ldquo;a boy&rsquo;s urine and natron.&rdquo;</p>
+      <p>This is a late pharmaceutical-lexicon convention, not a classical alchemical manuscript symbol. The Unicode block was compiled primarily from Wolfgang Schneider&rsquo;s 1962 <em>Lexikon alchemistisch-pharmazeutischer Symbole</em>, which synthesizes 17th&ndash;18th century apothecary sources. Within that system, the dot-in-square is distinct from salt (circle bisected by a line, U+1F714) and from gold/sun (dot-in-circle, the ancient circumpunct &#x2609;).</p>
+    </div>
+  </article>
+
+  <!-- Alembic (RELABELED) -->
+  <article class="specimen">
+    <div class="spec-sym">
+      <svg viewBox="0 0 60 80" aria-label="Alembic: the distillation apparatus, inverted V with pendant circle">
+        <line x1="30" y1="8" x2="8" y2="52" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+        <line x1="30" y1="8" x2="52" y2="52" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+        <line x1="30" y1="48" x2="30" y2="60" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/>
+        <circle cx="30" cy="68" r="7" fill="none" stroke="currentColor" stroke-width="2.5"/>
+      </svg>
+    </div>
+    <div>
+      <h3>The Alembic</h3>
+      <span class="date">U+2697 &#x2697; &middot; the apparatus, not the substance</span>
+      <p>The inverted chevron with a pendant circle is the alembic or retort&thinsp;&mdash;&thinsp;the distillation apparatus through which urine was processed, not a symbol for urine itself. The conical head (the chevron) sits over the round flask (the circle); a neck connects them. This is the most famous vessel in urine&rsquo;s alchemical history: in 1669, Hennig Brand distilled approximately 1,500 gallons of urine through such an apparatus and discovered phosphorus&thinsp;&mdash;&thinsp;&ldquo;light bearer&rdquo;&thinsp;&mdash;&thinsp;seeking the philosopher&rsquo;s stone.</p>
+      <p>Martin Ruland&rsquo;s 1612 alchemical dictionary lists urine among fifty names for <em>prima materia</em>. The substance entered the apparatus as waste and emerged&thinsp;&mdash;&thinsp;in Brand&rsquo;s case&thinsp;&mdash;&thinsp;as a glowing new element. The alembic is the symbol of that transformation.</p>
+    </div>
+  </article>
+
+  <!-- Sanskrit -->
+  <article class="specimen">
+    <div class="spec-sym">
+      <svg viewBox="0 0 80 90" aria-label="Shiva Lingam: cylindrical stone on crescent base">
+        <path d="M28,52 L28,28 Q28,14 40,14 Q52,14 52,28 L52,52" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M12,62 Q12,50 40,47 Q68,50 68,62 Q68,74 40,77 Q12,74 12,62 Z" fill="none" stroke="currentColor" stroke-width="2.5"/>
+        <path d="M22,68 Q40,78 58,68" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div>
+      <h3>Shivambu</h3>
+      <span class="date">&#x936;&#x93F;&#x935;&#x93E;&#x92E;&#x94D;&#x92C;&#x941; &middot; Damar Tantra</span>
+      <p>&ldquo;Water of Shiva&rdquo;&thinsp;&mdash;&thinsp;from <em>shiva</em> (auspicious) and <em>ambu</em> (water). The Shivambu Kalpa Vidhi, 107 verses of the Damar Tantra, describes the practice as dictated by Shiva to Parvati. The Shiva Lingam&thinsp;&mdash;&thinsp;the form over which water is poured in worship&thinsp;&mdash;&thinsp;is the closest iconographic symbol. The crescent moon in Shiva&rsquo;s hair connects to <em>soma</em>, the divine nectar.</p>
+    </div>
+  </article>
+
+  <!-- Matula -->
+  <article class="specimen">
+    <div class="spec-sym">
+      <svg viewBox="0 0 56 92" aria-label="Matula: medieval physician's urine flask">
+        <path d="M22,14 L22,32 C10,40 8,54 8,62 C8,76 16,86 28,86 C40,86 48,76 48,62 C48,54 46,40 34,32 L34,14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>
+        <ellipse cx="28" cy="14" rx="6" ry="3" fill="none" stroke="currentColor" stroke-width="2"/>
+      </svg>
+    </div>
+    <div>
+      <h3>The Matula</h3>
+      <span class="date">Physician&rsquo;s emblem &middot; 7th c. onward</span>
+      <p>The bladder-shaped glass flask became the universal symbol of the medical profession in medieval Europe&thinsp;&mdash;&thinsp;appearing on physician seals, tomb effigies, and manuscript illuminations. Held to light, the urine&rsquo;s color, clarity, and sediment diagnosed disease. By the 16th century, practitioners relying solely on the matula earned the epithet &ldquo;piss prophets.&rdquo;</p>
+    </div>
+  </article>
+
+  <!-- Urine Wheel -->
+  <article class="specimen">
+    <div class="spec-sym">
+      <svg viewBox="0 0 100 100" aria-label="Rota Urinae: circular diagnostic diagram with radiating segments">
+        <circle cx="50" cy="50" r="44" fill="none" stroke="currentColor" stroke-width="2"/>
+        <circle cx="50" cy="50" r="24" fill="none" stroke="currentColor" stroke-width="1.5"/>
+        <line x1="50" y1="6" x2="50" y2="26" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="50" y1="74" x2="50" y2="94" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="6" y1="50" x2="26" y2="50" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="74" y1="50" x2="94" y2="50" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="19" y1="19" x2="33" y2="33" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="67" y1="67" x2="81" y2="81" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="81" y1="19" x2="67" y2="33" stroke="currentColor" stroke-width="1.2"/>
+        <line x1="33" y1="67" x2="19" y2="81" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="50" cy="16" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="50" cy="84" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="16" cy="50" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="84" cy="50" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="26" cy="26" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="74" cy="74" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="74" cy="26" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+        <circle cx="26" cy="74" r="4" fill="none" stroke="currentColor" stroke-width="1.2"/>
+      </svg>
+    </div>
+    <div>
+      <h3>Rota Urinae</h3>
+      <span class="date">Fasciculus Medicinae &middot; 1491</span>
+      <p>The urine wheel&thinsp;&mdash;&thinsp;a circular diagnostic chart linking twenty or more urine colors to diseases, humors, and organs. Each segment held a painted flask. Colors ranged from <em>kyanos</em> (blue-dark) to <em>inopos</em> (wine-colored), with comparisons to cabbage, horn, and raven&rsquo;s feather. The most famous version appeared in Johannes de Ketham&rsquo;s <em>Fasciculus Medicinae</em>, the first printed medical book with illustrations.</p>
+    </div>
+  </article>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 2. WOMEN AND THE WATER -->
+<!-- ============================================================ -->
+<section id="women">
+  <h2>Women and the Water</h2>
+  <p class="lead">The forgotten source: the glassware men distilled urine through was designed by women alchemists. The diagnostic art men professionalized was practiced by women healers long before&thinsp;&mdash;&thinsp;and long after&thinsp;&mdash;&thinsp;the guilds tried to claim it.</p>
+
+  <h3 class="sub-head">The Apparatus Makers</h3>
+
+  <div class="women-entry">
+    <h4>Tapputi-Belatekallim</h4>
+    <span class="date">c. 1200 BCE &middot; Assur, Mesopotamia</span>
+    <p>The earliest named chemist in the historical record. A cuneiform tablet names her as a palace overseer and perfume-maker who, with her colleague Ninu, produced perfumes from flowers, oil, calamus, cyperus, myrrh, and balsam. The tablet describes her using an early still and filtration apparatus&thinsp;&mdash;&thinsp;the ancestor of every distillation device that followed.</p>
+  </div>
+
+  <div class="women-entry">
+    <h4>Maria the Jewess <span class="sc">(Maria Hebrea, Miriam the Prophetess)</span></h4>
+    <span class="date">1st&ndash;3rd c. CE &middot; Alexandria</span>
+    <p>Known through references in Zosimos of Panopolis (c. 300 CE, author of the oldest surviving alchemical texts) and later in Ibn al-Nadim&rsquo;s <em>Kit&#257;b al-Fihrist</em>, which lists her among the 52 most famous alchemists. She is credited with inventing three foundational pieces of laboratory apparatus:</p>
+    <p>The <strong>bain-marie</strong> (Mary&rsquo;s bath)&thinsp;&mdash;&thinsp;a water-bath double boiler, still called <em>bain-marie</em> in French, <em>balneum Mariae</em> in Latin, <em>Marienbad</em> in German. The <strong>tribikos</strong>&thinsp;&mdash;&thinsp;a three-armed still or alembic; Zosimos attributes to her specific technical guidance on tubing thickness and sealing joints with flour paste. The <strong>kerotakis</strong>&thinsp;&mdash;&thinsp;a sealed vapor-heating apparatus with a copper plate, the conceptual ancestor of the Soxhlet extractor.</p>
+    <p>Her axiom survives: <em>&ldquo;One becomes two, two becomes three, and out of the third comes the one as the fourth.&rdquo;</em></p>
+  </div>
+
+  <div class="women-entry">
+    <h4>Cleopatra the Alchemist <span class="sc">(not the queen)</span></h4>
+    <span class="date">Pre-4th c. CE &middot; Alexandria</span>
+    <p>Her sole surviving work, the <em>Chrysopoeia</em> (&ldquo;gold-making&rdquo;), preserved on a single manuscript leaf (Biblioteca Marciana, Venice), contains the <strong>oldest known depiction of the ouroboros</strong>&thinsp;&mdash;&thinsp;the serpent eating its tail, half black, half white&thinsp;&mdash;&thinsp;with the Greek inscription <em>hen to pan</em> (&ldquo;the all is one&rdquo;). The same page shows drawings of a <strong>dibikos</strong> (two-armed still) and a kerotakis-type apparatus. Likely a rare survivor of Diocletian&rsquo;s destruction of Alexandrian alchemical texts.</p>
+  </div>
+
+  <div class="callout">
+    <strong>The pattern:</strong> Maria&rsquo;s tribikos, Cleopatra&rsquo;s dibikos, and the kerotakis are the direct ancestors of the alembic and retort through which Hennig Brand distilled urine to discover phosphorus in 1669. The laboratory glassware of the European alchemical tradition traces back to Alexandrian women whose original texts are lost&thinsp;&mdash;&thinsp;surviving only through quotation in male-authored works. This is not speculation about &ldquo;theft&rdquo;; it is a documented pattern of attribution loss: no primary texts by these women survive, and what we know of their apparatus comes through later men (Zosimos, Ibn al-Nadim) who cited them.
+  </div>
+
+  <h3 class="sub-head">The Diagnosticians</h3>
+
+  <div class="women-entry">
+    <h4>Trota of Salerno</h4>
+    <span class="date">fl. mid-12th c. &middot; Schola Medica Salernitana</span>
+    <p>Associated with the Salerno medical school&thinsp;&mdash;&thinsp;one of the first European medical schools to admit women. Author or compiler behind the <em>Trotula</em> texts, the most influential medieval compendium on women&rsquo;s medicine (63 chapters). She prescribed urine-based pregnancy and fertility tests: both partners urinate on bran; whichever pot rots first indicates the infertile partner. Clear urine after intercourse was read as a sign of conception.</p>
+  </div>
+
+  <div class="women-entry">
+    <h4>Jacoba F&eacute;licie</h4>
+    <span class="date">1322 &middot; Paris</span>
+    <p>Brought before the Paris medical faculty for practicing medicine without a license. Witnesses testified she &ldquo;continually examin[ed] their urine in the manner of physicians and doctors&rdquo; and had cured patients male physicians failed. She was prosecuted not for incompetence but for practicing while female&thinsp;&mdash;&thinsp;the formal charge was unlicensed practice, but the medical faculty&rsquo;s statutes excluded women by definition.</p>
+  </div>
+
+  <div class="women-entry">
+    <h4>Gueraula de Codines</h4>
+    <span class="date">Early 14th c. &middot; Barcelona</span>
+    <p>Prosecuted for practicing uroscopy-based diagnosis learned from a &ldquo;foreign doctor.&rdquo; Continued practicing afterward. Court records show her returning years later, still being consulted by many&thinsp;&mdash;&thinsp;the law tried to stop her, and the community kept coming back.</p>
+  </div>
+
+  <div class="prose">
+    <p>By the 16th&ndash;17th century, printed urine wheels made uroscopy accessible to &ldquo;cunning women,&rdquo; wise women, and unlicensed practitioners outside the university system. Licensed physicians&rsquo; guilds responded with derision (&ldquo;deceitful piss mongers&rdquo;) and sometimes contractual obligations requiring guild members to inspect any townsperson&rsquo;s urine on demand&thinsp;&mdash;&thinsp;evidence of anxiety over losing a diagnostic monopoly to women and other unlicensed healers. Thomas Brian&rsquo;s 1637 satire <em>The Pisse-Prophet</em> attacked uroscopy as quackery, but the targets of his contempt were disproportionately women and folk practitioners, not the university physicians who had practiced the same art for centuries.</p>
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 3. THE FIRST PREGNANCY TEST -->
+<!-- ============================================================ -->
+<section id="pregnancy">
+  <h2>The First Pregnancy Test</h2>
+  <p class="lead">Seed, urine, and germination&thinsp;&mdash;&thinsp;a 3,500-year-old bioassay.</p>
+
+  <div class="prose">
+    <p>The <strong>Berlin Papyrus</strong> (Papyrus Berlin 3038, c. 1350 BCE) and the <strong>Carlsberg Papyrus VIII</strong> (c. 1400&ndash;1069 BCE) preserve the oldest known pregnancy test: a woman urinates on bags of wheat (<em>emmer</em>) and barley (<em>bdt</em>) over several days. If the barley germinates first, the child will be male; if the wheat germinates first, female. If neither sprouts, the woman is not pregnant.</p>
+
+    <p>For millennia this was dismissed as folk magic. Then in 1963, a landmark study by Paul Ghalioungi, Shafik Khalil, and Amr Rushdi Aboul-Enein at Ain Shams University in Cairo tested the ancient method under controlled conditions:</p>
+  </div>
+
+  <div class="callout">
+    <strong>The 1963 study results:</strong> Urine from pregnant women promoted germination in 40% of test samples. Urine from non-pregnant women and from men prevented germination entirely or did not promote it. The test could not reliably predict sex, but as a pregnancy detector it performed significantly better than chance. The likely mechanism: elevated estrogen and other hormones in pregnancy urine stimulate plant growth, while non-pregnant urine contains growth-inhibiting compounds.
+  </div>
+
+  <div class="prose">
+    <p>The Ebers Papyrus (c. 1550 BCE) contains related prescriptions involving urine, including what reads as the first clinical description of polyuria: <em>&ldquo;kt nt dr mwyt &#x025B;&#x0161;&#x1E0F;&middot;s&rdquo;</em>&thinsp;&mdash;&thinsp;&ldquo;another remedy that reduces urine when it is too plentiful&rdquo;&thinsp;&mdash;&thinsp;recognized now as a possible description of diabetes. The Carlsberg Papyrus extends fertility diagnostics further, combining urine tests with other methods.</p>
+
+    <p>Similar grain-urine tests appear in Greek, Roman, and medieval European medical literature&thinsp;&mdash;&thinsp;likely transmitted through Arabic translations of Egyptian medical knowledge. The test persisted in European folk practice into the 17th century. Trota of Salerno&rsquo;s 12th-century <em>Trotula</em> prescribes a variant using bran instead of grain.</p>
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 4. READING THE WATER — THE UROSCOPY TRADITION -->
+<!-- ============================================================ -->
+<section id="uroscopy">
+  <h2>Reading the Water</h2>
+  <p class="lead">The uroscopy tradition: color, sediment, foam, smell, taste, and the body mapped in glass.</p>
+
+  <!-- The Matula as Body Map -->
+  <h3 class="sub-head">The Matula as Body Map</h3>
+
+  <div class="prose">
+    <p>The medieval physician did not simply look at urine color. The matula flask was understood as a mirror of the body itself&thinsp;&mdash;&thinsp;each zone of the flask corresponding to a region of the patient. The terminology comes from Gilles de Corbeil&rsquo;s influential 12th-century poem <em>De Urinis</em> and was standardized by Theophilus Protospatharius&rsquo;s 7th-century <em>De Urinis</em>.</p>
+  </div>
+
+  <div class="matula-map">
+    <svg viewBox="0 0 120 280" aria-label="Matula body map: flask divided into four diagnostic zones">
+      <path d="M45,30 L45,80 C20,100 15,140 15,170 C15,220 30,260 60,260 C90,260 105,220 105,170 C105,140 100,100 75,80 L75,30" fill="none" stroke="var(--gold)" stroke-width="2.5" stroke-linejoin="round"/>
+      <ellipse cx="60" cy="30" rx="15" ry="6" fill="none" stroke="var(--gold)" stroke-width="2"/>
+      <line x1="18" y1="110" x2="102" y2="110" stroke="var(--ink-soft)" stroke-width="1" stroke-dasharray="4,3"/>
+      <line x1="15" y1="160" x2="105" y2="160" stroke="var(--ink-soft)" stroke-width="1" stroke-dasharray="4,3"/>
+      <line x1="17" y1="210" x2="103" y2="210" stroke="var(--ink-soft)" stroke-width="1" stroke-dasharray="4,3"/>
+      <text x="60" y="75" text-anchor="middle" font-family="var(--fd)" font-size="11" fill="var(--gold)" font-weight="600">Circulus</text>
+      <text x="60" y="138" text-anchor="middle" font-family="var(--fd)" font-size="11" fill="var(--gold)" font-weight="600">Superficies</text>
+      <text x="60" y="188" text-anchor="middle" font-family="var(--fd)" font-size="11" fill="var(--gold)" font-weight="600">Substantia</text>
+      <text x="60" y="240" text-anchor="middle" font-family="var(--fd)" font-size="11" fill="var(--gold)" font-weight="600">Fundus</text>
+      <text x="60" y="90" text-anchor="middle" font-family="var(--fb)" font-size="8.5" fill="var(--ink-soft)">head &amp; brain</text>
+      <text x="60" y="152" text-anchor="middle" font-family="var(--fb)" font-size="8.5" fill="var(--ink-soft)">chest &amp; heart</text>
+      <text x="60" y="202" text-anchor="middle" font-family="var(--fb)" font-size="8.5" fill="var(--ink-soft)">stomach &amp; viscera</text>
+      <text x="60" y="254" text-anchor="middle" font-family="var(--fb)" font-size="8.5" fill="var(--ink-soft)">kidneys &amp; genitals</text>
+    </svg>
+    <dl class="matula-zones">
+      <dt>Circulus (top circle)</dt>
+      <dd>The film or ring at the surface. Corresponds to the <strong>head and brain</strong>. A thick circle indicated brain disorders; a broken one suggested madness or epilepsy.</dd>
+      <dt>Superficies (upper body)</dt>
+      <dd>The upper layer of the column. Corresponds to the <strong>chest, heart, and respiratory organs</strong>. Cloudiness here suggested lung or cardiac afflictions.</dd>
+      <dt>Substantia (middle body)</dt>
+      <dd>The main body of urine. Corresponds to the <strong>stomach, liver, spleen, and intestines</strong>. The core diagnostic zone, where color was most carefully assessed.</dd>
+      <dt>Fundus (sediment)</dt>
+      <dd>Sediment at the bottom. Corresponds to the <strong>kidneys, bladder, and reproductive organs</strong>. Grainy sediment suggested stones; cloudy fundus indicated urinary disease.</dd>
+    </dl>
+  </div>
+
+  <!-- 20-Color Spectrum -->
+  <h3 class="sub-head">The Twenty Colors</h3>
+
+  <div class="prose">
+    <p>Medieval uroscopy codified a spectrum of twenty standard colors, each with diagnostic significance. The system derives from Theophilus Protospatharius (7th c.), elaborated by Isaac Israeli (9th c.) in his <em>Kitab al-Baul</em>, and visualized in the <em>Rota Urinae</em> of the <em>Fasciculus Medicinae</em> (1491). Colors were compared to natural reference points: milk, raw horn, camel hair, lion skin, saffron, cabbage, raven&rsquo;s feather.</p>
+  </div>
+
+  <div class="spectrum">
+    <div class="color-row"><div class="swatch" style="background:#EDE9DF"></div><span class="color-name">Albus</span><span class="color-desc">White &mdash; cold &amp; moist; phlegmatic excess, kidney failure, brain disease</span></div>
+    <div class="color-row"><div class="swatch" style="background:#E8E0CC"></div><span class="color-name">Lacteus</span><span class="color-desc">Milky &mdash; compared to whey; kidney or bladder stone</span></div>
+    <div class="color-row"><div class="swatch" style="background:#C8CEC8"></div><span class="color-name">Glaucus</span><span class="color-desc">Grey-green &mdash; like raw horn; cold humors, poor digestion</span></div>
+    <div class="color-row"><div class="swatch" style="background:#D0C090"></div><span class="color-name">Karopos</span><span class="color-desc">Pale straw &mdash; like camel hair; beginning of digestion</span></div>
+    <div class="color-row"><div class="swatch" style="background:#D0C078"></div><span class="color-name">Subpallidus</span><span class="color-desc">Sub-pale &mdash; slightly warmer; weak digestion</span></div>
+    <div class="color-row"><div class="swatch" style="background:#C8B460"></div><span class="color-name">Pallidus</span><span class="color-desc">Pale &mdash; like bleached linen; moderate heat</span></div>
+    <div class="color-row"><div class="swatch" style="background:#D0B840"></div><span class="color-name">Subcitrinus</span><span class="color-desc">Sub-lemon &mdash; approaching ideal; digestion nearing completion</span></div>
+    <div class="color-row"><div class="swatch" style="background:#C0A028"></div><span class="color-name">Citrinus</span><span class="color-desc">Lemon-gold &mdash; the ideal healthy color; perfect humoral balance</span></div>
+    <div class="color-row"><div class="swatch" style="background:#B08820"></div><span class="color-name">Subrufus</span><span class="color-desc">Sub-tawny &mdash; between gold and red; slightly excessive heat</span></div>
+    <div class="color-row"><div class="swatch" style="background:#A07818"></div><span class="color-name">Rufus</span><span class="color-desc">Tawny-red &mdash; like lion skin or saffron; liver inflammation</span></div>
+    <div class="color-row"><div class="swatch" style="background:#985828"></div><span class="color-name">Subrubeus</span><span class="color-desc">Sub-red &mdash; approaching dangerous heat; tertian fevers</span></div>
+    <div class="color-row"><div class="swatch" style="background:#884420"></div><span class="color-name">Rubeus</span><span class="color-desc">Red &mdash; like heated copper; acute fever, blood in urine</span></div>
+    <div class="color-row"><div class="swatch" style="background:#783418"></div><span class="color-name">Subrubicundus</span><span class="color-desc">Sub-florid &mdash; deep rust; intensifying fever</span></div>
+    <div class="color-row"><div class="swatch" style="background:#682418"></div><span class="color-name">Rubicundus</span><span class="color-desc">Florid &mdash; deep red; burning fever, liver corruption</span></div>
+    <div class="color-row"><div class="swatch" style="background:#501828"></div><span class="color-name">Inopos</span><span class="color-desc">Wine-colored &mdash; like dark wine; critical illness</span></div>
+    <div class="color-row"><div class="swatch" style="background:#341838"></div><span class="color-name">Kyanos</span><span class="color-desc">Blue-dark &mdash; cold returning after extreme heat; near death</span></div>
+    <div class="color-row"><div class="swatch" style="background:#304820"></div><span class="color-name">Viridis</span><span class="color-desc">Green &mdash; like cabbage leaves; bile corruption, putrefaction</span></div>
+    <div class="color-row"><div class="swatch" style="background:#504858"></div><span class="color-name">Lividus</span><span class="color-desc">Leaden &mdash; dull grey-purple; cold and dying humors</span></div>
+    <div class="color-row"><div class="swatch" style="background:#282420"></div><span class="color-name">Niger (clarus)</span><span class="color-desc">Black (translucent) &mdash; like dark ink; extreme cold or heat</span></div>
+    <div class="color-row"><div class="swatch" style="background:#141210"></div><span class="color-name">Niger (spissus)</span><span class="color-desc">Black (opaque) &mdash; like raven&rsquo;s feather; death imminent</span></div>
+  </div>
+
+  <div class="callout">
+    <strong>Citrinus</strong> was the ideal: clear, golden-lemon urine indicated perfect humoral balance. Movement toward either extreme&thinsp;&mdash;&thinsp;white (cold/wet) or black (hot/dry)&thinsp;&mdash;&thinsp;signaled increasing severity. The system mapped onto Galenic humoral theory: phlegm (cold/wet), blood (hot/wet), yellow bile (hot/dry), black bile (cold/dry).
+  </div>
+
+  <!-- Beyond Color -->
+  <h3 class="sub-head">Beyond Color: The Five Senses of Uroscopy</h3>
+
+  <div style="overflow-x:auto">
+  <table class="diag-table">
+    <thead>
+      <tr><th>Method</th><th>What Was Observed</th><th>Diagnostic Meaning</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Sediment</strong><br><em>(hypostasis)</em></td>
+        <td>Particles settling at the bottom: grainy, cloudy, fibrous, sandy, or blood-tinged. Distinguished from <em>enaivrema</em> (suspended matter) and <em>nubes</em> (cloud in the middle).</td>
+        <td>White smooth = healthy. Gritty = stones. Red = blood disease. Bran-like flakes = intestinal ulceration. Rising and falling = fluctuating fever.</td>
+      </tr>
+      <tr>
+        <td><strong>Foam</strong><br><em>(spuma)</em></td>
+        <td>Size, persistence, and color of bubbles when urine was shaken or poured.</td>
+        <td>Large, persistent bubbles = kidney disease (protein). Thick foam = dense humors. Colored foam = corruption. Fine, quick-vanishing = healthy.</td>
+      </tr>
+      <tr>
+        <td><strong>Smell</strong><br><em>(odor)</em></td>
+        <td>Sharp, sweet, foul, or absent.</td>
+        <td>Sweet = diabetes mellitus. Putrid = infection or gangrene. Absent = cold temperament. Strong &amp; acrid = excessive heat.</td>
+      </tr>
+      <tr>
+        <td><strong>Taste</strong><br><em>(gustus)</em></td>
+        <td>Medieval and ancient physicians tasted urine. Sweetness, bitterness, saltiness, or blandness.</td>
+        <td>Sweet = &ldquo;honey urine&rdquo; (diabetes mellitus). Thomas Willis (1674) confirmed the sweet taste. The Arabic <em>boul masakar</em> (&ldquo;sweet urine&rdquo;) predates the Latin term.</td>
+      </tr>
+      <tr>
+        <td><strong>Consistency</strong><br><em>(substantia)</em></td>
+        <td>Thick vs. thin, clear vs. turbid. Assessed by swirling, pouring, holding to light.</td>
+        <td>Thin &amp; watery = cold disease. Thick &amp; cloudy = excess humors. Clear &amp; golden = ideal. Oily film = fat wasting.</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+
+  <!-- Tibetan Method (MASSIVELY EXPANDED) -->
+  <h3 class="sub-head">The Tibetan System</h3>
+
+  <div class="prose">
+    <p>Tibetan medicine developed the most elaborate urinalysis system of any medical tradition, ancient or medieval. Where European uroscopy was essentially a single-axis color taxonomy&thinsp;&mdash;&thinsp;a lookup chart from color to disease&thinsp;&mdash;&thinsp;the Tibetan system is a structured multivariate protocol: nine simultaneously tracked qualities, examined across three deliberately sequenced temperature states, cross-referenced against a three-humor physiological model.</p>
+
+    <p>The system is codified in the <strong>rGyud-bZhi</strong> (Four Medical Tantras), in its fourth text, the <em>Phyi ma&rsquo;i rGyud</em> (Last Tantra), traditionally attributed to <strong>Yuthok Yonten Gonpo the Younger</strong> (1126&ndash;1202). Urine analysis sits alongside pulse and tongue examination as the diagnostic triad, but skilled physicians reportedly could diagnose from urine or pulse alone.</p>
+  </div>
+
+  <h4 style="font-family:var(--fd);font-weight:600;font-size:1rem;color:var(--ink);margin:1rem 0 0.5rem">Patient Preparation</h4>
+  <div class="prose">
+    <p>The night before examination, the patient must avoid strong tea, alcohol, yogurt, colored foods, and sexual activity&thinsp;&mdash;&thinsp;all of which distort urine composition. First morning urine, before dawn, is collected in a plain <strong>white porcelain cup</strong> so the true color is visible against a neutral ground. The physician examines the sample outdoors, carefully noting ambient temperature&rsquo;s effect.</p>
+  </div>
+
+  <h4 style="font-family:var(--fd);font-weight:600;font-size:1rem;color:var(--ink);margin:1rem 0 0.5rem">Three Time Points</h4>
+  <div class="prose">
+    <p>The same sample is read three times as it cools, because each temperature state reveals different information:</p>
+  </div>
+
+  <div class="tib-grid">
+    <div class="tib-card">
+      <strong>Hot (fresh)</strong>
+      Color, steam volume, and smell are read immediately&thinsp;&mdash;&thinsp;vapor and native color are only visible while warm. The quantity and quality of steam rising from the cup is itself diagnostic.
+    </div>
+    <div class="tib-card">
+      <strong>Lukewarm (cooling)</strong>
+      As it cools, sediment settles and a surface film may form. The stick-beating test is performed here. Bubble patterns are only readable in this transitional state.
+    </div>
+    <div class="tib-card">
+      <strong>Cold (cooled)</strong>
+      The final color, the pattern of color transformation across the cooling arc, and the character of the settled sediment. A disease&rsquo;s &ldquo;hot&rdquo; or &ldquo;cold&rdquo; nature is judged partly by how the color shifts across all three states.
+    </div>
+  </div>
+
+  <h4 style="font-family:var(--fd);font-weight:600;font-size:1rem;color:var(--ink);margin:1rem 0 0.5rem">The Nine Examinations</h4>
+
+  <div class="tib-grid">
+    <div class="tib-card"><strong>1. Color</strong> Multiple categories keyed to the three humors; yellow-red = bile, bluish-white = wind, whitish = phlegm</div>
+    <div class="tib-card"><strong>2. Steam/Vapor</strong> Volume, duration, and quality of steam rising from the fresh sample</div>
+    <div class="tib-card"><strong>3. Odor</strong> Sharp, sweet, absent, putrid&thinsp;&mdash;&thinsp;assessed while hot</div>
+    <div class="tib-card"><strong>4. Bubbles</strong> Size, uniformity, persistence, and color after stirring or beating with a stick</div>
+    <div class="tib-card"><strong>5. Viscosity</strong> Thick vs. thin, assessed by pouring and swirling</div>
+    <div class="tib-card"><strong>6. Turbidity</strong> Clarity vs. cloudiness; when cloudiness appears and how it develops</div>
+    <div class="tib-card"><strong>7. Surface Film</strong> Oiliness or skin forming on the cooled surface</div>
+    <div class="tib-card"><strong>8. Traces</strong> Blood, albumin, or other visible substances</div>
+    <div class="tib-card"><strong>9. Sediment</strong> Character and position of settled matter; how color changes on cooling</div>
+  </div>
+
+  <h4 style="font-family:var(--fd);font-weight:600;font-size:1rem;color:var(--ink);margin:1rem 0 0.5rem">The Stick-Beating Test</h4>
+
+  <div class="prose">
+    <p>The most distinctive element of Tibetan urinalysis: the physician stirs or beats the lukewarm urine with a plain wooden stick, then reads the resulting foam. This is not a casual observation&thinsp;&mdash;&thinsp;it is a structured diagnostic technique with specific correlations to the three humors:</p>
+  </div>
+
+  <div style="overflow-x:auto">
+  <table class="diag-table">
+    <thead>
+      <tr><th>Humor</th><th>Urine Character</th><th>Bubble Pattern After Beating</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Wind</strong><br><em>(rlung)</em></td>
+        <td>Bluish-white, not very turbid, moderate vapor when hot</td>
+        <td>Large, bluish-white bubbles that <strong>persist</strong> for some time before dissolving</td>
+      </tr>
+      <tr>
+        <td><strong>Bile</strong><br><em>(mkhris pa)</em></td>
+        <td>Dark yellow or orange-red, quite turbid, strong pungent vapor when hot</td>
+        <td>Small bubbles that <strong>vanish quickly</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Phlegm</strong><br><em>(bad kan)</em></td>
+        <td>Whitish, relatively clear, mild odor</td>
+        <td>Medium, saliva-like bubbles; moderate persistence</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+
+  <div class="prose">
+    <p>Beyond the three-humor system, a distinct and more esoteric branch called <strong>uromancy</strong>&thinsp;&mdash;&thinsp;urine divination&thinsp;&mdash;&thinsp;is described in the early Tibetan text <em>Zla ba&rsquo;i rGyal po</em> (The Lunar King). This uses a nine-sector grid and symbolic imagery specifically to detect <em>gdon nad</em>, spirit-caused illnesses&thinsp;&mdash;&thinsp;linking urine reading to a genuinely ritual and divinatory register beyond biomedical humor-diagnosis.</p>
+
+    <p>The physician&rsquo;s own state of mind is prescribed as part of the examination. The Second Tantra requires that the diagnosing physician be analytical, compassionate, ethical, patient, focused, and wise. Diagnosis is framed as treating mind and body together, embedded in Buddhist psychosomatic theory. This is not a mechanical lookup; it is an act of attention.</p>
+  </div>
+
+  <!-- Modern Color Chart -->
+  <h3 class="sub-head">The Modern Descendant</h3>
+
+  <div class="prose">
+    <p>Today&rsquo;s hydration color charts are the distant descendants of the medieval urine wheel. The Cleveland Clinic scale reduces the twenty medieval colors to a practical eight-shade gradient:</p>
+  </div>
+
+  <div class="modern-scale">
+    <div style="background:#F5F0C8;color:#333">1</div>
+    <div style="background:#EEE8A0;color:#333">2</div>
+    <div style="background:#E0D478;color:#333">3</div>
+    <div style="background:#D0C048;color:#333">4</div>
+    <div style="background:#C0A830;color:#fff">5</div>
+    <div style="background:#A08020;color:#fff">6</div>
+    <div style="background:#806018;color:#fff">7</div>
+    <div style="background:#604010;color:#fff">8</div>
+  </div>
+  <div class="modern-labels">
+    <span>Well hydrated</span>
+    <span>Severely dehydrated</span>
+  </div>
+
+  <div class="prose">
+    <p>&ldquo;Citrinus&rdquo; (ideal medieval gold) maps roughly to shades 3&ndash;4. The medieval physician and the modern clinic wall poster are performing the same fundamental observation, separated by eight centuries of reframing.</p>
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 5. THE SHAMANIC CIRCUIT -->
+<!-- ============================================================ -->
+<section id="shamanic">
+  <h2>The Shamanic Circuit</h2>
+  <p class="lead">Fly agaric, reindeer, and the oldest documented urine-recycling tradition&thinsp;&mdash;&thinsp;where chemistry, social hierarchy, and the experience of flight converge.</p>
+
+  <div class="prose">
+    <p>Among the <strong>Koryak</strong>, <strong>Chukchi</strong>, <strong>Kamchadal (Itelmen)</strong>, and <strong>Evenki</strong> peoples of northeastern Siberia, the urine of a person who consumed the fly agaric mushroom (<em>Amanita muscaria</em>) was collected and drunk by others to obtain its psychoactive effects. This is one of the oldest documented pharmacological recycling traditions in the world, and it works for a specific chemical reason.</p>
+  </div>
+
+  <h3 class="sub-head">The Chemistry</h3>
+  <div class="prose">
+    <p>Fly agaric contains two active compounds: <strong>ibotenic acid</strong> (the primary compound in the raw mushroom, a glutamate agonist, and the more toxic, nausea-inducing one) and <strong>muscimol</strong> (its decarboxylation product, a potent GABA-A agonist responsible for the desired psychoactive and euphoric effect).</p>
+
+    <p>The body converts only about 10&ndash;20% of ibotenic acid into muscimol during digestion. But both compounds&thinsp;&mdash;&thinsp;especially muscimol&thinsp;&mdash;&thinsp;pass through metabolism largely unaltered and are excreted rapidly via urine, detectable within about an hour of ingestion. The urine therefore contains a substantial dose of active muscimol with comparatively less of the harsher ibotenic acid, which is partly filtered out or converted during passage through the body.</p>
+
+    <p>The result: drinking a first consumer&rsquo;s urine delivers a real psychoactive dose while sidestepping much of the gastrointestinal toxicity of eating the raw mushroom. The body acts as a filter and a converter&thinsp;&mdash;&thinsp;a biological <em>alembic</em>.</p>
+  </div>
+
+  <h3 class="sub-head">The Social Economy</h3>
+  <div class="prose">
+    <p>Because fresh mushrooms were a limited, sometimes purchased resource, a tiered-access economy formed around the fungus. Wealthier individuals or shamans consumed the mushroom directly; poorer community members who could not afford or gather it drank the urine of those who had, collected in bowls or skin bags. Among the Koryak, the shaman ingested the mushroom first as part of ritual and healing work, with others partaking secondhand via his urine.</p>
+
+    <p>Multiple historical sources converge on the claim that the urine could be recycled through <strong>four or five successive passes</strong>&thinsp;&mdash;&thinsp;a second, third, even fourth or fifth person&rsquo;s body&thinsp;&mdash;&thinsp;and still retain intoxicating potency, each pass presumably weaker than the last. The compound muscimol is remarkably stable through repeated metabolic cycles.</p>
+  </div>
+
+  <h3 class="sub-head">The Reindeer Circuit</h3>
+  <div class="prose">
+    <p>Reindeer are documented actively seeking out and eating fly agaric in the wild. Separately, they seek out human urine in the snow&thinsp;&mdash;&thinsp;drawn to the salt and, according to some accounts, residual psychoactive compounds. This created a startling herding behavior: Siberian herders could attract and control reindeer by urinating in the snow.</p>
+
+    <p>In the reverse direction, herders reportedly drank the urine of reindeer that had eaten the mushrooms. The reindeer&rsquo;s metabolism converts ibotenic acid to muscimol and filters some toxicity, so the herder received a pre-processed, somewhat safer dose. The circuit runs both ways: human to human, animal to human, human to animal.</p>
+  </div>
+
+  <h3 class="sub-head">The Earliest Accounts</h3>
+  <div class="prose">
+    <p><strong>Filip Johan von Strahlenberg</strong>, a Swedish military officer held as a prisoner of war in Siberia from 1709 to 1721 (captured at the Battle of Poltava), published <em>Das Nord- und Ostliche Theil von Europa und Asia</em> (Stockholm, 1730; English edition London, 1736). He reported that poorer Koryak drank the urine of wealthier mushroom-consumers, and that the intoxicating effect could cycle through up to five individuals.</p>
+
+    <p><strong>Georg Wilhelm Steller</strong>, the German naturalist on Bering&rsquo;s Great Northern Expedition, documented the same Koryak practice in Kamchatka in the early 1740s. <strong>Stepan Krasheninnikov&rsquo;s</strong> 1755 <em>Description of the Land of Kamchatka</em> corroborated both accounts independently.</p>
+  </div>
+
+  <h3 class="sub-head">Soma and the Divine Mushroom</h3>
+  <div class="prose">
+    <p>In 1968, <strong>R. Gordon Wasson</strong> published <em>Soma: Divine Mushroom of Immortality</em> (with Sanskritist Wendy Doniger O&rsquo;Flaherty), proposing that the Vedic ritual drink <em>Soma</em>&thinsp;&mdash;&thinsp;and its Avestan Zoroastrian cognate <em>Haoma</em>&thinsp;&mdash;&thinsp;was originally prepared from <em>Amanita muscaria</em>.</p>
+
+    <p>Wasson cited Rigvedic hymn imagery, the plant&rsquo;s later disappearance from ritual use, and precisely the Siberian ethnographic record of fly agaric and urine recycling as his evidentiary anchor&thinsp;&mdash;&thinsp;arguing that the Siberian practice represents a surviving relic of a much older Eurasian entheogenic religious complex. Some Vedic language about &ldquo;purified&rdquo; Soma, Wasson argued, obliquely echoes the practice of passing the substance through a body before consumption.</p>
+
+    <p>The hypothesis remains influential and contested. It has never been definitively confirmed or refuted. What is certain: a documented, pharmacologically functional urine-recycling practice existed across northeastern Siberia, and the Vedic <em>Soma</em>&thinsp;&mdash;&thinsp;whatever its botanical identity&thinsp;&mdash;&thinsp;was described as a substance that was pressed, filtered, and drunk in ritual context.</p>
+  </div>
+
+  <h3 class="sub-head">Flying</h3>
+  <div class="prose">
+    <p>The experience of muscimol intoxication is frequently described as a sensation of flight or levitation. A popularized (and contested) hypothesis connects this to several elements of Siberian shamanic culture: that intoxicated herders may have perceived grazing reindeer as flying; that shamans reportedly wore red-and-white ceremonial garments echoing the mushroom&rsquo;s own coloring; that in some far-northern traditions, dried mushrooms were given as winter-solstice gifts, sometimes delivered through the smoke-hole or roof opening of yurts.</p>
+
+    <p>These threads have been woven&thinsp;&mdash;&thinsp;by mycologist Donald Pfister of Harvard and others&thinsp;&mdash;&thinsp;into a theory connecting fly agaric shamanism to the flying-reindeer and gift-bearing figure of modern Christmas folklore. The evidentiary chain is suggestive rather than proven; notably, S&aacute;mi shamanic trance work is better attested via drumming and physical ordeal than fly agaric use. But the core elements&thinsp;&mdash;&thinsp;a red-and-white psychoactive substance, animals that seek it out, the experience of flight, and midwinter ritual&thinsp;&mdash;&thinsp;remain a genuinely remarkable convergence.</p>
+  </div>
+
+  <div class="callout">
+    <strong>The ritual context:</strong> This was not casual recreation. Among the Koryak, the mushroom was a gift from Big Raven, their first shaman and culture hero. The shaman&rsquo;s role in ingesting the mushroom was to enter trance on the community&rsquo;s behalf&thinsp;&mdash;&thinsp;to navigate the spirit world, diagnose illness, retrieve lost souls, and communicate with animal spirits and ancestors. There was defined preparation, intention-setting, and post-experience integration. The urine circuit was embedded in this ritual framework: what passed through the body carried the experience as well as the chemistry.
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 6. URINE AS INDUSTRY -->
+<!-- ============================================================ -->
+<section id="industry">
+  <h2>Urine as Industry</h2>
+  <p class="lead">Before it was medicine or metaphor, urine was a commodity&thinsp;&mdash;&thinsp;one of the most versatile chemical reagents of the pre-industrial world.</p>
+
+  <div class="uses-grid">
+    <div class="use-card">
+      <strong>Fulling (Cloth)</strong>
+      Roman <em>fullones</em> collected urine in public jars to soak and stomp wool cloth. The ammonia acts as a natural detergent and degreaser.
+    </div>
+    <div class="use-card">
+      <strong>Tanning (Leather)</strong>
+      Urine softened and depilated hides. Tanners soaked them in vats of stale urine to loosen hair before treating with tannins.
+    </div>
+    <div class="use-card">
+      <strong>Dyeing (Textiles)</strong>
+      A mordant (dye fixative). Fermented urine created the alkaline vat needed for indigo reduction&thinsp;&mdash;&thinsp;essential for woad and indigo dyeing.
+    </div>
+    <div class="use-card">
+      <strong>Gunpowder</strong>
+      Saltpeter (potassium nitrate) was produced from nitre beds: soil mixed with urine and manure, composted, then leached. Critical to European military history from the 14th century.
+    </div>
+    <div class="use-card">
+      <strong>Phosphorus</strong>
+      Hennig Brand (1669) distilled ~1,500 gallons of urine, boiling it down and heating the residue with sand. The first element isolated by a known individual.
+    </div>
+    <div class="use-card">
+      <strong>Teeth Whitening</strong>
+      Roman and Iberian practice. Catullus (Poem 39) mocks a Celtiberian who whitened his teeth with urine. Portuguese urine was imported to Rome as premium.
+    </div>
+    <div class="use-card">
+      <strong>Waulking (Tweed)</strong>
+      In Scotland and the Outer Hebrides, women kneaded tweed in tubs of aged urine (<em>graith</em> or <em>fual</em>) while singing waulking songs. Continued into the mid-20th century.
+    </div>
+    <div class="use-card">
+      <strong>Agriculture</strong>
+      Fertilizer across virtually all pre-industrial civilizations. The nitrogen, phosphorus, and potassium are the same NPK compounds in modern synthetics. Columella prescribed diluted urine for fruit trees.
+    </div>
+    <div class="use-card">
+      <strong>Metalwork</strong>
+      Blacksmiths quenched heated blades in urine. The dissolved salts create different cooling rates, producing harder temper. Pliny noted this for Spanish steel.
+    </div>
+    <div class="use-card">
+      <strong>Bleaching (Linen)</strong>
+      Soaked in stale urine and spread in sunlight. The ammonia loosened plant gums; UV + ammonia whitened the fiber. The Dutch linen industry relied on this into the 18th century.
+    </div>
+    <div class="use-card">
+      <strong>Alum Production</strong>
+      Alum (potassium aluminum sulfate), essential for dyeing and tanning, sometimes used urine in crystallization. A strategic commodity&thinsp;&mdash;&thinsp;the Papal States held a near-monopoly on alum mines.
+    </div>
+    <div class="use-card">
+      <strong>Invisible Ink</strong>
+      One of the earliest invisible inks: writing dried clear, became visible when heated. The organics carbonize before the paper. Used from antiquity through the early modern period.
+    </div>
+    <div class="use-card">
+      <strong>Lant (Ale Brewing)</strong>
+      In parts of England, stale urine (&ldquo;lant&rdquo;) was added to weak ale to sharpen its flavor. Common enough to generate legislation. The word <em>lant</em> itself became slang for urine.
+    </div>
+  </div>
+
+  <div class="callout">
+    <strong>Vespasian&rsquo;s Tax:</strong> Emperor Vespasian (r. 69&ndash;79 CE) imposed the <em>vectigal urinae</em>&thinsp;&mdash;&thinsp;a tax on urine collected from public urinals. When his son Titus objected, Vespasian held up a gold coin: <em>&ldquo;Pecunia non olet&rdquo;</em>&thinsp;&mdash;&thinsp;&ldquo;Money does not smell.&rdquo; French public urinals were named <em>vespasiennes</em> in his honor.
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 7. NAMES ACROSS TRADITIONS -->
+<!-- ============================================================ -->
+<section id="names">
+  <h2>Names Across Traditions</h2>
+  <p class="lead">Every culture names what it observes. These names reveal whether a tradition saw urine as waste, medicine, or something sacred.</p>
+
+  <div class="trad">
+    <h3>Sanskrit &amp; Ayurvedic</h3>
+    <dl class="terms">
+      <div class="te"><dt>Shivambu <span class="sc">&#x936;&#x93F;&#x935;&#x93E;&#x92E;&#x94D;&#x92C;&#x941;</span></dt><dd>&ldquo;Water of Shiva&rdquo;&thinsp;&mdash;&thinsp;primary sacred name from the Damar Tantra; <em>shiva</em> (auspicious) + <em>ambu</em> (water)</dd></div>
+      <div class="te"><dt>Amaroli</dt><dd>&ldquo;Immortality practice&rdquo;&thinsp;&mdash;&thinsp;from the Kapalika tradition; described in the Hatha Yoga Pradipika as drinking mid-stream urine</dd></div>
+      <div class="te"><dt>Mutra <span class="sc">&#x92E;&#x942;&#x924;&#x94D;&#x930;</span></dt><dd>&ldquo;Urine&rdquo;&thinsp;&mdash;&thinsp;standard medical term from root <em>m&#363;</em>; Charaka Samhita classifies eight animal urines</dd></div>
+      <div class="te"><dt>Svamutra <span class="sc">&#x938;&#x94D;&#x935;&#x92E;&#x942;&#x924;&#x94D;&#x930;</span></dt><dd>&ldquo;One&rsquo;s own urine&rdquo;&thinsp;&mdash;&thinsp;technical term for auto-urine therapy</dd></div>
+      <div class="te"><dt>Gomutra <span class="sc">&#x917;&#x94B;&#x92E;&#x942;&#x924;&#x94D;&#x930;</span></dt><dd>&ldquo;Cow&rsquo;s urine&rdquo;&thinsp;&mdash;&thinsp;sacred in Hinduism; most potent of eight animal urines in Ayurveda</dd></div>
+      <div class="te"><dt>Panchagavya</dt><dd>&ldquo;Five cow products&rdquo;&thinsp;&mdash;&thinsp;sacred mixture of milk, curd, ghee, urine, and dung; used in purification rites</dd></div>
+      <div class="te"><dt>Madhumeha</dt><dd>&ldquo;Honey urine&rdquo;&thinsp;&mdash;&thinsp;Sushruta Samhita&rsquo;s term for diabetes; ants attracted to sweet urine as diagnostic sign</dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>Chinese Medicine</h3>
+    <dl class="terms">
+      <div class="te"><dt>Ni&agrave;o <span class="sc">尿</span></dt><dd>&ldquo;Urine&rdquo;&thinsp;&mdash;&thinsp;standard character</dd></div>
+      <div class="te"><dt>Xi&#462;o bi&agrave;n <span class="sc">小便</span></dt><dd>&ldquo;Small convenience&rdquo;&thinsp;&mdash;&thinsp;polite and medical euphemism</dd></div>
+      <div class="te"><dt>R&eacute;n Zh&#333;ng B&aacute;i <span class="sc">人中白</span></dt><dd>&ldquo;White of human middle&rdquo;&thinsp;&mdash;&thinsp;powdered urine sediment; enters Liver, Kidney, and Bladder channels</dd></div>
+      <div class="te"><dt>D&agrave;n Qi&#363; Sh&iacute; <span class="sc">淡秋石</span></dt><dd>&ldquo;Light autumn stone&rdquo;&thinsp;&mdash;&thinsp;processed derivative; likely an early steroid extraction</dd></div>
+      <div class="te"><dt>T&oacute;ng Z&#464; Ni&agrave;o <span class="sc">童子尿</span></dt><dd>&ldquo;Boy&rsquo;s urine&rdquo;&thinsp;&mdash;&thinsp;urine of children under 12, used medicinally</dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>Japanese &amp; Korean</h3>
+    <dl class="terms">
+      <div class="te"><dt>Ny&#333; <span class="sc">ニョウ / 尿</span></dt><dd>Japanese on&rsquo;yomi reading of the shared CJK character</dd></div>
+      <div class="te"><dt>Sobyeon <span class="sc">소변 / 小便</span></dt><dd>&ldquo;Small convenience&rdquo;&thinsp;&mdash;&thinsp;Korean, same euphemism as Chinese</dd></div>
+    </dl>
+    <p class="trad-note">The Donguibogam (1613), Heo Jun&rsquo;s Korean medical encyclopedia, includes a section on urine therapy. UNESCO Memory of the World.</p>
+  </div>
+
+  <div class="trad">
+    <h3>Egyptian</h3>
+    <dl class="terms">
+      <div class="te"><dt>mwyt</dt><dd>Primary term; consonant skeleton m-w-t with D52 (phallus) + N35 (water determinative)</dd></div>
+      <div class="te"><dt>wsst</dt><dd>From D53 (phallus with emission); root <em>ws&#353;</em> meaning &ldquo;to urinate/emit&rdquo;</dd></div>
+      <div class="te"><dt>bkn</dt><dd>Third attested term in the Ebers and Berlin papyri</dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>Greek &amp; Latin</h3>
+    <dl class="terms">
+      <div class="te"><dt>Ouron <span class="sc">&#x03BF;&#x1F56;&#x03C1;&#x03BF;&#x03BD;</span></dt><dd>&ldquo;Urine&rdquo;&thinsp;&mdash;&thinsp;from PIE <em>*ur-</em>; root of uroscopy, urology</dd></div>
+      <div class="te"><dt>Urina</dt><dd>Latin, from PIE <em>*we-r-</em> &ldquo;water, liquid, milk&rdquo;</dd></div>
+      <div class="te"><dt>Lotium</dt><dd>Linked to &ldquo;wash&rdquo;; the fullers&rsquo; industrial term in Rome</dd></div>
+      <div class="te"><dt>Matula</dt><dd>The urine flask; possibly from Arabic <em>maftul</em></dd></div>
+      <div class="te"><dt>Uroscopia</dt><dd>&ldquo;Urine-watching&rdquo;&thinsp;&mdash;&thinsp;<em>ouron</em> + <em>skopeo</em></dd></div>
+      <div class="te"><dt>Vectigal urinae</dt><dd>Vespasian&rsquo;s urine tax; <em>pecunia non olet</em></dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>Arabic &amp; Unani</h3>
+    <dl class="terms">
+      <div class="te"><dt>Baul <span class="sc">&#x0628;&#x0648;&#x0644;</span></dt><dd>&ldquo;Urine&rdquo;&thinsp;&mdash;&thinsp;standard Arabic; used by Avicenna in the Canon</dd></div>
+      <div class="te"><dt>Boul masakar</dt><dd>&ldquo;Sweet urine&rdquo;&thinsp;&mdash;&thinsp;diagnostic term for diabetes; predates the Latin name</dd></div>
+      <div class="te"><dt>Qaroorah</dt><dd>The urine flask&thinsp;&mdash;&thinsp;Arabic equivalent of the matula</dd></div>
+      <div class="te"><dt>Kitab al-Baul</dt><dd>&ldquo;Book of Urine&rdquo;&thinsp;&mdash;&thinsp;Isaac Israeli, 9th c.; systematized the twenty-color scheme</dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>Hebrew &amp; Biblical</h3>
+    <dl class="terms">
+      <div class="te"><dt>Mei raglayim <span class="sc">&#x05DE;&#x05D9;&#x05DE;&#x05D9; &#x05E8;&#x05D2;&#x05DC;&#x05D9;&#x05D4;&#x05DD;</span></dt><dd>&ldquo;Water of the feet&rdquo;&thinsp;&mdash;&thinsp;euphemism in 2&nbsp;Kings 18:27 and Isaiah 36:12</dd></div>
+      <div class="te"><dt>Shein <span class="sc">&#x05E9;&#x05C1;&#x05B5;&#x05D9;&#x05E0;&#x05B5;&#x05D9;&#x05D4;&#x05B6;&#x05DD;</span></dt><dd>Direct term; Ketiv form, euphemistically substituted by Masoretes</dd></div>
+    </dl>
+    <p class="trad-note"><strong>Talmudic medicine</strong> (Tractate Shabbat, Gittin): urine used for earache, skin conditions, and antiseptic wash. Practical folk remedies without theological framing.</p>
+    <p class="trad-note"><strong>Proverbs 5:15</strong> &mdash; &ldquo;Drink waters from thine own cistern.&rdquo; Scholarly consensus: marital fidelity metaphor. Cited by some urine therapy traditions. An honest assessment: this is a stretch&thinsp;&mdash;&thinsp;but the fact of its repeated citation is itself worth recording.</p>
+  </div>
+
+  <div class="trad">
+    <h3>Islamic Sources</h3>
+    <dl class="terms">
+      <div class="te"><dt>Hadith (camel urine)</dt><dd>Sahih al-Bukhari (5686): the Prophet prescribing camel&rsquo;s milk and urine for the sick. One of the most discussed hadith in Islamic medical literature.</dd></div>
+    </dl>
+    <p class="trad-note">Islamic jurisprudence classifies human urine as <em>najis</em> (ritually impure). The tension between ritual impurity and medical utility is an active discussion in Islamic bioethics.</p>
+  </div>
+
+  <div class="trad">
+    <h3>Buddhist</h3>
+    <dl class="terms">
+      <div class="te"><dt>Putimutta</dt><dd>&ldquo;Putrid urine&rdquo; (Pali)&thinsp;&mdash;&thinsp;the Vinaya Pitaka lists fermented urine (<em>putimuttabhesajja</em>) among the four basic medicines permitted to monks</dd></div>
+    </dl>
+    <p class="trad-note">The Mahavagga records the Buddha authorizing urine as medicine when monks fell ill. Permitted as practical remedy, not spiritual practice.</p>
+  </div>
+
+  <div class="trad">
+    <h3>Alchemical</h3>
+    <dl class="terms">
+      <div class="te"><dt>Prima Materia</dt><dd>&ldquo;First matter&rdquo;&thinsp;&mdash;&thinsp;urine among 50+ names in Ruland&rsquo;s 1612 dictionary</dd></div>
+      <div class="te"><dt>Aqua Vitae</dt><dd>&ldquo;Water of Life&rdquo;&thinsp;&mdash;&thinsp;life-giving liquid distilled from the body</dd></div>
+      <div class="te"><dt>Phosphorus</dt><dd>&ldquo;Light bearer&rdquo;&thinsp;&mdash;&thinsp;Brand 1669; originally &ldquo;cold fire&rdquo;</dd></div>
+      <div class="te"><dt>Caput Mortuum</dt><dd>&ldquo;Death&rsquo;s head&rdquo;&thinsp;&mdash;&thinsp;black residue after distillation</dd></div>
+      <div class="te"><dt>Nigredo</dt><dd>&ldquo;Blackening&rdquo;&thinsp;&mdash;&thinsp;putrefaction as urine decomposes; first stage of the <em>opus</em></dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>Tibetan</h3>
+    <dl class="terms">
+      <div class="te"><dt>Lchag ma</dt><dd>&ldquo;Waste&rdquo;&thinsp;&mdash;&thinsp;one of the three excrements (sweat, urine, stool) in Tibetan medical classification</dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>Vedic &amp; Shamanic</h3>
+    <dl class="terms">
+      <div class="te"><dt>Soma</dt><dd>&ldquo;That which is pressed&rdquo;&thinsp;&mdash;&thinsp;divine Vedic drink; Wasson&rsquo;s 1968 Amanita muscaria hypothesis links to Siberian urine recycling</dd></div>
+      <div class="te"><dt>Amrita</dt><dd>&ldquo;Immortal nectar&rdquo;&thinsp;&mdash;&thinsp;divine elixir; parallel to Greek ambrosia</dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>African</h3>
+    <dl class="terms">
+      <div class="te"><dt>Ito malu <span class="sc">(Yoruba)</span></dt><dd>&ldquo;Cow&rsquo;s urine&rdquo;&thinsp;&mdash;&thinsp;traditional use in Nigeria for convulsions, rheumatism, viral infections</dd></div>
+    </dl>
+  </div>
+
+  <div class="trad">
+    <h3>European Folk &amp; Modern</h3>
+    <dl class="terms">
+      <div class="te"><dt>Piss Prophet</dt><dd>Derisive term for uroscopy practitioners; Thomas Brian&rsquo;s 1637 <em>The Pisse-Prophet</em></dd></div>
+      <div class="te"><dt>Lant</dt><dd>English: stale urine; also the ale-adulterating practice</dd></div>
+      <div class="te"><dt>Vespasiennes</dt><dd>French public urinals; named after Vespasian</dd></div>
+      <div class="te"><dt>Graith / Fual</dt><dd>Scottish Gaelic: aged urine for waulking</dd></div>
+      <div class="te"><dt>Manav Mootra</dt><dd>&ldquo;Human urine&rdquo; (Gujarati)&thinsp;&mdash;&thinsp;Raojibhai Patel, 1959</dd></div>
+      <div class="te"><dt>Urotherapy</dt><dd>Modern clinical term; Greek <em>ouron</em> + <em>therapeia</em></dd></div>
+    </dl>
+  </div>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 8. KEY TEXTS -->
+<!-- ============================================================ -->
+<section id="texts">
+  <h2>Key Texts</h2>
+  <p class="lead">A lineage of observation, from papyrus to laboratory.</p>
+
+  <ol class="tl">
+    <li>
+      <span class="tl-d">c. 3000 BCE (claimed)</span>
+      <strong>Damar Tantra</strong> &mdash; <em>Shivambu Kalpa Vidhi</em>, 107 verses on the practice. Dating traditional and contested.
+    </li>
+    <li>
+      <span class="tl-d">c. 1200 BCE</span>
+      <strong>Tapputi-Belatekallim</strong> &mdash; cuneiform tablet naming the first known chemist; describes early distillation and filtration apparatus
+    </li>
+    <li>
+      <span class="tl-d">c. 1550 BCE</span>
+      <strong>Ebers Papyrus</strong> &mdash; Egyptian medical text with urine prescriptions; first recorded description of polyuria
+    </li>
+    <li>
+      <span class="tl-d">c. 1350 BCE</span>
+      <strong>Berlin Papyrus</strong> (3038) &mdash; seed-germination pregnancy test: urine on wheat and barley
+    </li>
+    <li>
+      <span class="tl-d">c. 600 BCE</span>
+      <strong>Charaka &amp; Sushruta Samhitas</strong> &mdash; eight animal urines; <em>madhumeha</em> (honey urine/diabetes)
+    </li>
+    <li>
+      <span class="tl-d">c. 400 BCE</span>
+      <strong>Hippocratic Corpus</strong> &mdash; <em>Aphorisms</em> and <em>Prognostics</em> establish Greek uroscopy
+    </li>
+    <li>
+      <span class="tl-d">1st&ndash;3rd c. CE</span>
+      <strong>Maria the Jewess</strong> &mdash; invents the bain-marie, tribikos, and kerotakis; known through Zosimos
+    </li>
+    <li>
+      <span class="tl-d">7th century</span>
+      <strong>De Urinis</strong>, Theophilus Protospatharius &mdash; foundational uroscopy text; twenty-color system
+    </li>
+    <li>
+      <span class="tl-d">8th&ndash;12th century</span>
+      <strong>rGyud-bZhi</strong> (Four Medical Tantras) &mdash; Tibetan nine-examination urinalysis
+    </li>
+    <li>
+      <span class="tl-d">9th century</span>
+      <strong>Kitab al-Baul</strong>, Isaac Israeli &mdash; systematized uroscopy for the Islamic world
+    </li>
+    <li>
+      <span class="tl-d">12th century</span>
+      <strong>Trotula</strong>, Trota of Salerno &mdash; women&rsquo;s medicine including urine-based pregnancy tests
+    </li>
+    <li>
+      <span class="tl-d">12th century</span>
+      <strong>De Urinis</strong>, Gilles de Corbeil &mdash; verse uroscopy treatise; standard European teaching text
+    </li>
+    <li>
+      <span class="tl-d">15th century</span>
+      <strong>Hatha Yoga Pradipika</strong> &mdash; <em>amaroli</em> practice within the mudra system
+    </li>
+    <li>
+      <span class="tl-d">1491</span>
+      <strong>Fasciculus Medicinae</strong>, de Ketham &mdash; first illustrated printed medical book; the <em>Rota Urinae</em>
+    </li>
+    <li>
+      <span class="tl-d">1613</span>
+      <strong>Donguibogam</strong>, Heo Jun &mdash; Korean medical encyclopedia; UNESCO Memory of the World
+    </li>
+    <li>
+      <span class="tl-d">1637</span>
+      <strong>The Pisse-Prophet</strong>, Thomas Brian &mdash; satirical attack on uroscopy
+    </li>
+    <li>
+      <span class="tl-d">1669</span>
+      <strong>Hennig Brand</strong> discovers phosphorus; immortalized in Wright of Derby&rsquo;s <em>The Alchymist</em> (1771)
+    </li>
+    <li>
+      <span class="tl-d">1674</span>
+      <strong>Thomas Willis</strong> confirms sweet taste of diabetic urine; names <em>diabetes mellitus</em>
+    </li>
+    <li>
+      <span class="tl-d">1701</span>
+      <strong>Sommerhoff</strong>, <em>Lexicon pharmaceutico-chymicum</em> &mdash; records the square-with-dot pharmaceutical symbol for urine
+    </li>
+    <li>
+      <span class="tl-d">1730</span>
+      <strong>Strahlenberg</strong>, <em>Das Nord- und Ostliche Theil von Europa und Asia</em> &mdash; first European account of Koryak fly agaric urine recycling
+    </li>
+    <li>
+      <span class="tl-d">1944</span>
+      <strong>The Water of Life</strong>, John W. Armstrong &mdash; foundational modern text on urine therapy
+    </li>
+    <li>
+      <span class="tl-d">1963</span>
+      <strong>Ghalioungi, Khalil &amp; Aboul-Enein</strong> &mdash; Ain Shams study confirming the Egyptian pregnancy test
+    </li>
+    <li>
+      <span class="tl-d">1968</span>
+      <strong>R. Gordon Wasson</strong>, <em>Soma: Divine Mushroom of Immortality</em> &mdash; Amanita muscaria hypothesis
+    </li>
+  </ol>
+</section>
+
+<hr class="div">
+
+<!-- ============================================================ -->
+<!-- 9. AT THE ROOT -->
+<!-- ============================================================ -->
+<section id="root" class="etym">
+  <h2>At the Root</h2>
+  <p>The word <em>urine</em> traces to Proto-Indo-European <strong class="rt">*ur-</strong> (variant <strong class="rt">*we-r-</strong>), meaning &ldquo;water, liquid, milk.&rdquo; The same root yields Sanskrit <em>var</em> (water), Avestan <em>var</em> (rain), Old Norse <em>ver</em> (sea), and Greek <em>ouron</em>&thinsp;&mdash;&thinsp;ancestor of uroscopy and urology.</p>
+  <p>At the deepest stratum of language, urine is simply <em>water</em>. The sacred names across traditions&thinsp;&mdash;&thinsp;Water of Shiva, Water of the Feet, Water of Life&thinsp;&mdash;&thinsp;are not metaphors. They are echoes of the oldest meaning.</p>
+</section>
+
+<div class="col">
+  Research compiled 31 August &ndash; 1 September 2026<br>
+  Sovereign Biophysics &middot; Historical ground
+</div>
