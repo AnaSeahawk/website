@@ -2,7 +2,7 @@
 date: 2026-06-12
 type: orientation
 visibility: public
-status: draft
+status: published
 claim_tier: orientation
 ---
 

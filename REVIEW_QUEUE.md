@@ -15,7 +15,7 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 - `index.html` — primary visual site front door. Mother Spirit and The Water of Life remain open; the four internal reading rooms are held without links.
 - `README.md` — repository-facing site index.
-- `sovereign-biophysics-distillation/index.html` — visual refinement preview for the Sovereign Biophysics research book; chapter and archive-room links are held closed.
+- `sovereign-biophysics-distillation/index.html` — visual refinement preview for the Sovereign Biophysics research book; **How to Read This Archive** is open and all other chapter and archive-room links remain held closed.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
 - `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — designed direct-reading edition of the Golden Lexicon, temporarily unlinked during refinement.
 - `The-Vessel/README.md` — displayed as **The Living Record**, temporarily unlinked from the site front door.
@@ -44,6 +44,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 
 ### Entry And Reference
 
+- `sovereign-biophysics-distillation/00-orientation/how-to-read-this.md` — published 2026-09-04 with a designed direct-reading edition.
 - `sovereign-biophysics-distillation/00-orientation/where-to-begin.md`
 - `sovereign-biophysics-distillation/00-orientation/the-archive-learns-to-read-itself.md`
 - `sovereign-biophysics-distillation/00-orientation/the-archive-as-biological-memory.md`

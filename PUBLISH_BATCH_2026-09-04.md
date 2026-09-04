@@ -28,3 +28,31 @@ Status: approved by Ana for immediate public navigation cleanup
 - Removes public links from those four room cards without removing their visual presence.
 - Keeps the Sovereign Biophysics frontispiece visible as a design preview while holding every chapter, reader-route, and archive-room link closed.
 - Leaves all underlying archive prose, measurements, metadata, and source files unchanged.
+
+## Dark theme and first chapter release
+
+Status: approved by Ana for publication on 2026-09-04
+
+### Published surfaces
+
+- `theme-system.css`
+- `theme-init.js`
+- `theme.js`
+- `index.html`
+- `sovereign-biophysics-distillation/index.html`
+- `sovereign-biophysics-distillation/chapter.css`
+- `sovereign-biophysics-distillation/00-orientation/how-to-read-this.md`
+- `sovereign-biophysics-distillation/00-orientation/how-to-read-this.html`
+- `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html`
+- `sovereign-biophysics-distillation/assets/archive-field-plate.png`
+- `sovereign-biophysics-distillation/assets/archive-field-plate.webp`
+- `sovereign-biophysics-distillation/assets/archive-field-plate-dark.png`
+- `sovereign-biophysics-distillation/assets/archive-field-plate-dark.webp`
+
+### Processing notes
+
+- Adds a standards-based light and dark theme using `color-scheme`, `prefers-color-scheme`, a keyboard-accessible manual toggle, and one persisted site-wide preference.
+- Publishes the approved book-like edition of **How to Read This Archive**, including separate light and dark field plates.
+- Opens that chapter from the Sovereign Biophysics index while keeping every other chapter, reader route, and archive-room card non-clicking and visibly in refinement.
+- Preserves the chapter’s single-subject boundary, distinction between kinds of knowing, and statement that the archive is not instruction or medical guidance.
+- Leaves Mother Spirit and The Water of Life open on the homepage and leaves the four internal room cards held closed.
