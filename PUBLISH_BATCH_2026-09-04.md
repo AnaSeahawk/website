@@ -35,6 +35,7 @@ Status: approved by Ana for publication on 2026-09-04
 
 ### Published surfaces
 
+- `_config.yml`
 - `theme-system.css`
 - `theme-init.js`
 - `theme.js`
@@ -54,5 +55,6 @@ Status: approved by Ana for publication on 2026-09-04
 - Adds a standards-based light and dark theme using `color-scheme`, `prefers-color-scheme`, a keyboard-accessible manual toggle, and one persisted site-wide preference.
 - Publishes the approved book-like edition of **How to Read This Archive**, including separate light and dark field plates.
 - Opens that chapter from the Sovereign Biophysics index while keeping every other chapter, reader route, and archive-room card non-clicking and visibly in refinement.
+- Excludes the Markdown source from Jekyll output so it cannot overwrite the designed HTML at the chapter’s public URL.
 - Preserves the chapter’s single-subject boundary, distinction between kinds of knowing, and statement that the archive is not instruction or medical guidance.
 - Leaves Mother Spirit and The Water of Life open on the homepage and leaves the four internal room cards held closed.
