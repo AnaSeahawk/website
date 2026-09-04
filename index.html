@@ -1,548 +1,182 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ana Seahawk</title>
-<meta name="description" content="Living as Art. Sovereign Biophysics, endogenous distillation, and the path of Heart.">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garant:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
-<style>
-:root {
-  --ground: #EDEBE3;
-  --surface: #F4F1E8;
-  --ink: #2C2A24;
-  --ink-soft: #706B60;
-  --gold: #B08926;
-  --gold-glow: rgba(176,137,38,0.12);
-  --verdigris: #4A7966;
-  --mother: #6F5E8C;
-  --vessel: #8B5A3C;
-  --rule: #D2CCBC;
-  --fd: 'Cormorant Garant', Garamond, Georgia, serif;
-  --fb: 'Source Serif 4', Georgia, serif;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --ground: #141310;
-    --surface: #1D1C18;
-    --ink: #D4CFC3;
-    --ink-soft: #8A857A;
-    --gold: #D4A83C;
-    --gold-glow: rgba(212,168,60,0.10);
-    --verdigris: #6AAA92;
-    --mother: #9B87B5;
-    --vessel: #C08860;
-    --rule: #33302A;
-  }
-}
-:root[data-theme="dark"] {
-  --ground: #141310;
-  --surface: #1D1C18;
-  --ink: #D4CFC3;
-  --ink-soft: #8A857A;
-  --gold: #D4A83C;
-  --gold-glow: rgba(212,168,60,0.10);
-  --verdigris: #6AAA92;
-  --mother: #9B87B5;
-  --vessel: #C08860;
-  --rule: #33302A;
-}
-
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-body {
-  background: var(--ground);
-  color: var(--ink);
-  font-family: var(--fb);
-  line-height: 1.65;
-  min-height: 100vh;
-  -webkit-font-smoothing: antialiased;
-}
-
-.page {
-  max-width: 38rem;
-  margin: 0 auto;
-  padding: 4.5rem 1.5rem 3.5rem;
-}
-
-/* ── HERO ── */
-.hero {
-  text-align: center;
-  margin-bottom: 3.5rem;
-}
-
-.hero .emblem {
-  height: 180px;
-  width: auto;
-  margin-bottom: 1.5rem;
-}
-
-.hero .statement {
-  font-family: var(--fd);
-  font-weight: 400;
-  font-style: italic;
-  font-size: 2.8rem;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: var(--ink);
-  margin-bottom: 0.6rem;
-  text-wrap: balance;
-}
-
-.hero .name {
-  font-family: var(--fd);
-  font-weight: 600;
-  font-size: 1rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--gold);
-  margin-bottom: 2rem;
-}
-
-.hero .rule {
-  width: 3rem;
-  height: 1px;
-  background: var(--rule);
-  margin: 0 auto 2rem;
-}
-
-.hero .bio {
-  font-size: 0.93rem;
-  color: var(--ink-soft);
-  line-height: 1.8;
-  max-width: 30rem;
-  margin: 0 auto;
-}
-
-.hero .portrait {
-  width: 100%;
-  max-width: 32rem;
-  height: auto;
-  border-radius: 4px;
-  margin-top: 2rem;
-}
-
-/* ── READING ROOM ── */
-.reading-room {
-  margin-bottom: 3.5rem;
-}
-
-.section-label {
-  font-family: var(--fd);
-  font-weight: 600;
-  font-size: 0.85rem;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--ink-soft);
-  margin-bottom: 1.2rem;
-}
-
-.doorways {
-  display: grid;
-  gap: 1px;
-  background: var(--rule);
-  border: 1px solid var(--rule);
-  border-radius: 4px;
-  overflow: hidden;
-}
-
-.door {
-  display: grid;
-  grid-template-columns: 3px 1fr;
-  background: var(--surface);
-  text-decoration: none;
-  color: var(--ink);
-  transition: background 0.15s;
-}
-.door:hover {
-  background: var(--ground);
-}
-
-.door-rail {
-  background: var(--gold);
-}
-.door[data-tone="verdigris"] .door-rail { background: var(--verdigris); }
-.door[data-tone="mother"] .door-rail { background: var(--mother); }
-.door[data-tone="vessel"] .door-rail { background: var(--vessel); }
-
-.door-body {
-  padding: 1.1rem 1.3rem;
-}
-
-.door-title {
-  font-family: var(--fd);
-  font-weight: 600;
-  font-size: 1.08rem;
-  margin-bottom: 0.2rem;
-}
-
-.door-access {
-  font-size: 0.75rem;
-  letter-spacing: 0.05em;
-  color: var(--ink-soft);
-  opacity: 0.7;
-}
-
-.door-desc {
-  font-size: 0.85rem;
-  color: var(--ink-soft);
-  line-height: 1.6;
-  margin-top: 0.3rem;
-}
-
-/* ── SUBSCRIBE ── */
-.subscribe {
-  margin-bottom: 3.5rem;
-}
-
-.subscribe .prompt {
-  font-family: var(--fd);
-  font-style: italic;
-  font-size: 1.2rem;
-  color: var(--ink);
-  text-align: center;
-  margin-bottom: 0.4rem;
-}
-
-.subscribe .aside {
-  font-size: 0.82rem;
-  color: var(--ink-soft);
-  text-align: center;
-  margin-bottom: 1.4rem;
-}
-
-/* Kit form overrides */
-.formkit-form {
-  background: transparent !important;
-  border: none !important;
-  padding: 0 !important;
-  max-width: 100% !important;
-}
-
-.formkit-form .formkit-fields {
-  display: flex !important;
-  gap: 0.5rem !important;
-}
-
-.formkit-form .formkit-field {
-  flex: 1 1 180px !important;
-}
-
-.formkit-form .formkit-input {
-  font-family: var(--fb) !important;
-  font-size: 0.9rem !important;
-  background: var(--surface) !important;
-  color: var(--ink) !important;
-  border: 1px solid var(--rule) !important;
-  border-radius: 3px !important;
-  padding: 0.6rem 0.85rem !important;
-  width: 100% !important;
-  transition: border-color 0.15s !important;
-}
-
-.formkit-form .formkit-input::placeholder {
-  color: var(--ink-soft) !important;
-  opacity: 0.5 !important;
-}
-
-.formkit-form .formkit-input:focus {
-  outline: none !important;
-  border-color: var(--gold) !important;
-  box-shadow: 0 0 0 2px var(--gold-glow) !important;
-}
-
-.formkit-form .formkit-submit {
-  flex: 0 0 auto !important;
-}
-
-.formkit-form .formkit-submit span {
-  font-family: var(--fd) !important;
-  font-weight: 600 !important;
-  font-size: 0.9rem !important;
-  letter-spacing: 0.06em !important;
-  background: var(--gold) !important;
-  color: var(--ground) !important;
-  border: none !important;
-  border-radius: 3px !important;
-  padding: 0.6rem 1.5rem !important;
-  cursor: pointer !important;
-  transition: opacity 0.15s !important;
-}
-
-.formkit-form .formkit-submit:hover span {
-  opacity: 0.85 !important;
-}
-
-.formkit-form .formkit-guarantee,
-.formkit-form .formkit-powered-by-convertkit-container {
-  display: none !important;
-}
-
-.formkit-form .formkit-alert-error {
-  list-style: none !important;
-  color: var(--vessel) !important;
-  font-size: 0.85rem !important;
-  margin-bottom: 0.5rem !important;
-}
-
-/* ── COMMUNITY ── */
-.community {
-  margin-bottom: 3.5rem;
-}
-
-.community-cards {
-  display: grid;
-  gap: 0.75rem;
-}
-
-.community-card {
-  display: block;
-  background: var(--surface);
-  border: 1px solid var(--rule);
-  border-radius: 4px;
-  padding: 1.1rem 1.3rem;
-  text-decoration: none;
-  color: var(--ink);
-  transition: border-color 0.15s;
-}
-.community-card:hover {
-  border-color: var(--gold);
-}
-
-.community-card .cc-title {
-  font-family: var(--fd);
-  font-weight: 600;
-  font-size: 1.08rem;
-  margin-bottom: 0.15rem;
-}
-
-.community-card .cc-tag {
-  font-size: 0.75rem;
-  letter-spacing: 0.05em;
-  color: var(--gold);
-  margin-bottom: 0.35rem;
-}
-
-.community-card .cc-desc {
-  font-size: 0.85rem;
-  color: var(--ink-soft);
-  line-height: 1.6;
-}
-
-/* ── FIND ME ── */
-.findme {
-  margin-bottom: 3.5rem;
-}
-
-.link-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.5rem;
-}
-
-.link-grid a {
-  display: block;
-  font-family: var(--fd);
-  font-weight: 500;
-  font-size: 0.95rem;
-  color: var(--ink);
-  text-decoration: none;
-  letter-spacing: 0.03em;
-  padding: 0.6rem 1rem;
-  border: 1px solid var(--rule);
-  border-radius: 3px;
-  text-align: center;
-  transition: border-color 0.15s, color 0.15s;
-}
-.link-grid a:hover {
-  border-color: var(--gold);
-  color: var(--gold);
-}
-
-@media (max-width: 400px) {
-  .link-grid { grid-template-columns: 1fr; }
-}
-
-/* ── FOOTER ── */
-.foot {
-  text-align: center;
-  padding-top: 2rem;
-  border-top: 1px solid var(--rule);
-}
-
-.foot .closing {
-  font-family: var(--fd);
-  font-style: italic;
-  font-size: 1.05rem;
-  color: var(--ink-soft);
-  margin-bottom: 0.5rem;
-  text-wrap: balance;
-}
-
-.foot .copy {
-  font-size: 0.75rem;
-  color: var(--ink-soft);
-  opacity: 0.5;
-}
-
-/* ── RESPONSIVE ── */
-@media (max-width: 500px) {
-  .page { padding: 3rem 1.2rem 2.5rem; }
-  .hero .statement { font-size: 2.1rem; }
-  .formkit-form .formkit-fields {
-    flex-direction: column !important;
-  }
-  .formkit-form .formkit-submit {
-    width: 100% !important;
-  }
-  .formkit-form .formkit-submit span {
-    width: 100% !important;
-    display: block !important;
-    text-align: center !important;
-  }
-}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ana Seahawk — Living as Art. A threshold into Sovereign Biophysics, writing, community and an evolving body of work.">
+  <title>Ana Seahawk — Living as Art</title>
+  <link rel="icon" href="/assets/ana-seahawk-emblem.jpg">
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<div class="page">
+  <a class="skip-link" href="#main">Skip to the work</a>
 
   <header class="hero">
-    <img class="emblem" src="assets/ana-seahawk-emblem.jpg" alt="Ana Seahawk emblem">
-    <p class="statement">Living as Art</p>
-    <p class="name">Ana Seahawk</p>
-    <div class="rule"></div>
-    <p class="bio">
-      Amaroli practitioner and field researcher since April 2022.
-      Four years of practice has become the sounding board for research
-      that reaches back five thousand years&mdash;through the alchemical
-      women of Alexandria, the Vedic pharmacology of the sacred cow,
-      and forward into territory still being mapped.
-    </p>
-    <img class="portrait" src="assets/ana-seahawk-portrait.jpg" alt="Ana Seahawk" width="1200" height="675">
+    <img class="hero-photo" src="assets/ana-seahawk-portrait.jpg" alt="Ana Seahawk standing in the mountain landscape above the village" width="1200" height="675">
+    <nav class="site-nav site-nav--overlay" aria-label="Primary navigation">
+      <a class="wordmark" href="/">Ana Seahawk</a>
+      <div class="nav-links">
+        <a href="#reading-room">Reading Room</a>
+        <a href="#community">Community</a>
+        <a href="https://cal.com/anaseahawk">Book a conversation</a>
+      </div>
+    </nav>
+
+    <div class="hero-card" aria-label="Ana Seahawk identity banner">
+      <img class="hero-emblem" src="assets/ana-seahawk-emblem.jpg" alt="Ana Seahawk vessel emblem" width="1536" height="1536">
+      <div>
+        <h1 class="hero-name">Ana Seahawk</h1>
+        <p class="hero-statement">Living as Art</p>
+      </div>
+    </div>
   </header>
 
-  <section class="reading-room">
-    <h2 class="section-label">The Reading Room</h2>
-    <div class="doorways">
-
-      <a class="door" href="https://github.com/AnaSeahawk/website/blob/main/sovereign-biophysics-distillation/README.md">
-        <div class="door-rail"></div>
-        <div class="door-body">
-          <div class="door-title">Sovereign Biophysics</div>
-          <span class="door-access">open</span>
-          <p class="door-desc">
-            The study of what the body already produces, already knows,
-            and already carries. Method, experiments, synthesis, and the
-            Golden Lexicon.
-          </p>
+  <main id="main">
+    <section class="section">
+      <div class="shell intro-grid">
+        <div>
+          <p class="eyebrow">A living field</p>
+          <h2 class="display-title">Returning to what was never absent.</h2>
         </div>
-      </a>
-
-      <a class="door" data-tone="verdigris" href="https://github.com/AnaSeahawk/website/blob/main/Foundations/README.md">
-        <div class="door-rail"></div>
-        <div class="door-body">
-          <div class="door-title">Foundations</div>
-          <span class="door-access">open</span>
-          <p class="door-desc">
-            Ground-level practices, terminology, and the lived framework
-            beneath everything else.
-          </p>
-        </div>
-      </a>
-
-      <a class="door" data-tone="mother" href="https://github.com/AnaSeahawk/website/blob/main/Relationship/README.md">
-        <div class="door-rail"></div>
-        <div class="door-body">
-          <div class="door-title">Relationship</div>
-          <span class="door-access">open</span>
-          <p class="door-desc">
-            Relational practice, consent as compass, and the intelligence
-            of the body in connection.
-          </p>
-        </div>
-      </a>
-
-      <a class="door" data-tone="vessel" href="https://github.com/AnaSeahawk/website/blob/main/The-Vessel/portal.md">
-        <div class="door-rail"></div>
-        <div class="door-body">
-          <div class="door-title">The Vessel</div>
-          <span class="door-access">membership</span>
-          <p class="door-desc">
-            The protected container for material that needs context,
-            consent, or relationship before it can be read.
-          </p>
-        </div>
-      </a>
-
-    </div>
-  </section>
-
-  <section class="subscribe">
-    <p class="prompt">Stay in the field</p>
-    <p class="aside">New research and writings, Mother Spirit community events, and Shivambu Women's Circle updates. No spam. Unsubscribe any time.</p>
-    <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
-    <form action="https://app.kit.com/forms/9877706/subscriptions" class="seva-form formkit-form" method="post"
-      data-sv-form="9877706" data-uid="f98310d679" data-format="inline" data-version="5"
-      min-width="400 500 600 700 800">
-      <div data-style="clean">
-        <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
-        <div data-element="fields" class="seva-fields formkit-fields">
-          <div class="formkit-field">
-            <input class="formkit-input" name="email_address" aria-label="Email address"
-              placeholder="email" type="email">
+        <div class="intro-copy">
+          <p>Research, practice and relationship become forms through which the intelligence of the body can be observed, given language and allowed to live.</p>
+          <p>This is a threshold into Ana’s writing, field research, community and evolving body of work.</p>
+          <div class="button-row">
+            <a class="button button--gold" href="#reading-room">Enter the Reading Room</a>
+            <a class="button" href="#community">Meet the community</a>
           </div>
-          <div class="formkit-field">
-            <input class="formkit-input" name="fields[first_name]" aria-label="First name"
-              placeholder="first name" type="text">
-          </div>
-          <button data-element="submit" class="formkit-submit">
-            <div class="formkit-spinner"><div></div><div></div><div></div></div>
-            <span>Subscribe</span>
-          </button>
         </div>
       </div>
-    </form>
-  </section>
+    </section>
 
-  <section class="community">
-    <h2 class="section-label">Community</h2>
-    <div class="community-cards">
-      <a class="community-card" href="https://mother-spirit.com" target="_blank" rel="noopener">
-        <div class="cc-title">Mother Spirit</div>
-        <div class="cc-tag">free community</div>
-        <p class="cc-desc">
-          An open community for men and women sharing practice, observation,
-          and company while this work unfolds. The Shivambu Women's Circle
-          lives within this community.
-        </p>
-      </a>
-      <a class="community-card" href="https://anaseahawk.github.io/the-water-of-life/" target="_blank" rel="noopener">
-        <div class="cc-title">The Water of Life</div>
-        <div class="cc-tag">open archive</div>
-        <p class="cc-desc">
-          A living observational archive you can read and participate in.
-        </p>
-      </a>
+    <section class="section section--paper" id="reading-room">
+      <div class="shell">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">The Reading Room</p>
+            <h2>Choose a doorway.</h2>
+          </div>
+          <p>Each room has its own tone, but all remain inside the same house. Begin with the newest work or follow the longer reading path.</p>
+        </div>
+
+        <article class="feature-lexicon">
+          <div class="lexicon-art" aria-hidden="true">
+            <div class="vessel-glyph">·</div>
+          </div>
+          <div class="feature-copy">
+            <p class="eyebrow">New · Historical ground</p>
+            <h3>Golden Lexicon</h3>
+            <p>Symbols, science and names for the Water of Life across tradition—from Egyptian hieroglyphs and women’s laboratory apparatus to medieval colour wheels and Renaissance chemistry.</p>
+            <a class="button" href="/sovereign-biophysics-distillation/00-orientation/golden-lexicon.html">Open the Lexicon</a>
+          </div>
+        </article>
+
+        <div class="room-grid">
+          <a class="room-card room-card--gold" href="/sovereign-biophysics-distillation/">
+            <span class="room-mark" aria-hidden="true">◉</span>
+            <span class="room-access">Open archive</span>
+            <h3>Sovereign Biophysics</h3>
+            <p>The study of what the body already produces, already knows and already carries. History, method, experiment, analysis and synthesis arranged as a readable book.</p>
+          </a>
+
+          <a class="room-card room-card--verdigris" href="/Foundations/">
+            <span class="room-mark" aria-hidden="true">⌂</span>
+            <span class="room-access">Open collection</span>
+            <h3>Foundations</h3>
+            <p>Ground-level practices, terminology and the lived framework beneath everything else.</p>
+          </a>
+
+          <a class="room-card room-card--plum" href="/Relationship/README.html">
+            <span class="room-mark" aria-hidden="true">∞</span>
+            <span class="room-access">Open collection</span>
+            <h3>Relationship</h3>
+            <p>Relational practice, consent as compass and the intelligence of the body in connection.</p>
+          </a>
+
+          <a class="room-card room-card--oxblood" href="/The-Vessel/portal.html">
+            <span class="room-mark" aria-hidden="true">◇</span>
+            <span class="room-access">Membership</span>
+            <h3>The Vessel</h3>
+            <p>A protected threshold for material that needs context, consent or relationship before it can be read.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="community">
+      <div class="shell">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Where the work lives</p>
+            <h2>Archive, community and conversation.</h2>
+          </div>
+          <p>The writing is one form. The living exchange continues through observation, gatherings and direct conversation.</p>
+        </div>
+        <div class="room-grid">
+          <a class="room-card room-card--plum" href="https://mother-spirit.com" target="_blank" rel="noopener">
+            <span class="room-mark" aria-hidden="true">✦</span>
+            <span class="room-access">Free community</span>
+            <h3>Mother Spirit</h3>
+            <p>An open community sharing practice, observation and company while the work unfolds.</p>
+          </a>
+          <a class="room-card room-card--verdigris" href="https://anaseahawk.github.io/the-water-of-life/" target="_blank" rel="noopener">
+            <span class="room-mark" aria-hidden="true">≋</span>
+            <span class="room-access">Open archive</span>
+            <h3>The Water of Life</h3>
+            <p>A living observational archive where experience can be recorded without being flattened into a claim.</p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--paper">
+      <div class="shell field-letter">
+        <div>
+          <p class="eyebrow">Stay in the field</p>
+          <h2>Receive new writing and gatherings.</h2>
+          <p>New research and writing, Mother Spirit gatherings and Shivambu Women’s Circle updates. No spam. Unsubscribe at any time.</p>
+        </div>
+        <div>
+          <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
+          <form action="https://app.kit.com/forms/9877706/subscriptions" class="seva-form formkit-form" method="post"
+            data-sv-form="9877706" data-uid="f98310d679" data-format="inline" data-version="5"
+            min-width="400 500 600 700 800">
+            <div data-style="clean">
+              <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
+              <div data-element="fields" class="seva-fields formkit-fields">
+                <div class="formkit-field">
+                  <label class="visually-hidden" for="field-email">Email address</label>
+                  <input id="field-email" class="formkit-input" name="email_address" placeholder="your email" type="email" required>
+                </div>
+                <div class="formkit-field">
+                  <label class="visually-hidden" for="field-name">First name</label>
+                  <input id="field-name" class="formkit-input" name="fields[first_name]" placeholder="first name" type="text">
+                </div>
+                <button data-element="submit" class="formkit-submit" type="submit">
+                  <span class="formkit-spinner" aria-hidden="true"><span></span><span></span><span></span></span>
+                  <span>Subscribe</span>
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="shell site-footer">
+    <div>
+      <p class="closing">What matters most is the path of Heart.</p>
+      <p>© Ana Seahawk</p>
     </div>
-  </section>
-
-  <section class="findme">
-    <h2 class="section-label">Find Me</h2>
-    <div class="link-grid">
+    <nav class="footer-links" aria-label="Elsewhere">
       <a href="https://www.youtube.com/@AnaSeahawk" target="_blank" rel="noopener">YouTube</a>
       <a href="https://www.instagram.com/anaseahawk" target="_blank" rel="noopener">Instagram</a>
       <a href="https://t.me/AnaSeahawk" target="_blank" rel="noopener">Telegram</a>
       <a href="https://www.facebook.com/AnaSeahawk" target="_blank" rel="noopener">Facebook</a>
       <a href="https://x.com/AnaSeahawk" target="_blank" rel="noopener">X</a>
       <a href="https://cal.com/anaseahawk" target="_blank" rel="noopener">Book a Call</a>
-    </div>
-  </section>
-
-  <footer class="foot">
-    <p class="closing">What matters most is the path of Heart.</p>
-    <p class="copy">&copy; Ana Seahawk</p>
+    </nav>
   </footer>
-
-</div>
 </body>
 </html>

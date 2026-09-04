@@ -13,8 +13,11 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors
 
-- `README.md` — site front door.
-- `sovereign-biophysics-distillation/README.md` — Sovereign Biophysics research book.
+- `index.html` — primary visual site front door.
+- `README.md` — repository-facing site index.
+- `sovereign-biophysics-distillation/index.html` — visual frontispiece and reader's map for the Sovereign Biophysics research book.
+- `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
+- `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — designed direct-reading edition of the Golden Lexicon.
 - `The-Vessel/README.md` — displayed as **The Living Record**, the public companion archive.
 - `The-Vessel/portal.md` — displayed as **Private Vessel Access**, the public funnel toward protected access.
 
