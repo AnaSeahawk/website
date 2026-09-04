@@ -36,19 +36,19 @@ Status: approved by Ana for publication on 2026-09-04
 ### Published surfaces
 
 - `_config.yml`
-- `theme-system.css`
-- `theme-init.js`
-- `theme.js`
+- `theme-system-v1.css`
+- `theme-init-v1.js`
+- `theme-v1.js`
 - `index.html`
 - `sovereign-biophysics-distillation/index.html`
-- `sovereign-biophysics-distillation/chapter.css`
+- `sovereign-biophysics-distillation/chapter-v1.css`
 - `sovereign-biophysics-distillation/00-orientation/how-to-read-this.md`
 - `sovereign-biophysics-distillation/00-orientation/how-to-read-this.html`
 - `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html`
-- `sovereign-biophysics-distillation/assets/archive-field-plate.png`
-- `sovereign-biophysics-distillation/assets/archive-field-plate.webp`
-- `sovereign-biophysics-distillation/assets/archive-field-plate-dark.png`
-- `sovereign-biophysics-distillation/assets/archive-field-plate-dark.webp`
+- `sovereign-biophysics-distillation/assets/archive-field-plate-v1.png`
+- `sovereign-biophysics-distillation/assets/archive-field-plate-v1.webp`
+- `sovereign-biophysics-distillation/assets/archive-field-plate-dark-v1.png`
+- `sovereign-biophysics-distillation/assets/archive-field-plate-dark-v1.webp`
 
 ### Processing notes
 
@@ -56,5 +56,6 @@ Status: approved by Ana for publication on 2026-09-04
 - Publishes the approved book-like edition of **How to Read This Archive**, including separate light and dark field plates.
 - Opens that chapter from the Sovereign Biophysics index while keeping every other chapter, reader route, and archive-room card non-clicking and visibly in refinement.
 - Excludes the Markdown source from Jekyll output so it cannot overwrite the designed HTML at the chapter’s public URL.
+- Uses release-versioned asset filenames so newly deployed files cannot be masked by Cloudflare’s cached 404 responses.
 - Preserves the chapter’s single-subject boundary, distinction between kinds of knowing, and statement that the archive is not instruction or medical guidance.
 - Leaves Mother Spirit and The Water of Life open on the homepage and leaves the four internal room cards held closed.
