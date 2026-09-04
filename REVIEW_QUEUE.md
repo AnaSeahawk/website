@@ -11,15 +11,15 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ---
 
-## Public Front Doors
+## Public Front Doors And Holds
 
-- `index.html` — primary visual site front door.
+- `index.html` — primary visual site front door. Mother Spirit and The Water of Life remain open; the four internal reading rooms are held without links.
 - `README.md` — repository-facing site index.
-- `sovereign-biophysics-distillation/index.html` — visual frontispiece and reader's map for the Sovereign Biophysics research book.
+- `sovereign-biophysics-distillation/index.html` — visual refinement preview for the Sovereign Biophysics research book; chapter and archive-room links are held closed.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
-- `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — designed direct-reading edition of the Golden Lexicon.
-- `The-Vessel/README.md` — displayed as **The Living Record**, the public companion archive.
-- `The-Vessel/portal.md` — displayed as **Private Vessel Access**, the public funnel toward protected access.
+- `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — designed direct-reading edition of the Golden Lexicon, temporarily unlinked during refinement.
+- `The-Vessel/README.md` — displayed as **The Living Record**, temporarily unlinked from the site front door.
+- `The-Vessel/portal.md` — displayed as **Private Vessel Access**, temporarily unlinked from the site front door.
 
 ---
 
