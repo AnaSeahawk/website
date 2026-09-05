@@ -13,7 +13,7 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
-- `index.html` — primary visual site front door. Mother Spirit and The Water of Life remain open; the four internal reading rooms are held without links.
+- `index.html` — primary visual site front door. Mother Spirit and The Water of Life remain open; Sovereign Biophysics now opens through its book index, with direct homepage paths to **Golden Lexicon** and **How to Read This Archive**. Foundations, Relationship, and The Vessel remain held without links.
 - `README.md` — repository-facing site index.
 - `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon** and **How to Read This Archive** are open, while all other chapter and archive-room links remain held closed.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.

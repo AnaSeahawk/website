@@ -85,3 +85,27 @@ Status: approved by Ana on 2026-09-05
 - Preserves every Markdown source file in GitHub without changing its prose, metadata, or history.
 - Keeps the designed Sovereign Biophysics index, **How to Read This Archive**, and the Golden Lexicon live as HTML editions.
 - Does not change homepage discovery or open any held chapter or archive-room card.
+
+## Homepage discovery correction
+
+Status: approved by Ana on 2026-09-05 after live review
+
+### Approved in this correction
+
+- `index.html`
+- `REVIEW_QUEUE.md`
+- `PUBLISH_BATCH_2026-09-05.md`
+
+### Discovery change
+
+- Opens the Sovereign Biophysics room card to the canonical book index.
+- Adds direct homepage paths to **Golden Lexicon** and **How to Read This Archive** in the featured reading panel.
+- Supersedes the earlier homepage hold recorded in this batch now that Ana has approved the index and both designed reading editions.
+- Keeps Foundations, Relationship, and The Vessel as non-link cards marked **In the works**.
+- Does not expose a Markdown source route or open any unfinished chapter.
+
+### Validation
+
+- Desktop and phone layouts reviewed in light and dark themes before publication.
+- Homepage-to-index, homepage-to-orientation, index-to-chapter, and chapter-to-index paths checked before publication.
+- Canonical live-route, cache-header, and phone-journey checks remain required after deployment.
