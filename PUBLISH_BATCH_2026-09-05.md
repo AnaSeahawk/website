@@ -29,6 +29,46 @@ Status: approved for public presentation by Ana
 - Structural archive check passed before publication.
 - Canonical public-route and phone-journey checks remain required after deployment.
 
+## Sovereign Biophysics index and Golden Lexicon edition
+
+Status: approved by Ana on 2026-09-05
+
+### Approved in this edition
+
+- `sovereign-biophysics-distillation/index.html`
+- `sovereign-biophysics-distillation/index-opening-v1.css`
+- `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html`
+- `sovereign-biophysics-distillation/golden-lexicon-chapter-v1.css`
+- `sovereign-biophysics-distillation/assets/golden-lexicon-field-plate-v1.png`
+- `sovereign-biophysics-distillation/assets/golden-lexicon-field-plate-v1.webp`
+- `sovereign-biophysics-distillation/assets/golden-lexicon-field-plate-dark-v1.png`
+- `sovereign-biophysics-distillation/assets/golden-lexicon-field-plate-dark-v1.webp`
+- `REVIEW_QUEUE.md`
+- `PUBLISH_BATCH_2026-09-05.md`
+
+### Discovery boundary
+
+- Opens the Golden Lexicon as Chapter I from the Sovereign Biophysics index, alongside **How to Read This Archive**.
+- Keeps every other chapter and archive-room card visible as a non-link marked **In refinement**.
+- Keeps the Sovereign Biophysics card on the main homepage unlinked and marked **In refinement**; the book index remains directly addressable while the broader homepage entry is held.
+- Does not expose any Markdown source route.
+
+### Reading and source review
+
+- Gives the long Golden Lexicon a book-like chapter frontispiece, desktop folio rail, mobile contents control, section medallions, and return navigation.
+- Provides coordinated light and dark field plates and uses the shared browser-standard theme system.
+- Corrects the 1963 pregnancy-study attribution to P. Ghalioungui, Sh. Khalil, and A. R. Ammar and limits the summary to the paper&rsquo;s conclusions.
+- Reframes historical diagnostic and fly-agaric material as historical record, adds explicit medical and toxicology boundaries, and removes unsupported safety and efficacy claims.
+- Corrects the Tapputi distillation claim, qualifies the alchemical lineage, repairs timeline order, and adds selected primary or authoritative sources.
+
+### Validation
+
+- Approved prototype reviewed by Ana in desktop navigation.
+- Final reading and source pass completed on 2026-09-05.
+- Desktop and phone layouts reviewed in light and dark themes.
+- Structural archive and link-boundary checks passed before publication.
+- Canonical live-route, cache-header, and phone-journey checks remain required after deployment.
+
 ## Unfinished Markdown route hold
 
 Status: approved by Ana on 2026-09-05

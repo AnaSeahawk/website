@@ -15,9 +15,9 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 - `index.html` — primary visual site front door. Mother Spirit and The Water of Life remain open; the four internal reading rooms are held without links.
 - `README.md` — repository-facing site index.
-- `sovereign-biophysics-distillation/index.html` — visual refinement preview for the Sovereign Biophysics research book with the approved gold-and-silver emblem; **How to Read This Archive** is open and all other chapter and archive-room links remain held closed.
+- `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon** and **How to Read This Archive** are open, while all other chapter and archive-room links remain held closed.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
-- `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — designed direct-reading edition of the Golden Lexicon, temporarily unlinked during refinement.
+- `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — public designed reading edition of the Golden Lexicon; linked from the Sovereign Biophysics index after visual, source, safety, and navigation review on 2026-09-05.
 - `The-Vessel/README.md` — displayed as **The Living Record**, temporarily unlinked from the site front door.
 - `The-Vessel/portal.md` — displayed as **Private Vessel Access**, temporarily unlinked from the site front door.
 
