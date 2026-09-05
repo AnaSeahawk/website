@@ -1,0 +1,23 @@
+.book-cover--emblem {
+  display: grid;
+  place-items: center;
+  padding: clamp(2.5rem, 5vw, 4.5rem);
+  background:
+    radial-gradient(circle at 50% 44%, var(--register-glow), transparent 58%),
+    linear-gradient(145deg, var(--pending-wash), transparent 62%),
+    var(--paper);
+}
+
+.book-cover.book-cover--emblem img {
+  position: relative;
+  z-index: 1;
+  width: min(100%, 31rem);
+  height: auto;
+  min-height: 0;
+  object-fit: contain;
+  filter: drop-shadow(0 1.2rem 1.35rem rgba(30, 23, 18, 0.18));
+}
+
+.book-cover--emblem::after {
+  border-color: var(--line);
+}
