@@ -21,6 +21,8 @@ For the operational meaning of `public`, `community`, and `private`, see
 - `The-Vessel/README.md` — displayed as **The Living Record**, temporarily unlinked from the site front door.
 - `The-Vessel/portal.md` — displayed as **Private Vessel Access**, temporarily unlinked from the site front door.
 
+All Markdown sources under `sovereign-biophysics-distillation/` are excluded from the website build by default. Only a separately reviewed, designed HTML edition may open as a reader-facing page.
+
 ---
 
 ## The Living Record
