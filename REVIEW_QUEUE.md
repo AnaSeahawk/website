@@ -46,7 +46,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 
 ### Entry And Reference
 
-- `sovereign-biophysics-distillation/00-orientation/how-to-read-this.md` — published 2026-09-04 with a designed direct-reading edition.
+- `sovereign-biophysics-distillation/00-orientation/how-to-read-this.md` — published 2026-09-04 with a designed direct-reading edition; phrase-aware hero-deck composition approved 2026-09-06.
 - `sovereign-biophysics-distillation/00-orientation/where-to-begin.md`
 - `sovereign-biophysics-distillation/00-orientation/the-archive-learns-to-read-itself.md`
 - `sovereign-biophysics-distillation/00-orientation/the-archive-as-biological-memory.md`
