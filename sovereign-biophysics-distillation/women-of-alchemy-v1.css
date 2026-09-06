@@ -1,0 +1,331 @@
+.women-hero {
+  background:
+    radial-gradient(circle at 74% 18%, color-mix(in srgb, var(--gold) 12%, transparent), transparent 34%),
+    linear-gradient(180deg, color-mix(in srgb, var(--surface) 76%, transparent), transparent);
+}
+
+.women-plate img {
+  aspect-ratio: 1003 / 1568;
+  object-fit: cover;
+  object-position: center;
+}
+
+:root[data-theme="dark"] .women-plate img {
+  filter: saturate(.84) brightness(.76) contrast(1.05);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .women-plate img {
+    filter: saturate(.84) brightness(.76) contrast(1.05);
+  }
+}
+
+.mobile-contents {
+  display: none;
+}
+
+.long-chapter {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(10rem, 14rem) minmax(0, 46rem) minmax(0, 14rem);
+  gap: clamp(2rem, 5vw, 5.5rem);
+  align-items: start;
+  padding-top: clamp(3rem, 7vw, 6rem);
+  padding-bottom: clamp(4rem, 8vw, 8rem);
+}
+
+.folio-rail {
+  position: sticky;
+  top: 6rem;
+  grid-column: 1;
+  display: grid;
+  gap: .14rem;
+  max-height: calc(100vh - 8rem);
+  overflow: auto;
+  padding: .4rem .65rem 1rem 0;
+}
+
+.folio-rail__title {
+  margin: 0 0 .75rem;
+  font-family: var(--display);
+  color: var(--ink);
+  font-size: 1rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.folio-rail a {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: .45rem;
+  align-items: baseline;
+  padding: .38rem 0;
+  border-bottom: 1px solid color-mix(in srgb, var(--rule) 65%, transparent);
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-size: .9rem;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+.folio-rail a span {
+  color: var(--gold);
+  font-family: var(--body);
+  font-size: .62rem;
+  letter-spacing: .12em;
+}
+
+.folio-rail a:hover,
+.folio-rail a:focus-visible {
+  color: var(--ink);
+}
+
+.chapter-manuscript {
+  grid-column: 2;
+  min-width: 0;
+  color: var(--ink);
+  font-family: var(--body);
+  font-size: clamp(1.06rem, 1vw + .72rem, 1.18rem);
+  line-height: 1.82;
+}
+
+.chapter-manuscript > #women-of-alchemy > h1,
+.chapter-manuscript #a-5000-year-history-of-the-hidden-substance {
+  display: none;
+}
+
+.chapter-manuscript #women-of-alchemy {
+  counter-reset: folio;
+}
+
+.chapter-manuscript #women-of-alchemy > .level2:not(#a-5000-year-history-of-the-hidden-substance):not(#contents) {
+  counter-increment: folio;
+  margin: clamp(4.5rem, 9vw, 8rem) 0 0;
+  scroll-margin-top: 7rem;
+}
+
+.chapter-manuscript #women-of-alchemy > .level2:not(#a-5000-year-history-of-the-hidden-substance):not(#contents) > h2::before {
+  content: counter(folio, decimal-leading-zero);
+  display: block;
+  margin-bottom: .85rem;
+  color: var(--gold);
+  font-family: var(--body);
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .22em;
+}
+
+.chapter-manuscript h2,
+.chapter-manuscript h3 {
+  font-family: var(--display);
+  text-wrap: balance;
+}
+
+.chapter-manuscript h2 {
+  margin: 0 0 2rem;
+  color: var(--ink);
+  font-size: clamp(2rem, 4vw, 3.35rem);
+  font-weight: 500;
+  line-height: 1.03;
+}
+
+.chapter-manuscript h3 {
+  position: relative;
+  margin: 3.75rem 0 1.2rem;
+  padding: 1.3rem 1.4rem 1.15rem 4.15rem;
+  border: 1px solid var(--rule);
+  background: color-mix(in srgb, var(--surface) 78%, transparent);
+  color: var(--ink);
+  font-size: clamp(1.45rem, 3vw, 2rem);
+  font-weight: 500;
+  line-height: 1.16;
+}
+
+.chapter-manuscript h3::before {
+  content: "♀";
+  position: absolute;
+  left: 1.25rem;
+  top: 50%;
+  translate: 0 -50%;
+  color: var(--gold);
+  font-family: var(--body);
+  font-size: 1.45rem;
+}
+
+.chapter-manuscript p {
+  margin: 0 0 1.25em;
+}
+
+.chapter-manuscript p + p {
+  margin-top: 0;
+}
+
+.chapter-manuscript a {
+  color: var(--verdigris);
+  text-decoration-color: color-mix(in srgb, var(--verdigris) 45%, transparent);
+  text-underline-offset: .18em;
+}
+
+.chapter-manuscript hr {
+  width: 3rem;
+  height: 1px;
+  margin: 3.25rem auto;
+  border: 0;
+  background: var(--gold);
+}
+
+.chapter-manuscript blockquote {
+  margin: 2.75rem 0;
+  padding: 1.35rem 1.75rem;
+  border-left: 2px solid var(--gold);
+  background: color-mix(in srgb, var(--gold) 7%, transparent);
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 1.16em;
+}
+
+.chapter-manuscript blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.chapter-manuscript #contents {
+  margin: 0 0 clamp(5rem, 10vw, 9rem);
+  scroll-margin-top: 7rem;
+}
+
+.chapter-manuscript #contents > h2 {
+  margin-bottom: 1.25rem;
+  color: var(--gold);
+  font-size: 1rem;
+  font-family: var(--body);
+  font-weight: 600;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+}
+
+.chapter-manuscript #contents > ul {
+  margin: 0 0 clamp(4rem, 8vw, 7rem);
+  padding: clamp(1.4rem, 4vw, 2.35rem);
+  border: 1px solid var(--rule);
+  background: color-mix(in srgb, var(--surface) 82%, transparent);
+  columns: 2 15rem;
+  column-gap: 2.5rem;
+  list-style: none;
+  font-family: var(--display);
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+.chapter-manuscript #contents > ul li {
+  break-inside: avoid;
+  margin: 0 0 .75rem;
+}
+
+.chapter-manuscript #contents > ul ul {
+  margin: .45rem 0 .8rem;
+  padding-left: 1rem;
+  list-style: none;
+  color: var(--ink-soft);
+  font-size: .91em;
+}
+
+.chapter-manuscript #contents > ul a {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.chapter-manuscript #contents > ul a:hover,
+.chapter-manuscript #contents > ul a:focus-visible {
+  color: var(--gold);
+}
+
+.chapter-manuscript #contents > ul + hr + p {
+  font-family: var(--display);
+  font-size: clamp(1.7rem, 3.7vw, 2.5rem);
+  line-height: 1.18;
+}
+
+.chapter-manuscript strong em,
+.chapter-manuscript em strong {
+  color: color-mix(in srgb, var(--ink) 82%, var(--gold));
+}
+
+.women-colophon {
+  border-top: 1px solid var(--rule);
+}
+
+@media (max-width: 1080px) {
+  .long-chapter {
+    grid-template-columns: minmax(0, 46rem);
+    justify-content: center;
+  }
+
+  .folio-rail {
+    display: none;
+  }
+
+  .chapter-manuscript {
+    grid-column: 1;
+  }
+
+  .mobile-contents {
+    display: block;
+    margin-top: 2rem;
+    border: 1px solid var(--rule);
+    background: color-mix(in srgb, var(--surface) 80%, transparent);
+  }
+
+  .mobile-contents summary {
+    cursor: pointer;
+    padding: 1rem 1.15rem;
+    color: var(--ink);
+    font-family: var(--display);
+    font-size: 1.1rem;
+  }
+
+  .mobile-contents ol {
+    margin: 0;
+    padding: 0 1.25rem 1.25rem 2.8rem;
+    columns: 2 13rem;
+  }
+
+  .mobile-contents li {
+    break-inside: avoid;
+    padding: .2rem 0;
+  }
+
+  .mobile-contents a {
+    color: var(--ink-soft);
+  }
+}
+
+@media (max-width: 620px) {
+  .women-plate figcaption .editorial-line {
+    display: inline;
+  }
+
+  .long-chapter {
+    padding-top: 2.5rem;
+  }
+
+  .chapter-manuscript {
+    font-size: 1.03rem;
+    line-height: 1.76;
+  }
+
+  .chapter-manuscript h3 {
+    padding: 1.15rem 1.1rem 1rem 3.45rem;
+  }
+
+  .chapter-manuscript h3::before {
+    left: 1rem;
+  }
+
+  .chapter-manuscript #contents > ul {
+    columns: 1;
+  }
+
+  .mobile-contents ol {
+    columns: 1;
+  }
+}

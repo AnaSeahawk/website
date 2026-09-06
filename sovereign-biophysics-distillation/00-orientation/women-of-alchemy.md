@@ -5,7 +5,7 @@ moon:
 moon-phase:
 type: foundation
 visibility: public
-status: reviewed
+status: published
 claim_tier: interpretation
 ---
 

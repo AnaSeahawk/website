@@ -95,3 +95,38 @@ Status: approved for public presentation by Ana on 2026-09-06
 
 - Requires desktop and phone inspection in light and dark themes before publication.
 - Requires the structural archive check and live phone journey from the homepage through the index after deployment.
+
+## Women of Alchemy — Chapter IV
+
+Status: approved for public presentation by Ana on 2026-09-06
+
+### Approved in this release
+
+- `sovereign-biophysics-distillation/00-orientation/women-of-alchemy.md` — publication metadata only
+- `sovereign-biophysics-distillation/00-orientation/women-of-alchemy.html`
+- `sovereign-biophysics-distillation/women-of-alchemy-v1.css`
+- `sovereign-biophysics-distillation/assets/women-of-alchemy-field-plate-recovered-v1.png`
+- `sovereign-biophysics-distillation/assets/women-of-alchemy-field-plate-recovered-v1.webp`
+- `sovereign-biophysics-distillation/index.html`
+- `sovereign-biophysics-distillation/00-orientation/the-first-water.html`
+- `REVIEW_QUEUE.md`
+- `PUBLISH_BATCH_2026-09-06.md`
+
+### Content and discovery boundary
+
+- Publishes the reviewed manuscript without changing its substantive words.
+- Opens Chapter IV from the canonical Sovereign Biophysics index and from Chapter III's next-chapter navigation.
+- Keeps Chapter V and every other unfinished chapter or archive room non-interactive and marked **In refinement**.
+- Does not add Chapter IV as a separate homepage feature; readers enter through the Sovereign Biophysics index or Chapter III.
+
+### Artwork provenance
+
+- Ana approved the recovered Chapter IV frontispiece after reviewing it in the private prototype.
+- The source PNG was recovered from Downloads and preserved byte-for-byte; the versioned WebP is its optimized reader-facing derivative.
+- The exact original generation prompt could not be recovered from the redirected task history and is not being reconstructed or attributed.
+- The plate contains no baked-in lettering; its caption remains live, phrase-aware HTML.
+
+### Validation
+
+- Requires desktop and phone inspection in light and dark themes before publication.
+- Requires the structural archive check and live phone journey from the homepage through the index after deployment.
