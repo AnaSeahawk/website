@@ -15,7 +15,7 @@ claim_tier: orientation
 
 Every human being began in their own water.
 
-Not metaphorically. At approximately sixteen weeks of gestation, the fetal kidneys begin producing urine, which enters the amniotic fluid. The fetus swallows the fluid, absorbs it, urinates back into it, swallows again. By full term, more than ninety percent of the amniotic fluid is the fetus's own refined water — carrying growth factors, immunological signals, hormonal information, everything the developing body is learning to make. For months, in the most formative period of any human life, the body runs a closed loop: refining, cycling, sustaining itself on what it produces.
+Not metaphorically. At approximately sixteen weeks of gestation, the fetal kidneys begin producing urine, which enters the amniotic fluid. The fetus swallows the fluid, absorbs it, urinates back into it, swallows again. By full term, fetal urine has become the largest source of amniotic fluid, alongside fluid from the developing lungs and other exchange pathways — carrying growth factors, immunological signals, hormonal information, everything the developing body is learning to make. For months, in the most formative period of any human life, the body runs a closed loop: refining, cycling, sustaining itself on what it produces.
 
 The circulatio is not a practice the body learns. It is the practice the body already ran, before it had language, before it had thought, before it had any category with which to classify what it was doing. The first environment every human being inhabits is a distillation of their own making.
 
