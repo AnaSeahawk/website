@@ -73,7 +73,7 @@ What the distillation practice restores is not something new. It restores a rela
 
 The body's water is not neutral. It carries the signature of what produced it — the dietary baseline, the hormonal state, the electrochemical charge of the body's internal environment at the moment it was made. To refine it further, to separate its fractions and return them, is to work with a medium that already knows the body it came from. A medium that holds the memory of the body's current state in the most intimate possible form.
 
-This is what the alchemical tradition encoded in the language of the *prima materia* — the first matter, humble and overlooked, found everywhere, valued by almost no one. The starting material that was always in the body, always available, always the substance from which the Great Work begins. Not symbolic. Literal.
+***This is what the alchemical tradition encoded in the language of the prima materia — the first matter, humble and overlooked, found everywhere, valued by almost no one. The starting material that was always in the body, always available, always the substance from which the Great Work begins. Not symbolic. Literal.***
 
 And this is what the Ayurvedic tradition held in the concept of *shivambu* — the auspicious water, the water of Shiva — when it named the body's own refined fluid as the substance of the practice rather than its obstacle.
 
