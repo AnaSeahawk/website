@@ -18,6 +18,7 @@ For the operational meaning of `public`, `community`, and `private`, see
 - `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon** and **How to Read This Archive** are open, while all other chapter and archive-room links remain held closed.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
 - `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — public designed reading edition of the Golden Lexicon; linked from the Sovereign Biophysics index after visual, source, safety, and navigation review on 2026-09-05.
+- `sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html` — public designed reading edition of Chapter II; approved and linked from the Sovereign Biophysics index on 2026-09-06.
 - `The-Vessel/README.md` — displayed as **The Living Record**, temporarily unlinked from the site front door.
 - `The-Vessel/portal.md` — displayed as **Private Vessel Access**, temporarily unlinked from the site front door.
 
@@ -56,7 +57,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 
 ### Core Public Orientation
 
-- `sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.md`
+- `sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.md` — published as a designed HTML edition on 2026-09-06.
 - `sovereign-biophysics-distillation/00-orientation/women-of-alchemy.md`
 - `sovereign-biophysics-distillation/00-orientation/the-measure-of-your-fire.md` — new draft (2026-07-28), awaiting Ana's review
 - `sovereign-biophysics-distillation/00-orientation/the-grief-that-was-never-recorded.md`

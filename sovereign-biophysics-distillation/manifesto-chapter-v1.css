@@ -1,0 +1,263 @@
+.manifesto-hero .hero-grid {
+  grid-template-columns: minmax(0, 1.08fr) minmax(390px, 0.72fr);
+}
+
+.manifesto-hero .hero-copy h1 {
+  max-width: 760px;
+  font-size: clamp(3.9rem, 7.25vw, 6.65rem);
+  line-height: 0.88;
+}
+
+.mirror-plate {
+  transform: rotate(0.35deg);
+}
+
+.mirror-plate::before {
+  position: absolute;
+  z-index: 2;
+  inset: -18px;
+  content: '';
+  border: 1px solid var(--line);
+  pointer-events: none;
+}
+
+.movement-map {
+  position: relative;
+  z-index: 3;
+  color: var(--ink-soft);
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+
+.movement-map__grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.movement-map a {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  min-height: 74px;
+  padding: 0.9rem 1rem;
+  border-right: 1px solid var(--line);
+  font-family: var(--display);
+  font-size: 0.98rem;
+  text-decoration: none;
+  transition: color 160ms ease, background-color 160ms ease;
+}
+
+.movement-map a:first-child { border-left: 1px solid var(--line); }
+
+.movement-map a:hover,
+.movement-map a:focus-visible {
+  color: var(--gold);
+  background: var(--pending-wash);
+}
+
+.movement-map a span {
+  color: var(--gold);
+  font-family: var(--body);
+  font-size: 0.63rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+}
+
+.movement {
+  scroll-margin-top: 2rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.movement--wash { background: var(--surface-wash); }
+
+.movement-aside {
+  grid-column: 1;
+  align-self: start;
+  display: grid;
+  justify-items: center;
+  gap: 1rem;
+  margin-top: 1.4rem;
+}
+
+.movement-number {
+  color: var(--gold);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+}
+
+.movement-sigil {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 112px;
+  height: 112px;
+  color: var(--gold);
+  border: 1px solid var(--gold);
+  border-radius: 50%;
+  font-family: var(--display);
+  font-size: 2.1rem;
+}
+
+.movement-sigil::before,
+.movement-sigil::after {
+  position: absolute;
+  content: '';
+  background: var(--line);
+}
+
+.movement-sigil::before {
+  top: 50%;
+  left: -24px;
+  width: calc(100% + 48px);
+  height: 1px;
+}
+
+.movement-sigil::after {
+  top: -24px;
+  left: 50%;
+  width: 1px;
+  height: calc(100% + 48px);
+}
+
+.movement-sigil--water { color: var(--verdigris); border-color: var(--verdigris); }
+.movement-sigil--time { color: var(--oxblood); border-color: var(--oxblood); }
+.movement-sigil--flow { color: var(--verdigris); border-color: var(--verdigris); }
+
+.movement .reading-column h2 { max-width: 760px; }
+
+.movement .reading-column > p:not(.section-kicker) {
+  font-size: 1.1rem;
+  line-height: 1.82;
+}
+
+.manifesto-lead {
+  margin-bottom: 2rem !important;
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: clamp(1.65rem, 3.2vw, 2.35rem) !important;
+  font-style: italic;
+  line-height: 1.35 !important;
+}
+
+.register-note {
+  padding: 1.6rem 0;
+  color: var(--on-dark);
+  background: var(--plum);
+}
+
+.register-note .reading-shell {
+  display: grid;
+  grid-template-columns: 54px 1fr;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+.register-note__mark {
+  display: grid;
+  place-items: center;
+  width: 50px;
+  height: 50px;
+  color: var(--gold-bright);
+  border: 1px solid var(--line-light);
+  border-radius: 50%;
+}
+
+.register-note .eyebrow { margin-bottom: 0.15rem; }
+
+.register-note p:last-child {
+  margin: 0;
+  color: rgba(248, 244, 233, 0.76);
+  font-family: var(--display);
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.manifesto-interlude {
+  background:
+    radial-gradient(circle at 50% 28%, rgba(195, 154, 56, 0.12), transparent 24rem),
+    var(--interlude-background);
+}
+
+.manifesto-interlude .interlude-mark {
+  border-radius: 50%;
+  transform: none;
+}
+
+.manifesto-interlude blockquote p {
+  font-size: clamp(2.8rem, 6vw, 5.6rem);
+}
+
+.manifesto-colophon {
+  text-align: center;
+}
+
+.manifesto-colophon > .reading-shell > p {
+  margin: 0;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-style: italic;
+}
+
+.manifesto-colophon .colophon-line {
+  color: var(--ink);
+  font-size: 1.2rem;
+}
+
+.manifesto-colophon .boundary-card {
+  text-align: left;
+}
+
+.boundary-card a {
+  color: var(--gold);
+  text-underline-offset: 0.2em;
+}
+
+@media (max-width: 900px) {
+  .manifesto-hero .hero-grid { grid-template-columns: 1fr; }
+  .movement-aside { justify-items: start; }
+  .movement-sigil { width: 92px; height: 92px; }
+}
+
+@media (max-width: 720px) {
+  .movement-map__grid { grid-template-columns: repeat(5, 1fr); }
+  .movement-map a {
+    justify-content: center;
+    min-height: 62px;
+    padding-inline: 0.35rem;
+    font-size: 0;
+  }
+  .movement-map a span { font-size: 0.7rem; }
+}
+
+@media (max-width: 620px) {
+  .manifesto-hero .hero-copy h1 {
+    font-size: clamp(3.3rem, 16.5vw, 4.15rem);
+  }
+  .mirror-plate::before { inset: -9px; }
+  .movement-aside {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.8rem;
+    margin: 0 0 2rem;
+  }
+  .movement-sigil {
+    width: 58px;
+    height: 58px;
+    font-size: 1.35rem;
+  }
+  .movement-sigil::before,
+  .movement-sigil::after { display: none; }
+  .movement .reading-column > p:not(.section-kicker) {
+    font-size: 1.02rem;
+    line-height: 1.75;
+  }
+  .register-note .reading-shell { grid-template-columns: 42px 1fr; }
+  .register-note__mark { width: 40px; height: 40px; }
+  .manifesto-colophon { text-align: left; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .movement-map a { transition: none; }
+}
