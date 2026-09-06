@@ -130,3 +130,40 @@ Status: approved for public presentation by Ana on 2026-09-06
 
 - Requires desktop and phone inspection in light and dark themes before publication.
 - Requires the structural archive check and live phone journey from the homepage through the index after deployment.
+
+## The Jar Held to the Light — Chapter V
+
+Status: approved for public presentation by Ana on 2026-09-06
+
+### Approved in this release
+
+- `sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.md` — publication metadata only
+- `sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.html`
+- `sovereign-biophysics-distillation/jar-held-to-light-v1.css`
+- `sovereign-biophysics-distillation/assets/jar-held-to-light-field-plate-v1.png`
+- `sovereign-biophysics-distillation/assets/jar-held-to-light-field-plate-v1.webp`
+- `sovereign-biophysics-distillation/assets/jar-held-to-light-field-plate-dark-v1.png`
+- `sovereign-biophysics-distillation/assets/jar-held-to-light-field-plate-dark-v1.webp`
+- `sovereign-biophysics-distillation/index.html`
+- `sovereign-biophysics-distillation/00-orientation/women-of-alchemy.html`
+- `REVIEW_QUEUE.md`
+- `PUBLISH_BATCH_2026-09-06.md`
+
+### Content, consent and discovery boundary
+
+- Publishes the reviewed four-movement manuscript without changing its substantive words.
+- Ana explicitly confirmed permission on 2026-09-06 to use Olivier's name in the chapter's account of the first distillation.
+- Opens Chapter V from the canonical Sovereign Biophysics index and from Chapter IV's next-chapter navigation.
+- Keeps Chapter VI and every other unfinished chapter or archive room non-interactive and marked **In refinement**.
+- Does not add Chapter V as a separate homepage feature; readers enter through the Sovereign Biophysics index or Chapter IV.
+
+### Artwork provenance
+
+- Ana approved the light and dark jar-held-to-the-light frontispieces after reviewing them in the private Chapter V prototype.
+- The light and dark PNG files are retained as source-quality website assets; versioned WebP files are the optimized reader-facing derivatives.
+- The generated plates contain no baked-in lettering; their caption remains live, phrase-aware HTML.
+
+### Validation
+
+- Requires desktop and phone inspection in light and dark themes before publication.
+- Requires the structural archive check and live phone journey from the homepage through the index after deployment.

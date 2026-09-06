@@ -7,7 +7,7 @@ moon:
 moon-phase:
 type: orientation
 visibility: public
-status: draft
+status: published
 claim_tier: personal-account
 summary: Threshold orientation piece naming the first recognition of clear distilled water, old alchemical symbols, and the body answering before the archive did.
 phase: distillation
