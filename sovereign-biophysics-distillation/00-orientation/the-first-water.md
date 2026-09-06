@@ -3,7 +3,7 @@ date: 2026-05-11
 sun: 21° Taurus
 type: foundation
 visibility: public
-status: reviewed
+status: published
 claim_tier: orientation
 ---
 

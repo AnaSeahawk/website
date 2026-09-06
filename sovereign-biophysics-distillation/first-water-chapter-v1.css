@@ -1,0 +1,303 @@
+.first-water-hero .hero-grid {
+  grid-template-columns: minmax(0, 1.05fr) minmax(390px, 0.75fr);
+}
+
+.first-water-hero .hero-copy h1 {
+  max-width: 720px;
+  font-size: clamp(4.2rem, 8vw, 7.25rem);
+  line-height: 0.82;
+}
+
+.first-water-hero .hero-deck {
+  max-width: 35rem;
+}
+
+.water-plate {
+  transform: rotate(-0.25deg);
+}
+
+.water-plate::before {
+  position: absolute;
+  z-index: 2;
+  inset: -18px;
+  content: '';
+  border: 1px solid var(--line);
+  pointer-events: none;
+}
+
+.water-plate figcaption .editorial-line { text-wrap: pretty; }
+
+.movement-map {
+  position: relative;
+  z-index: 3;
+  color: var(--ink-soft);
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+
+.movement-map__grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.movement-map a {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  min-height: 74px;
+  padding: 0.9rem 1rem;
+  border-right: 1px solid var(--line);
+  font-family: var(--display);
+  font-size: 0.98rem;
+  text-decoration: none;
+  transition: color 160ms ease, background-color 160ms ease;
+}
+
+.movement-map a:first-child { border-left: 1px solid var(--line); }
+
+.movement-map a:hover,
+.movement-map a:focus-visible {
+  color: var(--gold);
+  background: var(--pending-wash);
+}
+
+.movement-map a span {
+  color: var(--gold);
+  font-family: var(--body);
+  font-size: 0.63rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+}
+
+.water-movement {
+  scroll-margin-top: 2rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.water-movement--wash { background: var(--surface-wash); }
+
+.water-aside {
+  grid-column: 1;
+  align-self: start;
+  display: grid;
+  justify-items: center;
+  gap: 1rem;
+  margin-top: 1.4rem;
+}
+
+.water-number {
+  color: var(--gold);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+}
+
+.water-sigil {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 112px;
+  height: 112px;
+  color: var(--verdigris);
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  font-family: var(--display);
+  font-size: 2.1rem;
+}
+
+.water-sigil::before,
+.water-sigil::after {
+  position: absolute;
+  content: '';
+  background: var(--line);
+}
+
+.water-sigil::before {
+  top: 50%;
+  left: -24px;
+  width: calc(100% + 48px);
+  height: 1px;
+}
+
+.water-sigil::after {
+  top: -24px;
+  left: 50%;
+  width: 1px;
+  height: calc(100% + 48px);
+}
+
+.water-sigil--pearl { color: var(--gold); }
+.water-sigil--turn { color: var(--oxblood); }
+.water-sigil--union { color: var(--gold); }
+.water-sigil--veil { color: var(--plum); }
+.water-sigil--memory { color: var(--verdigris); }
+
+.water-movement .reading-column h2 { max-width: 760px; }
+
+.water-movement .reading-column > p:not(.section-kicker) {
+  font-size: 1.09rem;
+  line-height: 1.82;
+}
+
+.water-lead {
+  margin-bottom: 0.9rem !important;
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: clamp(1.8rem, 3.4vw, 2.45rem) !important;
+  font-style: italic;
+  line-height: 1.25 !important;
+}
+
+.water-movement .reading-column > .emphasis-passage {
+  font-style: italic;
+  font-weight: 600;
+}
+
+.register-note {
+  padding: 1.6rem 0;
+  color: var(--on-dark);
+  background: var(--plum);
+}
+
+.register-note .reading-shell {
+  display: grid;
+  grid-template-columns: 54px 1fr;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+.register-note__mark {
+  display: grid;
+  place-items: center;
+  width: 50px;
+  height: 50px;
+  color: var(--gold-bright);
+  border: 1px solid var(--line-light);
+  border-radius: 50%;
+}
+
+.register-note .eyebrow { margin-bottom: 0.15rem; }
+
+.register-note p:last-child {
+  margin: 0;
+  color: rgba(248, 244, 233, 0.76);
+  font-family: var(--display);
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.water-current {
+  padding: clamp(5rem, 10vw, 8rem) 0;
+  color: var(--on-dark);
+  background:
+    radial-gradient(circle at 50% 36%, rgba(119, 163, 167, 0.2), transparent 25rem),
+    var(--interlude-background);
+  text-align: center;
+}
+
+.water-current__mark {
+  display: grid;
+  place-items: center;
+  width: 78px;
+  height: 78px;
+  margin: 0 auto 2.4rem;
+  color: var(--gold-bright);
+  border: 1px solid var(--gold-bright);
+  border-radius: 50%;
+  font-family: var(--display);
+  font-size: 2.4rem;
+}
+
+.water-current blockquote { margin: 0; }
+
+.water-current blockquote p {
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(2.15rem, 5vw, 4.6rem);
+  font-weight: 400;
+  line-height: 1.05;
+}
+
+.water-current blockquote .editorial-line + .editorial-line {
+  margin-top: 0.35rem;
+}
+
+.water-current blockquote .editorial-line:nth-child(2) {
+  color: var(--gold-bright);
+  font-style: italic;
+}
+
+.water-colophon { text-align: center; }
+
+.water-colophon .closing-reflection {
+  margin: 0;
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: clamp(1.3rem, 2.6vw, 1.65rem);
+  font-style: italic;
+  line-height: 1.48;
+}
+
+.water-colophon .author-line {
+  margin: 1.4rem 0 0;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-style: italic;
+}
+
+.water-colophon .boundary-card { text-align: left; }
+
+.boundary-card a {
+  color: var(--gold);
+  text-underline-offset: 0.2em;
+}
+
+@media (max-width: 900px) {
+  .first-water-hero .hero-grid { grid-template-columns: 1fr; }
+  .water-aside { justify-items: start; }
+  .water-sigil { width: 92px; height: 92px; }
+}
+
+@media (max-width: 720px) {
+  .movement-map__grid { grid-template-columns: repeat(5, 1fr); }
+  .movement-map a {
+    justify-content: center;
+    min-height: 62px;
+    padding-inline: 0.35rem;
+    font-size: 0;
+  }
+  .movement-map a span { font-size: 0.7rem; }
+}
+
+@media (max-width: 620px) {
+  .first-water-hero .hero-copy h1 {
+    font-size: clamp(3.6rem, 18vw, 4.4rem);
+  }
+  .water-plate::before { inset: -9px; }
+  .water-aside {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0.8rem;
+    margin: 0 0 2rem;
+  }
+  .water-sigil {
+    width: 58px;
+    height: 58px;
+    font-size: 1.35rem;
+  }
+  .water-sigil::before,
+  .water-sigil::after { display: none; }
+  .water-movement .reading-column > p:not(.section-kicker) {
+    font-size: 1.02rem;
+    line-height: 1.75;
+  }
+  .register-note .reading-shell { grid-template-columns: 42px 1fr; }
+  .register-note__mark { width: 40px; height: 40px; }
+  .water-current blockquote p { font-size: 2.25rem; }
+  .water-colophon { text-align: left; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .movement-map a { transition: none; }
+}

@@ -59,3 +59,39 @@ Status: approved for public presentation by Ana on 2026-09-06
 
 - Requires desktop and phone inspection in light and dark themes before publication.
 - Requires the structural archive check and live phone journey from the homepage through the index after deployment.
+
+## The First Water — Chapter III
+
+Status: approved for public presentation by Ana on 2026-09-06
+
+### Approved in this release
+
+- `sovereign-biophysics-distillation/00-orientation/the-first-water.md` — approved wording, emphasis, and publication metadata
+- `sovereign-biophysics-distillation/00-orientation/the-first-water.html`
+- `sovereign-biophysics-distillation/first-water-chapter-v1.css`
+- `sovereign-biophysics-distillation/assets/first-water-field-plate-v1.png`
+- `sovereign-biophysics-distillation/assets/first-water-field-plate-v1.webp`
+- `sovereign-biophysics-distillation/assets/first-water-field-plate-dark-v1.png`
+- `sovereign-biophysics-distillation/assets/first-water-field-plate-dark-v1.webp`
+- `sovereign-biophysics-distillation/index.html`
+- `sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html`
+- `REVIEW_QUEUE.md`
+- `PUBLISH_BATCH_2026-09-06.md`
+
+### Content and discovery boundary
+
+- Publishes the reviewed five-movement manuscript with Ana's approved qualitative amniotic-fluid wording and emphasized *prima materia* passage.
+- Opens Chapter III from the canonical Sovereign Biophysics index and from Chapter II's next-chapter navigation.
+- Keeps Chapter IV and every other unfinished chapter or archive room non-interactive and marked **In refinement**.
+- Does not add Chapter III as a separate homepage feature; readers enter through the Sovereign Biophysics index or Chapter II.
+
+### Artwork provenance
+
+- Ana approved the light and dark first-vessel frontispieces in the private Chapter III prototype.
+- Source-quality PNG files and optimized versioned WebP derivatives are retained together.
+- The generated plate contains no baked-in lettering; its caption remains live, phrase-aware HTML.
+
+### Validation
+
+- Requires desktop and phone inspection in light and dark themes before publication.
+- Requires the structural archive check and live phone journey from the homepage through the index after deployment.
