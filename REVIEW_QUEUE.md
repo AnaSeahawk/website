@@ -15,13 +15,14 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 - `index.html` — primary visual site front door. Mother Spirit and The Water of Life remain open; Sovereign Biophysics now opens through its book index, with direct homepage paths to **Golden Lexicon** and **How to Read This Archive**. Foundations, Relationship, and The Vessel remain held without links.
 - `README.md` — repository-facing site index.
-- `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon**, **Manifesto of the Clear Mirror**, **The First Water**, **Women of Alchemy**, **The Jar Held to the Light**, and **How to Read This Archive** are open, while all other chapter and archive-room links remain held closed.
+- `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon**, **Manifesto of the Clear Mirror**, **The First Water**, **Women of Alchemy**, **The Jar Held to the Light**, **Shivambu**, and **How to Read This Archive** are open, while all other chapter and archive-room links remain held closed.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
 - `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — public designed reading edition of the Golden Lexicon; linked from the Sovereign Biophysics index after visual, source, safety, and navigation review on 2026-09-05.
 - `sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html` — public designed reading edition of Chapter II; approved and linked from the Sovereign Biophysics index on 2026-09-06.
 - `sovereign-biophysics-distillation/00-orientation/the-first-water.html` — public designed reading edition of Chapter III; approved and linked from the Sovereign Biophysics index on 2026-09-06.
 - `sovereign-biophysics-distillation/00-orientation/women-of-alchemy.html` — public designed reading edition of Chapter IV; approved and linked from the Sovereign Biophysics index on 2026-09-06.
 - `sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.html` — public designed reading edition of Chapter V; Ana confirmed permission for Olivier's name in this context, approved the chapter, and opened it from the Sovereign Biophysics index on 2026-09-06.
+- `sovereign-biophysics-distillation/00-orientation/shivambu.html` — public designed reading edition of Chapter VI; approved by Ana and opened from the Sovereign Biophysics index on 2026-09-07. Damar Tantra verses 6–7 and 10 checked against the held translation; *pūtimuttabhesajja* located at *Mahāvagga* I.30.4. Chapter V's field plate updated to the feminine v2 artwork in the same batch.
 - `The-Vessel/README.md` — displayed as **The Living Record**, temporarily unlinked from the site front door.
 - `The-Vessel/portal.md` — displayed as **Private Vessel Access**, temporarily unlinked from the site front door.
 
