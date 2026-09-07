@@ -81,7 +81,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 - `sovereign-biophysics-distillation/10-method/on-sodium-chloride.md`
 - `sovereign-biophysics-distillation/10-method/ambrosia-diet.md`
 - `sovereign-biophysics-distillation/10-method/the-living-loop.md`
-- `sovereign-biophysics-distillation/10-method/amaroli-protocols.md`
+- `sovereign-biophysics-distillation/10-method/amaroli-protocols.md` — referenced by name in Chapter VI (Shivambu) but deliberately not linked: Markdown sources are excluded from the build, so a link from a published chapter would be a dead end. **Needs a designed reader-facing edition.** When it has one, restore the link in `00-orientation/shivambu.html` and `00-orientation/shivambu.md` (both currently say "the Amaroli Protocols" in plain text, in the *Where This Leads* section).
 - `sovereign-biophysics-distillation/10-method/distilled-fraction-protocols.md`
 - `sovereign-biophysics-distillation/10-method/apothecary-balm.md`
 - `sovereign-biophysics-distillation/10-method/oral-care-protocol.md`
