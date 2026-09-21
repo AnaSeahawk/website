@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: private
 status: draft
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # The Measure of Your Fire

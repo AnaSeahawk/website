@@ -8,7 +8,7 @@ moon-phase:
 type: experiment
 visibility: public
 status: draft
-claim_tier: preliminary-observation
+claim_tier: pratyaksha
 summary: Two independent first-pass distillation runs from the same minimum one-month-aged blended source, with close spirit repeatability and a separately captured serum fraction.
 phase: distillation
 significance: major

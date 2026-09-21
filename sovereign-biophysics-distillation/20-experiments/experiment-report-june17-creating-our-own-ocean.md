@@ -8,7 +8,7 @@ moon-phase:
 type: experiment
 visibility: community
 status: draft
-claim_tier: preliminary-observation
+claim_tier: pratyaksha
 summary: June 17 record tying household pure-plasma flow to five-batch distillation readings, with distilled outputs converging around pH 9.4-9.5 while fresh samples varied.
 phase: full-cycle
 significance: threshold

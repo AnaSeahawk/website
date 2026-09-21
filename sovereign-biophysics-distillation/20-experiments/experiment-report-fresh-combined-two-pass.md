@@ -6,7 +6,7 @@ moon-phase:
 type: experiment
 visibility: community
 status: reviewed
-claim_tier: observed
+claim_tier: pratyaksha
 note: Location Torremolinos, Spain. Two days before the March 8 polishing run.
 ---
 

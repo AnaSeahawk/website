@@ -1,7 +1,7 @@
 ---
 status: reviewed
 visibility: community
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # Relationship

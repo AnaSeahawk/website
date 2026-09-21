@@ -8,7 +8,7 @@ moon-phase:
 type: orientation
 visibility: public
 status: published
-claim_tier: personal-account
+claim_tier: aptopadesha
 summary: Beginning the relationship — the names the substance carries, what is physically in the jar, the traditional beginning, and where a practice starts.
 ---
 

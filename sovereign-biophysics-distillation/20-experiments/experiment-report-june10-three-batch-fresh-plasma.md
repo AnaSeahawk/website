@@ -8,7 +8,7 @@ moon-phase:
 type: experiment
 visibility: public
 status: draft
-claim_tier: preliminary-observation
+claim_tier: pratyaksha
 summary: Three-run fresh plasma comparison with paired fresh-baseline and distilled-product readings on two independent batches plus a redistillation.
 phase: distillation
 significance: major

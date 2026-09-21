@@ -6,7 +6,7 @@ moon-phase:
 type: analysis
 visibility: public
 status: reviewed
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # Fresh vs Aged: Comparative Distillation Behaviour

@@ -4,7 +4,7 @@ sun: 18° Sagittarius
 moon-phase: Waxing gibbous
 status: draft
 visibility: community
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # **Threshold Dreaming**

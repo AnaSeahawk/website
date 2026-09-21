@@ -6,7 +6,7 @@ moon-phase:
 type: analysis
 visibility: community
 status: reviewed
-claim_tier: established-record
+claim_tier: anumana
 note: Biochemistry sections (steroid conjugation, distillation behaviour, EGF, transdermal absorption) are established-record — standard clinical and pharmaceutical science. HPG axis signalling section (Section 6) is hypothesis within this framework.
 ---
 

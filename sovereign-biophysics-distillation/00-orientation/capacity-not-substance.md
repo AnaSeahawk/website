@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: public
 status: draft
-claim_tier: synthesis
+claim_tier: anumana
 ---
 
 # Capacity Not Substance

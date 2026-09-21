@@ -3,7 +3,7 @@ title: The Living Record
 type: companion-archive
 visibility: public
 status: draft
-claim_tier: personal-account
+claim_tier: aptopadesha
 ---
 
 # The Living Record

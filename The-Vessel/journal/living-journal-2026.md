@@ -6,7 +6,7 @@ date-started: 2026-02-22
 type: journal
 status: active
 visibility: community
-claim_tier: personal-account
+claim_tier: aptopadesha
 summary: Continuous 2026 field log holding dreams, food, distillation events, body observations, community movement, and harvest notes.
 phase: full-cycle
 significance: major

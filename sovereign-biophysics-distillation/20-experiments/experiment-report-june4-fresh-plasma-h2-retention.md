@@ -5,7 +5,7 @@ date: 2026-06-04
 type: experiment
 visibility: public
 status: draft
-claim_tier: preliminary-observation
+claim_tier: pratyaksha
 summary: Fresh mixed-source morning distillation run where pH stayed nearly fixed while dissolved hydrogen varied sharply across jars.
 phase: distillation
 significance: major

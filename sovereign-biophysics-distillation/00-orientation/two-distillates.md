@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: community
 status: reviewed
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # Two Distillates

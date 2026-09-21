@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: public
 status: reviewed
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # Agni

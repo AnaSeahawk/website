@@ -6,7 +6,7 @@ moon-phase:
 type: orientation
 visibility: public
 status: draft
-claim_tier: documented-fact
+claim_tier: anumana
 ---
 
 # All the Practice Is for the Medicine

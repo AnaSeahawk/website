@@ -6,7 +6,7 @@ moon-phase:
 type: method
 visibility: public
 status: draft
-claim_tier: synthesis
+claim_tier: anumana
 primary_environment:
   - instrument_table
   - pattern_room

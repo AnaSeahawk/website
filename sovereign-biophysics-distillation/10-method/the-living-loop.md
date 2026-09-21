@@ -2,7 +2,7 @@
 date: 2026-04-24
 status: reviewed
 visibility: community
-claim_tier: personal-account
+claim_tier: aptopadesha
 ---
 
 # The Living Loop

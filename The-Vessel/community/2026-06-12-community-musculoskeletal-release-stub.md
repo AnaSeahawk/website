@@ -5,7 +5,7 @@ title: Community Field Observation - Tissue Softening And Release
 type: community-field-observation-stub
 visibility: private
 status: draft
-claim_tier: personal-account
+claim_tier: aptopadesha
 summary: Redacted private stub for a consent-held community field observation. The full contributor account is held only in the private Vessel repository.
 phase: receiving-field
 significance: major

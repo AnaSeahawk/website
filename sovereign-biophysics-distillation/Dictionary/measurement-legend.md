@@ -3,7 +3,7 @@ date: 2026-05-28
 type: dictionary
 visibility: public
 status: draft
-claim_tier: orientation
+claim_tier: anumana
 ---
 
 # Measurement Legend

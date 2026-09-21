@@ -4,7 +4,7 @@ sun: 21° Taurus
 type: foundation
 visibility: public
 status: published
-claim_tier: orientation
+claim_tier: anumana
 ---
 
 # The First Water

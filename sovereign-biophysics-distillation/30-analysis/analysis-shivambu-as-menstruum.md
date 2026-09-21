@@ -3,7 +3,7 @@ date: 2026-05-08
 type: analysis
 visibility: public
 status: reviewed
-claim_tier: hypothesis
+claim_tier: anumana
 ---
 
 # Shivambu as Menstruum

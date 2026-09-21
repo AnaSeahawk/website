@@ -2,7 +2,7 @@
 title: "On Sodium Chloride"
 status: reviewed
 visibility: public
-claim_tier: personal-account
+claim_tier: aptopadesha
 ---
 
 # On Sodium Chloride — On Chloride

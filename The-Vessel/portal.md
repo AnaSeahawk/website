@@ -6,7 +6,7 @@ moon-phase:
 type: portal
 visibility: public
 status: draft
-claim_tier: orientation
+claim_tier: anumana
 ---
 
 # Private Vessel Access

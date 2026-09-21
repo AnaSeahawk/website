@@ -6,7 +6,7 @@ moon-phase:
 type: analysis
 visibility: public
 status: reviewed
-claim_tier: preliminary-observation
+claim_tier: pratyaksha
 collaborators: Fiona Gardner (microscopy), Ana Seahawk (framework)
 ---
 

@@ -8,7 +8,7 @@ moon-phase:
 type: experiment
 visibility: public
 status: draft
-claim_tier: preliminary-observation
+claim_tier: pratyaksha
 summary: First documented distillation series including menstrual blood, with artava entering the measured record and a following-day lived observation.
 phase: full-cycle
 significance: threshold

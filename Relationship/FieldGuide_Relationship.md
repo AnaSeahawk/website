@@ -2,7 +2,7 @@
 type: foundation
 visibility: community
 status: draft
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # A Field Guide to Relationship

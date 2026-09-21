@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: community
 status: draft
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # The Root and the Refinement

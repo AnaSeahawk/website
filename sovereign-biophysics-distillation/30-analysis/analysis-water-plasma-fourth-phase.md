@@ -2,7 +2,7 @@
 date: 2026-03-10
 status: reviewed
 visibility: public
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # Analysis: What the Scientists Found About Water

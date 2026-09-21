@@ -2,7 +2,7 @@
 date: 2026-04-23
 status: reviewed
 visibility: community
-claim_tier: hypothesis
+claim_tier: anumana
 ---
 
 # Hypothesising What Is in the Plasma

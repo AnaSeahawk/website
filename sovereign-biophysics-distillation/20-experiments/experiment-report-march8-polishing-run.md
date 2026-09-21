@@ -6,7 +6,7 @@ moon-phase:
 type: experiment
 visibility: community
 status: reviewed
-claim_tier: observed
+claim_tier: pratyaksha
 note: Third distillation pass. Input was a 3-litre master batch of aged Phase II Pure Plasma (993 USCM) — previously distilled material re-entered for a polishing run. Location Torremolinos, Spain.
 ---
 

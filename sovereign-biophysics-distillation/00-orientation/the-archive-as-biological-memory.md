@@ -4,7 +4,7 @@ title: The Archive as Biological Memory
 type: foundation
 visibility: public
 status: draft
-claim_tier: synthesis
+claim_tier: anumana
 primary_environment:
   - philosophical_ground
   - interpretation_chamber

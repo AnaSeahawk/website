@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: public
 status: draft
-claim_tier: comparative
+claim_tier: anumana
 ---
 
 # Sovereign Biophysics: The Women's Work

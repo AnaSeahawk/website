@@ -6,7 +6,7 @@ moon-phase:
 type: orientation
 visibility: community
 status: draft
-claim_tier: synthesis
+claim_tier: anumana
 ---
 
 # Urine-Derived Stem Cells

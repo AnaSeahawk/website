@@ -3,7 +3,7 @@ date: 2026-04-28
 type: foundation
 visibility: public
 status: reviewed
-claim_tier: personal-account
+claim_tier: aptopadesha
 ---
 
 # Why the Distillation Is Missing

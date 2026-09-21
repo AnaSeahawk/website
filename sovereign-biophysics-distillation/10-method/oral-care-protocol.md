@@ -2,7 +2,7 @@
 date: 2026-02-24
 status: reviewed
 visibility: public
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # Oral Care Protocol

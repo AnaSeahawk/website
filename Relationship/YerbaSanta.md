@@ -1,7 +1,7 @@
 ---
 status: reviewed
 visibility: public
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 ## Yerba Santa — clearing the breath, restoring tone  

@@ -2,7 +2,7 @@
 date: 2026-03-12
 status: reviewed
 visibility: public
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # The Apothecary Balm

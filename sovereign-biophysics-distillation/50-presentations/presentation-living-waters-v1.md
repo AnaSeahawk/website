@@ -6,7 +6,7 @@ moon-phase:
 type: presentation
 visibility: community
 status: draft
-claim_tier: practice
+claim_tier: anumana
 format: 60 min online story presentation
 watermark_asset: ../assets/ana-seahawk-watermark.png
 ---

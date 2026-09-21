@@ -3,7 +3,7 @@ date: 2026-07-27
 type: analysis
 visibility: public
 status: review
-claim_tier: evidential
+claim_tier: anumana
 ---
 
 # The Fertilizer We Flush

@@ -2,7 +2,7 @@
 date: 2026-05-17
 status: draft
 visibility: community
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # Soil Alchemy

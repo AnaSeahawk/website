@@ -1,7 +1,7 @@
 ---
 status: reviewed
 visibility: public
-claim_tier: mixed
+claim_tier: anumana
 ---
 
 # Experiment Report & Journal Entry: Aged Ultra-Filtered Blood Plasma Distillation

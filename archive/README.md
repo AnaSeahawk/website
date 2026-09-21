@@ -3,7 +3,7 @@ title: Living Archive - Member Map
 type: generated-view
 visibility: member
 status: approved
-claim_tier: orientation
+claim_tier: anumana
 decision: Ana confirmed 2026-08-06 that this is the community member map, not a hidden view and not a public excerpt.
 ---
 

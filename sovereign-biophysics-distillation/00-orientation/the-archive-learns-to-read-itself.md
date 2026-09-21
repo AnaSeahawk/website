@@ -4,7 +4,7 @@ title: The Archive Learns to Read Itself
 type: foundation
 visibility: public
 status: draft
-claim_tier: synthesis
+claim_tier: anumana
 primary_environment:
   - philosophical_ground
   - practice_ethic

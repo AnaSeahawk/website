@@ -8,7 +8,7 @@ moon-phase:
 type: orientation
 visibility: community
 status: draft
-claim_tier: personal-observation
+claim_tier: aptopadesha
 summary: June 19 orientation essay on movement, attention, rasa, qì, and participation as part of the medicine, written from inside the full-cycle practice.
 phase: full-cycle
 significance: major

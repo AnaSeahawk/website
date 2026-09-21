@@ -1,7 +1,7 @@
 ---
 status: reviewed
 visibility: public
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 ## Burdock Root — releasing without violence  

@@ -6,7 +6,7 @@ moon-phase:
 type: method
 visibility: community
 status: reviewed
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # Shivambu

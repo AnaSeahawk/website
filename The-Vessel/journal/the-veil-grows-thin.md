@@ -5,7 +5,7 @@ moon-phase: Dark moon
 type: journal
 status: draft
 visibility: public
-claim_tier: personal-record
+claim_tier: aptopadesha
 ---
 
 # The Veil Grows Thin

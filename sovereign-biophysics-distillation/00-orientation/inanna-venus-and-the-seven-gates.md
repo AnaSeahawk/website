@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: public
 status: reviewed
-claim_tier: observation
+claim_tier: pratyaksha
 series: Cosmological & Textual Cross-Reference Series
 ---
 

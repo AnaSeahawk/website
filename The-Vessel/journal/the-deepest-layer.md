@@ -7,7 +7,7 @@ moon-phase: Waning crescent
 type: journal
 status: draft
 visibility: public
-claim_tier: personal-record
+claim_tier: aptopadesha
 summary: April 2026 field entry on removing coffee, CBD, and refined sugar while the body entered a deeper clearing phase in Albania.
 phase: integration
 significance: threshold

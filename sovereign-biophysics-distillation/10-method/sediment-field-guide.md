@@ -2,7 +2,7 @@
 type: reference
 status: active
 visibility: public
-claim_tier: observation
+claim_tier: pratyaksha
 ---
 
 # The Living Laboratory: A Visual Field Guide to Plasma Sediments and Precipitates

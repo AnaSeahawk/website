@@ -8,7 +8,7 @@ moon-phase:
 type: synthesis
 visibility: community
 status: reviewed
-claim_tier: synthesis
+claim_tier: anumana
 summary: May 2026 synthesis mapping confirmed findings, open questions, dietary clearing, and the state of the archive before the June full-cycle shift.
 phase: integration
 significance: major

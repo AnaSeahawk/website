@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: public
 status: draft
-claim_tier: mixed
+claim_tier: anumana
 primary_environment:
   - philosophical_ground
   - historical_record

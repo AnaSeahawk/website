@@ -1,7 +1,7 @@
 ---
 status: reviewed
 visibility: public
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 ## Asafoetida — restoring movement, cutting obstruction

@@ -2,7 +2,7 @@
 date: 2026-05-19
 status: reviewed
 visibility: community
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 ## Nettle — feed me

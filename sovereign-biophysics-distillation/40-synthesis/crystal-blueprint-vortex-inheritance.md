@@ -6,7 +6,7 @@ moon-phase:
 type: synthesis
 visibility: community
 status: draft
-claim_tier: synthesis
+claim_tier: anumana
 ---
 
 # The Vortex Inheritance

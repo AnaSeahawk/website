@@ -3,7 +3,7 @@ date: 2026-06-12
 type: orientation
 visibility: public
 status: published
-claim_tier: orientation
+claim_tier: anumana
 ---
 
 # How to Read This Archive

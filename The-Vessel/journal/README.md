@@ -1,7 +1,7 @@
 ---
 visibility: public
 status: draft
-claim_tier: personal-account
+claim_tier: aptopadesha
 ---
 
 # Journal

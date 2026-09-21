@@ -3,7 +3,7 @@ date: 2026-04-29
 type: foundation
 visibility: public
 status: reviewed
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # In the Name of Love

@@ -3,7 +3,7 @@ date: 2026-05-04
 type: field-entry
 visibility: community
 status: reviewed
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # The Living Grain

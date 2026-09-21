@@ -1,7 +1,7 @@
 ---
 status: draft
 visibility: community
-claim_tier: interpretation
+claim_tier: aptopadesha
 type: plant-relationship
 ---
 

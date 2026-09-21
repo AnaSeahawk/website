@@ -3,7 +3,7 @@ date: 2026-05-04
 type: synthesis
 visibility: community
 status: reviewed
-claim_tier: synthesis
+claim_tier: anumana
 ---
 
 # Vilepi and the Permanent Krama

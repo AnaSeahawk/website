@@ -3,7 +3,7 @@ title: Community Stories
 type: private-container
 visibility: private
 status: draft
-claim_tier: personal-account
+claim_tier: aptopadesha
 ---
 
 # Community Story Stubs

@@ -3,7 +3,7 @@ date: 2026-01-02
 type: foundation
 visibility: community
 status: reviewed
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # The Sacred Ordinary

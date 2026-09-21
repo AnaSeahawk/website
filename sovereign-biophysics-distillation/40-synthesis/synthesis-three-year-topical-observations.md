@@ -8,7 +8,7 @@ moon-phase:
 type: synthesis
 visibility: public
 status: reviewed
-claim_tier: mixed
+claim_tier: anumana
 summary: Synthesis of observed skin, cycling, vitality, and partner-dimension changes across three years of daily topical practice.
 phase: integration
 significance: major

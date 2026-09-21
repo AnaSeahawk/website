@@ -2,7 +2,7 @@
 type: foundation
 visibility: community
 status: draft
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 ## Orienting the Body — Feeling the Doṣas

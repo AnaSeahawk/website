@@ -3,7 +3,7 @@ date: 2026-04-20
 type: orientation
 status: approved
 visibility: public
-claim_tier: synthesis
+claim_tier: anumana
 ---
 
 # The Biological Baseline

@@ -8,7 +8,7 @@ moon-phase:
 type: synthesis
 visibility: community
 status: approved
-claim_tier: synthesis
+claim_tier: anumana
 summary: June 2026 synthesis of the full-cycle shift, fresh source variation, menstrual/artava entry, rasa/qì flow, and aged-blend fraction repeatability.
 phase: full-cycle
 significance: major

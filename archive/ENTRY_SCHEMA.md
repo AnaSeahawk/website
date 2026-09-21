@@ -3,7 +3,7 @@ title: Living Archive Entry Schema
 type: reference
 visibility: community
 status: draft
-claim_tier: orientation
+claim_tier: anumana
 ---
 
 # Living Archive Entry Schema

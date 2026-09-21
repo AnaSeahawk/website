@@ -2,7 +2,7 @@
 date: 2026-02-22
 status: reviewed
 visibility: public
-claim_tier: observed
+claim_tier: pratyaksha
 ---
 
 # Experiment Report: Ana's First Distillation

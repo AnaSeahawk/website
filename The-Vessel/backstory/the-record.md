@@ -3,7 +3,7 @@ date: 2026-05-20
 sun: 29° Taurus
 status: draft
 visibility: public
-claim_tier: personal-account
+claim_tier: aptopadesha
 note: Living document — filled in gradually as the practice and the story continue to unfold.
 ---
 

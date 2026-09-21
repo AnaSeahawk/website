@@ -6,7 +6,7 @@ moon-phase:
 type: analysis
 visibility: public
 status: reviewed
-claim_tier: interpretation
+claim_tier: aptopadesha
 note: The cross-traditional textual argument is interpretation — the convergence of independent traditions is presented as evidence, not proof. The biochemical modification section (practices changing urinary composition) rests on established physiology; those mechanisms are established-record. The Pali Canon reference is documented fact; its interpretation as evidence for the larger thesis is interpretation.
 ---
 

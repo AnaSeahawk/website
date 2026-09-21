@@ -3,7 +3,7 @@ title: Community Story Stub Template
 type: template
 visibility: private
 status: draft
-claim_tier: personal-account
+claim_tier: aptopadesha
 ---
 
 # <Stub Title>

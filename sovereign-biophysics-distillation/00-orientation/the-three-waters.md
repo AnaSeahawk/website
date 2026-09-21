@@ -8,7 +8,7 @@ moon-phase:
 type: orientation
 visibility: public
 status: draft
-claim_tier: orientation
+claim_tier: anumana
 summary: Orientation to Solar, Lunar, and Saturn as the three voices the still reveals before the practice turns toward applications.
 phase: distillation
 significance: threshold

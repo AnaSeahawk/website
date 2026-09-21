@@ -8,7 +8,7 @@ moon-phase:
 type: experiment
 visibility: community
 status: draft
-claim_tier: preliminary-observation
+claim_tier: pratyaksha
 summary: June 18 fresh raw plasma record comparing early morning and midday samples from the same individual before the day's material was blended for distillation.
 phase: full-cycle
 significance: major

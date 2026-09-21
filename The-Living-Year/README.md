@@ -1,7 +1,7 @@
 ---
 status: redirected
 visibility: public
-claim_tier: orientation
+claim_tier: anumana
 ---
 
 # The Living Year

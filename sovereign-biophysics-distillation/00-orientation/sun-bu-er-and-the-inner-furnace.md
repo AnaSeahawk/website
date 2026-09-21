@@ -3,7 +3,7 @@ date: 2026-04-28
 type: foundation
 visibility: public
 status: draft
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # Sun Bu-er and the Inner Furnace

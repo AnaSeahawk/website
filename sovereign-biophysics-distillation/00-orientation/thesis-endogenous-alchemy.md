@@ -3,7 +3,7 @@ date: 2026-02-22
 type: foundation
 status: reviewed
 visibility: public
-claim_tier: practice
+claim_tier: anumana
 ---
 
 # Thesis: Endogenous Alchemy

@@ -6,7 +6,7 @@ moon-phase:
 type: analysis
 visibility: public
 status: draft
-claim_tier: interpretation
+claim_tier: aptopadesha
 note: Reich's bioelectrical measurements are established scientific record (1934). The ORP connection is interpretive — a structural parallel between Reich's surface charge measurements and the archive's redox measurements of the distillate, not a direct empirical linkage. The armoring/channel correspondence is interpretive synthesis across frameworks.
 ---
 

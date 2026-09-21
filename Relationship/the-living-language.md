@@ -3,7 +3,7 @@ date: 2026-05-19
 type: foundation
 visibility: community
 status: reviewed
-claim_tier: hypothesis
+claim_tier: anumana
 ---
 
 # The Living Language

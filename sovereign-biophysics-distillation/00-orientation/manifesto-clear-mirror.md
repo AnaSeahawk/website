@@ -6,7 +6,7 @@ moon-phase:
 type: foundation
 visibility: public
 status: published
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 # The Living Archive: Manifesto of the Clear Mirror *(Shen-Ming)*

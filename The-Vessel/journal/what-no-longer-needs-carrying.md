@@ -4,7 +4,7 @@ sun: 4° Capricorn
 moon-phase: Waning crescent
 status: draft
 visibility: community
-claim_tier: interpretation
+claim_tier: aptopadesha
 ---
 
 ### **What No Longer Needs Carrying**
