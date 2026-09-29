@@ -1,6 +1,6 @@
 ---
 date: 2026-05-11
-sun: 21° Taurus
+sun: 21º Taurus
 type: foundation
 visibility: public
 status: published

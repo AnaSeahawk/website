@@ -1,6 +1,6 @@
 ---
 date: 2026-03-26
-sun: 6° Aries
+sun: 6º Aries
 moon:
 moon-phase:
 type: foundation

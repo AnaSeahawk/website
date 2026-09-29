@@ -2,7 +2,7 @@
 archive_entry: true
 title: The Deepest Layer
 date: 2026-04-23
-sun: 3° Taurus
+sun: 4º Taurus
 moon-phase: Waning crescent
 type: journal
 status: draft

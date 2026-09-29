@@ -1,6 +1,6 @@
 ---
 date: 2026-05-08
-sun: 18° Taurus
+sun: 18º Taurus
 moon:
 moon-phase:
 type: method

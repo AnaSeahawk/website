@@ -1,6 +1,6 @@
 ---
 date: 2026-05-07
-sun: 17° Taurus
+sun: 17º Taurus
 moon:
 moon-phase:
 type: analysis

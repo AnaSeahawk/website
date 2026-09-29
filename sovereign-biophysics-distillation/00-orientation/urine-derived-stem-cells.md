@@ -1,6 +1,6 @@
 ---
 date: 2026-05-22
-sun: 1° Gemini
+sun: 2º Gemini
 moon:
 moon-phase:
 type: orientation

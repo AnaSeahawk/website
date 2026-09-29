@@ -1,6 +1,6 @@
 ---
 date: 2026-04-05
-sun: 16° Aries
+sun: 16º Aries
 moon: 25° Scorpio
 moon-phase:
 type: foundation

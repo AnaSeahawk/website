@@ -1,6 +1,6 @@
 ---
 date: 2026-05-21
-sun: 1° Gemini
+sun: 1º Gemini
 moon:
 moon-phase:
 type: synthesis

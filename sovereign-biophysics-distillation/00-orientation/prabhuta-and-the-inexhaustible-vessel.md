@@ -1,6 +1,6 @@
 ---
 date: 2026-05-18
-sun: 27° Taurus
+sun: 28º Taurus
 moon:
 moon-phase:
 type: foundation

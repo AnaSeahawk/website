@@ -1,6 +1,6 @@
 ---
 date: 2026-06-01
-sun: 11° Gemini
+sun: 11º Gemini
 moon:
 moon-phase:
 type: foundation

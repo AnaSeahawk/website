@@ -1,6 +1,6 @@
 ---
 date: 2026-05-20
-sun: 29° Taurus
+sun: 30º Taurus
 status: draft
 visibility: public
 claim_tier: aptopadesha

@@ -1,6 +1,6 @@
 ---
 date: 2026-04-11
-sun: 21° Aries
+sun: 22º Aries
 moon:
 moon-phase:
 type: foundation

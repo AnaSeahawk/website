@@ -1,6 +1,6 @@
 ---
 date: 2026-05-30
-sun: 9° Gemini
+sun: 10º Gemini
 moon:
 moon-phase:
 type: foundation

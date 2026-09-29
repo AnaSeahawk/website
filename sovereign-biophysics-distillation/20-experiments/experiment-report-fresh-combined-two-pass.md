@@ -1,6 +1,6 @@
 ---
 date: 2026-03-06
-sun: 15° Pisces
+sun: 16º Pisces
 moon:
 moon-phase:
 type: experiment

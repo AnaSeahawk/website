@@ -1,6 +1,6 @@
 ---
 date: 2026-05-15
-sun: 25° Taurus
+sun: 25º Taurus
 moon:
 moon-phase:
 type: analysis

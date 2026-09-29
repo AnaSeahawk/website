@@ -1,6 +1,6 @@
 ---
 date: 2026-03-01
-sun: 14° Aries
+sun: 11º Pisces
 moon: 29° Libra
 moon-phase:
 type: foundation

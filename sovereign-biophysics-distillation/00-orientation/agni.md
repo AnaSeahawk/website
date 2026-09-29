@@ -1,6 +1,6 @@
 ---
 date: 2026-05-05
-sun: 15° Taurus
+sun: 15º Taurus
 moon:
 moon-phase:
 type: foundation

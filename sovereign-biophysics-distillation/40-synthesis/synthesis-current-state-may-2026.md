@@ -2,7 +2,7 @@
 archive_entry: true
 title: Current State of the Work - May 2026
 date: 2026-05-11
-sun: 21° Taurus
+sun: 21º Taurus
 moon:
 moon-phase:
 type: synthesis

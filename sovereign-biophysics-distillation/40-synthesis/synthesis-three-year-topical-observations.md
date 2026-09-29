@@ -2,7 +2,7 @@
 archive_entry: true
 title: Three Years of Topical Practice
 date: 2026-05-16
-sun: 26° Taurus
+sun: 26º Taurus
 moon:
 moon-phase:
 type: synthesis

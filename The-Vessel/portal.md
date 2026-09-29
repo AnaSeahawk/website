@@ -1,6 +1,6 @@
 ---
 date: 2026-03-16
-sun: 27° Pisces
+sun: 26º Pisces
 moon:
 moon-phase:
 type: portal

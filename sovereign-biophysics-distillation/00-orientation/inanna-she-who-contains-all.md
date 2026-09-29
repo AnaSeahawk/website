@@ -1,6 +1,6 @@
 ---
 date: 2026-04-01
-sun: 12° Aries
+sun: 12º Aries
 moon: 6° Libra
 moon-phase:
 type: foundation

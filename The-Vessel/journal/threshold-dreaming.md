@@ -1,6 +1,6 @@
 ---
 date: 2025-12-10
-sun: 18° Sagittarius
+sun: 19º Sagittarius
 moon-phase: Waxing gibbous
 status: draft
 visibility: community

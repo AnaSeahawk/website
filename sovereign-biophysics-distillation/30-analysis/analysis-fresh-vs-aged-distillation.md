@@ -1,6 +1,6 @@
 ---
 date: 2026-03-08
-sun: 18° Pisces
+sun: 18º Pisces
 moon:
 moon-phase:
 type: analysis

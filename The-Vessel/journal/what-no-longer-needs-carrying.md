@@ -1,6 +1,6 @@
 ---
 date: 2025-12-26
-sun: 4° Capricorn
+sun: 5º Capricorn
 moon-phase: Waning crescent
 status: draft
 visibility: community
