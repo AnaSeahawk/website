@@ -20,6 +20,12 @@ quotation was checked word for word against the books.
 - The new page continues to *Three Years of Topical Practice*, keeping the Analysis section's exit into Synthesis. *What the Scientists Found About Water* is linked as a companion. A "Continue reading" link there would have looped readers back to the start of Analysis.
 - `sovereign-biophysics-distillation/README.md`: one line in the Analysis index, after *The Bioelectric Body*.
 
+### Designed web edition (added later on 2026-10-10)
+
+- `sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.html`: the reading edition for anaseahawk.com, built from the Markdown source with no changes to the text. Six movements, a drawn darkfield emblem (no reproduced images), Reich's quotations set as cited source quotes, and the closing line set as an interlude.
+- `sovereign-biophysics-distillation/reich-bion-v1.css`: page stylesheet on top of `chapter-v1.css` and the theme system; light and dark themes; checked at desktop and phone widths.
+- Not yet linked from the Sovereign Biophysics index. The Analysis room there is still marked pending; opening it is Ana's call.
+
 ## Checklist
 
 1. Boundary framing: the standing "How to read this archive" footer, adapted for a reading of Reich's record.

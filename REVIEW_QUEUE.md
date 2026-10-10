@@ -92,7 +92,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-june4-fresh-plasma-h2-retention.md`
 - `sovereign-biophysics-distillation/20-experiments/experiment-report-june20-aged-blend-fractionation.md`
 - `sovereign-biophysics-distillation/30-analysis/analysis-water-plasma-fourth-phase.md`
-- `sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.md` — published 2026-10-10 (batch `PUBLISH_BATCH_2026-10-10.md`); short cited quotations from copyrighted Reich editions under the library quoting rule
+- `sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.md` — published 2026-10-10 (batch `PUBLISH_BATCH_2026-10-10.md`); short cited quotations from copyrighted Reich editions under the library quoting rule; designed web edition `analysis-reich-bion-blue-luminosity.html` added, not yet linked from the index
 - `sovereign-biophysics-distillation/30-analysis/analysis-the-fertilizer-we-flush.md`
 - `sovereign-biophysics-distillation/30-analysis/analysis-solar-distillation-resource-recovery.md`
 - `sovereign-biophysics-distillation/40-synthesis/synthesis-three-year-topical-observations.md`
