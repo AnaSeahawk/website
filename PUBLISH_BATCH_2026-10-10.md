@@ -24,7 +24,7 @@ quotation was checked word for word against the books.
 
 - `sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.html`: the reading edition for anaseahawk.com, built from the Markdown source with no changes to the text. Six movements, a drawn darkfield emblem (no reproduced images), Reich's quotations set as cited source quotes, and the closing line set as an interlude.
 - `sovereign-biophysics-distillation/reich-bion-v1.css`: page stylesheet on top of `chapter-v1.css` and the theme system; light and dark themes; checked at desktop and phone widths.
-- Not yet linked from the Sovereign Biophysics index. The Analysis room there is still marked pending; opening it is Ana's call.
+- Linked from the Sovereign Biophysics index: the Analysis room is now open (Ana's approval, 2026-10-10) and leads to this page. The Markdown source links to the reading edition.
 
 ## Checklist
 

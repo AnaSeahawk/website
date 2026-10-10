@@ -161,6 +161,8 @@ The observation is the record. The interpretation is a proposition about it. Blu
 
 ---
 
+*Reading edition: [anaseahawk.com →](https://anaseahawk.com/sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.html)*
+
 *Companion: [What the Scientists Found About Water →](analysis-water-plasma-fourth-phase.md)*
 
 *Continue reading: [Three Years of Topical Practice →](../40-synthesis/synthesis-three-year-topical-observations.md)*
