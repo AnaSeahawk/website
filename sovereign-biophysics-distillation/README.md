@@ -183,6 +183,7 @@ Most sequence documents link to the next at the bottom. Reference layers such as
 - [The Fertilizer We Flush](30-analysis/analysis-the-fertilizer-we-flush.md) — whole urine as a fertilizer stream: phosphorus cycling, crop trials, safety boundaries, and the public perception barrier
 - [Solar Distillation and Resource Recovery](30-analysis/analysis-solar-distillation-resource-recovery.md) — external resource-recovery research on solar urine distillation, recovered water, nutrient concentrate, phosphate minerals, and contaminant partitioning
 - [The Bioelectric Body and the Charged Substrate](30-analysis/analysis-reich-bioelectrical.md) — Wilhelm Reich's 1934 measurements: the expansion/contraction polarity, the orgasm formula, armoring as blocked channel, and the structural parallel between Reich's surface charge data and the archive's ORP measurements
+- [Wilhelm Reich: The Bion Experiments and the Blue Luminosity](30-analysis/analysis-reich-bion-blue-luminosity.md) — Reich's own record from the bions (1936) through the SAPA cultures, the darkroom, the empty box and the sky, to bion water and Experiment XX (1945): the blue he saw, the controls that surprised him, and what he made of them
 
 ### Synthesis
 

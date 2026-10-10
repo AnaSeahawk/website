@@ -153,6 +153,6 @@ What can be said at this stage: the progression documented in the synthesis reco
 
 ---
 
-*Continue reading: [Three Years of Topical Practice →](../40-synthesis/synthesis-three-year-topical-observations.md)*
+*Continue reading: [Wilhelm Reich: The Bion Experiments and the Blue Luminosity →](analysis-reich-bion-blue-luminosity.md)*
 
 *[← Back to Index](../README.md)*
