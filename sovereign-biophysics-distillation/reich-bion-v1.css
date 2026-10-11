@@ -29,6 +29,27 @@
 
 .bion-hero .eyebrow { color: var(--bion-blue); }
 
+.bion-plate figcaption { max-width: 30rem; }
+
+.bion-plate figcaption cite,
+.bion-plate figcaption small {
+  display: block;
+}
+
+.bion-plate figcaption cite {
+  margin-top: 0.55rem;
+  color: var(--ink);
+  font-size: 0.78rem;
+  font-style: normal;
+}
+
+.bion-plate figcaption small {
+  margin-top: 0.28rem;
+  color: var(--ink-soft);
+  font-size: 0.72rem;
+  font-style: normal;
+}
+
 .movement-map {
   position: relative;
   z-index: 3;

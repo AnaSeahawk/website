@@ -24,9 +24,14 @@ The same self-contained dark-indigo plate is used in both site themes. It was
 checked in light and dark modes at desktop and phone widths before release; a
 second theme-specific rendering was not needed.
 
+The original caption fragment describing literal packets of vesicles was later
+replaced with Reich's retrospective line from *The Cancer Biopathy*, Ch. VII.
+A brief note identifies the plate as an imagining of the blue he described,
+rather than a photograph.
+
 ## Checklist
 
-1. Scope: visual replacement only; the chapter's prose and citations are unchanged.
+1. Scope: the field plate and its caption changed; the chapter body and citations are unchanged.
 2. Framing: the image remains an evocative field plate, not scientific evidence.
 3. Provenance: generated as original artwork for Ana Seahawk; no source artwork reproduced.
 4. Privacy: no private, collaborator, or Vessel material is present.
