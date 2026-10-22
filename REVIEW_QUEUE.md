@@ -74,6 +74,7 @@ Public companion layer: dreams, body, time, backstory, and the life behind Sover
 - `sovereign-biophysics-distillation/00-orientation/thesis-endogenous-alchemy.md`
 - `sovereign-biophysics-distillation/00-orientation/a-year-in-the-practice.md`
 - `sovereign-biophysics-distillation/00-orientation/a-related-body-of-work.md`
+- `sovereign-biophysics-distillation/00-orientation/apasmara-and-the-return-of-awareness.md` — Ana's essay (2026-10-21), placed in the archive as Markdown source; reviewed by Ana. Not on the website: no designed HTML edition yet. Linked from `women-of-alchemy.md` (Mary the Jewess) and `why-the-distillation-is-missing.md`.
 
 ### Method, Experiments, Analysis, Synthesis
 

@@ -238,6 +238,8 @@ The bain-marie — gentle, sustained, indirect heat, temperature held just below
 
 This is not a proof. It is a resonance. Reading Mary's apparatus through hands that have worked at these temperatures feels like reading instructions written for this practice. Whether that feeling is historical fact or personal recognition across centuries — that question stays open. The feeling does not.
 
+*Related: [Apasmāra and the Return of Awareness](apasmara-and-the-return-of-awareness.md#solve-et-coagula-recovery-read-as-alchemy) opens the European line of distillation with Mary in its "Solve et coagula" section.*
+
 Her most famous saying, preserved by Zosimos: *"Join the male and the female, and you will find what is sought."*
 
 ### Cleopatra the Alchemist (fl. 3rd–4th century CE)

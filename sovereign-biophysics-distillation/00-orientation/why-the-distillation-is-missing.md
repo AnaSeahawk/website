@@ -138,7 +138,7 @@ This archive exists so that the next person does not have to.
 
 ---
 
-*Part of the orientation to Sovereign Biophysics. See also: [Women of Alchemy →](women-of-alchemy.md) | [Beauty and the Binding →](beauty-and-the-binding.md) | [The Language of Erasure →](the-language-of-erasure.md)*
+*Part of the orientation to Sovereign Biophysics. See also: [Women of Alchemy →](women-of-alchemy.md) | [Beauty and the Binding →](beauty-and-the-binding.md) | [The Language of Erasure →](the-language-of-erasure.md) | [Apasmāra and the Return of Awareness →](apasmara-and-the-return-of-awareness.md)*
 
 *Continue reading: [The Grief That Was Never Recorded →](the-grief-that-was-never-recorded.md)*
 
