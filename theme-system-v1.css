@@ -246,3 +246,8 @@ a.room-card:focus-visible { box-shadow: var(--interactive-shadow); }
 @media (prefers-reduced-motion: reduce) {
   .theme-toggle__knob { transition: none; }
 }
+
+/* The sign-up block keeps its light-theme look in both themes. */
+.field-letter { background: #26231f; }
+.field-letter .formkit-submit:hover,
+.field-letter .formkit-submit:focus-visible { color: #f8f4e9 !important; }
