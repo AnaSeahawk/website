@@ -1,4 +1,4 @@
 exclude:
   - "sovereign-biophysics-distillation/*.md"
   - "sovereign-biophysics-distillation/**/*.md"
-  - "Foundations/plasma-foundation-of-a-new-world.md"
+  - "Foundations/*.md"

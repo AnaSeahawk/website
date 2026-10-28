@@ -1,0 +1,110 @@
+/* Foundations: Freedom Is Love. Builds on chapter-v1.css. */
+
+.dedication-plate {
+  display: grid;
+  place-items: center;
+  min-height: 34rem;
+  text-align: center;
+}
+
+.dedication-plate__inner {
+  position: relative;
+  z-index: 1;
+  padding: 3rem 2rem;
+}
+
+.dedication-plate__label {
+  margin: 0 0 2rem;
+  color: var(--gold);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+.dedication-plate blockquote {
+  margin: 0;
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: clamp(1.35rem, 2.3vw, 1.7rem);
+  font-style: italic;
+  line-height: 1.45;
+}
+
+.dedication-plate blockquote p { margin: 0; }
+
+.dedication-plate__rule {
+  display: block;
+  width: 3.5rem;
+  margin: 2rem auto 1.4rem;
+  border-top: 1px solid var(--gold);
+}
+
+.dedication-plate figcaption {
+  margin-top: 0;
+  font-size: 0.95rem;
+}
+
+.margin-note .place-year {
+  display: block;
+  margin-top: 0.4rem;
+  color: var(--ink);
+  font-size: 1.35rem;
+  font-style: normal;
+}
+
+.verse-section {
+  padding: clamp(5rem, 10vw, 8rem) 0;
+  background: var(--surface-wash);
+  border-block: 1px solid var(--line);
+}
+
+.verse-section .reading-shell { text-align: center; }
+
+.verse-section h2 {
+  margin: 0 0 0.4rem;
+  font-family: var(--display);
+  font-size: clamp(2.4rem, 5vw, 3.8rem);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+}
+
+.verse-byline {
+  margin: 0 0 3rem;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-style: italic;
+}
+
+.verse-stanza {
+  margin: 0 auto 2rem;
+  font-family: var(--display);
+  font-size: clamp(1.15rem, 2vw, 1.35rem);
+  line-height: 1.6;
+}
+
+.verse-stanza:last-child { margin-bottom: 0; }
+
+@media (max-width: 620px) {
+  .dedication-plate { min-height: 0; }
+  .dedication-plate__inner { padding: 2.5rem 1.4rem; }
+}
+
+.interlude--long blockquote p {
+  font-size: clamp(2rem, 4.2vw, 3.4rem);
+  line-height: 1.12;
+}
+
+.chapter-section--wash {
+  background: var(--surface-wash);
+  border-block: 1px solid var(--line);
+}
+
+.author-line {
+  margin: 0;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-size: 1.1rem;
+  font-style: italic;
+  text-align: center;
+}
