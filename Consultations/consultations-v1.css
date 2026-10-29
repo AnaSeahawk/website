@@ -1,0 +1,230 @@
+/* Consultations and Map. Builds on chapter-v1.css. */
+
+.page-hero .hero-copy h1 { font-size: clamp(3.4rem, 7vw, 6rem); }
+
+.times-plate {
+  display: grid;
+  gap: 0;
+  padding: 1.6rem 1.8rem;
+}
+
+.times-plate > * { position: relative; z-index: 1; }
+
+.times-plate__label {
+  margin: 0.4rem 0 1rem;
+  color: var(--gold);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.times-plate__row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.85rem 0.4rem;
+  border-top: 1px solid var(--line);
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 1.45rem;
+}
+
+.times-plate__row span:last-child {
+  color: var(--ink-soft);
+  font-family: var(--body);
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.times-plate figcaption { margin-top: 1rem; }
+
+.offer-list {
+  display: grid;
+  gap: 0;
+  margin: 2rem 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+.offer-list li {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0.6rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.offer-list .mark {
+  color: var(--gold);
+  font-family: var(--display);
+  font-size: 1.3rem;
+  line-height: 1.4;
+}
+
+.offer-list b {
+  display: block;
+  font-family: var(--display);
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.offer-list p { margin: 0.15rem 0 0; color: var(--ink-soft); }
+
+.booking-section {
+  padding: clamp(4.5rem, 9vw, 7rem) 0;
+  background: var(--surface-wash);
+  border-block: 1px solid var(--line);
+}
+
+.booking-section h2 {
+  margin: 0 0 0.6rem;
+  font-family: var(--display);
+  font-size: clamp(2.4rem, 5vw, 3.8rem);
+  font-weight: 500;
+  line-height: 1;
+}
+
+.booking-section .booking-intro {
+  max-width: 38rem;
+  margin: 0 0 2.5rem;
+  color: var(--ink-soft);
+}
+
+.booking-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+
+.booking-card {
+  display: grid;
+  grid-template-rows: auto auto 1fr auto;
+  gap: 0.7rem;
+  min-width: 0;
+  padding: 1.8rem 1.6rem;
+  color: var(--ink);
+  background: var(--paper);
+  text-decoration: none;
+}
+
+.booking-card__length {
+  font-family: var(--display);
+  font-size: 2.3rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.booking-card__price {
+  color: var(--gold);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  font-variant-numeric: tabular-nums;
+}
+
+.booking-card p { margin: 0; color: var(--ink-soft); font-size: 0.97rem; }
+
+.booking-card__cta {
+  justify-self: start;
+  margin-top: 0.6rem;
+  padding: 0.5rem 1rem;
+  color: var(--ink);
+  border: 1px solid var(--gold);
+  font-family: var(--display);
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+a.booking-card:hover .booking-card__cta,
+a.booking-card:focus-visible .booking-card__cta {
+  color: var(--on-gold);
+  background: var(--gold);
+}
+
+.booking-card--pending .booking-card__cta {
+  color: var(--ink-soft);
+  border-style: dashed;
+  border-color: var(--line);
+}
+
+.booking-note {
+  max-width: 40rem;
+  margin: 2rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+}
+
+@media (max-width: 900px) {
+  .booking-grid { grid-template-columns: 1fr; }
+}
+
+/* Map */
+
+.map-tree, .map-tree ul { margin: 0; padding: 0; list-style: none; }
+.map-tree { display: grid; gap: 2.6rem; }
+.map-tree ul {
+  margin: 0.9rem 0 0 0.45rem;
+  padding-left: 1.4rem;
+  border-left: 1px solid var(--line);
+  display: grid;
+  gap: 0.75rem;
+}
+.map-tree ul > li { position: relative; }
+.map-tree ul > li::before {
+  content: '';
+  position: absolute;
+  left: -1.4rem;
+  top: 0.95rem;
+  width: 1rem;
+  border-top: 1px solid var(--line);
+}
+
+.map-branch {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.1rem 0.8rem;
+}
+
+.map-name {
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 1.35rem;
+  font-weight: 600;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.map-tree > li > .map-branch .map-name { font-size: clamp(1.9rem, 4vw, 2.5rem); font-weight: 500; }
+
+a.map-name { text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 0.22em; }
+a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration-color: var(--gold); }
+
+.map-coming {
+  color: var(--ink-soft);
+  font-size: 0.64rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.map-say {
+  flex-basis: 100%;
+  max-width: 40rem;
+  margin: 0.1rem 0 0;
+  color: var(--ink-soft);
+  font-size: 0.97rem;
+}
+
+.map-tree .map-out::after { content: ' ↗'; color: var(--gold); font-size: 0.8em; }
+
+.page-hero .button-row { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 2rem; }
+.page-hero .booking-card__cta { text-decoration: none; }
+.page-hero .booking-card__cta:hover,
+.page-hero .booking-card__cta:focus-visible { color: var(--on-gold); background: var(--gold); }

@@ -1,0 +1,81 @@
+/* The one menu shared by every page: Reading Room · Map · Consultations.
+   Load after the page's own stylesheets. */
+
+.site-brand {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2rem 0.9rem;
+  min-width: 0;
+}
+
+.site-section {
+  color: var(--ink-soft);
+  font-family: var(--body);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.site-section::before {
+  content: '/';
+  margin-right: 0.9rem;
+  color: var(--line);
+  font-weight: 400;
+}
+
+.site-section:hover,
+.site-section:focus-visible { color: var(--gold); }
+
+.site-menu {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+  font-family: var(--display);
+  font-size: 0.98rem;
+}
+
+.site-menu a {
+  color: inherit;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  opacity: 0.88;
+}
+
+.site-menu a:hover,
+.site-menu a:focus-visible,
+.site-menu a[aria-current='page'] {
+  color: var(--gold);
+  opacity: 1;
+}
+
+.site-nav--overlay .site-menu a:hover,
+.site-nav--overlay .site-menu a:focus-visible { color: var(--gold-bright); }
+
+.site-menu .site-menu__book {
+  padding: 0.35rem 0.85rem;
+  border: 1px solid currentColor;
+  opacity: 1;
+}
+
+.site-menu a.site-menu__book[aria-current='page'] { border-color: var(--gold); }
+
+@media (max-width: 760px) {
+  .site-nav {
+    flex-wrap: wrap;
+    row-gap: 0.4rem;
+    padding-block: 0.8rem;
+  }
+  .site-menu {
+    flex: 1 1 100%;
+    justify-content: space-between;
+    gap: 0.9rem;
+    font-size: 0.95rem;
+  }
+  .site-menu a,
+  .nav-links.site-menu a:not(:last-child) { display: inline; }
+  .site-menu .site-menu__book { padding: 0.25rem 0.6rem; }
+  .site-menu .theme-toggle { margin-left: auto; }
+}
