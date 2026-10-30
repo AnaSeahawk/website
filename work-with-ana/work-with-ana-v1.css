@@ -1,4 +1,4 @@
-/* Consultations and Map. Builds on chapter-v1.css. */
+/* Work with Ana and Map. Builds on chapter-v1.css. */
 
 .page-hero .hero-copy h1 { font-size: clamp(3.4rem, 7vw, 6rem); }
 
@@ -228,3 +228,108 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
 .page-hero .booking-card__cta { text-decoration: none; }
 .page-hero .booking-card__cta:hover,
 .page-hero .booking-card__cta:focus-visible { color: var(--on-gold); background: var(--gold); }
+
+/* Private workshops */
+
+.workshop-title {
+  margin: 0 0 1.2rem;
+  font-family: var(--display);
+  font-size: clamp(2.2rem, 4.5vw, 3.2rem);
+  font-weight: 500;
+  line-height: 1.05;
+}
+
+.workshop-group {
+  margin: 3rem 0 0;
+  color: var(--gold);
+  font-family: var(--body);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.workshop-group + .offer-list { margin-top: 1rem; }
+
+.offer-when {
+  display: inline-block;
+  margin-top: 0.45rem;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-size: 0.92rem;
+  font-style: italic;
+}
+
+.workshop-own {
+  margin-top: 3.5rem;
+  padding: 1.8rem 1.6rem;
+  background: var(--surface-wash);
+  border: 1px solid var(--line);
+}
+
+.workshop-own .workshop-group { margin-top: 0; }
+.workshop-own p { margin: 0.8rem 0 1.4rem; }
+.workshop-own .booking-card__cta { display: inline-block; text-decoration: none; }
+
+
+/* Workshop sign-up (Kit form 9877706, same list as the front page) */
+
+.workshop-letter { margin-top: 3.5rem; }
+.workshop-letter .workshop-group { margin-top: 0; }
+.workshop-letter p { margin: 0.8rem 0 1.2rem; color: var(--ink-soft); }
+
+.workshop-letter .formkit-form {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+}
+
+.workshop-letter .formkit-fields {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr auto !important;
+  gap: 0.55rem !important;
+  margin: 0 !important;
+}
+
+.workshop-letter .formkit-field { margin: 0 !important; }
+
+.workshop-letter .formkit-input {
+  width: 100% !important;
+  min-height: 48px !important;
+  margin: 0 !important;
+  padding: 0.7rem 0.9rem !important;
+  color: var(--ink) !important;
+  background: var(--paper) !important;
+  border: 1px solid var(--line) !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  font: inherit !important;
+}
+
+.workshop-letter .formkit-input::placeholder { color: var(--ink-soft) !important; }
+
+.workshop-letter .formkit-submit {
+  min-height: 48px !important;
+  margin: 0 !important;
+  padding: 0.65rem 1.2rem !important;
+  color: var(--on-gold) !important;
+  background: var(--gold) !important;
+  border: 1px solid var(--gold) !important;
+  border-radius: 0 !important;
+  font-family: var(--display) !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+}
+
+.workshop-letter .formkit-spinner,
+.workshop-letter .formkit-powered-by-convertkit-container { display: none !important; }
+
+.workshop-letter .formkit-alert { margin: 0 0 0.75rem !important; padding: 0 !important; list-style: none; }
+
+@media (max-width: 620px) {
+  .workshop-letter .formkit-fields { grid-template-columns: 1fr !important; }
+}
