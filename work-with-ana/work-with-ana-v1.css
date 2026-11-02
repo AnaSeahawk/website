@@ -333,3 +333,22 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
 @media (max-width: 620px) {
   .workshop-letter .formkit-fields { grid-template-columns: 1fr !important; }
 }
+
+/* Hero photo: Ana on a call */
+.work-photo { margin: clamp(2rem, 5vw, 3.5rem) 0 0; }
+.work-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1800 / 1063;
+  object-fit: cover;
+  border: 1px solid var(--line);
+}
+
+.workshop-aside {
+  margin: 1rem 0 0;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-size: 1.05rem;
+  font-style: italic;
+}
