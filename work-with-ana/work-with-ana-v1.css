@@ -352,3 +352,25 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
   font-size: 1.05rem;
   font-style: italic;
 }
+
+/* Workshop photo strip */
+.workshop-strip { margin: 1.8rem 0 2rem; }
+.workshop-strip__images {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.5rem;
+}
+.workshop-strip img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+.workshop-strip figcaption {
+  margin-top: 0.6rem;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-size: 0.95rem;
+  font-style: italic;
+}
