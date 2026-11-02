@@ -374,3 +374,4 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
   font-size: 0.95rem;
   font-style: italic;
 }
+.workshop-group + p { margin-top: 0.8rem; }
