@@ -379,7 +379,8 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
   font-size: 0.95rem;
   font-style: italic;
 }
-.workshop-group + p { margin-top: 0.8rem; }
+.workshop-group + p,
+.reading-column > .workshop-group + p { margin-top: 0.8rem; }
 
 /* Workshop titles that open their own page */
 .offer-list b a { color: inherit; text-decoration: none; }
@@ -401,3 +402,12 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
   color: var(--ink-soft);
   font-size: 0.9rem;
 }
+.reading-column > p.workshop-closing {
+  margin: 2.4rem 0 0;
+  font-family: var(--display);
+  font-size: 1.35rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+.workshop-own--read { margin-top: 1.4rem; background: none; }
+.workshop-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; }
