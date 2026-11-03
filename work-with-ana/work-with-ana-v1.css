@@ -362,10 +362,15 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
 }
 .workshop-strip img {
   display: block;
+  align-self: start;
   width: 100%;
   height: auto;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+}
+@media (max-width: 620px) {
+  .workshop-strip__images { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .workshop-strip img:first-child { grid-column: 1 / -1; }
 }
 .workshop-strip figcaption {
   margin-top: 0.6rem;
