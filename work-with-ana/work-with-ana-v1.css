@@ -411,3 +411,5 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
 }
 .workshop-own--read { margin-top: 1.4rem; background: none; }
 .workshop-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; }
+
+.reading-column > ul.offer-list + p { margin-top: 1.6rem; }
