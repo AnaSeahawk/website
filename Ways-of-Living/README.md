@@ -12,8 +12,6 @@ Living with place: home, body, garden and city.
 
 Food, plants, movement and the spaces we inhabit are part of everyday life. The writing here follows those relationships through practice and experience.
 
-The opening essay is being developed. These two papers are already available.
-
 ## The Body as Home
 
 - [Somatic Awareness](the-body-as-home/somatic-awareness.html)
