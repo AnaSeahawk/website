@@ -36,3 +36,9 @@ The preview's mobile/desktop visual review remains applicable; the live port pre
 Ana approved the two proposed homepage paragraphs with “Yes let's do that.” The opening line “Returning to what was never absent.” is retained. The introduction names Ana as an Amaroli practitioner, independent researcher and explorer, connects her personal practice to Sovereign Biophysics, and places that inquiry within her work with plants, food, water and living spaces.
 
 Scope: `index.html` introduction only, plus review queue and the existing browser assertion updated to the approved text. This approval does not change the proposed consultation copy on Work with Ana. The text describes personal practice without treatment claims or instructions. No raw measurements, links, filenames, forms or media changed. The existing public homepage remains the intended destination. Spelling and exact approved wording checked; release recorded in the review queue.
+
+## Subsequent consultation introduction update
+
+After publishing the homepage introduction, Ana requested “Ok now for the work with Ana page,” authorizing the consultation opening previously drafted in this conversation. The three reviewed paragraphs replace the original opening paragraph in `work-with-ana/index.html`. They name her Amaroli practice as the foundation of Sovereign Biophysics, describe the scope of private conversations, and retain the wider living subjects.
+
+The practical video-call paragraph, booking links, prices, forms and workshop descriptions remain unchanged. The copy describes Ana’s personal practice and research; it adds no treatment claims, protocols or instructions. No measurements, media or filenames changed. The public destination and exact wording were reviewed; `REVIEW_QUEUE.md` records the release.
