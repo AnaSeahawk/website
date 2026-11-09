@@ -42,3 +42,9 @@ Scope: `index.html` introduction only, plus review queue and the existing browse
 After publishing the homepage introduction, Ana requested “Ok now for the work with Ana page,” authorizing the consultation opening previously drafted in this conversation. The three reviewed paragraphs replace the original opening paragraph in `work-with-ana/index.html`. They name her Amaroli practice as the foundation of Sovereign Biophysics, describe the scope of private conversations, and retain the wider living subjects.
 
 The practical video-call paragraph, booking links, prices, forms and workshop descriptions remain unchanged. The copy describes Ana’s personal practice and research; it adds no treatment claims, protocols or instructions. No measurements, media or filenames changed. The public destination and exact wording were reviewed; `REVIEW_QUEUE.md` records the release.
+
+## Concise consultation revision
+
+Ana requested removal of the repeated biographical opening and approved the replacement two-paragraph draft with “That's better.” The consultation opening now starts directly with Shivambu (Urine Therapy), Sovereign Biophysics and alchemy, followed by wider subjects including nomadic and minimalist living. This supersedes the longer consultation introduction above.
+
+Only the three opening paragraphs were replaced with the approved two paragraphs. Existing practical details and the rest of the page remain intact. The copy names conversation subjects and the basis in personal practice; no treatment claims, instructions or measurements were introduced. Links and media references are unchanged, paragraph markup checked, and review queue updated for the same public address.
