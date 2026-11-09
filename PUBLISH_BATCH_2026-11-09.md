@@ -48,3 +48,9 @@ The practical video-call paragraph, booking links, prices, forms and workshop de
 Ana requested removal of the repeated biographical opening and approved the replacement two-paragraph draft with “That's better.” The consultation opening now starts directly with Shivambu (Urine Therapy), Sovereign Biophysics and alchemy, followed by wider subjects including nomadic and minimalist living. This supersedes the longer consultation introduction above.
 
 Only the three opening paragraphs were replaced with the approved two paragraphs. Existing practical details and the rest of the page remain intact. The copy names conversation subjects and the basis in personal practice; no treatment claims, instructions or measurements were introduced. Links and media references are unchanged, paragraph markup checked, and review queue updated for the same public address.
+
+## Herbalism and Ayurveda in both introductions
+
+Ana requested that both the homepage and Work with Ana show how her beginnings in herbalism grew into Ayurveda. The homepage adds: “Her foundation in herbalism has grown into a sustained study of Ayurveda.” The consultation paragraph extends its existing study sentence with “from herbalism into Ayurveda.”
+
+These additions describe Ana’s learning rather than a clinical qualification or treatment offer. No instructions, measurements, links, forms or media changed. The existing homepage browser assertion is updated to the new wording. Review queue reflects the requested additions at the same public addresses.
