@@ -2,3 +2,6 @@ exclude:
   - "sovereign-biophysics-distillation/*.md"
   - "sovereign-biophysics-distillation/**/*.md"
   - "Foundations/*.md"
+  - "About/*.md"
+  - "Ways-of-Living/README.md"
+  - "tests"

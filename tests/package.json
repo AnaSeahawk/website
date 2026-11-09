@@ -1,0 +1,7 @@
+{
+  "name": "ana-website-navigation-checks",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node navigation.mjs" },
+  "devDependencies": { "playwright": "1.65.0" }
+}

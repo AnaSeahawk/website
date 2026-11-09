@@ -14,27 +14,23 @@
   <link rel="stylesheet" href="../sovereign-biophysics-distillation/editorial-copy-v1.css">
   <link rel="stylesheet" href="foundations-v1.css">
   <link rel="stylesheet" href="/site-menu-v1.css">
+  <link rel="stylesheet" href="/navigation-v2.css">
 </head>
 <body>
   <a class="skip-link" href="#chapter">Skip to the story</a>
 
   <header class="book-masthead">
     <nav class="shell site-nav" aria-label="Reading room navigation">
-      <div class="site-brand"><a class="wordmark" href="/">Ana Seahawk</a><a class="site-section" href="/Foundations/">Foundations</a></div>
-      <div class="nav-context site-menu">
-        <a href="/#reading-room">Reading Room</a>
-        <a href="/Map/">Map</a>
-        <a class="site-menu__book" href="/work-with-ana/">Work with Ana</a>
-        <button class="theme-toggle" type="button" aria-label="Switch to dark theme" aria-pressed="false">
+      <div class="site-brand"><a class="wordmark" href="/">Ana Seahawk</a><a class="site-section" href="/About/#foundations">About</a></div>
+      <div class="nav-context site-menu" id="primary-menu"><a href="/About/" aria-current="page">About</a><a href="/#reading-room">Reading Room</a><a href="/Map/">Map</a><a href="/work-with-ana/">Work with Ana</a></div>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-menu">Menu <span aria-hidden="true">☰</span></button><button class="theme-toggle" type="button" aria-label="Switch to dark theme" aria-pressed="false">
           <span class="theme-toggle__track" aria-hidden="true">
             <span class="theme-toggle__sun">✦</span>
             <span class="theme-toggle__moon">☾</span>
             <span class="theme-toggle__knob"></span>
           </span>
           <span class="visually-hidden theme-toggle__label">Switch to dark theme</span>
-        </button>
-      </div>
-    </nav>
+        </button></nav>
   </header>
 
   <main id="chapter">
@@ -217,6 +213,7 @@
       </a>
       <span class="chapter-nav-item chapter-nav-item--right"></span>
     </nav>
+  <section class="chapter-section"><div class="reading-shell"><nav class="reading-path" aria-label="Return"><a href="/About/#foundations">← About · Foundations</a><a href="/About/">The Life Behind the Work →</a></nav></div></section>
   </main>
 
   <footer class="shell site-footer">
@@ -227,5 +224,6 @@
     <p>Ana Seahawk</p>
   </footer>
   <script src="../theme-v1.js" defer></script>
+  <script src="/navigation-v2.js" defer></script>
 </body>
 </html>

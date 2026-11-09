@@ -1,29 +1,18 @@
 # Ana Seahawk
 
 Living as Art.
-All true achievements are found inward.
-What matters most is the path of Heart.
 
----
+[anaseahawk.com](https://anaseahawk.com/)
 
-Ana Seahawk is an Amaroli practitioner [since April 3, 2022] and field researcher whose primary site of inquiry is her own living body.
+- [About](https://anaseahawk.com/About/): The Life Behind the Work, with Foundations and Freedom Is Love.
+- [Reading Room](https://anaseahawk.com/#reading-room): Ways of Living and Sovereign Biophysics.
+- [Map](https://anaseahawk.com/Map/): the available reading and its connections.
+- [Work with Ana](https://anaseahawk.com/work-with-ana/): conversations and workshops.
 
-This archive is the record of that inquiry, and home of the original research into the biochemistry and history of endogenous distillation.
+## Maintenance
 
-The Great Work "Sovereign Biophysics" — the study of what the body already produces, already knows, and already carries. Four years of practice has become the sounding board for research that reaches back five thousand years: through the alchemical women of Alexandria, the Vedic pharmacology of the sacred cow, the Inanna myth as distillation in code, and forward into territory that is still being mapped.
+GitHub Pages serves the static HTML from `main`. Preserve existing article addresses. Source Markdown and test tooling are excluded where configured in `_config.yml`; repo visibility still controls access to source files.
 
-There is no curriculum or workshop. It is a living field, kept with precision and devotion.
+`ARCHITECTURE.md` describes the current lanes. `REVIEW_QUEUE.md` and dated publish batches track releases. Only explicitly reviewed material is released.
 
----
-
-The Living Record holds the practitioner's account: the life behind the archive, the living journal, the dreams, and the temporal framework.
-
-[The Living Record →](The-Vessel/README.md)
-
-The private Vessel is the protected source container for material that needs context, consent, or relationship before it can be read.
-
-[The Vessel Portal →](The-Vessel/portal.md)
-
----
-
-[Foundations](Foundations/) · [Relationship](Relationship/) · [Sovereign Biophysics](sovereign-biophysics-distillation/) · [The Living Record](The-Vessel/)
+Navigation checks: install the test dependency with `npm ci --prefix tests`, serve this directory on localhost port 18770, then run `node tests/navigation.mjs`. `ANA_TEST_BASE_URL` can point to another local server or the live site; `ANA_TEST_CHROME` selects an installed Chromium executable. `ANA_PLAYWRIGHT_MODULE` can select an existing Playwright module when using shared tooling.

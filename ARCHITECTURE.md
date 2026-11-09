@@ -4,10 +4,15 @@
 Public-facing archive for Ana Seahawk.
 
 ## Lanes
-- `README.md`: front door and navigation.
-- `Foundations/`: worldview, lineage, orientation texts.
+- `index.html`: visual homepage, existing introduction and Reading Room.
+- `README.md`: repository index.
+- `About/`: The Life Behind the Work, with Foundations linked beneath it.
+- `Ways-of-Living/`: ecological writing and The Body as Home essays.
+- `Map/`: overview of available public reading.
+- `work-with-ana/`: conversations, workshops and booking.
+- `Foundations/`: existing lineage article, reached through About; its address is preserved. Other source material remains subject to review.
 - `The-Living-Year/`: redirect surface for the temporal framework.
-- `The-Vessel/`: displayed publicly as **The Living Record**; public companion archive for backstory, dreams, journal, and temporal framework.
+- `The-Vessel/`: legacy companion archive retained at its existing paths; removed from homepage and Map navigation. This release opens only the reviewed story under About.
 - `archive/`: draft generated living-map pilot. It uses metadata to show entries chronologically and by thread without moving the source files or replacing the reader paths.
 - `ACCESS_BOUNDARIES.md`: operational meaning of `public`, `community`, and
   `private` before publishing or paid-access work.
@@ -19,7 +24,8 @@ Public-facing archive for Ana Seahawk.
 - Public repo keeps bounded summaries and orientation.
 - Sensitive operational detail is migrated to private repo: `the-vessel`.
 - Frontmatter visibility is not access control; see `ACCESS_BOUNDARIES.md`.
-- Public-facing language uses **The Living Record** for the companion archive and **The Vessel** for the private source/access container.
+- Public navigation is **About / Reading Room / Map / Work with Ana**. The private source container remains The Vessel.
+- `site-menu-v1.css`, `navigation-v2.css` and `navigation-v2.js` provide the shared menu. The mobile menu opens with a button, closes with Escape, and leaves links available when JavaScript is disabled.
 
 ## Workflow
 1. Draft and clean.

@@ -13,7 +13,11 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
-- `index.html` — primary visual site front door. Mother Spirit and The Water of Life remain open; Sovereign Biophysics now opens through its book index, with direct homepage paths to **Golden Lexicon** and **How to Read This Archive**. Foundations, Relationship, and The Vessel remain held without links.
+- `index.html` — published simplified navigation on 2026-11-09 after Ana reviewed the mobile preview. Existing introduction retained; About added; Reading Room holds Ways of Living and Sovereign Biophysics. The separate Golden Lexicon feature and Living Record/Foundations cards are removed.
+- `About/index.html` — published The Life Behind the Work, with Foundations/Freedom Is Love beneath it, approved 2026-11-09.
+- `Ways-of-Living/index.html` — published short orientation and links to the two existing Body as Home essays. Longer introduction, Urbaculture, Biophilia Living Design and Place Readings remain in development.
+- `Map/index.html` — mirrors the released About/Reading Room/Work with Ana structure; related sites and forthcoming writing are secondary.
+- `Foundations/freedom-is-love.html` — existing public article, now reached through About, with its address preserved.
 - `README.md` — repository-facing site index.
 - `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon**, **Manifesto of the Clear Mirror**, **The First Water**, **Women of Alchemy**, **The Jar Held to the Light**, **Shivambu**, and **How to Read This Archive** are open, while all other chapter and archive-room links remain held closed.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
@@ -30,9 +34,9 @@ All Markdown sources under `sovereign-biophysics-distillation/` are excluded fro
 
 ---
 
-## The Living Record
+## Legacy companion material
 
-Public companion layer: dreams, body, time, backstory, and the life behind Sovereign Biophysics.
+Retained source paths below are not opened by the About release. The Living Record label is removed from homepage and Map navigation.
 
 - `The-Vessel/backstory/the-record.md`
 - `The-Vessel/living-year.md`
@@ -139,5 +143,5 @@ Public summaries may be created later only when Ana explicitly approves the boun
 ## Cleanup Notes
 
 - The old public `sovereign-biophysics-distillation/the-vessel.md` route is retired.
-- Public companion material is now displayed as **The Living Record**.
+- The current personal entry is **About**. The legacy Living Record paths remain intact but are not a top-level navigation destination.
 - Private/source material is now referred to as **the private Vessel**.

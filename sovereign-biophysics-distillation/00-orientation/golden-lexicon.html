@@ -553,6 +553,7 @@ hr.div {
 <link rel="stylesheet" href="../chapter-v1.css">
 <link rel="stylesheet" href="../golden-lexicon-chapter-v1.css">
   <link rel="stylesheet" href="/site-menu-v1.css">
+  <link rel="stylesheet" href="/navigation-v2.css">
 </head>
 <body class="lexicon-page">
 <a class="skip-link" href="#chapter">Skip to the chapter</a>
@@ -560,13 +561,8 @@ hr.div {
 <header class="book-masthead">
   <nav class="shell site-nav" aria-label="Reading room navigation">
     <div class="site-brand"><a class="wordmark" href="/">Ana Seahawk</a><a class="site-section" href="/sovereign-biophysics-distillation/">Sovereign Biophysics</a></div>
-      <div class="nav-context site-menu">
-      <a href="/#reading-room">Reading Room</a>
-        <a href="/Map/">Map</a>
-        <a class="site-menu__book" href="/work-with-ana/">Work with Ana</a>
-        <button class="theme-toggle" type="button" aria-label="Switch to dark theme" aria-pressed="false"><span class="theme-toggle__track" aria-hidden="true"><span class="theme-toggle__sun">✦</span><span class="theme-toggle__moon">☾</span><span class="theme-toggle__knob"></span></span><span class="visually-hidden theme-toggle__label">Switch to dark theme</span></button>
-    </div>
-  </nav>
+      <div class="nav-context site-menu" id="primary-menu"><a href="/About/">About</a><a href="/#reading-room" aria-current="page">Reading Room</a><a href="/Map/">Map</a><a href="/work-with-ana/">Work with Ana</a></div>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-menu">Menu <span aria-hidden="true">☰</span></button><button class="theme-toggle" type="button" aria-label="Switch to dark theme" aria-pressed="false"><span class="theme-toggle__track" aria-hidden="true"><span class="theme-toggle__sun">✦</span><span class="theme-toggle__moon">☾</span><span class="theme-toggle__knob"></span></span><span class="visually-hidden theme-toggle__label">Switch to dark theme</span></button></nav>
 </header>
 
 <!-- HERO -->
@@ -1642,5 +1638,6 @@ hr.div {
   <p><a href="/">Return to Ana Seahawk</a></p>
 </footer>
 <script src="../../theme-v1.js" defer></script>
+  <script src="/navigation-v2.js" defer></script>
 </body>
 </html>
