@@ -30,3 +30,9 @@ Ana reviewed the private mobile navigation preview and approved applying it to t
 Chromium passed 114 combinations across 19 routes, widths 320/390/1440, and light/dark themes. Checks include horizontal overflow, menu access and Escape dismissal, About/Foundations flow, both essay return paths, theme switching, no-JavaScript navigation, preserved introduction and subscription form, and local asset responses. Third-party services were blocked during automated checks; no form submission or booking was made.
 
 The preview's mobile/desktop visual review remains applicable; the live port preserves that design. Shared chapter changes are limited to navigation and its assets. `tests/navigation.mjs` provides a repeatable browser check; instructions are in README.
+
+## Subsequent homepage introduction update
+
+Ana approved the two proposed homepage paragraphs with “Yes let's do that.” The opening line “Returning to what was never absent.” is retained. The introduction names Ana as an Amaroli practitioner, independent researcher and explorer, connects her personal practice to Sovereign Biophysics, and places that inquiry within her work with plants, food, water and living spaces.
+
+Scope: `index.html` introduction only, plus review queue and the existing browser assertion updated to the approved text. This approval does not change the proposed consultation copy on Work with Ana. The text describes personal practice without treatment claims or instructions. No raw measurements, links, filenames, forms or media changed. The existing public homepage remains the intended destination. Spelling and exact approved wording checked; release recorded in the review queue.

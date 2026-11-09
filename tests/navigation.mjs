@@ -27,7 +27,7 @@ try {
   }
  }
  await page.setViewportSize({width:390,height:844});await page.goto(base+'/');
- assert.equal(await page.locator('.intro-copy > p').first().textContent(),'Research, practice and relationship become forms through which the intelligence of the body can be observed, given language and space to live and evolve.');
+ assert.equal(await page.locator('.intro-copy > p').first().textContent(),'Ana is an Amaroli practitioner, independent researcher and explorer. Her relationship with the body’s own waters has become the heart of Sovereign Biophysics, an evolving body of writing and research grounded in personal practice.');
  assert.equal(await page.locator('#reading-room .room-card').count(),2);
  assert.equal(await page.locator('.feature-lexicon').count(),0);
  assert.equal(await page.locator('form[action="https://app.kit.com/forms/9877706/subscriptions"]').count(),1);
@@ -43,5 +43,5 @@ try {
  assert.deepEqual(failures,[]);
  const noJS=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});const plain=await noJS.newPage();await plain.goto(base+'/');
  for(const name of ['About','Reading Room','Map','Work with Ana'])assert.ok(await plain.locator('#primary-menu').getByRole('link',{name,exact:true}).isVisible(),`no-JS link ${name}`);
- console.log(`PASS: ${paths.length*3*2} page/viewport/theme combinations; menu/Escape; story/Foundation and essay return paths; theme toggle; original intro and subscription form; no-JS menu; local assets.`);
+ console.log(`PASS: ${paths.length*3*2} page/viewport/theme combinations; menu/Escape; story/Foundation and essay return paths; theme toggle; approved intro and subscription form; no-JS menu; local assets.`);
 } finally {await browser.close();}

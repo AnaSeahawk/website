@@ -13,7 +13,7 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
-- `index.html` — published simplified navigation on 2026-11-09 after Ana reviewed the mobile preview. Existing introduction retained; About added; Reading Room holds Ways of Living and Sovereign Biophysics. The separate Golden Lexicon feature and Living Record/Foundations cards are removed.
+- `index.html` — published simplified navigation on 2026-11-09 after Ana reviewed the mobile preview. Introduction subsequently updated with Ana’s approved Amaroli practitioner wording; About added; Reading Room holds Ways of Living and Sovereign Biophysics. The separate Golden Lexicon feature and Living Record/Foundations cards are removed.
 - `About/index.html` — published The Life Behind the Work, with Foundations/Freedom Is Love beneath it, approved 2026-11-09.
 - `Ways-of-Living/index.html` — published short orientation and links to the two existing Body as Home essays. Longer introduction, Urbaculture, Biophilia Living Design and Place Readings remain in development.
 - `Map/index.html` — mirrors the released About/Reading Room/Work with Ana structure; related sites and forthcoming writing are secondary.
