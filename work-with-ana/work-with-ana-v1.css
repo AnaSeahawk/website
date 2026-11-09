@@ -413,3 +413,32 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
 .workshop-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; }
 
 .reading-column > ul.offer-list + p { margin-top: 1.6rem; }
+
+.guest-words { margin: 0 0 2.2rem; padding: 0; }
+.guest-words blockquote {
+  margin: 0;
+  padding: 0.9rem 0 0.9rem 1.1rem;
+  border-left: 2px solid var(--gold);
+}
+.guest-words blockquote + blockquote { margin-top: 0.8rem; }
+.guest-words blockquote p {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 1.15rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+.guest-words cite {
+  display: block;
+  margin-top: 0.4rem;
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  font-style: normal;
+  letter-spacing: 0.02em;
+}
+.guest-words figcaption {
+  margin-top: 1rem;
+  color: var(--ink-soft);
+  font-family: var(--display);
+  font-style: italic;
+}
