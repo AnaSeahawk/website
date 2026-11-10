@@ -27,7 +27,7 @@ try {
   }
  }
  await page.setViewportSize({width:390,height:844});await page.goto(base+'/');
- assert.equal(await page.locator('.intro-copy > p').first().textContent(),'Ana is an Amaroli practitioner, independent researcher and explorer. Her foundation in herbalism has grown into a sustained study of Ayurveda. Her relationship with the body’s own waters has become the heart of Sovereign Biophysics, an evolving body of writing and research grounded in personal practice.');
+ assert.equal(await page.locator('.intro-copy > p').first().textContent(),'Ana is a Shivambu (urine therapy) practitioner, independent researcher and explorer. Her foundation in herbalism has grown into a sustained study of Ayurveda. Her relationship with the body’s own waters has become the heart of Sovereign Biophysics, an evolving body of writing and research grounded in personal practice.');
  assert.equal(await page.locator('#reading-room .room-card').count(),2);
  assert.equal(await page.locator('.feature-lexicon').count(),0);
  assert.equal(await page.locator('form[action="https://app.kit.com/forms/9877706/subscriptions"]').count(),1);

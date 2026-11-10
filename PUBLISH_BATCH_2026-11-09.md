@@ -54,3 +54,19 @@ Only the three opening paragraphs were replaced with the approved two paragraphs
 Ana requested that both the homepage and Work with Ana show how her beginnings in herbalism grew into Ayurveda. The homepage adds: “Her foundation in herbalism has grown into a sustained study of Ayurveda.” The consultation paragraph extends its existing study sentence with “from herbalism into Ayurveda.”
 
 These additions describe Ana’s learning rather than a clinical qualification or treatment offer. No instructions, measurements, links, forms or media changed. The existing homepage browser assertion is updated to the new wording. Review queue reflects the requested additions at the same public addresses.
+
+## Learning-led About revision and Shivambu naming
+
+Ana approved the in-chat draft and explicitly requested publication with these corrections: Shivambu replaces Amaroli on About and the homepage; Dominion Herbal College is named for Chartered Herbalist studies; PADI Divemaster replaces the scuba teaching account; MED A3 and dangerous-cargo work transporting explosives for remote road building are included.
+
+The About Markdown source and HTML now carry the same approved narrative about learning through materials, water, the body, design and nomadic living. Visible dates and relationship history are omitted; mother and grandmother remain. The existing Foundations section and navigation are preserved. Existing homepage copy is retained apart from the requested practice-name substitution. No other page body is changed.
+
+### Verification and release boundaries
+
+- [Dominion Herbal College](https://www.dominionherbalcollege.com/programs/chartered-herbalist) confirms the Chartered Herbalist program and its British Columbia address. The narrative does not infer current clinical credentials from the course.
+- [Transport Canada, TP 4957E](https://tc.canada.ca/sites/default/files/migrated/tp4957e.pdf), chapters 1, 3 and 7, identifies MED A3 as Small Non-Pleasure Vessel Basic Safety, provided through recognized institutions under Marine Safety standards. The story names the standards authority without inventing Ana’s training provider or implying MED A3 alone is an operator licence.
+- [PADI](https://www.padi.com/education/professional) uses the spelling Divemaster. Ana’s account supplies her personal training and work history; the revision does not state that she taught scuba diving.
+- Personal practice remains personal testimony, without treatment instructions or general efficacy claims. Raw measurements are not involved. No review excerpts, ratings, private accounts or new media are added.
+- Existing public status, visibility and claim tier remain; source and rendered story are checked for parity. Links and canonical routes remain stable; new institutional links were opened during verification. Review queue and homepage browser assertion updated.
+
+Validation: Chromium passed all 114 page/viewport/theme combinations. A focused content check confirmed every requested correction, absence of the removed chronology and scuba-teaching account, and unchanged HTML outside the About story. The story is 883 words.
