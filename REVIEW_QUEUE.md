@@ -13,11 +13,13 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
+- `Shivambu/index.html` — published 2026-11-13 with Ana’s approval: introductory writing, three workshop links, conversations and the Sovereign Biophysics research connection. Third Reading Room entry; Map mirrors it.
+
 - `work-with-ana/index.html` — consultation introduction revised on 2026-11-09 to the approved two concise paragraphs: Shivambu (Urine Therapy), Sovereign Biophysics and alchemy, followed by wider subjects including nomadic and minimalist living. Repeated biographical opening removed; the basis in independent study now names the progression from herbalism into Ayurveda.
 
-- `index.html` — published simplified navigation on 2026-11-09 after Ana reviewed the mobile preview. Introduction subsequently updated with Ana’s approved Shivambu practitioner wording and her requested progression from herbalism into Ayurveda; About added; Reading Room holds Ways of Living and Sovereign Biophysics. The separate Golden Lexicon feature and Living Record/Foundations cards are removed.
+- `index.html` — published simplified navigation on 2026-11-09 after Ana reviewed the mobile preview. Introduction subsequently updated with Ana’s approved Shivambu practitioner wording and her requested progression from herbalism into Ayurveda; About added; Reading Room now holds Shivambu, Ways of Living and Sovereign Biophysics. The separate Golden Lexicon feature and Living Record/Foundations cards are removed.
 - `About/index.html` and `About/the-life-behind-the-work.md` — approved learning-led revision of The Life Behind the Work published 2026-11-09: chronological dates and relationship history removed; professional studies named; Dominion Herbal College and MED A3 terminology verified; PADI Divemaster wording replaces scuba teaching; Shivambu names the practice. Foundations/Freedom Is Love remains beneath the story.
-- `Ways-of-Living/index.html` — published short orientation and links to the two existing Body as Home essays. Longer introduction, Urbaculture, Biophilia Living Design and Place Readings remain in development.
+- `Ways-of-Living/index.html` — The Body as Home holds Somatic Awareness; Home & Habitat names forthcoming Urbaculture and Place Readings. The existing body-waters article keeps its address, is presented as Shivambu / Beginning with the Body’s Own Waters, and returns to `/Shivambu/`.
 - `Map/index.html` — mirrors the released About/Reading Room/Work with Ana structure; related sites and forthcoming writing are secondary.
 - `Foundations/freedom-is-love.html` — existing public article, now reached through About, with its address preserved.
 - `README.md` — repository-facing site index.

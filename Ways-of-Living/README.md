@@ -15,8 +15,11 @@ Food, plants, movement and the spaces we inhabit are part of everyday life. The 
 ## The Body as Home
 
 - [Somatic Awareness](the-body-as-home/somatic-awareness.html)
-- [Beginning with the Body’s Own Waters](the-body-as-home/beginning-with-the-bodys-own-waters.html)
 
-Further writing: Urbaculture, Biophilia Living Design and Place Readings.
+## Home & Habitat
+
+Further writing: Urbaculture and Place Readings.
+
+[Shivambu](https://anaseahawk.com/Shivambu/): the body’s own waters, introductory writing, workshops and conversations.
 
 [Reading Room](https://anaseahawk.com/#reading-room) · [Work with Ana](https://anaseahawk.com/work-with-ana/)

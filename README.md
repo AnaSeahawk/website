@@ -5,7 +5,7 @@ Living as Art.
 [anaseahawk.com](https://anaseahawk.com/)
 
 - [About](https://anaseahawk.com/About/): The Life Behind the Work, with Foundations and Freedom Is Love.
-- [Reading Room](https://anaseahawk.com/#reading-room): Ways of Living and Sovereign Biophysics.
+- [Reading Room](https://anaseahawk.com/#reading-room): Shivambu, Ways of Living and Sovereign Biophysics.
 - [Map](https://anaseahawk.com/Map/): the available reading and its connections.
 - [Work with Ana](https://anaseahawk.com/work-with-ana/): conversations and workshops.
 
