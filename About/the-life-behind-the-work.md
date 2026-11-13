@@ -35,7 +35,7 @@ Fermentation became one answer. A discovery of fermented fruit preparations led 
 
 At the Vivarium in George Town, an urban apartment became a place to explore living design through use. Shade, opening windows and airflow supported life without air conditioning. Herbs, moringa and hanging plants shared space with cooking, laundry and guests. Light, privacy, food and the handling of household remnants had to work together. In Luang Prabang, container-based experiments with Bokashi, humanure and the Phoenix Fly (*Hermetia illucens*, known as the Black Soldier Fly) extended that attention to what leaves a household and how it enters other living processes.
 
-These experiences give Urbaculture and Biophilia Living Design their practical ground. Connection with nature can be present in tending a plant, preparing food, understanding a material or changing how a room is used. An existing home offers many places to participate.
+These experiences inform her work with homes and urban spaces: how a place supports cooking, resting, creating and everyday life. Connection with nature can be present in tending a plant, preparing food, choosing materials or changing how a room is used. This attention carries into her Place Readings, where the space and the life happening within it are considered together.
 
 Shivambu has become a particularly compelling part of this continuing exploration. Her personal practice with the body’s own waters underlies Sovereign Biophysics, bringing sustained observation into conversation with Ayurveda, alchemy and independent research. It is the newest expression of her work and the inquiry she is most passionate about sharing.
 
