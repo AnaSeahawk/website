@@ -19,7 +19,7 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 - `index.html` — published simplified navigation on 2026-11-09 after Ana reviewed the mobile preview. Introduction subsequently updated with Ana’s approved Shivambu practitioner wording and her requested progression from herbalism into Ayurveda; About added; Reading Room now holds Shivambu, Ways of Living and Sovereign Biophysics. The separate Golden Lexicon feature and Living Record/Foundations cards are removed.
 - `About/index.html` and `About/the-life-behind-the-work.md` — approved learning-led revision of The Life Behind the Work published 2026-11-09: chronological dates and relationship history removed; professional studies named; Dominion Herbal College and MED A3 terminology verified; PADI Divemaster wording replaces scuba teaching; Shivambu names the practice. Foundations/Freedom Is Love remains beneath the story.
-- `Ways-of-Living/index.html` — The Body as Home holds Somatic Awareness; Home & Habitat names forthcoming Urbaculture and Place Readings. The existing body-waters article keeps its address, is presented as Shivambu / Beginning with the Body’s Own Waters, and returns to `/Shivambu/`.
+- `Ways-of-Living/index.html` — The Body as Home holds Somatic Awareness; Home & Habitat links the published Urbaculture essay and the existing Place Readings offer. The existing body-waters article keeps its address, is presented as Shivambu / Beginning with the Body’s Own Waters, and returns to `/Shivambu/`.
 - `Map/index.html` — mirrors the released About/Reading Room/Work with Ana structure; related sites and forthcoming writing are secondary.
 - `Foundations/freedom-is-love.html` — existing public article, now reached through About, with its address preserved.
 - `README.md` — repository-facing site index.
@@ -149,3 +149,7 @@ Public summaries may be created later only when Ana explicitly approves the boun
 - The old public `sovereign-biophysics-distillation/the-vessel.md` route is retired.
 - The current personal entry is **About**. The legacy Living Record paths remain intact but are not a top-level navigation destination.
 - Private/source material is now referred to as **the private Vessel**.
+
+## 2026-11-14 — Urbaculture
+
+- `Ways-of-Living/home-and-habitat/urbaculture.html` and `.md` — published/public/aptopadesha. Approved in chat for website publication; exact approved essay preserved. Ways of Living and Map link to the essay. Place Readings companion remains in drafting.
