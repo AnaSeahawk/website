@@ -13,6 +13,8 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
+- 2026-11-14 tidy release: Place Readings carries “For hosts on Airbnb”; booking cards use the `20minutes`, `60minutes` and `90minutes` Cal.com events (90 minutes now open); the Home Circle card has no date; unlinked Markdown drafts and working documents are excluded from the build in `_config.yml`; the Inanna pointer in Women of Alchemy is removed until that chapter opens. See `PUBLISH_BATCH_2026-11-14.md`.
+
 - `Shivambu/index.html` — published 2026-11-13 with Ana’s approval: introductory writing, three workshop links, conversations and the Sovereign Biophysics research connection. Third Reading Room entry; Map mirrors it.
 
 - `work-with-ana/index.html` — consultation introduction revised on 2026-11-09 to the approved two concise paragraphs: Shivambu (Urine Therapy), Sovereign Biophysics and alchemy, followed by wider subjects including nomadic and minimalist living. Repeated biographical opening removed; the basis in independent study now names the progression from herbalism into Ayurveda.

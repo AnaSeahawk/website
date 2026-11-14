@@ -458,3 +458,12 @@ a.map-name:hover, a.map-name:focus-visible { color: var(--gold); text-decoration
 .topic-links a:hover, .topic-links a:focus-visible { border-color: var(--gold); color: var(--gold); }
 #conversations, #workshops, #groups, #book, #nomadic-living, #shivambu, #as-above-so-below,
 #the-body-as-home, #urbaculture, #biophilia, #soil-makers { scroll-margin-top: 1.5rem; }
+
+/* A single booking card standing alone, as in the hosts section of Place Readings. */
+.booking-grid--single {
+  grid-template-columns: minmax(0, 22rem);
+  background: none;
+  border: 0;
+  margin-top: 1.6rem;
+}
+.booking-grid--single .booking-card { border: 1px solid var(--line); }

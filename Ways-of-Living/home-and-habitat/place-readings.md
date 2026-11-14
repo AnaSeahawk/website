@@ -44,3 +44,13 @@ The conversation works with the place as it is, alongside the budget, permission
 Urbaculture gives these observations their wider setting: cultivating a habitat through participation, care and pleasure. A Place Reading brings that attention to a particular doorway, room, window and daily routine.
 
 A place becomes more usable—and more personal—as the life within it finds room.
+
+## For hosts on Airbnb
+
+Ana knows Airbnb from both sides of the door. She hosted her own listing from 2016 to 2019, co-hosted remotely for a client in British Columbia for several years, and helped a host in Vietnam arrange and photograph her rooms, write the listing and get set up on the platform. All three became Superhost listings, well booked and warmly reviewed. For the past two years, Airbnb homes in many countries have been her own home.
+
+A reading for hosts looks at the listing and the place together: what the photographs and description show, how a guest arrives and settles in, and whether the rooms hold what a stay needs, from the bed to the kitchen. It brings out what the place already offers, so the listing can show it clearly and warmly.
+
+Most of this happens in conversation, online. Hands-on help with rooms, photographs and listing text can be arranged. When travels pass nearby, a reading can happen in person, by staying in the place itself, and a stay in exchange for the work is welcome.
+
+A 20-minute first conversation is the place to begin, to see whether it is a fit: https://cal.com/anaseahawk/20minutes
