@@ -339,3 +339,27 @@ a.door:focus-visible {
 .now-card b { font-family: var(--display); font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 600; line-height: 1.1; }
 .now-card p { margin: 0; color: var(--ink-soft); }
 .now-card__go { color: var(--ink); font-weight: 600; text-decoration: underline; text-decoration-color: var(--door-gather); text-underline-offset: 0.25em; }
+
+/* Room pages (Shivambu, Ways of Living): one lamp lit, then three doors */
+.room-page .room { border-top: 0; padding-top: 0; }
+.room-page .room > div > p { color: var(--ink); font-size: 1.08rem; }
+.room-page .doors { margin-top: clamp(2.5rem, 5vw, 3.5rem); }
+.door__list { margin: 0.2rem 0 0; padding: 0; list-style: none; }
+.door__list li { padding: 0.55rem 0; border-top: 1px solid var(--line); }
+.door__list a { color: var(--ink); font-family: var(--display); font-size: 1.22rem; font-weight: 600; text-decoration-color: var(--line); text-underline-offset: 0.22em; }
+.door__list a:hover { text-decoration-color: var(--door-accent); }
+.door__list small { display: block; color: var(--ink-soft); font-size: 0.82rem; }
+
+/* A calmer rhythm on text pages: shorter title band, less empty space between sections */
+.page-hero { padding: clamp(3rem, 7vw, 5.5rem) 0 clamp(2.5rem, 5vw, 4rem); }
+.page-hero ~ .chapter-section { padding-block: clamp(2.5rem, 6vw, 4.5rem); }
+.page-hero + .chapter-section { padding-top: clamp(3rem, 7vw, 5rem); }
+
+/* The Living Year roundel: the Sun and Moon within the four seasons */
+.hero-with-mark { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: clamp(1.5rem, 4vw, 3rem); }
+.ly-roundel { width: clamp(10rem, 22vw, 17rem); height: auto; }
+.gift-mark { display: block; width: clamp(7rem, 13vw, 10rem); height: auto; margin: 0 auto 1.6rem; }
+@media (max-width: 40rem) {
+  .hero-with-mark { grid-template-columns: minmax(0, 1fr); }
+  .ly-roundel { order: -1; width: 8.5rem; }
+}
