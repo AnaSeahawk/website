@@ -313,3 +313,29 @@ a.door:focus-visible {
 }
 .living-year .reading-shell > h2:first-child { margin-top: 0; }
 .living-year .reading-shell > h3 { margin: 2.5rem 0 0.4rem; font-family: var(--display); font-size: 1.7rem; font-weight: 600; }
+
+/* Gathering now: a featured date on The Living Year */
+.now-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  margin: 1.2rem 0 0;
+  padding: 1.5rem 1.6rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--door-gather);
+  text-decoration: none;
+  transition: box-shadow 180ms ease, border-color 180ms ease;
+}
+.now-card:hover, .now-card:focus-visible { border-color: var(--door-gather); box-shadow: var(--interactive-shadow); }
+.now-card__when {
+  color: var(--gold);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.now-card b { font-family: var(--display); font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 600; line-height: 1.1; }
+.now-card p { margin: 0; color: var(--ink-soft); }
+.now-card__go { color: var(--ink); font-weight: 600; text-decoration: underline; text-decoration-color: var(--door-gather); text-underline-offset: 0.25em; }
