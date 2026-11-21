@@ -1,0 +1,341 @@
+/* The new shape (November 2026): three doors, the sky line, Circles in the
+   seasons, the guide, and the threshold at the foot of each page.
+   Read is verdigris, Gather is gold, Talk is plum. */
+
+:root {
+  --door-gather: var(--gold);
+  --door-read: var(--verdigris);
+  --door-talk: #6e4f69;
+}
+:root[data-theme='dark'] {
+  --door-talk: #b293ad;
+}
+
+/* The sky line */
+.sky-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.9rem;
+  align-items: baseline;
+  margin: 0;
+  padding: 0.85rem 0;
+  color: var(--ink-soft);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-variant-numeric: tabular-nums;
+}
+.sky-line b { color: var(--gold); font-weight: 600; }
+.sky-band { border-bottom: 1px solid var(--line); background: var(--surface-wash); }
+.sky-band .sky-line { margin-inline: auto; }
+.page-sky { margin-bottom: 1.6rem; padding: 0; }
+
+/* The three doors */
+.doors {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: clamp(2.5rem, 6vw, 4rem);
+}
+.door {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  min-width: 0;
+  padding: 1.8rem 1.7rem 1.6rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--door-accent);
+  text-decoration: none;
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+a.door:hover,
+a.door:focus-visible {
+  transform: translateY(-3px);
+  border-color: var(--door-accent);
+  box-shadow: var(--interactive-shadow);
+}
+.door--gather { --door-accent: var(--door-gather); }
+.door--read { --door-accent: var(--door-read); }
+.door--talk { --door-accent: var(--door-talk); }
+.door__verb {
+  color: var(--door-accent);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+.door h3 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: clamp(1.9rem, 3vw, 2.4rem);
+  font-weight: 600;
+  line-height: 1.05;
+}
+.door p { margin: 0; color: var(--ink-soft); font-size: 0.97rem; }
+.door__next {
+  margin-top: auto !important;
+  padding-top: 1rem;
+  border-top: 1px solid var(--line);
+  color: var(--ink) !important;
+  font-size: 0.92rem !important;
+}
+.door__next span {
+  display: block;
+  color: var(--ink-soft);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+/* The gift at the door */
+.gift {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr);
+  gap: clamp(2rem, 5vw, 4rem);
+  align-items: center;
+}
+.gift h2 {
+  margin: 0.4rem 0 0.8rem;
+  font-family: var(--display);
+  font-size: clamp(2.3rem, 4.4vw, 3.4rem);
+  font-weight: 500;
+  line-height: 1;
+}
+.gift p { margin: 0 0 0.9rem; color: var(--ink-soft); }
+.gift .journal-line { color: var(--ink); }
+
+.gift-letter h2 { margin: 0.4rem 0 0.9rem; }
+.gift-letter p + p { margin-top: 0.9rem; }
+.gift-letter .eyebrow { color: var(--gold-bright); }
+
+/* Sister sites, in one line */
+.sisters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.6rem;
+  align-items: baseline;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: var(--display);
+  font-size: 1.3rem;
+}
+.sisters a { color: var(--ink); text-decoration-color: var(--line); text-underline-offset: 0.25em; }
+.sisters a:hover { text-decoration-color: var(--gold); }
+.sisters small { display: block; color: var(--ink-soft); font-family: var(--body); font-size: 0.82rem; }
+
+/* The threshold at the foot of a page */
+.threshold {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  margin: 0;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+.threshold a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  min-width: 0;
+  padding: 1.4rem 1.5rem;
+  color: var(--ink);
+  background: var(--paper);
+  text-decoration: none;
+}
+.threshold a:hover, .threshold a:focus-visible { background: var(--surface-wash); }
+.threshold span {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.threshold .t-gather span { color: var(--door-gather); }
+.threshold .t-read span { color: var(--door-read); }
+.threshold .t-talk span { color: var(--door-talk); }
+.threshold b { font-family: var(--display); font-size: 1.45rem; font-weight: 600; line-height: 1.15; }
+
+/* Dated list: fixed dates on the calendar */
+.dated {
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+.dated li {
+  display: grid;
+  grid-template-columns: 9.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.dated time {
+  color: var(--gold);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  line-height: 1.5;
+}
+.dated time small { display: block; color: var(--ink-soft); font-weight: 400; font-size: 0.85rem; }
+.dated b { font-family: var(--display); font-size: 1.35rem; font-weight: 600; }
+.dated p { margin: 0.2rem 0 0; color: var(--ink-soft); }
+
+/* Circles in the seasons */
+.seasons {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.season {
+  min-width: 0;
+  padding: 1.5rem 1.5rem 0.6rem;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--season-accent);
+}
+.season--spring { --season-accent: #416f60; }
+.season--summer { --season-accent: #a77b19; }
+.season--autumn { --season-accent: #713f34; }
+.season--winter { --season-accent: #6e4f69; }
+:root[data-theme='dark'] .season--spring { --season-accent: #70a08f; }
+:root[data-theme='dark'] .season--summer { --season-accent: #d3aa55; }
+:root[data-theme='dark'] .season--autumn { --season-accent: #b06f61; }
+:root[data-theme='dark'] .season--winter { --season-accent: #b293ad; }
+.season h3 { margin: 0; font-family: var(--display); font-size: 1.8rem; font-weight: 600; line-height: 1.1; }
+.season .gate {
+  margin: 0.25rem 0 0.8rem;
+  color: var(--ink-soft);
+  font-size: 0.84rem;
+  font-variant-numeric: tabular-nums;
+}
+.circle-list { margin: 0; padding: 0; list-style: none; }
+.circle-list li { padding: 0.8rem 0; border-top: 1px solid var(--line); }
+.circle-list b { display: block; font-family: var(--display); font-size: 1.25rem; font-weight: 600; line-height: 1.2; }
+.circle-list span { color: var(--ink-soft); font-size: 0.93rem; }
+.circle-list a { color: inherit; }
+
+/* Circle and subject index */
+.subjects {
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+.subjects li {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  gap: 0.6rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.subjects .mark { color: var(--gold); font-family: var(--display); font-size: 1.4rem; line-height: 1.3; }
+.subjects b { font-family: var(--display); font-size: 1.35rem; font-weight: 600; }
+.subjects p { margin: 0.25rem 0 0; color: var(--ink-soft); }
+.subjects .kind {
+  margin-left: 0.5rem;
+  color: var(--gold);
+  font-family: var(--body);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* Writing: rooms with one lamp lit */
+.rooms { display: grid; gap: clamp(2.5rem, 6vw, 4rem); margin-top: 1rem; }
+.room {
+  display: grid;
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+  gap: clamp(1.5rem, 4vw, 3.5rem);
+  padding-top: 1.6rem;
+  border-top: 4px solid var(--room-accent, var(--gold));
+}
+.room--gold { --room-accent: var(--gold); }
+.room--verdigris { --room-accent: var(--verdigris); }
+.room--plum { --room-accent: var(--door-talk); }
+.room--oxblood { --room-accent: var(--oxblood); }
+.room h2 {
+  margin: 0 0 0.7rem;
+  font-family: var(--display);
+  font-size: clamp(2.2rem, 4vw, 3.1rem);
+  font-weight: 500;
+  line-height: 1;
+}
+.room h2 a { color: inherit; text-decoration: none; }
+.room h2 a:hover { text-decoration: underline; text-decoration-color: var(--room-accent); }
+.room > div > p { margin: 0 0 0.9rem; color: var(--ink-soft); }
+.lamp {
+  align-self: start;
+  display: block;
+  padding: 1.4rem 1.5rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--room-accent, var(--gold));
+  text-decoration: none;
+}
+.lamp:hover, .lamp:focus-visible { box-shadow: var(--interactive-shadow); }
+.lamp span {
+  color: var(--room-accent, var(--gold));
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.lamp b { display: block; margin: 0.35rem 0; font-family: var(--display); font-size: 1.55rem; font-weight: 600; line-height: 1.15; }
+.lamp p { margin: 0; color: var(--ink-soft); font-size: 0.95rem; }
+.shelf { margin: 1.1rem 0 0; padding: 0; list-style: none; }
+.shelf li { padding: 0.55rem 0; border-top: 1px solid var(--line); }
+.shelf a { color: var(--ink); }
+
+@media (max-width: 860px) {
+  .doors { grid-template-columns: minmax(0, 1fr); }
+  .gift, .room { grid-template-columns: minmax(0, 1fr); }
+  .seasons { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 560px) {
+  .threshold { grid-template-columns: minmax(0, 1fr); }
+  .dated li { grid-template-columns: minmax(0, 1fr); gap: 0.2rem; }
+}
+
+/* The Living Year page headings */
+.living-year .reading-shell > h2 {
+  margin: 3rem 0 1.2rem;
+  font-family: var(--display);
+  font-size: clamp(2.3rem, 4.4vw, 3.3rem);
+  font-weight: 500;
+  line-height: 1.02;
+}
+.living-year .reading-shell > h2:first-child { margin-top: 0; }
+.living-year .reading-shell > h3 { margin: 2.5rem 0 0.4rem; font-family: var(--display); font-size: 1.7rem; font-weight: 600; }
+
+/* Gathering now: a featured date on The Living Year */
+.now-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  margin: 1.2rem 0 0;
+  padding: 1.5rem 1.6rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--door-gather);
+  text-decoration: none;
+  transition: box-shadow 180ms ease, border-color 180ms ease;
+}
+.now-card:hover, .now-card:focus-visible { border-color: var(--door-gather); box-shadow: var(--interactive-shadow); }
+.now-card__when {
+  color: var(--gold);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.now-card b { font-family: var(--display); font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 600; line-height: 1.1; }
+.now-card p { margin: 0; color: var(--ink-soft); }
+.now-card__go { color: var(--ink); font-weight: 600; text-decoration: underline; text-decoration-color: var(--door-gather); text-underline-offset: 0.25em; }
