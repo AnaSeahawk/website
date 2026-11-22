@@ -360,8 +360,22 @@ a.door:focus-visible {
 .ly-roundel { width: clamp(10rem, 22vw, 17rem); height: auto; }
 .gift-mark { display: block; width: clamp(7rem, 13vw, 10rem); height: auto; margin: 0 auto 1.6rem; }
 .writing-painting { width: clamp(18rem, 42vw, 34rem); height: auto; }
+.about-portrait { width: clamp(16rem, 38vw, 30rem); height: auto; border-radius: 3px; }
 @media (max-width: 40rem) {
   .hero-with-mark { grid-template-columns: minmax(0, 1fr); }
   .ly-roundel { order: -1; width: 8.5rem; }
   .writing-painting { order: -1; width: 100%; }
+  .about-portrait { width: 100%; }
+}
+
+/* About: photographs set within the story */
+.story-figure { margin: 2.2em 0 2.4em; }
+.story-figure img { display: block; width: 100%; height: auto; border-radius: 3px; }
+.story-figure figcaption { margin-top: .7em; font-family: var(--body); font-style: italic; font-size: .92rem; line-height: 1.5; color: var(--ink-soft); }
+.story-figure--trio .trio { display: grid; grid-template-columns: 1.15fr 1fr 1fr; gap: .5rem; }
+.story-figure--trio img { aspect-ratio: 4 / 3; object-fit: cover; }
+.story-figure--small { max-width: 26rem; margin-left: auto; margin-right: auto; }
+@media (max-width: 40rem) {
+  .story-figure--trio .trio { grid-template-columns: 1fr 1fr; }
+  .story-figure--trio .trio img:first-child { grid-column: 1 / -1; }
 }
