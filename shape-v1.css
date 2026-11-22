@@ -379,3 +379,7 @@ a.door:focus-visible {
   .story-figure--trio .trio { grid-template-columns: 1fr 1fr; }
   .story-figure--trio .trio img:first-child { grid-column: 1 / -1; }
 }
+
+/* Ways of Living: the opening essay */
+.story-prose .verse { margin: 1.6em 0 1.8em; padding-left: 1.2em; border-left: 2px solid var(--line, currentColor); font-style: italic; }
+.story-prose .verse p { margin: 0; }
