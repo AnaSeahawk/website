@@ -360,10 +360,12 @@ a.door:focus-visible {
 .ly-roundel { width: clamp(10rem, 22vw, 17rem); height: auto; }
 .gift-mark { display: block; width: clamp(7rem, 13vw, 10rem); height: auto; margin: 0 auto 1.6rem; }
 .writing-painting { width: clamp(18rem, 42vw, 34rem); height: auto; }
+.about-portrait { width: clamp(16rem, 38vw, 30rem); height: auto; border-radius: 3px; }
 @media (max-width: 40rem) {
   .hero-with-mark { grid-template-columns: minmax(0, 1fr); }
   .ly-roundel { order: -1; width: 8.5rem; }
   .writing-painting { order: -1; width: 100%; }
+  .about-portrait { width: 100%; }
 }
 
 /* About: photographs set within the story */
