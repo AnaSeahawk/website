@@ -161,4 +161,4 @@ Public summaries may be created later only when Ana explicitly approves the boun
 ## 2026-11-23 — A Room for Living
 
 - `Ways-of-Living/home-and-habitat/a-room-for-living.html` and `.md` — published/public/aptopadesha with Ana’s approval. Illustrated companion page for Urbaculture, connected in sequence to Urbaculture and Place Readings, and listed from Ways of Living and The Writing.
-- `assets/urbaculture/a-room-for-living.jpg` — supplied illustration; accessible descriptive alt text and caption included on the page.
+- `assets/urbaculture/a-room-for-living-v1.jpg` — supplied illustration; accessible descriptive alt text and caption included on the page.

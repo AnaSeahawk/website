@@ -13,7 +13,7 @@ claim_tier: aptopadesha
 
 *Making room for everyday life*
 
-![A hand-drawn view of a small apartment arranged for two: one person works at a laptop beside a broad window, while another prepares food in the compact kitchen. Everyday dishes are visible on open shelves, books and kitchenware share a bookcase, and the room retains an open area of floor.](/assets/urbaculture/a-room-for-living.jpg)
+![A hand-drawn view of a small apartment arranged for two: one person works at a laptop beside a broad window, while another prepares food in the compact kitchen. Everyday dishes are visible on open shelves, books and kitchenware share a bookcase, and the room retains an open area of floor.](/assets/urbaculture/a-room-for-living-v1.jpg)
 
 *A small home arranged for work, meals, books, and life together.*
 
