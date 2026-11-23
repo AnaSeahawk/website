@@ -1,8 +1,8 @@
 ---
-date: 2026-11-14
-sun: 23º Scorpio
-moon: 21º Capricorn
-moon-phase: Waxing crescent
+date: 2026-11-23
+sun: 2º Sagittarius
+moon: 21º Taurus
+moon-phase: Full moon
 type: orientation
 status: published
 visibility: public
@@ -13,44 +13,80 @@ claim_tier: aptopadesha
 
 *Living with What Is Here*
 
-We are always part of nature. A home can make that relationship easier to feel and participate in.
+![Six hand-drawn plates: Culture is Cultivated, showing inherited and cultivated strands woven together; A Room for Living, a plant-filled room with natural fibres, a simple kitchen and open floor; Sun, Shade, and Moving Air, showing a woven screen, cross ventilation and a high vent; Materials in Motion, comparing a conventional grow–eat–flush–treat–discharge loop with a grow–eat–collect–compost–soil loop; Eco Enzyme, fruit peels, sugar and water fermenting over about three months; and The Vivarium, a shaded, vine-covered tropical patio.](/assets/urbaculture/urbaculture-plates-v1.jpg)
 
-Air moves through a room. Water passes through our hands. Sunlight warms a patch of floor. Even high above the street, in an apartment surrounded by buildings, these relationships continue. How we arrange and inhabit a space can bring them into everyday awareness.
+*Plates are illustrative. All design is site-specific.*
 
-Urbaculture begins with the places we already live: apartments, houses, rented rooms and the spaces between them. Within what is already built, there are possibilities for cultivating a habitat—somewhere to participate in the living world through ordinary acts of care, creativity and pleasure.
+Culture is inherited, but it is also cultivated.
 
-A space can be composed. Furniture, plants, useful objects and favourite colours find their places together. There are passages for movement, places to gather, somewhere to leave a drawing unfinished. The arrangement develops through use: a chair moves toward the morning light, a table becomes a place to work with the hands, a clear stretch of floor invites dancing.
+The word *culture* reaches back to the Latin *colere*: to cultivate, tend, and inhabit. Its meanings have grown to include the customs, beliefs, and identities through which people understand themselves and one another. Yet culture is not a finished possession. It is made, tended, questioned, and changed.
 
-Christopher Alexander’s pattern language gives names to some of these familiar relationships. *Window Place*, *Cooking Layout* and *Things from Your Life* connect the design of a space with sitting, preparing food and living among meaningful belongings. They offer starting points for considering a particular room and the life happening there.
+A person may remove every garment and still be clothed in inherited beliefs, fears, prejudices, and expectations, some so familiar they are hardly noticed. What remains when those garments begin to fall away?
 
-A kitchen needs room to create. A preparation surface, a mixing bowl and suitable cookware make different meals possible. Belongings placed within reach become available for use and enjoyment. What makes an arrangement useful depends on the people who inhabit it, their interests and the rhythms of their days.
+Differences can be recognized without making strangers of one another. The freedom to question what is inherited opens room to cultivate something new.
 
-Windows bring another set of relationships into the composition. A view, an opening, privacy, shade. A screen can make a breeze welcome while keeping insects outside. Curtains and plants shape the light that enters. Wind stirs a vine, its shadow moves across the wall, and a hanging textile gives the air a visible form. After sunset, moonlight or a streetlamp can cast the moving shadows of patio trees into a room.
+## Cultivating a Habitat
 
-There is play in this. Movement outside catches someone’s attention inside. A breeze reaches the skin. A shifting pattern invites a pause, a movement, perhaps a dance. The surroundings become part of what happens in the room.
+Urbaculture is not about bringing nature back into the home.
 
-Cultivating a habitat also means returning to things as they change. A plant grows toward the window. Soil dries and is watered. New leaves appear. There is familiarity in these encounters, and room for curiosity.
+Nature never left.
 
-Eco Enzyme and Bokashi offer other examples of tending a process at home: fruit peels gathered for a cleaning ferment, kitchen remnants entering a managed composting process. Each involves attention over time. Their place in a household depends on the facilities, interest and care available. A shared compost bin or a single plant may suit another home.
+Sunlight warms a floor. Air moves through a window. Water passes through pipes and hands. Plants grow toward the light, while countless living processes continue beyond sight. A home is already participating in the living world.
 
-Care can be shared among partners, friends, neighbours and family members. Children can have a place in it too, with plants they can reach and suitable small tasks they can take part in. Someone staying for a few days may join an existing rhythm. Someone looking after a home during an absence helps its living elements continue.
+Wind stirs a vine at the window, and its shadow moves across the wall. A hanging textile gives the air a visible form. After sunset, moonlight or a streetlamp can cast the moving shadows of patio trees into a room.
 
-There is also pleasure without a task attached: sitting beside a plant, speaking to it, enjoying a breeze, singing while preparing food. Participation can be woven into the mundane, giving familiar moments texture and delight.
+The arrangement of a room changes how it feels to inhabit: a chair drawn toward the morning sun, a woven screen softening the afternoon heat, a clear stretch of floor inviting movement and dance. There are places to prepare food, work with the hands, rest, gather, and play. Natural fibres, familiar objects, plants, and useful materials become part of the composition.
 
-The practical details support these experiences. Light over a preparation surface serves a different purpose from a lamp beside a comfortable seat. Softer evening lighting, privacy and darkness each have their place. Exterior shade can intercept sunlight before it reaches the glass; an interior curtain can soften light or screen a room from the street. Climate, orientation and daily use shape the choices.
+Christopher Alexander called these recurring relationships between space and daily life a pattern language. A sunny place to sit in the morning is one such pattern. It holds across climates, even as its form changes.
 
-Materials contribute through touch, appearance and care. Wood, stone, bamboo, coconut fibre, cotton and linen bring different qualities, with suitability depending on moisture, wear and maintenance. A comfortable surface beneath bare feet or a well-loved object that can be repaired becomes part of the pleasure of inhabiting a place.
+There is an art to creating a habitat that welcomes living rather than merely accommodating it.
 
-Household care shapes the sensory environment too. Fewer added fragrances leave room for subtler sensations: damp soil after watering, nearby plants, food being prepared. Cleaning involves choices about what is needed for a task and what remains afterward.
+## What Is Being Cultivated?
 
-Water carries those choices beyond the room. Conservation includes the amount used, how effectively it serves its purpose and what accompanies it down the drain. The position and spray of a shower affect how easily someone can wash. The products used at the sink become part of the water leaving it. Care for a home extends through these everyday relationships.
+Every flush sets something in motion. Water carries the materials of the body into pipes, tanks, treatment systems, and soil. Nothing disappears simply because it has passed beyond sight. The relationship exists whether or not it receives attention.
 
-The Vivarium in George Town, Penang, was one small composition within these possibilities. An existing tropical apartment, opening windows and a limited budget provided the setting. Plants, fabric screens, shade and furniture were arranged together. Vines at the windows and small trees on the patio brought growth, movement and shifting shadows into daily life.
+For about a year, I explored humanure composting and collected urine separately for fertilizer. An ordinary toilet became something to tend, dusted with dry organic material rather than flushed. There was something almost comical about it.
 
-Tending the space involved the attention of both artist and curator: arranging, observing, making adjustments and caring for what was growing. Its inhabitants and the different people who passed through lived with its changes and shared its care. Travellers and caregivers sustained it between stays.
+At the same time, I was making Eco Enzyme from citrus peels and pineapple skins, using the aromatic ferments for household cleaning.
 
-That composition belonged to a particular place and period. The same apartment approached today could take a different form. Every household brings its own pleasures, constraints and possibilities.
+A crack in the property's septic field brought an unexpected observation. The familiar sewage odour gradually gave way to something reminiscent of fermented pineapple and orange peel.
 
-A habitat develops through this exchange. We arrange a place, respond to it, and gradually learn what it can hold. A plant needs more room. A child finds a favourite corner. A familiar task becomes enjoyable because there is space to do it.
+It fascinated me.
 
-The relationship is already there. Daily life gives it expression.
+A pleasant smell could not establish what was happening within the system or whether the wastewater was safe. But the experience changed the questions I was asking. Could familiar systems be approached differently? What might happen when materials are separated, treated, transformed, or returned through other carefully tended processes?
+
+Taking the septic out of the septic field became an exploration of conditions rather than a rejection of decomposition itself.
+
+A compost vessel, a wastewater field, a fermenting jar, and a garden are all places where materials move and transform. Cultivation is always happening. The question is what conditions are being cultivated, and what grows from them.
+
+## The Living Household
+
+Fruit peels fermenting in a vessel. Kitchen remnants entering a Bokashi system. Milk becoming kefir. A vine shading a window. Rainwater finding its way into a garden.
+
+These are small relationships, yet each invites attention to temperature, moisture, air, materials, and time.
+
+A household has a culture. So does a kitchen, a workshop, a garden, or a neighbourhood.
+
+The Vivarium in George Town, Penang, became one expression of this understanding. Within an existing tropical apartment, with opening windows and a limited budget, plants, shade, fabric screens, and everyday furnishings were brought into relationship. Light shifted. Vines grew. Travellers arrived and departed. The household changed with the people and living things passing through it.
+
+![Living room with daybed, woven textiles, bamboo blinds, and an open door to the plant-filled patio.](/assets/urbaculture/vivarium-living-v1.jpg)
+![Open corner windows hung with jute sack screens and climbing vines.](/assets/urbaculture/vivarium-window-v1.jpg)
+![Tiled patio of potted plants with floor cushions and a low tea table.](/assets/urbaculture/vivarium-patio-v1.jpg)
+
+*The Vivarium, George Town, Penang*
+
+It was never a finished composition. The same home approached today might take an entirely different form.
+
+And so could I.
+
+## The Art of Cultivating
+
+A garden cannot stay alive by refusing to grow. Neither can a culture.
+
+What we cultivate does not, by itself, define us. What matters is the relationship entered into through the act of cultivating. There is freedom in this: freedom to reconsider familiar habits, explore other possibilities, and change without disowning everything that came before.
+
+Nothing has to be earned before beginning. A home already belongs to the living world, and so do we. Cultivation is what happens within that belonging.
+
+Urbaculture is more than the cultivation of urban spaces. It is the conscious cultivation of relationships within the living world. Not the pursuit of a perfect life, but the practice of making one.
+
+Care begins with attention to the relationships already present. Daily life gives them expression.

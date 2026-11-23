@@ -162,3 +162,9 @@ Public summaries may be created later only when Ana explicitly approves the boun
 
 - `Ways-of-Living/home-and-habitat/a-room-for-living.html` and `.md` — published/public/aptopadesha with Ana’s approval. Illustrated companion page for Urbaculture, connected in sequence to Urbaculture and Place Readings, and listed from Ways of Living and The Writing.
 - `assets/urbaculture/a-room-for-living-v1.jpg` — supplied illustration; accessible descriptive alt text and caption included on the page.
+
+## 2026-11-23 — Urbaculture revision
+
+- `Ways-of-Living/home-and-habitat/urbaculture.html` and `.md` — revised essay published/public/aptopadesha with Ana's approval; replaces the 2026-11-14 text at the same address.
+- `assets/urbaculture/urbaculture-plates-v1.jpg` — Ana's six-plate illustration; descriptive alt text and caption included.
+- `assets/urbaculture/vivarium-living-v1.jpg`, `vivarium-window-v1.jpg`, `vivarium-patio-v1.jpg` — Ana's Vivarium photographs from the Soil Makers archive.
