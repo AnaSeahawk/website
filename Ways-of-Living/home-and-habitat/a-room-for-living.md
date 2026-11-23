@@ -15,9 +15,9 @@ claim_tier: aptopadesha
 
 ![A hand-drawn view of a small apartment arranged for two: one person works at a laptop beside a broad window, while another prepares food in the compact kitchen. Everyday dishes are visible on open shelves, books and kitchenware share a bookcase, and the room retains an open area of floor.](/assets/urbaculture/a-room-for-living-v1.jpg)
 
-*A small home arranged for work, meals, books, and life together.*
+*A home is a framework for living.*
 
-A home is a framework for living. The room matters through what it makes possible: a meal prepared together, work near the window, a book within reach, a little floor left open.
+The room matters through what it makes possible: a meal prepared together, work near the window, a book within reach, a little floor left open.
 
 I grew up around building and renovation. My parents built two houses and renovated homes and retail spaces. I designed and built a home of my own, and have taken part in making and remaking places throughout my life. Years of travel have brought me into many different rooms. Some are arranged so life settles in easily. Others leave you wondering where your things—or the day itself—can go.
 
