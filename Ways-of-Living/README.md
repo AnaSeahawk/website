@@ -18,7 +18,7 @@ Food, plants, movement and the spaces we inhabit are part of everyday life. The 
 
 ## Home & Habitat
 
-Further writing: Urbaculture and Place Readings.
+Further writing: Urbaculture, A Room for Living, and Place Readings.
 
 [Shivambu](https://anaseahawk.com/Shivambu/): the body’s own waters, introductory writing, workshops and conversations.
 

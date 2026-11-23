@@ -8,7 +8,7 @@ Public-facing archive for Ana Seahawk.
 - `README.md`: repository index.
 - `About/`: The Life Behind the Work, with Foundations linked beneath it.
 - `Shivambu/`: reader entry for introductory writing, workshops, private conversations and the Sovereign Biophysics research archive.
-- `Ways-of-Living/`: The Body as Home and Home & Habitat, including Urbaculture and Place Readings under `Ways-of-Living/home-and-habitat/`. The Shivambu introduction retains its original address here and returns to the Shivambu entry.
+- `Ways-of-Living/`: The Body as Home and Home & Habitat, including Urbaculture, A Room for Living, and Place Readings under `Ways-of-Living/home-and-habitat/`. The Shivambu introduction retains its original address here and returns to the Shivambu entry.
 - `Writing/`: the writing in rooms, each with one piece to begin with. `Map/` now forwards here.
 - `conversations/`: one-to-one conversations, subjects and booking. `work-with-ana/` and `Consultations/` forward here, anchors kept.
 - `Foundations/`: existing lineage article, reached through About; its address is preserved. Other source material remains subject to review.

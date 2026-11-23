@@ -157,3 +157,8 @@ Public summaries may be created later only when Ana explicitly approves the boun
 - `Ways-of-Living/home-and-habitat/urbaculture.html` and `.md` — published/public/aptopadesha. Approved in chat for website publication; exact approved essay preserved. Ways of Living and Map link to the essay. Place Readings companion subsequently approved and published in the same day’s second release.
 
 - `Ways-of-Living/home-and-habitat/place-readings.html` and `.md` — published/public/aptopadesha following explicit approval. Exact reviewed essay; connected from Urbaculture, Ways of Living, Map and Work with Ana.
+
+## 2026-11-23 — A Room for Living
+
+- `Ways-of-Living/home-and-habitat/a-room-for-living.html` and `.md` — published/public/aptopadesha with Ana’s approval. Illustrated companion page for Urbaculture, connected in sequence to Urbaculture and Place Readings, and listed from Ways of Living and The Writing.
+- `assets/urbaculture/a-room-for-living.jpg` — supplied illustration; accessible descriptive alt text and caption included on the page.
