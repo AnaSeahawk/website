@@ -29,3 +29,11 @@ Ana approved both private previews for release. *Before and After the Still* add
 - Both HTML editions retain the approved wording. The source Markdown and its metadata remain in place.
 - The Experiments and Dictionary cards are the two public entry points from the wider archive.
 - The Dictionary edition is marked `published`, `public`, `anumana`. The Experiments edition remains `pratyaksha`.
+
+## At the Still
+
+Ana approved the Method opening after reviewing the private preview. The page describes the apparatus and the observed choices around starting material, run timing, and what was collected. The Method card opens this single-page account.
+
+- The reading edition carries the approved wording and the observed batch sizes, named equipment, and distinctions among whole distillate, fractions and retentate.
+- The page is marked `published`, `public`, `pratyaksha`. The sixteen existing Markdown sources retain their metadata.
+- Discovery: Home → The Writing → Sovereign Biophysics → The wider archive → Method.
