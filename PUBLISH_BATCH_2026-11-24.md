@@ -1,5 +1,9 @@
 # Publish Batch — 2026-11-24
 
+## A Living Field homepage artwork
+
+Ana approved the daylight painting for release above “A living field” on the homepage. The original artwork uses emerald ridges and sunlit water to suggest a shoulder and heart. Both theme settings use the same painting. Two WebP sizes support narrow and wide screens, and the image has descriptive alternative text.
+
 ## Two Samples from One Day
 
 Ana approved the revised single-page reading edition and its closing question. The Experiments card in the wider archive opens the June 18 record. Method and measurement notes sit alongside the observations on the same page.
