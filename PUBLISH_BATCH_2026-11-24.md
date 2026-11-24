@@ -16,3 +16,12 @@ Ana approved the combined reading edition after reviewing the private preview. J
 - The June 10 table pairs the fresh and distilled pH and conductivity readings for each batch. The note on different measurement temperatures accompanies the table.
 - The previously distilled material is described in a separate paragraph, and the edition closes with a question about repeatability.
 - The approval covers the combined HTML edition. The two source records retain their existing metadata.
+
+## Three-record Experiments edition and Dictionary opening
+
+Ana approved both private previews for release. *Before and After the Still* adds the June 20 comparison and includes the final edits to the earlier records. Its established address stays in use. The Dictionary opens with distillate, spirit, essence, and serum and places the alchemical qualities beside the material definitions.
+
+- The June 20 readings compare the spirit from separate runs of one aged urine blend. The copy distinguishes the essence readings and the single serum measurement.
+- Both HTML editions retain the approved wording. The source Markdown and its metadata remain in place.
+- The Experiments and Dictionary cards are the two public entry points from the wider archive.
+- The Dictionary edition is marked `published`, `public`, `anumana`. The Experiments edition remains `pratyaksha`.
