@@ -88,7 +88,7 @@ Retained source paths below are not opened by the About release. The Living Reco
 
 ### Method, Experiments, Analysis, Synthesis
 
-- `sovereign-biophysics-distillation/20-experiments/two-samples-from-one-day.html` — Ana approved the single-page June 18 reading edition and opening the Experiments card on 2026-11-24. See `PUBLISH_BATCH_2026-11-24.md`.
+- `sovereign-biophysics-distillation/20-experiments/two-samples-from-one-day.html` — Published as *Before and After the Still*, the approved combined June 18 and June 10 reading edition, on 2026-11-24. The Experiments card opens the two records on one page. See `PUBLISH_BATCH_2026-11-24.md`.
 - `sovereign-biophysics-distillation/10-method/before-you-begin.md`
 - `sovereign-biophysics-distillation/10-method/on-sodium-chloride.md`
 - `sovereign-biophysics-distillation/10-method/ambrosia-diet.md`
