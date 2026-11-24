@@ -25,7 +25,7 @@ For the operational meaning of `public`, `community`, and `private`, see
 - `Map/index.html` — mirrors the released About/Reading Room/Work with Ana structure; related sites and forthcoming writing are secondary.
 - `Foundations/freedom-is-love.html` — existing public article, now reached through About, with its address preserved.
 - `README.md` — repository-facing site index.
-- `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon**, **Manifesto of the Clear Mirror**, **The First Water**, **Women of Alchemy**, **The Jar Held to the Light**, **Shivambu**, and **How to Read This Archive** are open, while all other chapter and archive-room links remain held closed.
+- `sovereign-biophysics-distillation/index.html` — public book index with the approved gold-and-silver emblem; **Golden Lexicon**, **Manifesto of the Clear Mirror**, **The First Water**, **Women of Alchemy**, **The Jar Held to the Light**, **Shivambu**, and **How to Read This Archive** are open, while Chapters VII–XII remain in refinement. Analysis and Experiments are open in the wider archive.
 - `sovereign-biophysics-distillation/README.md` — repository-facing Sovereign Biophysics index.
 - `sovereign-biophysics-distillation/00-orientation/golden-lexicon.html` — public designed reading edition of the Golden Lexicon; linked from the Sovereign Biophysics index after visual, source, safety, and navigation review on 2026-09-05.
 - `sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html` — public designed reading edition of Chapter II; approved and linked from the Sovereign Biophysics index on 2026-09-06.
@@ -88,6 +88,7 @@ Retained source paths below are not opened by the About release. The Living Reco
 
 ### Method, Experiments, Analysis, Synthesis
 
+- `sovereign-biophysics-distillation/20-experiments/two-samples-from-one-day.html` — Ana approved the single-page June 18 reading edition and opening the Experiments card on 2026-11-24. See `PUBLISH_BATCH_2026-11-24.md`.
 - `sovereign-biophysics-distillation/10-method/before-you-begin.md`
 - `sovereign-biophysics-distillation/10-method/on-sodium-chloride.md`
 - `sovereign-biophysics-distillation/10-method/ambrosia-diet.md`
