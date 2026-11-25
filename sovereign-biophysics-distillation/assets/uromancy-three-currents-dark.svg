@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1215" width="640" height="1215" role="img" aria-labelledby="t d">
+<title id="t">Three currents into the Lunar King, and its line of descent</title>
+<desc id="d">Three source traditions flow into the Lunar King: Greco-Arabic urine inspection and loanwords from Khrom and Tazig; Chinese five-element geomancy and tortoise cosmology; and the Indic three-doṣa theory that forms most of the text. From the Lunar King the line runs to the twelfth-century Four Tantras (Last Tantra, chapter 2), to Desi Sangye Gyatso's medical paintings of 1687 to 1697, and to clinical and household practice recorded in the twentieth and twenty-first centuries.</desc>
+<style>
+  .ink{fill:#2b2420}.soft{fill:#5f5348}.box{fill:#f6eedd}.boxk{fill:#e9d9a8}
+  .edge{stroke:#9a6b1f}.flow{stroke:#3d5a6b}.flowf{fill:#3d5a6b}
+  .a{fill:#7a4b8c}.b{fill:#a2452f}.c{fill:#3f7a52}
+    .ink{fill:#efe7da}.soft{fill:#c4b7a5}.box{fill:#2e2620}.boxk{fill:#4a3d22}
+    .edge{stroke:#d9a94e}.flow{stroke:#9cc3d6}.flowf{fill:#9cc3d6}
+    .a{fill:#b58ac6}.b{fill:#d98a73}.c{fill:#86c39b}
+  text{font-family:Georgia,'Noto Serif','DejaVu Serif',serif}
+</style>
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" class="flowf"/>
+  </marker>
+</defs>
+
+<text x="320" y="44" text-anchor="middle" font-size="27" class="ink">Three currents, one text</text>
+<text x="320" y="74" text-anchor="middle" font-size="15" class="soft">what each tradition is documented to have brought to the Lunar King's water</text>
+
+<!-- spine -->
+<path d="M44,170 V650" class="flow" stroke-width="4" fill="none"/>
+<path d="M44,170 H70 M44,330 H70 M44,490 H70" class="flow" stroke-width="4"/>
+
+<!-- A: Khrom / Tazig -->
+<rect x="70" y="100" width="540" height="140" rx="10" class="box"/>
+<rect x="70" y="100" width="10" height="140" rx="3" class="a"/>
+<text x="98" y="134" font-size="21" class="ink" font-weight="bold">Khrom and Tazig · Greco-Arabic</text>
+<text x="98" y="164" font-size="17" class="soft">urine read for colour, foam, clarity, sediment, smell —</text>
+<text x="98" y="188" font-size="17" class="soft">close in content and structure to Ibn Sīnā's Canon</text>
+<text x="98" y="218" font-size="17" class="soft">loanwords: be ci · bad kan · dar ya kan · nal</text>
+
+<!-- B: China -->
+<rect x="70" y="260" width="540" height="140" rx="10" class="box"/>
+<rect x="70" y="260" width="10" height="140" rx="3" class="b"/>
+<text x="98" y="294" font-size="21" class="ink" font-weight="bold">China · rgya nag</text>
+<text x="98" y="324" font-size="17" class="soft">five-element (wu xing) geomancy</text>
+<text x="98" y="348" font-size="17" class="soft">geomantic cosmology mapped onto the body</text>
+<text x="98" y="378" font-size="17" class="soft">the tortoise and its nine squares</text>
+
+<!-- C: India -->
+<rect x="70" y="420" width="540" height="140" rx="10" class="box"/>
+<rect x="70" y="420" width="10" height="140" rx="3" class="c"/>
+<text x="98" y="454" font-size="21" class="ink" font-weight="bold">India · rgya gar</text>
+<text x="98" y="484" font-size="17" class="soft">the three-doṣa ground: wind, bile, phlegm</text>
+<text x="98" y="508" font-size="17" class="soft">most of the text's theory and pharmacy</text>
+<text x="98" y="538" font-size="17" class="soft">— van der Kuijp: "largely Indic in nature"</text>
+
+<path d="M44,650 H200" class="flow" stroke-width="4" fill="none" marker-end="url(#arr)"/>
+
+<!-- Lunar King -->
+<rect x="210" y="600" width="400" height="120" rx="12" class="boxk"/>
+<rect x="210" y="600" width="400" height="120" rx="12" fill="none" class="edge" stroke-width="3"/>
+<text x="410" y="636" text-anchor="middle" font-size="22" class="ink" font-weight="bold">The Lunar King</text>
+<text x="410" y="664" text-anchor="middle" font-size="16" class="ink" font-style="italic">Sman dpyad zla ba'i rgyal po</text>
+<text x="410" y="696" text-anchor="middle" font-size="16" class="soft">8th–12th c. · edited · 112–115 chapters</text>
+
+<path d="M410,722 V770" class="flow" stroke-width="4" marker-end="url(#arr)"/>
+<rect x="110" y="780" width="500" height="100" rx="10" class="box"/>
+<text x="360" y="816" text-anchor="middle" font-size="20" class="ink" font-weight="bold">Four Tantras · Last Tantra, ch. 2</text>
+<text x="360" y="844" text-anchor="middle" font-size="16" class="soft">12th c. · urinalysis, with divination</text>
+<text x="360" y="866" text-anchor="middle" font-size="16" class="soft">for spirit-caused illness (gdon nad)</text>
+
+<path d="M360,882 V930" class="flow" stroke-width="4" marker-end="url(#arr)"/>
+<rect x="110" y="940" width="500" height="100" rx="10" class="box"/>
+<text x="360" y="976" text-anchor="middle" font-size="20" class="ink" font-weight="bold">Desi Sangye Gyatso's paintings</text>
+<text x="360" y="1004" text-anchor="middle" font-size="16" class="soft">Lhasa, 1687–1697 · the Lunar King's urine teachings</text>
+<text x="360" y="1026" text-anchor="middle" font-size="16" class="soft">and tortoise diagrams are painted in</text>
+
+<path d="M360,1042 V1090" class="flow" stroke-width="4" marker-end="url(#arr)"/>
+<rect x="110" y="1100" width="500" height="100" rx="10" class="box"/>
+<text x="360" y="1136" text-anchor="middle" font-size="20" class="ink" font-weight="bold">Village and clinic</text>
+<text x="360" y="1164" text-anchor="middle" font-size="16" class="soft">20th c. · a priest-doctor's bowl in Dolpo;</text>
+<text x="360" y="1186" text-anchor="middle" font-size="16" class="soft">Yeshi Dönden's nine examinations in Dharamsala</text>
+
+</svg>
