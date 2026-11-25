@@ -1,9 +1,9 @@
 # Phoenix development roadmap
 
 - **Updated** · 2026-11-25
-- **Current phase** · 3. Review the first educational plates while refining the captions
+- **Current phase** · 4. Prepare and rehearse the December 19 presentation
 - **Immediate milestone** · December 19, 2026 presentation and personal recording
-- **Next action** · Rehearse the six plates with the first spoken draft. Add one observation from the preceding passage and one from now to the journal plate, then prepare the reusable presentation versions.
+- **Next action** · Read the six speaking cues aloud with their figures. Add a lived observation to the closing if Ana wants one, then prepare the reusable presentation versions.
 
 At the start of each Phoenix session, read this file and take the first unchecked task whose dependencies are met. On completion, check the task, link its evidence or commit, date any new decisions, and update **Current phase** and **Next action**. Keep proposed choices marked until Ana reviews them. The original Phoenix context handoff and the November 25 supplementary handoff remain the source material in Ana's Drive. Cite their sections when needed and keep personal records and unpublished recording material in their appropriate private locations.
 
@@ -86,7 +86,8 @@ The three names are working section labels as well as the agreed conceptual rela
 
 **Depends on** Phase 1 verification, the Phase 2 text and the presentation versions of the Phase 3 plates. This is the deadline path. The website and complete calculator can follow it.
 
-- [ ] Assemble the short educational talk, six plates and worked example into a recording-ready sequence with speaking cues.
+- [x] Assemble the six-part local rehearsal draft with the spoken text, cues and corresponding figures. It includes a complete journal ending and an optional place for a lived detail from Ana.
+- [ ] Rehearse, refine the pauses, and prepare the presentation artwork and final recording cue sequence.
 - [ ] Verify the event and any chart interpretation included, beginning with the Sun and soli-lunar relationship. Check the Moon's sign, relevant angles and aspects, and house or declination claims if used. Keep the chart notes with the private presentation material.
 - [ ] Review the recording format, length, and which excerpts or visuals Ana may want to share. Keep the transit instant, recording time and any publication date distinct.
 
