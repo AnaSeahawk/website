@@ -1,0 +1,15 @@
+{
+  "name": "Ana Seahawk",
+  "anchorArcseconds": 791546,
+  "passage": 136,
+  "passageArcseconds": 964346,
+  "transitUtc": "2026-12-19T18:42:28Z",
+  "timeZone": "America/Mexico_City",
+  "provenance": {
+    "anchor": "Recorded natal Sun longitude in the original chart",
+    "convention": "Apparent geocentric tropical solar longitude",
+    "ephemeris": "Swiss Ephemeris 2.10.03, Swiss data files, verified backend flag",
+    "verification": "Sequential crossing search from the natal anchor and a separate bracketed Moshier search for the final crossing",
+    "precision": "UTC rounded to the nearest second under the recorded chart anchor"
+  }
+}
