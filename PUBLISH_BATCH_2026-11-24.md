@@ -4,6 +4,8 @@
 
 Ana approved the daylight painting for release above “A living field” on the homepage. The original artwork uses emerald ridges and sunlit water to suggest a shoulder and heart. Both theme settings use the same painting. Two WebP sizes support narrow and wide screens, and the image has descriptive alternative text.
 
+Ana approved the framed layout after reviewing the desktop and phone previews. On desktop the painting is inset within the left column above the heading. At phone widths it spans the content column. The thin border and narrow mat use the active theme colors.
+
 ## Two Samples from One Day
 
 Ana approved the revised single-page reading edition and its closing question. The Experiments card in the wider archive opens the June 18 record. Method and measurement notes sit alongside the observations on the same page.
