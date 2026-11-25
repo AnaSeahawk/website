@@ -40,3 +40,7 @@ The Circle card now shows three women in conversation in matching morning and bl
 ## Circle hosts portrait crop
 
 Ana requested the existing portrait of Ana Seahawk, Megan Macdonald, and Fiona Gardner from the [Women’s Shivambu Circle](https://circle.mother-spirit.com/) page. A web copy of the portrait is framed around the three faces inside the existing 3:2 card. The crop, card dimensions, and link work in both themes. The original Circle page was untouched.
+
+## The Phoenix
+
+Ana approved publishing the illustrated reader preview with the educational plates, sunflower comparison, interactive wheel and passage tables. The page is linked from The Living Year. Speaking cues and rehearsal material remain in the working preview.

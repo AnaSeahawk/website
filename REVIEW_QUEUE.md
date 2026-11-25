@@ -13,6 +13,8 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
+- `The-Living-Year/phoenix/index.html` — Ana approved the illustrated reader preview for release on 2026-11-25. Linked from The Living Year before the calendar. The live page includes the interactive wheel and the worked passage tables through August 2036.
+
 - `The-Living-Year/living-waters/index.html` and `The-Living-Year/keeping-the-year/index.html` — Ana approved the compact desktop headers on 2026-11-24. See `PUBLISH_BATCH_2026-11-24.md`.
 
 - `conversations/index.html` and `The-Living-Year/index.html` — Ana approved the revised desktop artwork placement on 2026-11-24. See `PUBLISH_BATCH_2026-11-24.md`.
