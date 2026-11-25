@@ -1,9 +1,9 @@
 # Phoenix development roadmap
 
 - **Updated** · 2026-11-25
-- **Current phase** · 2–4. Refine the reader page and prepare the December 19 recording
+- **Current phase** · 4. Prepare the December 19 recording
 - **Immediate milestone** · December 19, 2026 presentation and personal recording
-- **Next action** · Review the first-person worked example, the 23-year recurrence plate, Keeping the Phoenix, and Phoenix CXXXVI in the revised reader preview before release.
+- **Next action** · Rehearse from the revised live reader page. Develop the personal reflection and any chart interpretation for Phoenix CXXXVI with Ana.
 
 At the start of each Phoenix session, read this file and take the first unchecked task whose dependencies are met. On completion, check the task, link its evidence or commit, date any new decisions, and update **Current phase** and **Next action**. Keep proposed choices marked until Ana reviews them. The original context handoff, supplementary handoff and November 25 Second Editorial and Development Review are in Ana’s Drive. The second review and Ana’s confirmation of the live wheel guide this revision. Cite their sections when needed and keep personal records and unpublished recording material in their appropriate private locations.
 
@@ -20,7 +20,7 @@ At the start of each Phoenix session, read this file and take the first unchecke
 - [x] Published Ana’s approved opening and removed the closing illustration. The closing stands as prose.
 - [x] Ana confirmed on November 25 that the live interactive wheel is visible and the figure-building controls work. [Explore the wheel](https://anaseahawk.com/The-Living-Year/phoenix/#phoenix-visual-study)
 - [x] Prepared the second reader revision for Ana’s review. The first-person worked example, origins, recurrence plate, practice section and factual December entry are in the same page. Verified the three Sagittarius crossings and P180 against Swiss Ephemeris.
-- [ ] Review the second revision with Ana before release. Personalization has its own later increment.
+- [x] Ana approved the second reader revision for publication on November 25. Personalization has its own later increment.
 
 ## What to reuse
 
@@ -66,10 +66,10 @@ The three names are working section labels as well as the agreed conceptual rela
 
 - [x] Use the approved reader preview under The Living Year. The live page connects the personal practice to Ephemeris in the closing section.
 - [x] Draft the spoken sequence around the points and their meaning. The history distinguishes the documented solar-return tradition, the proposed 138-year Archaix interval, and the personal 138° practice described in the Solar Journal reference.
-- [ ] Revise the existing worked example in first person and rename the table section **My life in Phoenix passages**. Preserve the approved opening, the journal marker lines and the historical tables. Keep mathematics, personal observation and astrological interpretation distinct.
-- [ ] Draft **Keeping the Phoenix** as an emerging practice. Use a contextual Ephemeris or existing journal link and leave room for each person’s way of observing.
-- [ ] Move the historical material below the illustrated explanation as **Origins of the Phoenix**. Preserve the references and distinguish Ptolemy’s timing, Abū Maʿshar’s solar revolutions, Archaix’s proposed chronological interval, and Ana’s angular practice.
-- [ ] Review the proposed order from opening through illustrated method and recurrence, origins, wheel, dates, practice, December entry and calculation notes. Update the contents links and keep the ten-year table collapsed.
+- [x] Revise the existing worked example in first person and rename the table section **My life in Phoenix passages**. Preserve the approved opening, the journal marker lines and the historical tables. Keep mathematics, personal observation and astrological interpretation distinct.
+- [x] Draft **Keeping the Phoenix** as an emerging practice. Use a contextual Ephemeris or existing journal link and leave room for each person’s way of observing.
+- [x] Move the historical material below the illustrated explanation as **Origins of the Phoenix**. Preserve the references and distinguish Ptolemy’s timing, Abū Maʿshar’s solar revolutions, Archaix’s proposed chronological interval, and Ana’s angular practice.
+- [x] Review the proposed order from opening through illustrated method and recurrence, origins, wheel, dates, practice, December entry and calculation notes. Update the contents links and keep the ten-year table collapsed.
 - [ ] Agree on the amount of mathematics for beginners, the personal details to include, and which material belongs in the presentation versus the page.
 
 **Complete when** Ana can review one readable draft with a caption and purpose for each plate, and the intended page and presentation text are identified.
@@ -86,9 +86,9 @@ The three names are working section labels as well as the agreed conceptual rela
 - [ ] **Complete Phoenix Geometry** · show the completed figure and the return to origin.
 - [ ] **The Personal Passage** · highlight the verified December point within the full figure and explain its place in the repeating pattern.
 - [x] Keep the closing as prose. The former timeline was removed at Ana’s request.
-- [ ] Add **When the geometry returns**. Draw the complete star polygon with a single shared point for P16, P76 and P136 at 28º Sagittarius (27°52′26″). Label their verified dates and ages 6, 29 and 52, with 23 solar revolutions between them.
-- [ ] Cross-reference the natal longitude at P0, P60 and P120. Calculate P180 precisely if printing a date. Label completed solar revolutions and leave biographical associations for Ana’s recollection.
-- [ ] Keep both sunflower drawings. Briefly explain the 60-step closure of 138° and why the ideal, irrational golden-angle sequence has no exact return. Label the sunflower as a geometrical model.
+- [x] Add **When the geometry returns**. Draw the complete star polygon with a single shared point for P16, P76 and P136 at 28º Sagittarius (27°52′26″). Label their verified dates and ages 6, 29 and 52, with 23 solar revolutions between them.
+- [x] Cross-reference the natal longitude at P0, P60 and P120. Calculate P180 precisely if printing a date. Label completed solar revolutions and leave biographical associations for Ana’s recollection.
+- [x] Keep both sunflower drawings. Briefly explain the 60-step closure of 138° and why the ideal, irrational golden-angle sequence has no exact return. Label the sunflower as a geometrical model.
 
 **Complete when** the published plates and the recurrence plate have reusable vectors where applicable, zodiac glyphs, captions and accessible text equivalents. Check them as a sequence, at phone width and slide size, with readable linework in light and dark. Use the supplement's fine linework and luminous colour direction, with geometry determining the technical marks.
 
@@ -99,7 +99,8 @@ The three names are working section labels as well as the agreed conceptual rela
 - [x] Established that the website page is the presentation. The historical rehearsal draft informed the reader edition.
 - [x] Published the reasons for keeping dates and the historical context of natal timing and annual returns. Collapsed the full ten-year passage list by default in reader release `6fdc59a`.
 - [ ] Rehearse by screen-sharing the live page.
-- [ ] Prepare **Phoenix CXXXVI** using the verified December fixture. Review whether it belongs on the main page or in a linked entry and add the approved reflection and recording when available.
+- [x] Prepare **Phoenix CXXXVI** using the verified December fixture. The factual reference is on the main page.
+- [ ] Add Ana’s approved reflection and recording when available.
 - [ ] Verify the event and any chart interpretation included, beginning with the Sun and soli-lunar relationship. Check the Moon's sign, relevant angles and aspects, and house or declination claims if used. Keep the chart notes with the private presentation material.
 - [ ] Review the recording format, length, and which excerpts or visuals Ana may want to share. Keep the transit instant, recording time and any publication date distinct.
 
