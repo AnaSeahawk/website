@@ -3,7 +3,7 @@
 - **Updated** · 2026-11-25
 - **Current phase** · 4. Prepare and rehearse the December 19 presentation
 - **Immediate milestone** · December 19, 2026 presentation and personal recording
-- **Next action** · Read the six speaking cues aloud with their figures. Add a lived observation to the closing if Ana wants one, then prepare the reusable presentation versions.
+- **Next action** · Rehearse directly from the live Phoenix page. The ten-year passage list opens on demand.
 
 At the start of each Phoenix session, read this file and take the first unchecked task whose dependencies are met. On completion, check the task, link its evidence or commit, date any new decisions, and update **Current phase** and **Next action**. Keep proposed choices marked until Ana reviews them. The original Phoenix context handoff and the November 25 supplementary handoff remain the source material in Ana's Drive. Cite their sections when needed and keep personal records and unpublished recording material in their appropriate private locations.
 
@@ -87,12 +87,13 @@ The three names are working section labels as well as the agreed conceptual rela
 
 **Depends on** Phase 1 verification, the Phase 2 text and the presentation versions of the Phase 3 plates. This is the deadline path. The website and complete calculator can follow it.
 
-- [x] Assemble the six-part local rehearsal draft with the spoken text, cues and corresponding figures. It includes a complete journal ending and an optional place for a lived detail from Ana.
-- [ ] Rehearse, refine the pauses, and prepare the presentation artwork and final recording cue sequence.
+- [x] Established that the website page is the presentation. The historical rehearsal draft informed the reader edition.
+- [x] Published the reasons for keeping dates and the historical context of natal timing and annual returns. Collapsed the full ten-year passage list by default in reader release `6fdc59a`.
+- [ ] Rehearse by screen-sharing the live page.
 - [ ] Verify the event and any chart interpretation included, beginning with the Sun and soli-lunar relationship. Check the Moon's sign, relevant angles and aspects, and house or declination claims if used. Keep the chart notes with the private presentation material.
 - [ ] Review the recording format, length, and which excerpts or visuals Ana may want to share. Keep the transit instant, recording time and any publication date distinct.
 
-**Complete when** the verified event material, slides and a rehearsal-ready outline are available to Ana before the recording, with any sharing decision recorded separately.
+**Complete when** Ana can screen-share the verified and reviewed website page from start to finish and has the recording and sharing decisions in hand.
 
 ### 5. Build the page and interactive instrument
 
@@ -123,7 +124,7 @@ The three names are working section labels as well as the agreed conceptual rela
 | 2026-11-25 | Established | Use **Ana Seahawk** for all display names, including chart labels, captions, filenames and metadata. Prepare any chart artwork from verified data under that name. |
 | 2026-11-25 | Established | Use November 2, 1974 as the worked example and keep the explanation reader-centred. Leave any personal identification of the birth date to the live delivery. Explain Oaxaca as the location used for the local clock and any chart drawn for the passage. |
 | 2026-11-25 | Proposed | Place a golden-angle sunflower comparison beside the interactive wheel. Review its teaching sketch before final artwork. |
-| 2026-11-25 | Established | Prioritize the December 19 presentation. Apply the supplemental editorial and artistic direction to broader website work as well. |
+| 2026-11-25 | Established | Prioritize the December 19 presentation. Use the public Phoenix page as the single reading and speaking edition. Apply the supplemental editorial and artistic direction to broader website work as well. |
 | 2026-11-25 | Proposed | Place Phoenix under The Living Year. Review the link placement, section labels and how the page introduces Ephemeris. |
 | 2026-11-25 | Open | Confirm the depth of the worked example, the personal material usable on the page, the final plate treatment and the recording format. |
 | 2026-11-25 | Open | Confirm the personalized instrument's birth-input policy, scope and ephemeris approach after the geometry explorer is tested. |
