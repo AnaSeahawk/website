@@ -51,4 +51,4 @@ Ana approved the paired paintings in Section XI. The rounded glass flask has fou
 
 ## Phoenix reader edition update
 
-Ana approved the expanded purpose and history sections, with the complete ten-year passage list in a closed disclosure. The Phoenix page serves as both the reader edition and the screen-sharing presentation.
+Ana approved the expanded purpose and history sections, with the complete ten-year passage list in a closed disclosure. The Phoenix page serves as both the reader edition and the screen-sharing presentation. The closing section now stands as prose at Ana’s request.
