@@ -56,3 +56,5 @@ Ana approved the expanded purpose and history sections, with the complete ten-ye
 ## Phoenix second reader revision
 
 Ana approved the reviewed first-person worked example, 23-year recurrence and vector plate, the repositioned origins, and the expanded sunflower comparison. The page now includes Keeping the Phoenix and the factual Phoenix CXXXVI entry. The approved opening, date tables and interactive wheel carry through.
+
+Ana approved the first-return reflection in “When the geometry returns.” The Sagittarius recurrence plate and the natal-return table were preserved. The calculation notes link to Rudhyar’s seed image.
