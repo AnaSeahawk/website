@@ -16,7 +16,8 @@ At the start of each Phoenix session, read this file and take the first unchecke
 - [x] Reproduced P1 through P136 using the chart anchor and Swiss Ephemeris data files. P136 falls at 28º Sagittarius (27°52′26″ Sagittarius) on December 19, 2026 at about 12:42:28 p.m. Oaxaca time (18:42:28 UTC, rounded). A separate root search using Moshier checks the transit within 0.2 seconds. The revised wheel and plate drafts use the exact chart input.
 - [x] Built the reusable [longitude and zodiac module](phoenix/geometry.mjs) with four passing [geometry tests](../tests/phoenix-geometry.mjs).
 - [x] Drafted the six spoken sections and calculated all 135 elapsed passages in UTC, with the first ten open and the rest grouped by decade in Ana’s local review copy. The first passage, the two full returns, and why Oaxaca is on the December slide now have a place in the narration.
-- [ ] Create the educational copy, full plate set, site page and instrument. The public site has no Phoenix page or standalone Ephemeris route in the audited checkout.
+- [x] Published the illustrated reader edition with eight scalable drawings, the interactive wheel, 135 past passages and 26 future passages. Verified the reader path from The Living Year. Release commit `cbdf2ad`. [The Phoenix](https://anaseahawk.com/The-Living-Year/phoenix/)
+- [ ] Prepare the final presentation plates. The personalized calculator has its own later increment.
 
 ## What to reuse
 
@@ -60,7 +61,7 @@ The three names are working section labels as well as the agreed conceptual rela
 
 **Depends on** the route review and the verified foundation for worked numbers. Draft the outline while source verification proceeds.
 
-- [ ] Review the proposed route, section labels, entry link and Ephemeris relationship with Ana.
+- [x] Use the approved reader preview under The Living Year. The live page connects the personal practice to Ephemeris in the closing section.
 - [x] Draft the spoken sequence around the points and their meaning. The history distinguishes the documented solar-return tradition, the proposed 138-year Archaix interval, and the personal 138° practice described in the Solar Journal reference.
 - [ ] Refine the original handoff's educational draft before final artwork. Pair each concept with a figure, a short caption and a text equivalent. Preserve Ana's concrete observations, stories and short statements. Keep mathematical calculation, personal observation and interpretation distinct.
 - [ ] Agree on the amount of mathematics for beginners, the personal details to include, and which material belongs in the presentation versus the page.
@@ -97,9 +98,9 @@ The three names are working section labels as well as the agreed conceptual rela
 
 **Depends on** the approved route, reviewed copy and shared geometry. Use the presentation assets once ready.
 
-- [ ] Assemble the page in the existing site shell with the complete static educational sequence, accessible captions, navigation links and theme-aware assets.
-- [ ] Port the approved wheel interaction into the site. Support one passage at a time, jumping to the full figure and the worked example, and a readable current position. Use the chart-derived input and provide a static fallback for the educational sequence.
-- [ ] Refine the drafted companion sunflower visual for the site. Compare the exact 138° Phoenix step on a fixed ring with the golden angle (about 137.508°) in an outward-growing seed-head model. Show the 0.492° difference and the 60-step return of the Phoenix wheel. Label the seed head as a model and avoid claiming that 138° was derived from the golden angle. [Sunflower head growth model](https://www.sciencedirect.com/science/article/pii/S0025556403001500) · [Observed sunflower seed-head patterns](https://pubmed.ncbi.nlm.nih.gov/27293788/)
+- [x] Assemble the approved reader page in the existing site shell with the complete educational sequence, accessible captions, navigation links and theme-aware vector plates.
+- [x] Port the approved wheel interaction into the site. Support one passage at a time, jumping to the full figure and the worked example, and a readable current position. Use the chart-derived input and provide a static fallback for the educational sequence.
+- [x] Publish the companion sunflower visual within the illustrated talk. Compare the exact 138° Phoenix step on a fixed ring with the golden angle (about 137.508°) in an outward-growing seed-head model. Show the 0.492° difference and the 60-step return of the Phoenix wheel. Label the seed head as a model and avoid claiming that 138° was derived from the golden angle. [Sunflower head growth model](https://www.sciencedirect.com/science/article/pii/S0025556403001500) · [Observed sunflower seed-head patterns](https://pubmed.ncbi.nlm.nih.gov/27293788/)
 - [ ] Plan and build personal calculations as a separate increment. Agree on input requirements, treatment of unknown birth times, historical timezone resolution, ephemeris coverage and licensing, and how birth details will be handled. Validate previous and upcoming passages against verified fixtures. An event chart remains optional.
 
 **Complete when** the static page and geometry explorer work together on the proposed route. Track the personalized calculator independently until it handles supported inputs, boundary cases and error states with reproducible results.
@@ -109,7 +110,7 @@ The three names are working section labels as well as the agreed conceptual rela
 **Depends on** Phase 5 for each release increment. The first review can cover the page and wheel while personal calculations are still in development.
 
 - [ ] Extend the existing browser suite for the route and its inbound and return links. Check 320, 390 and 1440 px widths, light and dark themes, keyboard controls, reduced motion, no-JavaScript reading, glyph rendering, asset loading and overflow.
-- [ ] Review copy and visuals with Ana and follow the site's [review queue](../REVIEW_QUEUE.md) and [publish checklist](../PUBLISH_CHECKLIST.md). Verify the canonical route and assets after an approved release.
+- [x] Review copy and visuals with Ana, record the approved release, and verify the canonical route and assets.
 - [ ] Revisit the recording archive after the first recording. Record the agreed destination if Ana wants a continuing public or private record.
 
 **Complete when** the approved increment passes the browser checks, meets the site's review process and has a verified canonical route. Record the release and the next open increment here.
