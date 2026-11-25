@@ -18,3 +18,9 @@ Ana approved publishing the essay on urine divination in Tibet. It follows how T
 - Links verified, internal links canonical; external source links open (some publishers block automated checks).
 - Metadata: `published`, `public`, `aptopadesha`.
 - Review queue updated.
+
+## Approved cover addition
+
+Ana approved the cover illustration in light and dark palettes. It shows the bowl and its four crossed twigs at a village doorway in Dolpo, with a credit linking to the essay's discussion of Corneille Jest's photograph. The existing chapter layout places the cover beside the title on desktop and below it on smaller screens.
+
+The cover passed local layout and theme checks. The broader navigation suite reproduced a pre-existing mobile homepage menu assertion.
