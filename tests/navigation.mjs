@@ -3,7 +3,10 @@ const {chromium}=await import(process.env.ANA_PLAYWRIGHT_MODULE || 'playwright')
 const base=process.env.ANA_TEST_BASE_URL || 'http://127.0.0.1:18770';
 const tortoisePath='/sovereign-biophysics-distillation/00-orientation/the-tortoise-in-the-bowl.html';
 const tortoiseNotesPath=tortoisePath.replace('.html','-notes.html');
-const paths=['/','/Shivambu/','/About/','/Ways-of-Living/','/Map/','/Foundations/freedom-is-love.html','/Ways-of-Living/the-body-as-home/somatic-awareness.html','/Ways-of-Living/the-body-as-home/beginning-with-the-bodys-own-waters.html','/sovereign-biophysics-distillation/','/sovereign-biophysics-distillation/00-orientation/golden-lexicon.html','/sovereign-biophysics-distillation/00-orientation/how-to-read-this.html','/sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html','/sovereign-biophysics-distillation/00-orientation/shivambu.html','/sovereign-biophysics-distillation/00-orientation/the-first-water.html','/sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.html',tortoisePath,tortoiseNotesPath,'/sovereign-biophysics-distillation/00-orientation/women-of-alchemy.html','/sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.html','/work-with-ana/','/work-with-ana/shivambu-beginning/','/work-with-ana/somatic-awareness/'];
+const paths=['/','/Shivambu/','/About/','/Ways-of-Living/','/Writing/','/conversations/','/The-Living-Year/','/The-Living-Year/keeping-the-year/','/The-Living-Year/living-waters/','/The-Living-Year/shivambu-beginning/','/The-Living-Year/somatic-awareness/','/Foundations/freedom-is-love.html','/Ways-of-Living/the-body-as-home/somatic-awareness.html','/Ways-of-Living/the-body-as-home/beginning-with-the-bodys-own-waters.html','/sovereign-biophysics-distillation/','/sovereign-biophysics-distillation/00-orientation/golden-lexicon.html','/sovereign-biophysics-distillation/00-orientation/how-to-read-this.html','/sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html','/sovereign-biophysics-distillation/00-orientation/shivambu.html','/sovereign-biophysics-distillation/00-orientation/the-first-water.html','/sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.html',tortoisePath,tortoiseNotesPath,'/sovereign-biophysics-distillation/00-orientation/women-of-alchemy.html','/sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.html'];
+const menuLabels=['The Living Year','Writing','Circles & Conversations','About'];
+// Retired URLs are redirect stubs; each must land on its current page.
+const redirects=[['/Map/','/Writing/'],['/work-with-ana/','/conversations/'],['/work-with-ana/shivambu-beginning/','/The-Living-Year/shivambu-beginning/'],['/work-with-ana/somatic-awareness/','/The-Living-Year/somatic-awareness/'],['/Consultations/','/conversations/']];
 const browser=await chromium.launch({executablePath:process.env.ANA_TEST_CHROME || undefined,args:['--no-sandbox']});
 try {
  const context=await browser.newContext({viewport:{width:390,height:844},reducedMotion:'reduce'});
@@ -60,22 +63,24 @@ try {
    if(width<761){
     const button=page.getByRole('button',{name:'Menu'});await button.click();
     assert.equal(await button.getAttribute('aria-expanded'),'true');
-    for(const label of ['About','Reading Room','Map','Work with Ana'])assert.ok(await page.locator('#primary-menu').getByRole('link',{name:label,exact:true}).isVisible());
+    assert.deepEqual(await page.locator('#primary-menu a').allTextContents(),menuLabels,path);
+    for(const label of menuLabels)assert.ok(await page.locator('#primary-menu').getByRole('link',{name:label,exact:true}).isVisible());
     await page.keyboard.press('Escape');assert.equal(await button.getAttribute('aria-expanded'),'false');
    }
   }
  }
  await page.setViewportSize({width:390,height:844});await page.goto(base+'/');
- assert.equal(await page.locator('.intro-copy > p').first().textContent(),'Ana is a Shivambu (urine therapy) practitioner, independent researcher and explorer. Her foundation in herbalism has grown into a sustained study of Ayurveda. Her relationship with the body’s own waters has become the heart of Sovereign Biophysics, an evolving body of writing and research grounded in personal practice.');
- assert.equal(await page.locator('#reading-room .room-card').count(),3);
+ assert.equal(await page.locator('.intro-copy > p').first().textContent(),'The body holds its own mysteries, and its waters offer a doorway into deeper intimacy with oneself.');
+ assert.equal(await page.locator('.doors .door').count(),3);
  assert.equal(await page.locator('.feature-lexicon').count(),0);
  assert.equal(await page.locator('form[action="https://app.kit.com/forms/10224590/subscriptions"]').count(),1);
- await page.locator('.intro-copy').getByRole('link',{name:'About',exact:true}).click();await page.waitForURL('**/About/');
+ await page.locator('.intro-copy').getByRole('link',{name:/The life behind the work/}).click();await page.waitForURL('**/About/');
  await page.locator('#foundations').getByRole('link',{name:/Freedom Is Love/}).click();await page.waitForURL('**/Foundations/freedom-is-love.html');
  await page.getByRole('link',{name:'← About · Foundations',exact:true}).click();await page.waitForURL('**/About/#foundations');
  // Three visible subjects, with the practice introduction returning to its new parent.
  await page.goto(base+'/');
- await page.locator('#reading-room').getByRole('link',{name:/Shivambu/}).click();await page.waitForURL('**/Shivambu/');
+ await page.locator('.doors').getByRole('link',{name:/The Writing/}).click();await page.waitForURL('**/Writing/');
+ await page.locator('main').getByRole('heading',{name:'Shivambu',exact:true}).getByRole('link').click();await page.waitForURL('**/Shivambu/');
  assert.equal(await page.locator('.skip-link').getAttribute('href'),'#main');
  await page.getByRole('link',{name:/Beginning with the Body/}).click();
  await page.waitForURL('**/Ways-of-Living/the-body-as-home/beginning-with-the-bodys-own-waters.html');
@@ -83,23 +88,23 @@ try {
  assert.equal(await page.locator('.hero-deck').textContent(),'Beginning with the Body’s Own Waters');
  assert.equal(await page.locator('.site-section').getAttribute('href'),'/Shivambu/');
  await page.getByRole('link',{name:'← Shivambu',exact:true}).click();await page.waitForURL('**/Shivambu/');
- await page.getByRole('link',{name:/Shivambu: Beginning/}).click();await page.waitForURL('**/work-with-ana/shivambu-beginning/');
- await page.getByRole('link',{name:'Shivambu writing, workshops and research →',exact:true}).click();await page.waitForURL('**/Shivambu/');
- for(const [label,fragment] of [[/Shivambu: The Deeper Work/,'shivambu-deeper-work'],[/The Living Waters/,'living-waters'],[/Conversations with Ana/,'conversations']]){
-  await page.goto(base+'/Shivambu/');await page.getByRole('link',{name:label}).click();
-  await page.waitForURL('**/work-with-ana/#'+fragment);
+ await page.getByRole('link',{name:'First Waters'}).click();await page.waitForURL('**/The-Living-Year/shivambu-beginning/');
+ for(const [label,url,fragment] of [[/Reading the Waters/,'**/The-Living-Year/#circles','circles'],[/The Living Waters/,'**/The-Living-Year/#circles','circles'],[/A conversation/,'**/conversations/#subjects','subjects']]){
+  await page.goto(base+'/Shivambu/');await page.locator('main').getByRole('link',{name:label}).first().click();
+  await page.waitForURL(url);
   assert.equal(await page.locator('#'+fragment).count(),1);
  }
  await page.goto(base+'/Ways-of-Living/');
- assert.equal(await page.getByRole('heading',{name:'Home & Habitat',exact:true}).count(),1);
+ assert.equal(await page.locator('main').getByText('Home & Habitat',{exact:false}).count(),1);
  assert.ok(!(await page.locator('main').textContent()).includes('Biophilia'));
  await page.getByRole('link',{name:/Somatic Awareness/}).click();
  assert.equal(await page.locator('.site-section').getAttribute('href'),'/Ways-of-Living/');
  await page.getByRole('link',{name:'← Ways of Living',exact:true}).click();await page.waitForURL('**/Ways-of-Living/');
- await page.goto(base+'/Map/');await page.locator('.map-review').getByRole('link',{name:'Shivambu',exact:true}).click();await page.waitForURL('**/Shivambu/');
+ for(const [from,to] of redirects){await page.goto(base+from);await page.waitForURL('**'+to);}
+ await page.goto(base+'/Writing/');await page.locator('main').getByRole('heading',{name:'Shivambu',exact:true}).getByRole('link').click();await page.waitForURL('**/Shivambu/');
  const before=await page.locator('html').getAttribute('data-theme');await page.getByRole('button',{name:/Switch to .* theme/}).click();assert.notEqual(await page.locator('html').getAttribute('data-theme'),before);
  assert.deepEqual(failures,[]);
  const noJS=await browser.newContext({javaScriptEnabled:false,viewport:{width:390,height:844}});const plain=await noJS.newPage();await plain.goto(base+'/');
- for(const name of ['About','Reading Room','Map','Work with Ana'])assert.ok(await plain.locator('#primary-menu').getByRole('link',{name,exact:true}).isVisible(),`no-JS link ${name}`);
- console.log(`PASS: ${paths.length*3*2} page/viewport/theme combinations; menu/Escape; story/Foundation and essay return paths; theme toggle; approved intro and subscription form; no-JS menu; local assets.`);
+ for(const name of menuLabels)assert.ok(await plain.locator('#primary-menu').getByRole('link',{name,exact:true}).isVisible(),`no-JS link ${name}`);
+ console.log(`PASS: ${paths.length*3*2} page/viewport/theme combinations; menu/Escape; story/Foundation and essay return paths; theme toggle; current intro, three doors and subscription form; redirect stubs; no-JS menu; local assets.`);
 } finally {await browser.close();}
