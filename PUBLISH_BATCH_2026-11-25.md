@@ -30,3 +30,9 @@ The cover passed local layout and theme checks. The broader navigation suite rep
 Section XI places paired side and overhead views of the bowl before the existing comparison table. The closing section links to the Women’s Shivambu Circle through an original cup-and-notebook illustration in light and dark palettes. The essay text and source notes were preserved.
 
 The structural checker passed. Browser checks verified both additions and the theme toggle at phone and desktop widths.
+
+## Companion notes page and Circle painting
+
+Appendices A and B, Sources & Notes, and the bibliography and figure credits moved intact to `the-tortoise-in-the-bowl-notes.html`. All 119 numbered citation links and the Appendix A cross-reference now lead to the companion page. The essay ends after Section XI and keeps its Golden Lexicon and Sovereign Biophysics Index links.
+
+The Circle card now shows three women in conversation in matching morning and blue-hour paintings. The essay body and the research source Markdown were preserved. Local checks covered both routes, all citation targets, both themes, and phone and desktop layouts.

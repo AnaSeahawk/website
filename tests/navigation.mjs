@@ -2,7 +2,8 @@ import assert from 'node:assert/strict';
 const {chromium}=await import(process.env.ANA_PLAYWRIGHT_MODULE || 'playwright');
 const base=process.env.ANA_TEST_BASE_URL || 'http://127.0.0.1:18770';
 const tortoisePath='/sovereign-biophysics-distillation/00-orientation/the-tortoise-in-the-bowl.html';
-const paths=['/','/Shivambu/','/About/','/Ways-of-Living/','/Map/','/Foundations/freedom-is-love.html','/Ways-of-Living/the-body-as-home/somatic-awareness.html','/Ways-of-Living/the-body-as-home/beginning-with-the-bodys-own-waters.html','/sovereign-biophysics-distillation/','/sovereign-biophysics-distillation/00-orientation/golden-lexicon.html','/sovereign-biophysics-distillation/00-orientation/how-to-read-this.html','/sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html','/sovereign-biophysics-distillation/00-orientation/shivambu.html','/sovereign-biophysics-distillation/00-orientation/the-first-water.html','/sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.html',tortoisePath,'/sovereign-biophysics-distillation/00-orientation/women-of-alchemy.html','/sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.html','/work-with-ana/','/work-with-ana/shivambu-beginning/','/work-with-ana/somatic-awareness/'];
+const tortoiseNotesPath=tortoisePath.replace('.html','-notes.html');
+const paths=['/','/Shivambu/','/About/','/Ways-of-Living/','/Map/','/Foundations/freedom-is-love.html','/Ways-of-Living/the-body-as-home/somatic-awareness.html','/Ways-of-Living/the-body-as-home/beginning-with-the-bodys-own-waters.html','/sovereign-biophysics-distillation/','/sovereign-biophysics-distillation/00-orientation/golden-lexicon.html','/sovereign-biophysics-distillation/00-orientation/how-to-read-this.html','/sovereign-biophysics-distillation/00-orientation/manifesto-clear-mirror.html','/sovereign-biophysics-distillation/00-orientation/shivambu.html','/sovereign-biophysics-distillation/00-orientation/the-first-water.html','/sovereign-biophysics-distillation/00-orientation/the-jar-held-to-the-light.html',tortoisePath,tortoiseNotesPath,'/sovereign-biophysics-distillation/00-orientation/women-of-alchemy.html','/sovereign-biophysics-distillation/30-analysis/analysis-reich-bion-blue-luminosity.html','/work-with-ana/','/work-with-ana/shivambu-beginning/','/work-with-ana/somatic-awareness/'];
 const browser=await chromium.launch({executablePath:process.env.ANA_TEST_CHROME || undefined,args:['--no-sandbox']});
 try {
  const context=await browser.newContext({viewport:{width:390,height:844},reducedMotion:'reduce'});
@@ -41,7 +42,18 @@ try {
     assert.ok(await circleArt.isVisible(),`Circle artwork visible in ${theme}`);
     await circleArt.evaluate(img=>img.decode());
     assert.ok(await circle.locator(`.field-art--${theme==='light'?'dark':'light'} img`).isHidden());
+
+    const notes=page.getByRole('link',{name:'Appendices, Sources & Notes →'});
+    assert.equal(await notes.count(),2);
+    assert.equal(await page.locator('#contents li').count(),11);
+    assert.equal(await page.locator('.essay-sources').count(),0);
+    assert.equal(await page.locator('a.cite').first().evaluate(link=>new URL(link.href).pathname),tortoiseNotesPath);
     await page.evaluate(()=>scrollTo(0,0));
+   }
+   if(path===tortoiseNotesPath){
+    assert.equal(await page.locator('#appendix-a, #appendix-b, #sources').count(),3);
+    assert.equal(await page.locator('.source-list li[id]').count(),25);
+    assert.equal(await page.getByRole('link',{name:'← The Tortoise in the Bowl'}).first().evaluate(link=>new URL(link.href).pathname),tortoisePath);
    }
    if(width<761){
     const button=page.getByRole('button',{name:'Menu'});await button.click();
