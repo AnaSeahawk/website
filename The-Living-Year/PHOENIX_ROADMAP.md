@@ -3,7 +3,7 @@
 - **Updated** · 2026-11-25
 - **Current phase** · 2–4. Refine the reader page and prepare the December 19 recording
 - **Immediate milestone** · December 19, 2026 presentation and personal recording
-- **Next action** · Draft the first-person worked example and the 23-year recurrence section and vector plate. Bring them to Ana for review before release.
+- **Next action** · Review the first-person worked example, the 23-year recurrence plate, Keeping the Phoenix, and Phoenix CXXXVI in the revised reader preview before release.
 
 At the start of each Phoenix session, read this file and take the first unchecked task whose dependencies are met. On completion, check the task, link its evidence or commit, date any new decisions, and update **Current phase** and **Next action**. Keep proposed choices marked until Ana reviews them. The original context handoff, supplementary handoff and November 25 Second Editorial and Development Review are in Ana’s Drive. The second review and Ana’s confirmation of the live wheel guide this revision. Cite their sections when needed and keep personal records and unpublished recording material in their appropriate private locations.
 
@@ -19,7 +19,8 @@ At the start of each Phoenix session, read this file and take the first unchecke
 - [x] Published the illustrated reader edition with the interactive wheel and scalable drawings, 135 past passages and 26 future passages. Verified the reader path from The Living Year. Release commit `cbdf2ad`. [The Phoenix](https://anaseahawk.com/The-Living-Year/phoenix/)
 - [x] Published Ana’s approved opening and removed the closing illustration. The closing stands as prose.
 - [x] Ana confirmed on November 25 that the live interactive wheel is visible and the figure-building controls work. [Explore the wheel](https://anaseahawk.com/The-Living-Year/phoenix/#phoenix-visual-study)
-- [ ] Prepare the recurrence plate and the next editorial revision. Personalization has its own later increment.
+- [x] Prepared the second reader revision for Ana’s review. The first-person worked example, origins, recurrence plate, practice section and factual December entry are in the same page. Verified the three Sagittarius crossings and P180 against Swiss Ephemeris.
+- [ ] Review the second revision with Ana before release. Personalization has its own later increment.
 
 ## What to reuse
 
