@@ -1,5 +1,9 @@
 # Publish Batch — 2026-11-24
 
+## Circles & Conversations and The Living Year headers
+
+Ana approved both desktop previews. The Circles & Conversations photo is smaller, lightly framed, and beside the title. The Living Year emblem is centered within the right column. Both layouts use the same grid on desktop and retain their established reading order on phones.
+
 ## A Living Field homepage artwork
 
 Ana approved the daylight painting for release above “A living field” on the homepage. The original artwork uses emerald ridges and sunlit water to suggest a shoulder and heart. Both theme settings use the same painting. Two WebP sizes support narrow and wide screens, and the image has descriptive alternative text.

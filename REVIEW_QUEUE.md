@@ -13,6 +13,8 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
+- `conversations/index.html` and `The-Living-Year/index.html` — Ana approved the revised desktop artwork placement on 2026-11-24. See `PUBLISH_BATCH_2026-11-24.md`.
+
 - `index.html` — Ana approved the daylight painting and its smaller, framed desktop layout above “A living field” for release on 2026-11-24. At phone widths the artwork spans the content column. See `PUBLISH_BATCH_2026-11-24.md`.
 
 - 2026-11-14 tidy release: Place Readings carries “For hosts on Airbnb”; booking cards use the `20minutes`, `60minutes` and `90minutes` Cal.com events (90 minutes now open); the Home Circle card has no date; unlinked Markdown drafts and working documents are excluded from the build in `_config.yml`; the Inanna pointer in Women of Alchemy is removed until that chapter opens. See `PUBLISH_BATCH_2026-11-14.md`.
