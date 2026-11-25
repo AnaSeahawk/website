@@ -36,3 +36,7 @@ The structural checker passed. Browser checks verified both additions and the th
 Appendices A and B, Sources & Notes, and the bibliography and figure credits moved intact to `the-tortoise-in-the-bowl-notes.html`. All 119 numbered citation links and the Appendix A cross-reference now lead to the companion page. The essay ends after Section XI and keeps its Golden Lexicon and Sovereign Biophysics Index links.
 
 The Circle card now shows three women in conversation in matching morning and blue-hour paintings. The essay body and the research source Markdown were preserved. Local checks covered both routes, all citation targets, both themes, and phone and desktop layouts.
+
+## Circle hosts portrait crop
+
+Ana requested the existing portrait of Ana Seahawk, Megan Macdonald, and Fiona Gardner from the [Women’s Shivambu Circle](https://circle.mother-spirit.com/) page. A web copy of the portrait is framed around the three faces inside the existing 3:2 card. The crop, card dimensions, and link work in both themes. The original Circle page was untouched.

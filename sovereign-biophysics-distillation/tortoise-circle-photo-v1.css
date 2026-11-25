@@ -1,0 +1,13 @@
+.essay-circle__photo {
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 3 / 2;
+}
+
+.essay-circle__photo img {
+  position: absolute;
+  /* Frame the 768 × 512 rectangle at (185, 118) in the 1055px-wide portrait. */
+  width: calc(100% * 1055 / 768);
+  left: calc(-100% * 185 / 768);
+  top: calc(-100% * 118 / 512);
+}

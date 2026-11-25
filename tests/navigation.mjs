@@ -38,10 +38,12 @@ try {
     const circle=page.getByRole('link',{name:'Women’s Shivambu Circle'});
     assert.equal(await circle.getAttribute('href'),'https://circle.mother-spirit.com/');
     await circle.scrollIntoViewIfNeeded();
-    const circleArt=circle.locator(`.field-art--${theme} img`);
-    assert.ok(await circleArt.isVisible(),`Circle artwork visible in ${theme}`);
+    const circleFrame=circle.locator('.essay-circle__photo');
+    const circleArt=circleFrame.getByRole('img',{name:'Ana Seahawk, Megan Macdonald, and Fiona Gardner'});
+    assert.ok(await circleArt.isVisible(),`Circle portrait visible in ${theme}`);
     await circleArt.evaluate(img=>img.decode());
-    assert.ok(await circle.locator(`.field-art--${theme==='light'?'dark':'light'} img`).isHidden());
+    const frameBox=await circleFrame.boundingBox();
+    assert.ok(Math.abs(frameBox.width/frameBox.height-1.5)<0.01,'Circle portrait retains the original frame ratio');
 
     const notes=page.getByRole('link',{name:'Appendices, Sources & Notes →'});
     assert.equal(await notes.count(),2);
