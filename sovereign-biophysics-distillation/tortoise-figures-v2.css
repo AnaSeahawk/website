@@ -1,0 +1,106 @@
+.vessel-comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  background: var(--paper);
+  border: 1px solid var(--line);
+}
+
+.vessel-reading {
+  display: grid;
+  grid-row: span 3;
+  grid-template-rows: subgrid;
+  align-items: center;
+  justify-items: center;
+  gap: 0.2rem;
+  padding: clamp(0.65rem, 2vw, 1.2rem);
+  color: var(--ink-soft);
+  font-size: 0.875rem;
+  line-height: 1.35;
+}
+
+.vessel-reading + .vessel-reading { border-inline-start: 1px solid var(--line); }
+
+.vessel-reading strong {
+  color: var(--ink);
+  font-family: var(--display);
+  font-size: 1.25rem;
+}
+
+.vessel-illustration {
+  width: 100%;
+  margin-bottom: 0.45rem;
+}
+
+.vessel-illustration--depth {
+  position: relative;
+  padding-inline-end: 30%;
+}
+
+.vessel-illustration--overhead { width: 70%; }
+
+.vessel-illustration img { width: 100%; border: 0; }
+
+.vessel-depth-labels { list-style: none; margin: 0; padding: 0; }
+
+.essay-prose .vessel-depth-labels li {
+  position: absolute;
+  inset-inline-end: 0;
+  top: var(--level);
+  width: 27%;
+  margin: 0;
+  transform: translateY(-50%);
+  color: var(--ink);
+  font-size: clamp(0.75rem, 2.1vw, 0.875rem);
+  line-height: 1.15;
+  text-align: left;
+}
+
+.vessel-depth-labels li::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  inset-inline-end: calc(100% + 0.25rem);
+  width: var(--leader);
+  border-top: 1px solid color-mix(in srgb, var(--ink-soft) 74%, transparent);
+}
+
+.vessel-level--head { --level: 39%; --leader: 204%; }
+.vessel-level--chest { --level: 54%; --leader: 222%; }
+.vessel-level--belly { --level: 68%; --leader: 219%; }
+.vessel-level--lower { --level: 83%; --leader: 195%; }
+
+@media (max-width: 640px) {
+  .vessel-comparison { grid-template-columns: minmax(0, 1fr); }
+
+  .vessel-reading + .vessel-reading {
+    border-inline-start: 0;
+    border-block-start: 1px solid var(--line);
+  }
+}
+
+.essay-circle { margin-bottom: 2rem; }
+
+.essay-circle__link {
+  display: grid;
+  grid-template-columns: minmax(5.5rem, 31%) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(0.85rem, 3vw, 1.5rem);
+  padding: 0.5rem clamp(0.5rem, 2vw, 0.85rem) 0.5rem 0.5rem;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  font-family: var(--display);
+  font-size: clamp(1.2rem, 3vw, 1.75rem);
+  line-height: 1.15;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--line);
+  text-underline-offset: 0.22em;
+}
+
+.essay-circle__link img { display: block; width: 100%; height: auto; }
+.essay-circle__link > span { text-wrap: balance; }
+
+.essay-circle__link:is(:hover, :focus-visible) {
+  border-color: var(--gold);
+  text-decoration-color: currentColor;
+}

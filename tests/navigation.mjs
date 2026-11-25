@@ -35,9 +35,21 @@ try {
     if(width>900) assert.ok(coverBox.x>=copyBox.x+copyBox.width,'cover sits right of the title on desktop');
     else assert.ok(coverBox.y>=copyBox.y+copyBox.height,'cover follows the title on mobile');
 
-    const comparison=page.getByRole('figure',{name:'Two historical readings of the same bowl'});
+    const comparison=page.getByRole('figure',{name:'Two ways of reading the water'});
     assert.ok(await comparison.getByText('Layers in depth').isVisible());
     assert.ok(await comparison.getByText('Nine sectors on the surface').isVisible());
+    const levels=comparison.locator('.vessel-depth-labels li');
+    assert.deepEqual(await levels.allTextContents(),['Head','Heart & lungs','Belly','Kidneys & intestines']);
+    assert.ok(await levels.evaluateAll(labels=>labels.every(label=>
+     parseFloat(getComputedStyle(label,'::before').width)>1.9*label.offsetWidth
+    )),'each guide extends across the glass');
+    await comparison.scrollIntoViewIfNeeded();
+    const matchingPlates=comparison.locator(`.field-art--${theme} img`);
+    assert.equal(await matchingPlates.count(),2);
+    for(const plate of await matchingPlates.all()){
+     assert.ok(await plate.isVisible());
+     await plate.evaluate(img=>img.decode());
+    }
     const circle=page.getByRole('link',{name:'Women’s Shivambu Circle'});
     assert.equal(await circle.getAttribute('href'),'https://circle.mother-spirit.com/');
     await circle.scrollIntoViewIfNeeded();

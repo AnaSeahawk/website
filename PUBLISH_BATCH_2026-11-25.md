@@ -44,3 +44,7 @@ Ana requested the existing portrait of Ana Seahawk, Megan Macdonald, and Fiona G
 ## The Phoenix
 
 Ana approved publishing the illustrated reader preview with the educational plates, sunflower comparison, interactive wheel and passage tables. The page is linked from The Living Year. Speaking cues and rehearsal material remain in the working preview.
+
+## Painted vessel comparison
+
+Ana approved the paired paintings in Section XI. The rounded glass flask has four horizontal guides that cross the glass and meet labels beside it. The overhead porcelain bowl shows four twigs forming nine sectors. The paintings have light and dark editions and stack on phones. The comparison table and essay prose were preserved.
