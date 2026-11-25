@@ -3,7 +3,7 @@
 - **Updated** · 2026-11-25
 - **Current phase** · 1. Verify the method and establish the calculation foundation
 - **Immediate milestone** · December 19, 2026 presentation and personal recording
-- **Next action** · Locate the original Phoenix sequence records and natal chart. Confirm the 138° step, the P0 numbering convention and the source of the working natal longitude before promoting the December calculation to a verified fixture.
+- **Next action** · Build the tested longitude module from the documented 138° method. Use the chart-derived anchor for the December working fixture and compare the numbering against an independent historical passage record when available.
 
 At the start of each Phoenix session, read this file and take the first unchecked task whose dependencies are met. On completion, check the task, link its evidence or commit, date any new decisions, and update **Current phase** and **Next action**. Keep proposed choices marked until Ana reviews them. The original Phoenix context handoff and the November 25 supplementary handoff remain the source material in Ana's Drive. Cite their sections when needed and keep personal records and unpublished recording material in their appropriate private locations.
 
@@ -12,8 +12,9 @@ At the start of each Phoenix session, read this file and take the first unchecke
 - [x] Reviewed the original handoff, including the draft educational text, worked example, six-plate proposal and verification list. Reviewed the supplementary handoff, including both Mermaid diagrams, the three-part architecture, and the editorial and artistic direction.
 - [x] Audited the public website checkout at `adfb103` and checked the First Notebook. Located the shared sky display, page patterns, theme, navigation and browser test harness. Found an existing command-line Phoenix calculator in the parent workspace.
 - [x] Built an interactive zodiac-wheel study with the origin, first arc, progressive pattern, complete figure and December passage. Updated the wheel with all twelve zodiac glyphs. The prototype's controls and displayed values passed a scripted check. The glyph revision lives with the conversation visualization. Its base source is in the parent workspace at `output/phoenix-visual-study/phoenix-visual-study.html`. It is a reference for the instrument and some plates, with production assets still to create.
-- [x] Ran a preliminary December check. With the working natal anchor, the CLI returns P136 at 28º Sagittarius on December 19, 2026 at 12:32:14 p.m. Oaxaca time (18:32:14 UTC). The sampled installed backend returns Moshier even when Swiss files are requested. The anchor, continuous chronology and final event calculation remain to be verified.
-- [ ] Verify the sources and event, then create the reusable calculation core, educational copy, full plate set, site page and instrument. The public site has no Phoenix page or standalone Ephemeris route in the audited checkout.
+- [x] Recovered the source chart and its recorded solar longitude, 9°52′26″ Scorpio. Its printed UTC offset agrees with the tested Saskatchewan IANA rules for the chart date. Swiss Ephemeris 2.10.03 reproduces the natal longitude within one arcsecond. Use the chart’s recorded longitude for the worked example.
+- [x] Reproduced P1 through P136 using the chart anchor and Swiss Ephemeris data files. P136 falls at 28º Sagittarius (27°52′26″ Sagittarius) on December 19, 2026 at about 12:42:28 p.m. Oaxaca time (18:42:28 UTC, rounded). A separate root search using Moshier checks the transit within 0.2 seconds. The wheel preview still uses the earlier rounded input.
+- [ ] Create the reusable calculation core, educational copy, full plate set, site page and instrument. The public site has no Phoenix page or standalone Ephemeris route in the audited checkout.
 
 ## What to reuse
 
@@ -43,12 +44,14 @@ The three names are working section labels as well as the agreed conceptual rela
 
 ### 1. Verify the method and build the calculation foundation
 
-- [ ] Locate and compare Ana's original Phoenix records, natal chart and notation conventions. Confirm the exact natal solar longitude, birth-time conversion and historical civil-time offset, and record the source of each input.
-- [ ] Reproduce the passage chronology from the natal anchor through P136. Record the apparent geocentric tropical ephemeris, version, data/backend flags, UTC and Oaxaca result, and calculation precision. Independently cross-check the event instant. Verify the AM convention if the presentation or instrument displays it.
+- [x] Locate the source chart and compare its solar longitude and printed UTC offset with an ephemeris calculation and historical timezone rules.
+- [ ] Compare the documented 138° step and P0 numbering with an independent historical Phoenix record if one is located. The archive definition and the existing calculator agree on the step, and a natal-to-P136 calculation reproduces the documented December date.
+- [x] Reproduce the chronology from the natal anchor through P136 using apparent geocentric tropical longitude, check that the Swiss data-file backend was active, and cross-check the December instant with a separate root search.
+- [ ] Verify the AM convention if the presentation or instrument displays it.
 - [ ] Create a browser-ready, pure longitude module using integer arcseconds. Keep solar-transit solving and timezone conversion in an ephemeris adapter or reproducible offline fixture generation. Use shared fixtures so the calculator, renderer and plate generator agree.
 - [ ] Test P0, P1, wraparound and sign boundaries, cardinal versus ordinal format, distinct points, closure and P136. Verify the 60-point and 23-revolution relationship against the confirmed method. Document the test command and fixture provenance.
 
-**Complete when** a later session can rerun the checks, trace the natal anchor and numbering to the records, and reproduce the passage data used by the presentation. The plate sequence and instrument can then use the same verified coordinates.
+**Complete when** a later session can rerun the checks, trace the natal anchor and numbering to their documented sources, and reproduce the passage data used by the presentation. The plate sequence and instrument can then use the same verified coordinates.
 
 ### 2. Settle the page outline and develop the text
 
@@ -88,7 +91,8 @@ The three names are working section labels as well as the agreed conceptual rela
 **Depends on** the approved route, reviewed copy and shared geometry. Use the presentation assets once ready.
 
 - [ ] Assemble the page in the existing site shell with the complete static educational sequence, accessible captions, navigation links and theme-aware assets.
-- [ ] Port the useful wheel interactions into the site. Support one passage at a time, jumping to the full figure and the worked example, and a readable current position. Provide a static fallback for the educational sequence.
+- [ ] Port the approved wheel interaction into the site. Support one passage at a time, jumping to the full figure and the worked example, and a readable current position. Use the chart-derived input and provide a static fallback for the educational sequence.
+- [ ] Draft a companion sunflower visual next to the wheel. Compare the exact 138° Phoenix step on a fixed ring with the golden angle (about 137.508°) in an outward-growing seed-head model. Show the 0.492° difference and the 60-step return of the Phoenix wheel. Label the seed head as a model and avoid claiming that 138° was derived from the golden angle. [Sunflower head growth model](https://www.sciencedirect.com/science/article/pii/S0025556403001500) · [Observed sunflower seed-head patterns](https://pubmed.ncbi.nlm.nih.gov/27293788/)
 - [ ] Plan and build personal calculations as a separate increment. Agree on input requirements, treatment of unknown birth times, historical timezone resolution, ephemeris coverage and licensing, and how birth details will be handled. Validate previous and upcoming passages against verified fixtures. An event chart remains optional.
 
 **Complete when** the static page and geometry explorer work together on the proposed route. Track the personalized calculator independently until it handles supported inputs, boundary cases and error states with reproducible results.
@@ -107,7 +111,9 @@ The three names are working section labels as well as the agreed conceptual rela
 
 | Date | Status | Decision or question |
 | --- | --- | --- |
-| 2026-11-25 | Established | Visuals carry the educational sequence. Use zodiac glyphs on the wheel. The existing wheel is one component. |
+| 2026-11-25 | Established | Visuals carry the educational sequence. Use zodiac glyphs and carry the approved interactive wheel into the site. |
+| 2026-11-25 | Established | Use **Ana Seahawk** for all display names, including chart labels, captions, filenames and metadata. Prepare any chart artwork from verified data under that name. |
+| 2026-11-25 | Proposed | Place a golden-angle sunflower comparison beside the interactive wheel. Review its teaching sketch before final artwork. |
 | 2026-11-25 | Established | Prioritize the December 19 presentation. Apply the supplemental editorial and artistic direction to broader website work as well. |
 | 2026-11-25 | Proposed | Place Phoenix under The Living Year. Review the link placement, section labels and how the page introduces Ephemeris. |
 | 2026-11-25 | Open | Confirm the depth of the worked example, the personal material usable on the page, the final plate treatment and the recording format. |
