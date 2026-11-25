@@ -30,6 +30,18 @@ try {
     const coverBox=await cover.boundingBox();
     if(width>900) assert.ok(coverBox.x>=copyBox.x+copyBox.width,'cover sits right of the title on desktop');
     else assert.ok(coverBox.y>=copyBox.y+copyBox.height,'cover follows the title on mobile');
+
+    const comparison=page.getByRole('figure',{name:'Two historical readings of the same bowl'});
+    assert.ok(await comparison.getByText('Layers in depth').isVisible());
+    assert.ok(await comparison.getByText('Nine sectors on the surface').isVisible());
+    const circle=page.getByRole('link',{name:'Women’s Shivambu Circle'});
+    assert.equal(await circle.getAttribute('href'),'https://circle.mother-spirit.com/');
+    await circle.scrollIntoViewIfNeeded();
+    const circleArt=circle.locator(`.field-art--${theme} img`);
+    assert.ok(await circleArt.isVisible(),`Circle artwork visible in ${theme}`);
+    await circleArt.evaluate(img=>img.decode());
+    assert.ok(await circle.locator(`.field-art--${theme==='light'?'dark':'light'} img`).isHidden());
+    await page.evaluate(()=>scrollTo(0,0));
    }
    if(width<761){
     const button=page.getByRole('button',{name:'Menu'});await button.click();

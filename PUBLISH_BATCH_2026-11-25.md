@@ -24,3 +24,9 @@ Ana approved publishing the essay on urine divination in Tibet. It follows how T
 Ana approved the cover illustration in light and dark palettes. It shows the bowl and its four crossed twigs at a village doorway in Dolpo, with a credit linking to the essay's discussion of Corneille Jest's photograph. The existing chapter layout places the cover beside the title on desktop and below it on smaller screens.
 
 The cover passed local layout and theme checks. The broader navigation suite reproduced a pre-existing mobile homepage menu assertion.
+
+## Approved reading figure and Circle link
+
+Section XI places paired side and overhead views of the bowl before the existing comparison table. The closing section links to the Women’s Shivambu Circle through an original cup-and-notebook illustration in light and dark palettes. The essay text and source notes were preserved.
+
+The structural checker passed. Browser checks verified both additions and the theme toggle at phone and desktop widths.
