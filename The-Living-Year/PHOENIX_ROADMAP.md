@@ -3,7 +3,7 @@
 - **Updated** · 2026-11-25
 - **Current phase** · 1. Verify the method and establish the calculation foundation
 - **Immediate milestone** · December 19, 2026 presentation and personal recording
-- **Next action** · Build the tested longitude module from the documented 138° method. Use the chart-derived anchor for the December working fixture and compare the numbering against an independent historical passage record when available.
+- **Next action** · Record a reproducible December transit fixture, then connect the approved wheel and the plate drafts to the tested longitude module. Compare the numbering with an independent historical passage record when available.
 
 At the start of each Phoenix session, read this file and take the first unchecked task whose dependencies are met. On completion, check the task, link its evidence or commit, date any new decisions, and update **Current phase** and **Next action**. Keep proposed choices marked until Ana reviews them. The original Phoenix context handoff and the November 25 supplementary handoff remain the source material in Ana's Drive. Cite their sections when needed and keep personal records and unpublished recording material in their appropriate private locations.
 
@@ -14,7 +14,8 @@ At the start of each Phoenix session, read this file and take the first unchecke
 - [x] Built an interactive zodiac-wheel study with the origin, first arc, progressive pattern, complete figure and December passage. Updated the wheel with all twelve zodiac glyphs. The prototype's controls and displayed values passed a scripted check. The glyph revision lives with the conversation visualization. Its base source is in the parent workspace at `output/phoenix-visual-study/phoenix-visual-study.html`. It is a reference for the instrument and some plates, with production assets still to create.
 - [x] Recovered the source chart and its recorded solar longitude, 9°52′26″ Scorpio. Its printed UTC offset agrees with the tested Saskatchewan IANA rules for the chart date. Swiss Ephemeris 2.10.03 reproduces the natal longitude within one arcsecond. Use the chart’s recorded longitude for the worked example.
 - [x] Reproduced P1 through P136 using the chart anchor and Swiss Ephemeris data files. P136 falls at 28º Sagittarius (27°52′26″ Sagittarius) on December 19, 2026 at about 12:42:28 p.m. Oaxaca time (18:42:28 UTC, rounded). A separate root search using Moshier checks the transit within 0.2 seconds. The wheel preview still uses the earlier rounded input.
-- [ ] Create the reusable calculation core, educational copy, full plate set, site page and instrument. The public site has no Phoenix page or standalone Ephemeris route in the audited checkout.
+- [x] Built the reusable [longitude and zodiac module](phoenix/geometry.mjs) with four passing [geometry tests](../tests/phoenix-geometry.mjs).
+- [ ] Create the educational copy, full plate set, site page and instrument. The public site has no Phoenix page or standalone Ephemeris route in the audited checkout.
 
 ## What to reuse
 
@@ -48,8 +49,9 @@ The three names are working section labels as well as the agreed conceptual rela
 - [ ] Compare the documented 138° step and P0 numbering with an independent historical Phoenix record if one is located. The archive definition and the existing calculator agree on the step, and a natal-to-P136 calculation reproduces the documented December date.
 - [x] Reproduce the chronology from the natal anchor through P136 using apparent geocentric tropical longitude, check that the Swiss data-file backend was active, and cross-check the December instant with a separate root search.
 - [ ] Verify the AM convention if the presentation or instrument displays it.
-- [ ] Create a browser-ready, pure longitude module using integer arcseconds. Keep solar-transit solving and timezone conversion in an ephemeris adapter or reproducible offline fixture generation. Use shared fixtures so the calculator, renderer and plate generator agree.
-- [ ] Test P0, P1, wraparound and sign boundaries, cardinal versus ordinal format, distinct points, closure and P136. Verify the 60-point and 23-revolution relationship against the confirmed method. Document the test command and fixture provenance.
+- [x] Create a browser-ready longitude module using integer arcseconds, separate from time conversion and solar-transit solving.
+- [ ] Record the reproducible December transit fixture. Use the same inputs for the written example, wheel and plates.
+- [x] Test P0, P1, wraparound and sign boundaries, cardinal versus ordinal degrees, distinct points, closure and P136. Run `node --test tests/phoenix-geometry.mjs` from the website repo. The positional fixture uses the source chart’s recorded solar longitude.
 
 **Complete when** a later session can rerun the checks, trace the natal anchor and numbering to their documented sources, and reproduce the passage data used by the presentation. The plate sequence and instrument can then use the same verified coordinates.
 
