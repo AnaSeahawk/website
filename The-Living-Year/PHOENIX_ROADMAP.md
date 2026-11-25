@@ -3,7 +3,7 @@
 - **Updated** · 2026-11-25
 - **Current phase** · 3. Review the first educational plates while refining the captions
 - **Immediate milestone** · December 19, 2026 presentation and personal recording
-- **Next action** · Review the six captioned plates and the sunflower comparison with Ana. Identify which figure needs clearer drawing or wording, then prepare the reusable presentation versions.
+- **Next action** · Rehearse the six plates with the first spoken draft. Add one observation from the preceding passage and one from now to the journal plate, then prepare the reusable presentation versions.
 
 At the start of each Phoenix session, read this file and take the first unchecked task whose dependencies are met. On completion, check the task, link its evidence or commit, date any new decisions, and update **Current phase** and **Next action**. Keep proposed choices marked until Ana reviews them. The original Phoenix context handoff and the November 25 supplementary handoff remain the source material in Ana's Drive. Cite their sections when needed and keep personal records and unpublished recording material in their appropriate private locations.
 
@@ -15,6 +15,7 @@ At the start of each Phoenix session, read this file and take the first unchecke
 - [x] Recovered the source chart and its recorded solar longitude, 9°52′26″ Scorpio. Its printed UTC offset agrees with the tested Saskatchewan IANA rules for the chart date. Swiss Ephemeris 2.10.03 reproduces the natal longitude within one arcsecond. Use the chart’s recorded longitude for the worked example.
 - [x] Reproduced P1 through P136 using the chart anchor and Swiss Ephemeris data files. P136 falls at 28º Sagittarius (27°52′26″ Sagittarius) on December 19, 2026 at about 12:42:28 p.m. Oaxaca time (18:42:28 UTC, rounded). A separate root search using Moshier checks the transit within 0.2 seconds. The revised wheel and plate drafts use the exact chart input.
 - [x] Built the reusable [longitude and zodiac module](phoenix/geometry.mjs) with four passing [geometry tests](../tests/phoenix-geometry.mjs).
+- [x] Drafted the six spoken sections and calculated all 135 elapsed passages in UTC, with the first ten open and the rest grouped by decade in Ana’s local review copy. The first passage, the two full returns, and why Oaxaca is on the December slide now have a place in the narration.
 - [ ] Create the educational copy, full plate set, site page and instrument. The public site has no Phoenix page or standalone Ephemeris route in the audited checkout.
 
 ## What to reuse
@@ -60,6 +61,7 @@ The three names are working section labels as well as the agreed conceptual rela
 **Depends on** the route review and the verified foundation for worked numbers. Draft the outline while source verification proceeds.
 
 - [ ] Review the proposed route, section labels, entry link and Ephemeris relationship with Ana.
+- [x] Draft the spoken sequence around the points and their meaning. The history distinguishes the documented solar-return tradition, the proposed 138-year Archaix interval, and the personal 138° practice described in the Solar Journal reference.
 - [ ] Refine the original handoff's educational draft before final artwork. Pair each concept with a figure, a short caption and a text equivalent. Preserve Ana's concrete observations, stories and short statements. Keep mathematical calculation, personal observation and interpretation distinct.
 - [ ] Agree on the amount of mathematics for beginners, the personal details to include, and which material belongs in the presentation versus the page.
 
