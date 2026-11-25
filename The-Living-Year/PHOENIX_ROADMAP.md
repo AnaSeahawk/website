@@ -119,6 +119,7 @@ The three names are working section labels as well as the agreed conceptual rela
 | --- | --- | --- |
 | 2026-11-25 | Established | Visuals carry the educational sequence. Use zodiac glyphs and carry the approved interactive wheel into the site. |
 | 2026-11-25 | Established | Use **Ana Seahawk** for all display names, including chart labels, captions, filenames and metadata. Prepare any chart artwork from verified data under that name. |
+| 2026-11-25 | Established | Use November 2, 1974 as the worked example and keep the explanation reader-centred. Leave any personal identification of the birth date to the live delivery. Explain Oaxaca as the location used for the local clock and any chart drawn for the passage. |
 | 2026-11-25 | Proposed | Place a golden-angle sunflower comparison beside the interactive wheel. Review its teaching sketch before final artwork. |
 | 2026-11-25 | Established | Prioritize the December 19 presentation. Apply the supplemental editorial and artistic direction to broader website work as well. |
 | 2026-11-25 | Proposed | Place Phoenix under The Living Year. Review the link placement, section labels and how the page introduces Ephemeris. |
