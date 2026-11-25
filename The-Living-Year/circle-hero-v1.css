@@ -1,0 +1,20 @@
+@media (min-width: 62rem) {
+  .circle-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.12fr);
+    align-items: center;
+    gap: clamp(2rem, 5vw, 4.5rem);
+  }
+
+  .circle-hero > .work-photo {
+    width: 100%;
+    max-width: 560px;
+    margin: 0;
+    justify-self: center;
+    padding: 5px;
+    border: 1px solid var(--line);
+    background: var(--surface-wash);
+  }
+
+  .circle-hero > .work-photo img { border: 0; }
+}

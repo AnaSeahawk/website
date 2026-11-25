@@ -13,6 +13,8 @@ For the operational meaning of `public`, `community`, and `private`, see
 
 ## Public Front Doors And Holds
 
+- `The-Living-Year/living-waters/index.html` and `The-Living-Year/keeping-the-year/index.html` — Ana approved the compact desktop headers on 2026-11-24. See `PUBLISH_BATCH_2026-11-24.md`.
+
 - `conversations/index.html` and `The-Living-Year/index.html` — Ana approved the revised desktop artwork placement on 2026-11-24. See `PUBLISH_BATCH_2026-11-24.md`.
 
 - `index.html` — Ana approved the daylight painting and its smaller, framed desktop layout above “A living field” for release on 2026-11-24. At phone widths the artwork spans the content column. See `PUBLISH_BATCH_2026-11-24.md`.

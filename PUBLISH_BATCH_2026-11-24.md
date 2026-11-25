@@ -1,5 +1,9 @@
 # Publish Batch — 2026-11-24
 
+## The Living Waters and Keeping the Year headers
+
+Ana approved the compact Living Waters preview and requested the same treatment for Keeping the Year. At laptop and desktop widths a smaller, framed image sits beside the title. At phone widths the image remains below the title.
+
 ## Circles & Conversations and The Living Year headers
 
 Ana approved both desktop previews. The Circles & Conversations photo is smaller, lightly framed, and beside the title. The Living Year emblem is centered within the right column. Both layouts use the same grid on desktop and retain their established reading order on phones.
