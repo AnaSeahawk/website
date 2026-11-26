@@ -160,6 +160,13 @@ a.door:focus-visible {
 .threshold .t-read span { color: var(--door-read); }
 .threshold .t-talk span { color: var(--door-talk); }
 .threshold b { font-family: var(--display); font-size: 1.45rem; font-weight: 600; line-height: 1.15; }
+/* Each door keeps one small mark wherever it appears */
+.threshold a > span { display: inline-flex; align-items: center; gap: 0.45rem; }
+.threshold a > span::before { content: ""; flex: none; width: 1.7em; height: 1.7em; background: currentColor; -webkit-mask: var(--door-mark) center / contain no-repeat; mask: var(--door-mark) center / contain no-repeat; }
+.threshold .t-gather { --door-mark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='2.6' fill='black'/%3E%3Ccircle cx='12' cy='3.5' r='1.8'/%3E%3Ccircle cx='19.4' cy='7.8' r='1.8'/%3E%3Ccircle cx='19.4' cy='16.2' r='1.8'/%3E%3Ccircle cx='12' cy='20.5' r='1.8'/%3E%3Ccircle cx='4.6' cy='16.2' r='1.8'/%3E%3Ccircle cx='4.6' cy='7.8' r='1.8'/%3E%3C/svg%3E"); }
+.threshold .t-talk { --door-mark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 4.5h12v8.5H8.5L5 16v-3H3z'/%3E%3Cpath d='M17.5 8.5H21V17h-1.5v3l-3.5-3h-5v-1.5'/%3E%3C/svg%3E"); }
+.threshold .t-read { --door-mark: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 6.5C10 5 7 4.5 3 4.5v13c4 0 7 .5 9 2 2-1.5 5-2 9-2v-13c-4 0-7 .5-9 2z'/%3E%3Cpath d='M12 6.5v13'/%3E%3C/svg%3E"); }
+
 
 /* Dated list: fixed dates on the calendar */
 .dated {

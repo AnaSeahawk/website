@@ -1,0 +1,77 @@
+/* Small living drawings shared across the site: the four season marks and
+   the Keeping the Year mark. Each one moves gently and costs almost nothing
+   to load. The same drawing means the same thing wherever it appears. */
+
+.ss { width: 48px; height: 48px; fill: none; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; overflow: visible; flex: none; }
+.ss * { transform-box: view-box; }
+.ss--spring { stroke: #416f60; }
+.ss--summer { stroke: #a77b19; }
+.ss--autumn { stroke: #713f34; }
+.ss--winter { stroke: #6e4f69; }
+.ss--year { stroke: var(--gold); }
+.ss--spring .ss-leaf { fill: #416f60; fill-opacity: .22; }
+.ss--summer .ss-core { fill: #d6a53a; stroke: none; }
+.ss--autumn .ss-leaf { fill: #713f34; fill-opacity: .2; }
+.ss--year .ss-dot { fill: #d6a53a; stroke: none; }
+:root[data-theme='dark'] .ss--spring { stroke: #70a08f; }
+:root[data-theme='dark'] .ss--summer { stroke: #d3aa55; }
+:root[data-theme='dark'] .ss--autumn { stroke: #b06f61; }
+:root[data-theme='dark'] .ss--winter { stroke: #b293ad; }
+:root[data-theme='dark'] .ss--spring .ss-leaf { fill: #70a08f; }
+:root[data-theme='dark'] .ss--autumn .ss-leaf { fill: #b06f61; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .ss--spring { stroke: #70a08f; }
+  :root:not([data-theme='light']) .ss--summer { stroke: #d3aa55; }
+  :root:not([data-theme='light']) .ss--autumn { stroke: #b06f61; }
+  :root:not([data-theme='light']) .ss--winter { stroke: #b293ad; }
+  :root:not([data-theme='light']) .ss--spring .ss-leaf { fill: #70a08f; }
+  :root:not([data-theme='light']) .ss--autumn .ss-leaf { fill: #b06f61; }
+}
+
+/* Spring: the stem rises, then the two leaves open. */
+.ss--spring .ss-stem { stroke-dasharray: 1; animation: ss-stem 7s ease-out infinite; }
+.ss--spring .ss-leaf-l { transform-origin: 24px 30px; animation: ss-leaf-l 7s ease-out infinite; }
+.ss--spring .ss-leaf-r { transform-origin: 24px 25px; animation: ss-leaf-r 7s ease-out infinite; }
+@keyframes ss-stem { 0% { stroke-dashoffset: 1; opacity: 1; } 22%, 86% { stroke-dashoffset: 0; opacity: 1; } 96%, 100% { stroke-dashoffset: 0; opacity: 0; } }
+@keyframes ss-leaf-l { 0%, 20% { transform: scale(0); opacity: 1; } 36%, 86% { transform: scale(1); opacity: 1; } 96%, 100% { transform: scale(1); opacity: 0; } }
+@keyframes ss-leaf-r { 0%, 30% { transform: scale(0); opacity: 1; } 46%, 86% { transform: scale(1); opacity: 1; } 96%, 100% { transform: scale(1); opacity: 0; } }
+
+/* Summer: the rays turn slowly and breathe. */
+.ss--summer .ss-rays { transform-origin: 24px 24px; animation: ss-turn 24s linear infinite; }
+.ss--summer .ss-rays path { transform-origin: 24px 24px; animation: ss-breathe 3s ease-in-out infinite; }
+.ss--summer .ss-core { transform-origin: 24px 24px; animation: ss-glow 3s ease-in-out infinite; }
+@keyframes ss-turn { to { transform: rotate(360deg); } }
+@keyframes ss-breathe { 50% { transform: scale(1.14); } }
+@keyframes ss-glow { 50% { transform: scale(1.08); } }
+
+/* Autumn: the leaf flutters as it falls. */
+.ss--autumn .ss-fall { transform-origin: 24px 24px; animation: ss-flutter 5.5s ease-in-out infinite; }
+@keyframes ss-flutter {
+  0%, 100% { transform: translate(0, -3px) rotate(-10deg); }
+  25% { transform: translate(4px, 0) rotate(12deg); }
+  50% { transform: translate(-3px, 3px) rotate(-6deg); }
+  75% { transform: translate(3px, 2px) rotate(9deg); }
+}
+
+/* Winter: the snowflake turns and glints. */
+.ss--winter .ss-flake { transform-origin: 24px 24px; animation: ss-turn 30s linear infinite, ss-glint 4s ease-in-out infinite; }
+@keyframes ss-glint { 50% { opacity: .55; } }
+
+/* Keeping the Year: the Sun goes once around its year. */
+.ss--year .ss-orbit { transform-origin: 24px 24px; animation: ss-turn 12s linear infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ss *, .ss { animation: none !important; }
+}
+
+/* The two kinds of seats, reused wherever seats are mentioned. */
+.cc-seat-pair { display: flex; justify-content: center; gap: .4rem; }
+.cc-seat { display: grid; justify-items: center; gap: .1rem; width: min(150px, 44%); }
+.cc-seat__art { position: relative; display: block; width: 100%; }
+.cc-seat__art img { display: block; width: 100%; height: auto; }
+.cc-seat__name { font: 500 .85rem var(--body); color: var(--ink-soft); }
+.cc-seat__art .cc-seat__waves { position: absolute; left: 52%; top: 17%; width: 13%; max-width: none; height: auto; margin: 0; fill: none; stroke: var(--gold); stroke-width: 2.6; stroke-linecap: round; opacity: 0; animation: cc-waves 2.4s ease-in-out infinite; }
+.cc-seat__art .cc-seat__glow { position: absolute; left: 46%; top: 27%; width: 32%; aspect-ratio: 1; border-radius: 50%; background: radial-gradient(closest-side, rgba(255,236,170,.9), rgba(242,196,90,.35) 55%, transparent); mix-blend-mode: screen; opacity: 0; pointer-events: none; animation: cc-heart 4s ease-in-out infinite; }
+@keyframes cc-waves { 0%, 100% { opacity: 0; transform: translateX(-3px); } 30%, 70% { opacity: 1; transform: translateX(0); } }
+@keyframes cc-heart { 0%, 100% { opacity: .15; transform: scale(.85); } 50% { opacity: .85; transform: scale(1.1); } }
+@media (prefers-reduced-motion: reduce) { .cc-seat__art * { animation: none !important; } .cc-seat__art .cc-seat__waves { opacity: 1; } }

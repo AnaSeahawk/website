@@ -17,6 +17,10 @@
   <link rel="stylesheet" href="/navigation-v2.css">
   <link rel="stylesheet" href="/shape-v1.css?v=20261122d">
   <link rel="stylesheet" href="/The-Living-Year/circle-hero-v1.css">
+  <link rel="stylesheet" href="/motion-v1.css?v=1">
+  <style>.ky-season{display:inline-flex;align-items:center;gap:.45rem}.ky-gates .ss{width:30px;height:30px}
+  .ky-guide-row{display:grid;grid-template-columns:90px 1fr;gap:1.2rem;align-items:start}.ky-guide-row img{width:90px;height:auto;border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);transform:rotate(-2deg)}
+  .ky-mark{display:inline-flex;align-items:center;gap:.5rem}.ky-mark .ss{width:30px;height:30px}</style>
   <style>
     .ky-pages { display: grid; grid-template-columns: repeat(3, 1fr); gap: .8rem; margin: 2rem 0 .6rem; padding: 0; list-style: none; }
     .ky-pages img { display: block; width: 100%; height: auto; border-radius: 2px; box-shadow: 0 1px 6px rgba(0,0,0,.12); }
@@ -58,7 +62,7 @@
       <div class="shell circle-hero">
         <div class="hero-copy">
           <p class="sky-line page-sky" data-sky hidden><b>Today</b> <span data-sky-text></span></p>
-          <p class="eyebrow">A Circle · The Living Year · Opens each season</p>
+          <p class="eyebrow ky-mark"><svg class="ss ss--year" viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="16"/><circle cx="24" cy="24" r="2" style="fill:currentColor;stroke:none;opacity:.5"/><g class="ss-orbit"><circle class="ss-dot" cx="24" cy="8" r="4.5"/></g></svg><span>A Circle · The Living Year · Opens each season</span></p>
           <h1><span class="editorial-line">Keeping</span><span class="editorial-line">the Year</span></h1>
           <p class="hero-deck"><span class="editorial-line">A notebook dated by the Sun and the Moon.</span></p>
         </div>
@@ -140,10 +144,10 @@
           <p>The Circle opens every season, at the gate where the Sun enters its sign. The spring Circle falls in the seventeen days before the year’s first new moon, so the first lunation is written from its start.</p>
           <table class="ky-gates">
             <tbody>
-              <tr><th class="s-spring">Spring</th><td>20 March 2027<span class="ky-deg">☉︎ 1º ♈︎ – 30º ♊︎ · the 1st to the 90th degree</span><small>The Sun enters Aries. The Living Year begins.</small></td></tr>
-              <tr><th class="s-summer">Summer</th><td>21 June 2027<span class="ky-deg">☉︎ 1º ♋︎ – 30º ♍︎ · the 91st to the 180th degree</span><small>The Sun enters Cancer, highest.</small></td></tr>
-              <tr><th class="s-autumn">Autumn</th><td>23 September 2027<span class="ky-deg">☉︎ 1º ♎︎ – 30º ♐︎ · the 181st to the 270th degree</span><small>The Sun enters Libra.</small></td></tr>
-              <tr><th class="s-winter">Winter</th><td>22 December 2027<span class="ky-deg">☉︎ 1º ♑︎ – 30º ♓︎ · the 271st to the 360th degree</span><small>The Sun enters Capricorn, lowest.</small></td></tr>
+              <tr><th class="s-spring"><span class="ky-season"><svg class="ss ss--spring" viewBox="0 0 48 48" aria-hidden="true"><path class="ss-stem" pathLength="1" d="M24 44V20"/><path class="ss-leaf ss-leaf-l" d="M24 30c-10 0-14-6-14-12 8 0 14 4 14 12z"/><path class="ss-leaf ss-leaf-r" d="M24 25c0-8 6-12 14-12 0 6-4 12-14 12z"/></svg>Spring</span></th><td>20 March 2027<span class="ky-deg">☉︎ 1º ♈︎ – 30º ♊︎ · the 1st to the 90th degree</span><small>The Sun enters Aries. The Living Year begins.</small></td></tr>
+              <tr><th class="s-summer"><span class="ky-season"><svg class="ss ss--summer" viewBox="0 0 48 48" aria-hidden="true"><g class="ss-rays"><path d="M24 3v6"/><path d="M24 39v6"/><path d="M3 24h6"/><path d="M39 24h6"/><path d="M9.2 9.2l4.2 4.2"/><path d="M34.6 34.6l4.2 4.2"/><path d="M38.8 9.2l-4.2 4.2"/><path d="M13.4 34.6l-4.2 4.2"/></g><circle class="ss-core" cx="24" cy="24" r="8"/></svg>Summer</span></th><td>21 June 2027<span class="ky-deg">☉︎ 1º ♋︎ – 30º ♍︎ · the 91st to the 180th degree</span><small>The Sun enters Cancer, highest.</small></td></tr>
+              <tr><th class="s-autumn"><span class="ky-season"><svg class="ss ss--autumn" viewBox="0 0 48 48" aria-hidden="true"><g class="ss-fall"><path class="ss-leaf" d="M12 38C12 21 21 11 37 11c0 16-9 27-25 27z"/><path d="M12 38L29 21"/><path d="M18 32l-1-6M23 27l-1-6M18 32l6 1M23 27l6 1"/></g></svg>Autumn</span></th><td>23 September 2027<span class="ky-deg">☉︎ 1º ♎︎ – 30º ♐︎ · the 181st to the 270th degree</span><small>The Sun enters Libra.</small></td></tr>
+              <tr><th class="s-winter"><span class="ky-season"><svg class="ss ss--winter" viewBox="0 0 48 48" aria-hidden="true"><g class="ss-flake"><path transform="rotate(0 24 24)" d="M24 5v38M19 9l5 5 5-5M19 39l5-5 5 5M21 15l3 3 3-3M21 33l3-3 3 3"/><path transform="rotate(60 24 24)" d="M24 5v38M19 9l5 5 5-5M19 39l5-5 5 5M21 15l3 3 3-3M21 33l3-3 3 3"/><path transform="rotate(120 24 24)" d="M24 5v38M19 9l5 5 5-5M19 39l5-5 5 5M21 15l3 3 3-3M21 33l3-3 3 3"/></g></svg>Winter</span></th><td>22 December 2027<span class="ky-deg">☉︎ 1º ♑︎ – 30º ♓︎ · the 271st to the 360th degree</span><small>The Sun enters Capricorn, lowest.</small></td></tr>
             </tbody>
           </table>
           <p>Each one is complete on its own. Coming once is enough to keep a notebook for the whole year; returning at the next gate brings the season’s observations into the Circle.</p>
@@ -179,10 +183,10 @@
           </div>
 
           <div class="workshop-own workshop-own--read">
-            <h3 class="workshop-group">The Soli Lunar Guide</h3>
+            <div class="ky-guide-row"><a href="/#guide"><img src="/assets/keeping-the-year/guide-cover-240.webp" width="240" height="340" loading="lazy" alt="The cover of A Soli Lunar Guide"></a><div><h3 class="workshop-group">The Soli Lunar Guide</h3>
             <p>A short guide to dating any notebook by the sky, free by email, with a letter at each new moon after it.</p>
             <a class="booking-card__cta" href="/#guide">Receive the guide&nbsp;→</a>
-          </div>
+          </div></div></div>
         </div>
       </div>
     </section>
@@ -191,7 +195,7 @@
       <div class="reading-shell">
         <nav class="threshold" aria-label="Where next">
           <a class="t-gather" href="/The-Living-Year/#circles"><span>Gather</span><b>All the Circles in The Living Year →</b></a>
-          <a class="t-talk" href="/conversations/"><span>Meet</span><b>Conversations &amp; Circles →</b></a>
+          <a class="t-talk" href="/conversations/"><span>Talk</span><b>Conversations &amp; Circles →</b></a>
         </nav>
       </div>
     </section>
