@@ -86,6 +86,19 @@
 @keyframes own-sway{50%{transform:rotate(-10deg)}}
 @keyframes own-twinkle{0%,70%{transform:rotate(0) scale(1)}85%{transform:rotate(90deg) scale(1.25)}100%{transform:rotate(180deg) scale(1)}}
 @media (prefers-reduced-motion:reduce){.own-card--site *{animation:none!important}}
+.door-frame{display:block;overflow:hidden;position:relative}
+.door-move{display:block;position:relative;transform-origin:70% 22%;animation:door-drift 26s ease-in-out infinite alternate}
+.door-move img{display:block}
+.door-sheen{position:absolute;inset:0;pointer-events:none;mix-blend-mode:overlay;
+background:linear-gradient(110deg,transparent 34%,rgba(255,196,90,.75) 44%,rgba(255,252,238,1) 50%,rgba(255,196,90,.75) 56%,transparent 66%) 100% 0/300% 100% no-repeat;
+-webkit-mask-image:url(/assets/ana-at-the-door-600.webp),radial-gradient(ellipse 28% 23% at 73% 17%,#000 60%,transparent 100%);-webkit-mask-size:100% 100%;-webkit-mask-composite:source-in;
+mask-image:url(/assets/ana-at-the-door-600.webp),radial-gradient(ellipse 28% 23% at 73% 17%,#000 60%,transparent 100%);mask-size:100% 100%;mask-mode:luminance,alpha;mask-composite:intersect;
+animation:door-sheen 9s linear 1.2s infinite}
+.door-spark{position:absolute;left:67.6%;top:11.6%;width:7.5%;fill:#fffbea;filter:drop-shadow(0 0 6px rgba(255,236,170,.95));transform:scale(0);pointer-events:none;animation:door-spark 9s ease-in-out 1.2s infinite}
+@keyframes door-drift{from{transform:scale(1)}to{transform:scale(1.05)}}
+@keyframes door-sheen{0%{background-position:100% 0}40%,100%{background-position:0% 0}}
+@keyframes door-spark{0%,19%{transform:scale(0) rotate(0)}24%{transform:scale(1) rotate(45deg)}31%,100%{transform:scale(0) rotate(90deg)}}
+@media (prefers-reduced-motion:reduce){.door-move,.door-sheen,.door-spark{animation:none}}
 @media (max-width:760px){.own-compare{grid-template-columns:1fr}.own-steps{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .work-photo img.square{aspect-ratio:1/1;object-position:center}.booking-grid--pair{grid-template-columns:repeat(2,minmax(0,1fr))}@media (max-width:900px){.booking-grid--pair{grid-template-columns:1fr}}</style><meta name="status" content="published"><meta name="visibility" content="public"><meta name="claim_tier" content="aptopadesha"></head>
 <body>
@@ -107,7 +120,7 @@
 
   <main id="main">
     <header class="chapter-hero page-hero"><div class="shell page-hero-pair"><div class="hero-copy"><p class="eyebrow">Conversations &amp; Circles · One to one</p><h1>A Website of One’s Own</h1><p class="hero-deck">A place online in its owner’s own style</p></div>
-      <figure class="work-photo"><img class="square" src="/assets/ana-at-the-door.webp" srcset="/assets/ana-at-the-door-600.webp 600w, /assets/ana-at-the-door.webp 1076w" sizes="(min-width: 62rem) 440px, 100vw" width="1076" height="1076" alt="Ana with one hand on the ornate brass knocker of a tall black wooden door, looking back toward the camera"></figure></div></header>
+      <figure class="work-photo"><span class="door-frame"><span class="door-move"><img class="square" src="/assets/ana-at-the-door.webp" srcset="/assets/ana-at-the-door-600.webp 600w, /assets/ana-at-the-door.webp 1076w" sizes="(min-width: 62rem) 440px, 100vw" width="1076" height="1076" alt="Ana with one hand on the ornate brass knocker of a tall black wooden door, looking back toward the camera"><span class="door-sheen" aria-hidden="true"></span><svg class="door-spark" viewBox="0 0 20 20" aria-hidden="true"><path d="M10 0l2 8 8 2-8 2-2 8-2-8-8-2 8-2z"/></svg></span></span></figure></div></header>
 
     <section class="chapter-section own-compare-section"><div class="own-shell">
       <h2 class="own-lead">A profile is somewhere to post.<br>A website is somewhere to live.</h2>
