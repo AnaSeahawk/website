@@ -92,6 +92,18 @@
 .cc-facts svg{display:block;width:100%;max-width:340px;margin-inline:auto;height:auto}
 .cc-facts .seg1{fill:var(--gold)}.cc-facts .seg2{fill:var(--verdigris)}
 .cc-facts text{font:500 11px var(--body);fill:var(--ink-soft)}
+.cc-facts{align-items:end}
+.cc-seat-pair{display:flex;justify-content:center;gap:.4rem}
+.cc-seat{display:grid;justify-items:center;gap:.1rem;width:min(150px,44%)}
+.cc-seat__art{position:relative;display:block;width:100%}
+.cc-seat__art img{display:block;width:100%;height:auto}
+.cc-seat__name{font:500 .85rem var(--body);color:var(--ink-soft)}
+.cc-facts .cc-seat__waves{position:absolute;left:52%;top:17%;width:13%;max-width:none;height:auto;margin:0;fill:none;stroke:var(--gold);stroke-width:2.6;stroke-linecap:round;opacity:0}
+.cc-seat__glow{position:absolute;left:46%;top:27%;width:32%;aspect-ratio:1;border-radius:50%;background:radial-gradient(closest-side,rgba(255,236,170,.9),rgba(242,196,90,.35) 55%,transparent);mix-blend-mode:screen;opacity:0;pointer-events:none}
+.is-live .cc-seat__waves{animation:cc-waves 2.4s ease-in-out infinite}
+.is-live .cc-seat__glow{animation:cc-heart 4s ease-in-out infinite}
+@keyframes cc-waves{0%,100%{opacity:0;transform:translateX(-3px)}30%,70%{opacity:1;transform:translateX(0)}}
+@keyframes cc-heart{0%,100%{opacity:.15;transform:scale(.85)}50%{opacity:.85;transform:scale(1.1)}}
 .cc-facts figcaption{font-family:var(--display);font-size:1.3rem;margin-top:.2rem}
 .cc-h3{font-family:var(--display);font-weight:500;font-size:1.7rem;text-align:center;margin:2.6rem 0 1rem}
 .cc-every{display:flex;align-items:center;justify-content:center;gap:.7rem;color:inherit;text-decoration:none;text-align:left;margin:0 auto 1.4rem}
@@ -110,7 +122,7 @@
 .cc-group{display:grid;grid-template-columns:180px 1fr;gap:1.6rem;align-items:center;margin-top:2.6rem;padding-top:1.6rem;border-top:1px solid var(--line)}
 .cc-group img{display:block;width:180px;height:auto}
 .cc-group .cc-h3{text-align:left;margin:0 0 .4rem}.cc-group p{margin:0 0 .6rem;color:var(--ink-soft)}
-@media (prefers-reduced-motion:reduce){.cc-card *,.cc-clock *{animation:none!important}.cc-card .speak-a,.cc-card .eq-a{opacity:1}}
+@media (prefers-reduced-motion:reduce){.cc-card *,.cc-clock *,.cc-seat *{animation:none!important}.cc-card .speak-a,.cc-card .eq-a{opacity:1}}
 @media (max-width:760px){.cc-pair,.cc-facts{grid-template-columns:1fr}.cc-tiles{grid-template-columns:1fr}.cc-seasons{grid-template-columns:repeat(2,minmax(0,1fr))}.cc-group{grid-template-columns:1fr;justify-items:center;text-align:center}.cc-group .cc-h3{text-align:center}}
 </style>
 </head>
@@ -248,11 +260,11 @@
           </svg>
           <figcaption>Two hours</figcaption>
         </figure>
-        <figure>
-          <svg viewBox="0 0 240 64" role="img" aria-label="Two kinds of seats: a speaking seat, to join the conversation, and a listening seat, at a lower cost">
-            <circle class="verd" cx="22" cy="22" r="9"/><path class="wave" d="M36 16a8 8 0 0 1 0 12M42 12a14 14 0 0 1 0 20"/><text x="8" y="54">speaking seat</text>
-            <circle class="plum hol" cx="146" cy="22" r="9"/><path class="wave" d="M168 16a8 8 0 0 0 0 12M174 12a14 14 0 0 0 0 20" transform="translate(-4 0)"/><text x="132" y="54">listening seat</text>
-          </svg>
+        <figure class="cc-seats" data-live>
+          <div class="cc-seat-pair">
+            <span class="cc-seat cc-seat--speak"><span class="cc-seat__art"><img src="/assets/conversations/speaking-seat.webp" width="400" height="400" loading="lazy" alt="A speaking seat: someone on a floor cushion at their laptop and microphone, leaning in mid-sentence"><svg class="cc-seat__waves" viewBox="0 0 30 40" aria-hidden="true"><path d="M4 14a8 8 0 0 1 0 12M11 9a15 15 0 0 1 0 22M18 4a22 22 0 0 1 0 32"/></svg></span><span class="cc-seat__name">speaking seat</span></span>
+            <span class="cc-seat cc-seat--listen"><span class="cc-seat__art"><img src="/assets/conversations/listening-seat.webp" width="400" height="400" loading="lazy" alt="A listening seat: someone wrapped in a shawl on a meditation cushion, tea in hand and a hand on the heart, listening"><span class="cc-seat__glow" aria-hidden="true"></span></span><span class="cc-seat__name">listening seat</span></span>
+          </div>
           <figcaption>Two kinds of seats; listening costs less</figcaption>
         </figure>
       </div>
