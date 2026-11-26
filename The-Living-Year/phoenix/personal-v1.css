@@ -1,0 +1,63 @@
+.explore-layout { display: grid; grid-template-columns: minmax(16rem, 1fr) minmax(0, 1.8fr); gap: clamp(1.4rem, 5vw, 4rem); align-items: start; }
+.explore-inputs { padding: 1.1rem; background: var(--surface-wash,var(--paper)); border: 1px solid var(--line,var(--rule)); }
+.explore-note { font-size: .9rem; color: var(--ink-soft,var(--quiet)); margin: .65rem 0; }
+.explore-privacy { margin-bottom: 0; }
+.explore-layout label { display: block; font-size: .87rem; font-weight: 650; }
+.explore-layout select, .explore-layout input, .explore-layout button { font: inherit; }
+.explore-layout select, .explore-layout input[type=number], .explore-layout button {
+  min-height: 2.75rem;
+  padding: .38rem .6rem;
+  border: 1px solid var(--ink-soft,var(--quiet));
+  border-radius: .25rem;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.explore-layout select, .coordinate-fields input { width: 100%; }
+.coordinate-fields { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .5rem; margin-top: .7rem; }
+.explore-layout .button-row { display: flex; gap: .5rem; flex-wrap: wrap; align-items: center; }
+.explore-layout button { font-size: .9rem; cursor: pointer; }
+.explore-layout button:disabled { opacity: .5; cursor: default; }
+.explore-layout .primary { background: var(--gold,var(--accent)); border-color: var(--gold,var(--accent)); color: var(--on-gold,var(--paper)); }
+.passage-form { border-top: 1px solid var(--line,var(--rule)); margin-top: 1.15rem; padding-top: .9rem; }
+#passage-number { width: min(13rem, 100%); }
+.explore-result { min-width: 0; }
+.result-heading { text-align: center; }
+.result-heading p { margin: 0; }
+.explore-figure { margin: 0 auto .75rem; }
+.personal-wheel { display: block; width: min(100%, 29rem); margin-inline: auto; height: auto; }
+.explore-legend { display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; font-size: .84rem; color: var(--ink-soft,var(--quiet)); }
+.explore-legend span { display: inline-flex; align-items: center; gap: .38rem; }
+.explore-legend i { width: .72rem; height: .72rem; border-radius: 50%; display: inline-block; }
+.explore-legend .origin-mark { border: 1.5px solid var(--ink); }
+.explore-legend .current-mark { background: var(--gold,var(--accent)); }
+.wheel-rim { fill: none; stroke: var(--line,var(--rule)); stroke-width: 1.4; }
+.wheel-history { fill: none; stroke: var(--gold,var(--accent)); stroke-width: 1; opacity: .5; }
+.wheel-latest, .wheel-arc { fill: none; stroke: var(--gold,var(--accent)); stroke-width: 2.5; }
+.wheel-origin { fill: var(--paper); stroke: var(--ink); stroke-width: 1.7; }
+.wheel-current { fill: var(--gold,var(--accent)); }
+.wheel-glyph, .wheel-label {
+  font: 17px "DejaVu Sans", "Segoe UI Symbol", sans-serif;
+  text-anchor: middle;
+  dominant-baseline: central;
+  fill: var(--ink);
+}
+.wheel-label { font-size: 13px; }
+.wheel-controls label { display: flex; justify-content: space-between; gap: .55rem; }
+.wheel-controls input[type=range] { display: block; width: 100%; min-height: 2.25rem; margin: .2rem 0 .55rem; accent-color: var(--gold,var(--accent)); }
+.explore-measures { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: .65rem; border-top: 1px solid var(--line,var(--rule)); padding-top: .8rem; }
+.explore-measures dt { font-size: .8rem; color: var(--ink-soft,var(--quiet)); }
+.explore-measures dd { margin: .2rem 0 0; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.explore-sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+
+@media (max-width: 720px) {
+  .explore-layout { grid-template-columns: minmax(0, 1fr); }
+  .explore-figure { margin-inline: auto; }
+}
+
+#phoenix-visual-study .result-heading h3 {margin:.12rem 0 .35rem}
+#phoenix-visual-study .explore-anchor summary {cursor:pointer}
+#phoenix-visual-study .explore-presets {justify-content:center;margin:.75rem 0 0}
+#phoenix-visual-study [data-step][aria-pressed="true"] {border-color:var(--accent);color:var(--ink);background:color-mix(in srgb,var(--accent) 12%,var(--paper))}
+#phoenix-visual-study .explore-date {font-size:.92rem;color:var(--ink);margin:.2rem 0}
+#phoenix-visual-study [hidden] {display:none !important}

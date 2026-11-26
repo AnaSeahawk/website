@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="/sovereign-biophysics-distillation/chapter-v1.css">
   <link rel="stylesheet" href="/site-menu-v1.css">
   <link rel="stylesheet" href="/navigation-v2.css">
+  <link rel="stylesheet" href="./personal-v1.css">
   <style>
     :root {--quiet:var(--ink-soft);--rule:var(--line);--accent:#80501e}
     :root[data-theme="dark"] {--accent:#f2bc78}
@@ -78,11 +79,6 @@
     #phoenix-plates figcaption {font-size:.9rem;color:var(--quiet)}
     #phoenix-visual-study {border-block:1px solid var(--rule);padding:1rem 0 1.4rem;margin:2rem 0}
     #phoenix-visual-study h2 {margin:.25rem 0}
-    #phoenix-visual-study .btn {font:inherit;font-size:.9rem;min-height:2.75rem;padding:.35rem .75rem;border:1px solid var(--rule);border-radius:.35rem;background:var(--paper);color:var(--ink)}
-    #phoenix-visual-study .btn[aria-pressed="true"] {border-color:var(--accent);color:var(--accent);background:color-mix(in srgb,var(--accent) 9%,var(--paper))}
-    #phoenix-visual-study .form-range {display:block;width:100%;accent-color:var(--accent);min-height:2rem;margin:.2rem 0}
-    #phoenix-visual-study .study-wheel {max-width:25rem}
-    #phoenix-visual-study .tabular-nums {font-variant-numeric:tabular-nums}
     @media (max-width:615px) {
       .beat-layout {grid-template-columns:minmax(0,1fr)}
       .plate-pair {grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -249,43 +245,82 @@
     <p>A solar return comes each year when the Sun reaches its birth position. The number 138 comes through Jason Breshears’s Archaix chronology, where it names a proposed interval in years. In my Personal Phoenix practice, 138 is an angle. I begin at the natal Sun and place a new point every 138° along the zodiac. <a href="https://archaix.com/phoenix-phenomenon">Archaix’s proposed 138-year interval</a></p>
   </section>
 <section hidden id="phoenix-visual-study" aria-labelledby="phoenix-study-title">
-  <style>
-    #phoenix-visual-study { display: grid; gap: calc(var(--font-size-base) * .65); }
-    #phoenix-visual-study .study-wheel { display: block; width: 100%; max-width: 31rem; margin-inline: auto; }
-    #phoenix-visual-study .study-stops { display: flex; flex-wrap: wrap; gap: .35rem; }
-    #phoenix-visual-study .study-readout { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .35rem 1rem; }
-    #phoenix-visual-study .study-label { fill: var(--foreground); font-size: 14px; text-anchor: middle; dominant-baseline: central; }
-    #phoenix-visual-study .study-glyph { font: 20px "DejaVu Sans", "Segoe UI Symbol", "Noto Sans Symbols 2", sans-serif; }
-    #phoenix-visual-study .study-axis { fill: none; stroke: var(--border); }
-    #phoenix-visual-study .study-history { fill: none; stroke: var(--viz-series-1); stroke-opacity: .33; }
-    #phoenix-visual-study .study-current { fill: none; stroke: var(--viz-series-1); stroke-width: 2; }
-    #phoenix-visual-study .study-point { fill: var(--viz-series-1); }
-    #phoenix-visual-study .study-origin { fill: var(--background); stroke: var(--foreground); stroke-width: 1.5; }
-  </style>
   <h2 id="phoenix-study-title">Explore the wheel</h2>
-  <div class="study-stops" role="group" aria-label="Phoenix views">
-    <button class="btn" type="button" data-step="0">Natal Sun</button>
-    <button class="btn" type="button" data-step="1" aria-pressed="true">First arc</button>
-    <button class="btn" type="button" data-step="8">Unfolding</button>
-    <button class="btn" type="button" data-step="60">Complete figure</button>
-    <button class="btn" type="button" data-step="136">December 19</button>
-  </div>
-  <svg class="study-wheel" viewBox="0 0 360 350" role="img" aria-labelledby="phoenix-wheel-title phoenix-wheel-desc">
-    <title id="phoenix-wheel-title">Phoenix zodiac wheel</title>
-    <desc id="phoenix-wheel-desc"></desc>
-    <g data-wheel></g>
-    <g data-figure></g>
-  </svg>
-  <div class="study-readout" aria-live="polite">
-    <strong data-position class="tabular-nums"></strong>
-    <span data-detail class="tabular-nums"></span>
-  </div>
-  <div>
-    <label class="form-label" for="phoenix-study-step">Build the figure</label>
-    <input class="form-range" id="phoenix-study-step" type="range" min="0" max="60" value="1">
-  </div>
-  <script type="module" src="./wheel-v1.mjs"></script>
+    <div class="explore-layout" data-explorer>
+      <aside class="explore-inputs">
+        <details class="explore-anchor">
+          <summary>Use your own natal Sun</summary>
+          <form data-anchor-form>
+          <p class="explore-note">Enter the tropical Sun position from your birth chart.</p>
+          <label for="sun-sign">Zodiac sign</label>
+          <select id="sun-sign" required aria-describedby="longitude-help"></select>
+          <div class="coordinate-fields" aria-describedby="longitude-help">
+            <div><label for="sun-degree">Degrees</label><input id="sun-degree" type="number" inputmode="numeric" min="0" max="29" step="1" required></div>
+            <div><label for="sun-minute">Minutes</label><input id="sun-minute" type="number" inputmode="numeric" min="0" max="59" step="1" required></div>
+            <div><label for="sun-second">Seconds</label><input id="sun-second" type="number" inputmode="numeric" min="0" max="59" step="1" required></div>
+          </div>
+          <p id="longitude-help" class="explore-note">Use the measured degree, from 0 to 29. The example starts at 9°52′26″ Scorpio, in the tenth degree of the sign.</p>
+          <button class="primary" type="submit">Set natal Sun</button>
+          </form>
+          <p class="explore-note explore-privacy">Your longitude stays in this browser. Passage dates require an ephemeris.</p>
+        </details>
+        <form class="passage-form" data-passage-form>
+          <h3>Go to a passage</h3>
+          <label for="passage-number">Passage number</label>
+          <div class="button-row">
+            <input id="passage-number" type="number" inputmode="numeric" min="0" step="1" value="0" required>
+            <button type="submit">Go</button>
+          </div>
+          <p class="explore-note">Passage 0 is the natal Sun. The figure closes after 60 steps.</p>
+        </form>
+      </aside>
+      <section class="explore-result" aria-labelledby="result-title">
+        <div class="result-heading">
+          <h3 id="result-title" tabindex="-1" data-position></h3>
+          <p data-measured class="explore-note"></p>
+          <p data-natal class="explore-note"></p>
+          <p data-detail class="explore-date" hidden></p>
+        </div>
+        <div class="button-row explore-presets" role="group" aria-label="Phoenix views">
+          <button type="button" data-step="0" aria-pressed="true">Natal Sun</button>
+          <button type="button" data-step="1">First arc</button>
+          <button type="button" data-step="8">Unfolding</button>
+          <button type="button" data-step="60">Complete figure</button>
+          <button type="button" data-step="136" data-example-only>December 19</button>
+          <button type="button" data-reset hidden>Restore example</button>
+        </div>
+        <figure class="explore-figure">
+          <svg class="personal-wheel" viewBox="0 0 360 342" role="img" aria-labelledby="personal-wheel-title personal-wheel-description">
+            <title id="personal-wheel-title">Personal Phoenix wheel</title>
+            <desc id="personal-wheel-description" data-wheel-description></desc>
+            <g data-wheel-frame></g>
+            <g data-wheel-path></g>
+          </svg>
+          <figcaption class="explore-legend">
+            <span><i class="origin-mark" aria-hidden="true"></i>Natal Sun</span>
+            <span><i class="current-mark" aria-hidden="true"></i>Current point</span>
+          </figcaption>
+        </figure>
+        <div class="wheel-controls">
+          <label for="phoenix-study-step">Build the figure <output for="phoenix-study-step" data-progress aria-hidden="true"></output></label>
+          <input type="range" id="phoenix-study-step" min="0" max="60" step="1" value="0">
+          <div class="button-row" aria-label="Step through passages">
+            <button type="button" data-move="-1">Previous</button>
+            <button type="button" data-move="1">Next</button>
+          </div>
+        </div>
+        <dl class="explore-measures">
+          <div><dt>Cumulative arc</dt><dd data-total></dd></div>
+          <div><dt>Solar revolutions completed</dt><dd data-revolutions></dd></div>
+          <div><dt>Position in repeating figure</dt><dd data-cycle></dd></div>
+        </dl>
+        <p data-announcement class="explore-sr-only" role="status"></p>
+      </section>
+    </div>
+  <script type="module" src="./personal-v1.mjs"></script>
 </section>
+
+  <noscript><p>Enable JavaScript to use the Phoenix wheel. The illustrated explanation and passage dates are available on this page.</p></noscript>
 
   <section id="dates" aria-labelledby="dates-title">
     <h2 id="dates-title">My life in Phoenix passages</h2>

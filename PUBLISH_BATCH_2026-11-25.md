@@ -58,3 +58,7 @@ Ana approved the expanded purpose and history sections, with the complete ten-ye
 Ana approved the reviewed first-person worked example, 23-year recurrence and vector plate, the repositioned origins, and the expanded sunflower comparison. The page now includes Keeping the Phoenix and the factual Phoenix CXXXVI entry. The approved opening, date tables and interactive wheel carry through.
 
 Ana approved the first-return reflection in “When the geometry returns.” The Sagittarius recurrence plate and the natal-return table were preserved. The calculation notes link to Rudhyar’s seed image.
+
+## Phoenix wheel personalization
+
+Ana approved adding visitor longitude controls to the existing Phoenix page. The wheel opens at passage 0, with her natal Sun and November 2, 1974 birthday. Restore example returns to that same view. The December 19 preset belongs to the worked example, and visitor longitude is calculated in the browser.
