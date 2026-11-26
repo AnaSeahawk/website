@@ -27,6 +27,8 @@
   font-variant-numeric: tabular-nums;
 }
 .sky-line b { color: var(--gold); font-weight: 600; }
+.sky-line .sky-glyphs { white-space: pre; }
+.sky-line .sky-g { font-family: "Segoe UI Symbol", "Noto Sans Symbols", "Noto Sans Symbols 2", "DejaVu Sans", "Apple Symbols", serif; font-size: 1.35em; font-weight: 400; letter-spacing: 0; line-height: 1; color: var(--gold); }
 .sky-band { border-bottom: 1px solid var(--line); background: var(--surface-wash); }
 .sky-band .sky-line { margin-inline: auto; }
 .page-sky { margin-bottom: 1.6rem; padding: 0; }

@@ -27,10 +27,93 @@
     .cc-feature__deck { color: var(--ink-soft); }
     .cc-feature__go { margin-top: auto; font-weight: 600; text-decoration: underline; text-decoration-color: var(--door-gather); text-underline-offset: .25em; }
     @media (max-width: 40rem) { .cc-feature { grid-template-columns: 1fr; } .cc-feature img { aspect-ratio: 4 / 3; } }
-    .cc-before { font-style: italic; color: var(--ink-soft); }
-    .cc-season { display: inline-block; margin-left: .6em; font-size: .72rem; letter-spacing: .1em; text-transform: uppercase; color: var(--door-gather); }
   </style>
-<style>.cc-choose{padding-block:1.5rem 0}.cc-choose .threshold small{font-size:.92rem;line-height:1.45;color:var(--muted,inherit)}</style>
+<style>
+.cc-shell{width:min(980px,calc(100% - 3rem));margin-inline:auto}
+.cc-pair-section{padding-block:1.5rem 0}
+.cc-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(1.2rem,3vw,2.4rem)}
+.cc-card{display:grid;gap:.8rem;color:inherit;text-decoration:none}
+.cc-card svg{display:block;width:100%;height:auto;transition:transform .3s}
+.cc-card:hover svg,.cc-card:focus-visible svg{transform:translateY(-3px)}
+.cc-cap{display:grid;grid-template-columns:1fr auto;column-gap:1rem}
+.cc-cap b{font-family:var(--display);font-weight:500;font-size:1.7rem;line-height:1.1;color:var(--door-talk)}
+.cc-card--circle .cc-cap b{color:var(--door-gather)}
+.cc-cap span{grid-column:1;color:var(--ink-soft)}
+.cc-card .cc-cap{margin-bottom:.2rem}
+.cc-cap i{grid-row:1/3;grid-column:2;font-style:normal;font-size:1.4rem;color:var(--gold);align-self:center}
+.cc-card .fr{fill:var(--paper);stroke:var(--line);stroke-width:1.5}
+.cc-card .bar{fill:var(--door-talk);opacity:.14}.cc-card .dot{fill:var(--ink);opacity:.25}
+.cc-card .pane-a{fill:var(--verdigris);opacity:.14}.cc-card .pane-b{fill:var(--door-talk);opacity:.14}
+.cc-card .speak{fill:none;stroke:var(--gold-bright);stroke-width:3;opacity:0}
+.cc-card .verd,.cc-facts .verd{fill:var(--verdigris)}.cc-card .plum,.cc-facts .plum{fill:var(--door-talk)}.cc-card .ox{fill:var(--oxblood)}.cc-card .gold{fill:var(--gold)}.cc-card .goldb{fill:var(--gold-bright)}
+.cc-card .hol,.cc-facts .hol{opacity:.38}
+.cc-facts .wave{fill:none;stroke:var(--gold);stroke-width:2.4;stroke-linecap:round}
+.cc-card .ctl{fill:var(--ink);opacity:.18}
+.cc-card .tag>rect{fill:#2a2622;opacity:.62}.cc-card .tag text{font:600 6.5px var(--body);fill:#fff;letter-spacing:.02em}
+.cc-card .eq{fill:var(--gold-bright);opacity:0}.cc-card .eq rect{transform-box:fill-box;transform-origin:center bottom}
+.cc-card .cc-glow,.cc-card .cc-sunglow{mix-blend-mode:screen;opacity:0}
+.cc-card .cc-sunglow{opacity:.5}
+.cc-card .cc-voice{fill:none;stroke:#fff4c8;stroke-width:2.2;stroke-linecap:round;stroke-dasharray:10;stroke-dashoffset:10}
+.cc-card .cc-p{transform-box:view-box;transform-origin:120px 35px}
+.is-live .speak-a,.is-live .eq-a{animation:cc-talk 6s ease-in-out infinite}
+.is-live .speak-b,.is-live .eq-b{animation:cc-talk 6s ease-in-out 3s infinite}
+.is-live .eq rect{animation:cc-eq .5s ease-in-out infinite alternate}
+.is-live .eq rect:nth-child(2){animation-delay:-.25s;animation-duration:.4s}.is-live .eq rect:nth-child(3){animation-delay:-.1s;animation-duration:.55s}
+.is-live .cc-sunglow{animation:cc-breathe 4.8s ease-in-out infinite}
+.is-live .cc-glow{animation:cc-light 9.6s ease-in-out calc(var(--i) * 1.2s) infinite}
+.is-live .cc-voice{animation:cc-voice 9.6s ease-in-out calc(var(--i) * 1.2s) infinite}
+@keyframes cc-eq{from{transform:scaleY(.3)}to{transform:scaleY(1)}}
+@keyframes cc-breathe{50%{opacity:.95}}
+@keyframes cc-light{0%,100%{opacity:0}5%,10%{opacity:.85}16%{opacity:0}}
+@keyframes cc-talk{0%,4%{opacity:0}10%,40%{opacity:1}48%,100%{opacity:0}}
+@keyframes cc-voice{0%{stroke-dashoffset:10}5%,10%{stroke-dashoffset:0}16%,100%{stroke-dashoffset:-10}}
+.cc-kicker{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);font-weight:600;text-align:center;margin:0 0 .6rem}
+.cc-lead{font-family:var(--display);font-weight:500;font-size:clamp(1.7rem,4.2vw,2.6rem);line-height:1.15;text-align:center;margin:0 0 1rem}
+.cc-sub{text-align:center;color:var(--ink-soft);margin:0 0 1.6rem}
+.cc-note{text-align:center;color:var(--ink-soft);font-style:italic;margin:1.2rem auto;max-width:40rem}
+.cc-tiles{list-style:none;margin:2rem 0 0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.6rem}
+.cc-tiles li{display:grid;justify-items:center;align-content:start;text-align:center;gap:.4rem}
+.cc-tiles svg,.cc-seasons svg,.cc-every svg{fill:none;stroke:var(--gold);stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.cc-tiles svg{width:72px;height:72px}
+.cc-tiles .v,.cc-seasons .v{stroke:var(--verdigris)}.cc-tiles .g,.cc-seasons .g,.cc-every .g{fill:var(--gold-bright);stroke:none}
+.cc-tiles .h{fill:var(--oxblood);stroke:none}.cc-tiles .dash{stroke-dasharray:3 4}.cc-seasons .o{stroke:var(--oxblood)}
+.cc-tiles b{font-family:var(--display);font-weight:600;font-size:1.35rem;line-height:1.2}
+.cc-tiles span{color:var(--ink-soft);font-size:.97rem;line-height:1.45}
+.cc-tiles small{font-size:.9rem}
+.cc-clock{width:56px;height:56px;transform:rotate(-90deg)}
+.cc-clock .face{fill:none;stroke:var(--line);stroke-width:1.5}
+.cc-clock .fill{fill:none;stroke:var(--gold);stroke-width:22;stroke-dasharray:var(--n) 100}
+.cc-clock .fill2{fill:none;stroke:var(--verdigris);stroke-width:3;stroke-linecap:round;stroke-dasharray:var(--n) 100}
+.is-live .cc-clock .fill,.is-live .cc-clock .fill2{animation:cc-fill 1.6s cubic-bezier(.3,.7,.3,1) backwards}
+.is-live .cc-clock .fill2{animation-delay:1.1s}
+@keyframes cc-fill{from{stroke-dasharray:0 100}}
+.cc-facts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:2rem;margin:0}
+.cc-facts figure{margin:0;text-align:center}
+.cc-facts svg{display:block;width:100%;max-width:340px;margin-inline:auto;height:auto}
+.cc-facts .seg1{fill:var(--gold)}.cc-facts .seg2{fill:var(--verdigris)}
+.cc-facts text{font:500 11px var(--body);fill:var(--ink-soft)}
+.cc-facts figcaption{font-family:var(--display);font-size:1.3rem;margin-top:.2rem}
+.cc-h3{font-family:var(--display);font-weight:500;font-size:1.7rem;text-align:center;margin:2.6rem 0 1rem}
+.cc-every{display:flex;align-items:center;justify-content:center;gap:.7rem;color:inherit;text-decoration:none;text-align:left;margin:0 auto 1.4rem}
+.cc-every svg{width:40px;height:40px;flex:none}.cc-every b{font-family:var(--display);font-size:1.25rem}
+.cc-every:hover span{text-decoration:underline;text-decoration-color:var(--gold)}
+.cc-seasons{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.cc-seasons>div{background:var(--paper);padding:1.2rem 1rem 1.3rem;text-align:center}
+.cc-seasons svg{width:48px;height:48px}
+.cc-seasons h4{font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);margin:.3rem 0 .8rem}
+.cc-seasons ul{list-style:none;margin:0;padding:0;display:grid;gap:.8rem}
+.cc-seasons li{display:grid;gap:.1rem}
+.cc-seasons b{font-family:var(--display);font-size:1.2rem;font-weight:600;line-height:1.2}
+.cc-seasons a{color:inherit;text-decoration:underline;text-decoration-color:var(--gold);text-underline-offset:.2em}
+.cc-seasons span{color:var(--ink-soft);font-size:.9rem;line-height:1.35}
+.cc-shell .cc-feature img{height:auto;aspect-ratio:5/4}.cc-shell .cc-feature__text{justify-content:center}
+.cc-group{display:grid;grid-template-columns:150px 1fr;gap:1.6rem;align-items:center;margin-top:2.6rem;padding-top:1.6rem;border-top:1px solid var(--line)}
+.cc-group svg{width:150px;height:auto}
+.cc-group .r{stroke:var(--line);stroke-width:2}.cc-group .v2{fill:var(--verdigris)}.cc-group .p2{fill:var(--door-talk)}.cc-group .o2{fill:var(--oxblood)}
+.cc-group .cc-h3{text-align:left;margin:0 0 .4rem}.cc-group p{margin:0 0 .6rem;color:var(--ink-soft)}
+@media (prefers-reduced-motion:reduce){.cc-card *,.cc-clock *{animation:none!important}.cc-card .speak-a,.cc-card .eq-a{opacity:1}}
+@media (max-width:760px){.cc-pair,.cc-facts{grid-template-columns:1fr}.cc-tiles{grid-template-columns:1fr}.cc-seasons{grid-template-columns:repeat(2,minmax(0,1fr))}.cc-group{grid-template-columns:1fr;justify-items:center;text-align:center}.cc-group .cc-h3{text-align:center}}
+</style>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to the page</a>
@@ -64,108 +147,154 @@
       </div>
     </header>
 
-    <section class="chapter-section cc-choose">
-      <div class="reading-shell">
-        <nav class="threshold" aria-label="On this page">
-          <a class="t-talk" href="#conversations"><span>Conversations</span><b>One to one ↓</b><small>Questions, Place Readings, A Website of One’s Own, Nomadic Living. Bookable now.</small></a>
-          <a class="t-gather" href="#circles"><span>Circles</span><b>Gathered by season ↓</b><small>One subject at a time, through The Living Year. The first opens in spring 2027.</small></a>
-        </nav>
+    <section class="chapter-section cc-pair-section"><div class="cc-shell">
+      <div class="cc-pair">
+        <a class="cc-card" href="#conversations" data-live>
+          <span class="cc-cap"><b>Conversations</b><span>One to one, by video. 20, 60 or 90 minutes. Bookable now.</span><i>↓</i></span>
+          <svg viewBox="0 0 240 190" role="img" aria-label="A video call between Ana and you: each lights up in turn while speaking">
+            <defs><clipPath id="cc-pa"><rect x="14" y="30" width="102" height="112" rx="6"/></clipPath><clipPath id="cc-pb"><rect x="124" y="30" width="102" height="112" rx="6"/></clipPath></defs>
+            <rect class="fr" x="4" y="4" width="232" height="182" rx="10"/>
+            <rect class="bar" x="4" y="4" width="232" height="18" rx="10"/><rect class="bar" x="4" y="14" width="232" height="8"/>
+            <circle class="dot" cx="16" cy="13" r="2.5"/><circle class="dot" cx="24" cy="13" r="2.5"/><circle class="dot" cx="32" cy="13" r="2.5"/>
+            <rect class="pane-a" x="14" y="30" width="102" height="112" rx="6"/><rect class="pane-b" x="124" y="30" width="102" height="112" rx="6"/>
+            <image href="/assets/conversations/ana-speaking.webp" x="8" y="34" width="114" height="114" clip-path="url(#cc-pa)"/>
+            <image href="/assets/conversations/listener.webp" x="118" y="34" width="114" height="114" clip-path="url(#cc-pb)"/>
+            <rect class="speak speak-a" x="14" y="30" width="102" height="112" rx="6"/><rect class="speak speak-b" x="124" y="30" width="102" height="112" rx="6"/>
+            <g class="tag"><rect x="19" y="128" width="34" height="10" rx="3"/><text x="23" y="135.6">Ana</text><g class="eq eq-a"><rect x="40" y="130" width="2" height="6" rx="1"/><rect x="44" y="130" width="2" height="6" rx="1"/><rect x="48" y="130" width="2" height="6" rx="1"/></g></g>
+            <g class="tag"><rect x="129" y="128" width="34" height="10" rx="3"/><text x="133" y="135.6">You</text><g class="eq eq-b"><rect x="150" y="130" width="2" height="6" rx="1"/><rect x="154" y="130" width="2" height="6" rx="1"/><rect x="158" y="130" width="2" height="6" rx="1"/></g></g>
+            <circle class="ctl" cx="98" cy="164" r="8"/><circle class="ctl" cx="120" cy="164" r="8"/><rect class="ox" x="134" y="158" width="20" height="12" rx="6"/>
+          </svg>
+        </a>
+        <a class="cc-card cc-card--circle" href="#circles" data-live>
+          <span class="cc-cap"><b>Circles</b><span>Gathered around one subject, by the Sun’s seasons. The first opens in spring 2027.</span><i>↓</i></span>
+          <svg viewBox="0 0 240 190" role="img" aria-label="A Circle seen from above: eight people on cushions around a sun on a woven rug, each lighting up in turn as they speak">
+            <defs><radialGradient id="cc-glow"><stop offset="0" stop-color="#fff4c8" stop-opacity=".95"/><stop offset=".45" stop-color="#f2c45a" stop-opacity=".55"/><stop offset="1" stop-color="#f2c45a" stop-opacity="0"/></radialGradient></defs>
+            <rect class="fr" x="4" y="4" width="232" height="182" rx="10"/>
+            <image href="/assets/conversations/circle-from-above.webp" x="32" y="7" width="176" height="176"/>
+            <circle class="cc-sunglow" cx="120" cy="95" r="26" fill="url(#cc-glow)"/>
+            <g transform="rotate(0 120 95)"><g class="cc-p" style="--i:0"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+            <g transform="rotate(45 120 95)"><g class="cc-p" style="--i:1"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+            <g transform="rotate(90 120 95)"><g class="cc-p" style="--i:2"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+            <g transform="rotate(135 120 95)"><g class="cc-p" style="--i:3"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+            <g transform="rotate(180 120 95)"><g class="cc-p" style="--i:4"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+            <g transform="rotate(225 120 95)"><g class="cc-p" style="--i:5"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+            <g transform="rotate(270 120 95)"><g class="cc-p" style="--i:6"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+            <g transform="rotate(315 120 95)"><g class="cc-p" style="--i:7"><circle class="cc-glow" cx="120" cy="35" r="24" fill="url(#cc-glow)"/><path class="cc-voice" d="M120 57v15" pathLength="10"/></g></g>
+          </svg>
+        </a>
       </div>
-    </section>
+    </div></section>
 
-    <section class="chapter-section work-intro" id="conversations">
-      <div class="chapter-layout">
-        <aside class="margin-note">
-          <span class="note-number">CONVERSATIONS</span>
-          <p>One to one, by video. <br>20, 60 or 90 minutes.</p>
-        </aside>
-        <div class="reading-column" id="subjects">
-          <p class="work-intro__lead">A conversation is time alone with Ana, for the questions, observations and curiosity that grow around a practice, a home or a way of living.</p>
-          <p>It draws on lived practice, sustained observation and years of independent study, from herbalism into Ayurveda. The subject comes from the person booking, and the way in is found together. Any <a href="#circles">Circle</a> can be taken alone this way, in 90 minutes.</p>
-          <h3 class="workshop-group" id="one-to-one">Only one to one</h3>
-          <ul class="subjects">
-            <li id="place-readings"><span class="mark" aria-hidden="true">⌂</span><div><span id="biophilia"></span><b>Place Readings</b><p>A home read for light, air, plants, decor and the living world around it, so the space becomes a habitat to take part in. Photographs and a walk through it on camera are enough; no visit is needed. <a href="/Ways-of-Living/home-and-habitat/place-readings.html">About Place Readings →</a> · <a href="/Ways-of-Living/home-and-habitat/place-readings.html#hosts">For hosts on Airbnb →</a></p></div></li>
-            <li id="website"><span class="mark" aria-hidden="true">⬡</span><div><b>A Website of One’s Own</b><p>A site that grows the way a life does: beautiful, owned outright and easy to keep tending. Begun together and planned in its look and feel, then handed over with the craft of tending it, made with Claude, and support close by afterwards. A free 15-minute call by email is the place to start. <a href="/conversations/a-website-of-ones-own.html">How it goes →</a></p></div></li>
-            <li id="nomadic-living"><span class="mark" aria-hidden="true">◌</span><div><b>Nomadic Living: At Home in the World</b><p>Fifteen years of nomadic life, and home is here, in the body, wherever it happens to be. Leaving, belongings, choosing places and finding an everyday rhythm, and the personal side too: homesickness, travelling as a couple, family far away.</p></div></li>
-          </ul>
-        </div>
-      </div>
-    </section>
+    <section class="chapter-section" id="conversations"><div class="cc-shell" id="subjects">
+      <p class="cc-kicker">Conversations · one to one</p>
+      <h2 class="cc-lead">Time alone together, around one question.</h2>
+      <ul class="cc-tiles" id="one-to-one">
+        <li id="place-readings"><span id="biophilia"></span>
+          <svg viewBox="0 0 64 64" aria-hidden="true"><path d="M10 30L32 12l22 18"/><path d="M15 26v28h34V26"/><rect x="21" y="32" width="12" height="12" rx="1"/><path class="v" d="M40 54c0-8 4-12 9-13-1 6-4 11-9 13zm0 0v-9"/><circle class="g" cx="52" cy="12" r="4"/></svg>
+          <b>Place Readings</b><span>A home read for light, air, plants and life. Photos and a walk through on camera are enough.</span>
+          <small><a href="/Ways-of-Living/home-and-habitat/place-readings.html">About →</a> · <a href="/Ways-of-Living/home-and-habitat/place-readings.html#hosts">For Airbnb hosts →</a></small></li>
+        <li id="website">
+          <svg viewBox="0 0 64 64" aria-hidden="true"><rect x="6" y="10" width="52" height="42" rx="4"/><path d="M6 19h52"/><path class="v" d="M14 46V34a8 8 0 0 1 16 0v12"/><circle class="g" cx="22" cy="38" r="3"/><path d="M36 30h14M36 36h10M36 42h12"/></svg>
+          <b>A Website of One’s Own</b><span>Begun together, owned outright, easy to keep tending. Starts with a free 15-minute call.</span>
+          <small><a href="/conversations/a-website-of-ones-own.html">How it goes →</a></small></li>
+        <li id="nomadic-living">
+          <svg viewBox="0 0 64 64" aria-hidden="true"><path d="M6 16l17-6 18 6 17-6v38l-17 6-18-6-17 6z"/><path d="M23 10v38M41 16v38"/><path class="v dash" d="M12 40c5-1 7-10 14-11s9 9 16 5 6-9 8-10"/><path class="h" d="M50 20c-2-3-6-1-4 2l4 4 4-4c2-3-2-5-4-2z"/></svg>
+          <b>Nomadic Living</b><span>Fifteen years on the move. Home is here, in the body, wherever it happens to be.</span></li>
+      </ul>
+      <p class="cc-note">Or any question of your own, about a practice, a home or a way of living.</p>
+    </div></section>
 
     <section class="booking-section" id="book" aria-labelledby="book-title">
       <div class="shell">
         <p class="section-kicker">Book a conversation</p>
         <h2 id="book-title">Choose your time.</h2>
-        <p class="booking-intro">Introductory prices. Booking asks what the conversation is about: a sentence is plenty.</p>
-        <div class="booking-grid">
+        <p class="booking-intro">Introductory prices. A sentence about the subject is plenty.</p>
+        <div class="booking-grid" data-live>
           <a class="booking-card" href="https://cal.com/anaseahawk/20minutes" target="_blank" rel="noopener">
+            <svg class="cc-clock" viewBox="0 0 56 56" aria-hidden="true"><circle class="face" cx="28" cy="28" r="22"/><circle class="fill" cx="28" cy="28" r="11" pathLength="100" style="--n:33.4"/></svg>
             <span class="booking-card__length">20 minutes</span>
             <span class="booking-card__price">US$45</span>
-            <p>A first conversation: to say hello, ask a question, or see whether working together is a fit. Any subject is welcome.</p>
+            <p>Hello, a question, or a first look at whether it fits. Any subject.</p>
             <span class="booking-card__cta">Book&nbsp; ↗</span>
           </a>
           <a class="booking-card" href="https://cal.com/anaseahawk/60minutes" target="_blank" rel="noopener">
+            <svg class="cc-clock" viewBox="0 0 56 56" aria-hidden="true"><circle class="face" cx="28" cy="28" r="22"/><circle class="fill" cx="28" cy="28" r="11" pathLength="100" style="--n:100"/></svg>
             <span class="booking-card__length">60 minutes</span>
             <span class="booking-card__price">US$125</span>
-            <p>An hour for one subject in depth, whether a practice, a home or a space, or a change in how life is lived.</p>
+            <p>One subject, in depth.</p>
             <span class="booking-card__cta">Book&nbsp; ↗</span>
           </a>
           <a class="booking-card" href="https://cal.com/anaseahawk/90minutes" target="_blank" rel="noopener">
+            <svg class="cc-clock" viewBox="0 0 56 56" aria-hidden="true"><circle class="face" cx="28" cy="28" r="22"/><circle class="fill" cx="28" cy="28" r="11" pathLength="100" style="--n:100"/><circle class="fill2" cx="28" cy="28" r="25.5" pathLength="100" style="--n:50"/></svg>
             <span class="booking-card__length">90 minutes</span>
             <span class="booking-card__price">US$180</span>
-            <p>A long conversation, or the subject of any Circle taken one to one. Name the Circle when booking.</p>
+            <p>A long conversation, or any Circle taken one to one.</p>
             <span class="booking-card__cta">Book&nbsp; ↗</span>
           </a>
         </div>
         <p class="booking-note">Have an observation from your own auto-urine practice? The conversation for <a href="https://water.mother-spirit.com/">The Water of Life</a> archive is free.</p>
       </div>
     </section>
-    <section class="chapter-section" id="circles">
-      <div class="chapter-layout">
-        <aside class="margin-note">
-          <span class="note-number">CIRCLES</span>
-          <p>By video. <br>Two hours: 90 minutes on the subject, then 30 minutes of open conversation.</p>
-        </aside>
-        <div class="reading-column">
-          <p class="work-intro__lead">A Circle is a gathering around one subject, held through <a href="/The-Living-Year/">The Living Year</a> by the Sun’s seasons.</p>
-          <p><b>Every voice counts.</b> A Circle begins with its subject and opens into conversation. Each person speaks from their own experience, and the others listen with care. What one brings meets what another brings, and in that meeting the Circle comes alive.</p>
-          <p>A seat can be taken in two ways: a <b>speaking seat</b>, to join the conversation, or a <b>listening seat</b>, at a lower cost, to be present and receive. Each Circle’s date, seats and costs are listed at least one week ahead, and seats are booked one at a time.</p>
 
-          <a class="cc-feature" href="/The-Living-Year/living-waters/">
-            <img src="/assets/living-waters/three-waters-flasks.webp" width="700" height="792" alt="Three glass flasks joined by a still: a golden one under the Sun, a clear one under the Moon, and a dark mineral one beneath Saturn">
-            <span class="cc-feature__text">
-              <span class="cc-feature__when">Spring 2027 · the year’s first lunation</span>
-              <b>The Living Waters</b>
-              <span class="cc-feature__deck">Distillation and the alchemical roots, told in pictures: the body as the first vessel, the still and its three waters, and the women of alchemy.</span>
-              <span class="cc-feature__go">The Circle →</span>
-            </span>
-          </a>
+    <section class="chapter-section" id="circles"><div class="cc-shell">
+      <p class="cc-kicker">Circles · gathered by season</p>
+      <h2 class="cc-lead">One subject, many voices.</h2>
+      <p class="cc-sub">Held through <a href="/The-Living-Year/">The Living Year</a>, by video. Every voice counts.</p>
 
-          <p class="cc-before">Before spring, the year begins on paper. <a href="/#guide">The Soli Lunar Guide</a> is free: a short guide to dating any notebook by the Sun and the Moon, followed by a letter at each new moon with the Circles ahead.</p>
-
-          <h3 class="workshop-group">The Circles in the seasons</h3>
-          <ul class="subjects">
-            <li id="as-above-so-below"><span class="mark" aria-hidden="true">☉</span><div><b>Keeping the Year</b><small class="cc-season">Opens each season</small><p>A notebook kept by the Sun’s year and the cycles of the Moon, as the old makers kept their work, with the Soli Lunar Guide. <a href="/The-Living-Year/keeping-the-year/">The Circle →</a></p></div></li>
-            <li id="living-waters"><span class="mark" aria-hidden="true">☿</span><div><b>The Living Waters</b><small class="cc-season">Spring · the first lunation</small><p>Distillation and the alchemical roots: the body as the first distillery, Mary the Jewess and the women of alchemy, the still and its three waters. <a href="/The-Living-Year/living-waters/">The Circle →</a></p></div></li>
-            <li id="shivambu"><span class="mark" aria-hidden="true">≋</span><div><b>First Waters</b><small class="cc-season">Spring</small><p>Beginning Shivambu: the name, the practice, menstruation, and room for every question. <a href="/The-Living-Year/shivambu-beginning/">The Circle →</a></p></div></li>
-            <li id="soil-makers"><span class="mark" aria-hidden="true">◍</span><div><b>Soil Makers</b><small class="cc-season">Spring</small><p>Urbaculture: bokashi, the Phoenix Fly and humanure working as one system, turning all of a home’s waste into living soil, even in the city. <a href="/Ways-of-Living/home-and-habitat/urbaculture.html">Urbaculture →</a></p></div></li>
-            <li id="eco-enzymes"><span class="mark" aria-hidden="true">✺</span><div><b>The Peel Jar</b><small class="cc-season">Summer</small><p>Eco enzymes from fruit peels, sugar and water: a cleaner for the house, or a tonic and vinegar for the kitchen.</p></div></li>
-            <li id="the-body-as-home"><span class="mark" aria-hidden="true">∿</span><div><b>Edges and Play</b><small class="cc-season">Summer</small><p>Somatic awareness: movement, balance and the body’s own edges, explored through curiosity and play, in whatever space there is. <a href="/The-Living-Year/somatic-awareness/">The Circle →</a></p></div></li>
-            <li id="shivambu-deeper-work"><span class="mark" aria-hidden="true">◉</span><div><b>Reading the Waters</b><small class="cc-season">Autumn</small><p>Shivambu, the deeper work, for those already in the practice: the closed loop over years, fresh and aged waters, topical practice, and reading what the body says.</p></div></li>
-            <li id="winter-shelf"><span class="mark" aria-hidden="true">❧</span><div><b>The Winter Shelf</b><small class="cc-season">Winter</small><p>A reading Circle for the quiet season: books from the shelf, read together.</p></div></li>
-            <li id="year-gathered"><span class="mark" aria-hidden="true">✧</span><div><b>The Year Gathered</b><small class="cc-season">Winter</small><p>The year’s observations: what it has shown, gathered before Aries returns.</p></div></li>
-          </ul>
-
-          <div class="workshop-own" id="groups">
-            <h3 class="workshop-group">A Circle for your group</h3>
-            <p>A Circle just for a community, a group of friends or an organisation, on one of these subjects or something else. It is shaped together, and the cost is agreed together. In person is possible too, when a host invites Ana and holds the space: a yoga studio, an eco project, a community that gathers the group.</p>
-            <p>A free 15‑minute call to plan it is welcome; just ask in the email.</p>
-            <a class="booking-card__cta js-write" data-u="anaseahawk" data-d="gmail.com" data-s="A Circle for our group" hidden>Write to Ana&nbsp; ↗</a>
-            <noscript><p>Write to anaseahawk (at) gmail (dot) com.</p></noscript>
-          </div>
-        </div>
+      <div class="cc-facts">
+        <figure>
+          <svg viewBox="0 0 240 64" role="img" aria-label="Two hours: 90 minutes on the subject, then 30 minutes of open conversation">
+            <rect class="seg1" x="4" y="14" width="174" height="20" rx="4"/><rect class="seg2" x="182" y="14" width="54" height="20" rx="4"/>
+            <text x="8" y="54">90 min · the subject</text><text x="236" y="54" text-anchor="end">30 · open talk</text>
+          </svg>
+          <figcaption>Two hours</figcaption>
+        </figure>
+        <figure>
+          <svg viewBox="0 0 240 64" role="img" aria-label="Two kinds of seats: a speaking seat, to join the conversation, and a listening seat, at a lower cost">
+            <circle class="verd" cx="22" cy="22" r="9"/><path class="wave" d="M36 16a8 8 0 0 1 0 12M42 12a14 14 0 0 1 0 20"/><text x="8" y="54">speaking seat</text>
+            <circle class="plum hol" cx="146" cy="22" r="9"/><path class="wave" d="M168 16a8 8 0 0 0 0 12M174 12a14 14 0 0 0 0 20" transform="translate(-4 0)"/><text x="132" y="54">listening seat</text>
+          </svg>
+          <figcaption>Two kinds of seats; listening costs less</figcaption>
+        </figure>
       </div>
-    </section>
+      <p class="cc-note">Each Circle’s date, seats and costs are listed at least a week ahead.</p>
+
+      <a class="cc-feature" href="/The-Living-Year/living-waters/">
+        <img src="/assets/living-waters/three-waters-flasks.webp" width="700" height="792" alt="Three glass flasks joined by a still: a golden one under the Sun, a clear one under the Moon, and a dark mineral one beneath Saturn">
+        <span class="cc-feature__text">
+          <span class="cc-feature__when">Spring 2027 · the year’s first lunation</span>
+          <b>The Living Waters</b>
+          <span class="cc-feature__deck">Distillation and the alchemical roots, told in pictures.</span>
+          <span class="cc-feature__go">The Circle →</span>
+        </span>
+      </a>
+      <p class="cc-note">Before spring: the free <a href="/#guide">Soli Lunar Guide</a>, and a letter at each new moon with the Circles ahead.</p>
+
+      <h3 class="cc-h3">The Circles in the seasons</h3>
+      <a class="cc-every" id="as-above-so-below" href="/The-Living-Year/keeping-the-year/"><svg viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="14"/><circle class="g" cx="20" cy="20" r="3"/></svg><span><b>Keeping the Year</b> · every season · a notebook kept by the Sun and the Moon →</span></a>
+      <div class="cc-seasons">
+        <div><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 42V22"/><path class="v" d="M24 28c-10 0-14-6-14-12 8 0 14 4 14 12zm0-4c0-8 6-12 14-12 0 6-4 12-14 12z"/></svg><h4>Spring</h4>
+          <ul><li id="living-waters"><a href="/The-Living-Year/living-waters/"><b>The Living Waters</b></a><span>distillation and alchemy</span></li>
+          <li id="shivambu"><a href="/The-Living-Year/shivambu-beginning/"><b>First Waters</b></a><span>beginning Shivambu</span></li>
+          <li id="soil-makers"><a href="/Ways-of-Living/home-and-habitat/urbaculture.html"><b>Soil Makers</b></a><span>a home’s waste into living soil</span></li></ul></div>
+        <div><svg viewBox="0 0 48 48" aria-hidden="true"><circle class="g" cx="24" cy="24" r="8"/><path d="M24 6v6M24 36v6M6 24h6M36 24h6M11 11l4 4M33 33l4 4M37 11l-4 4M15 33l-4 4"/></svg><h4>Summer</h4>
+          <ul><li id="eco-enzymes"><b>The Peel Jar</b><span>eco enzymes from fruit peels</span></li>
+          <li id="the-body-as-home"><a href="/The-Living-Year/somatic-awareness/"><b>Edges and Play</b></a><span>the body’s edges, through play</span></li></ul></div>
+        <div><svg viewBox="0 0 48 48" aria-hidden="true"><path class="o" d="M12 38C12 20 22 10 38 10c0 16-10 28-26 28z"/><path d="M12 38L30 20"/></svg><h4>Autumn</h4>
+          <ul><li id="shivambu-deeper-work"><b>Reading the Waters</b><span>Shivambu, the deeper work</span></li></ul></div>
+        <div><svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 6v36M8.4 15l31.2 18M8.4 33l31.2-18"/><path d="M20 9l4 4 4-4M20 39l4-4 4 4"/></svg><h4>Winter</h4>
+          <ul><li id="winter-shelf"><b>The Winter Shelf</b><span>books, read together</span></li>
+          <li id="year-gathered"><b>The Year Gathered</b><span>what the year has shown</span></li></ul></div>
+      </div>
+
+      <div class="cc-group" id="groups">
+        <svg viewBox="0 0 120 64" aria-hidden="true"><path class="r" d="M10 56h100"/><circle class="v2" cx="30" cy="26" r="8"/><path class="v2" d="M16 52a14 14 0 0 1 28 0z"/><circle class="p2" cx="60" cy="22" r="8"/><path class="p2" d="M46 48a14 14 0 0 1 28 0z"/><circle class="o2" cx="90" cy="26" r="8"/><path class="o2" d="M76 52a14 14 0 0 1 28 0z"/></svg>
+        <div><h3 class="cc-h3">A Circle for your group</h3>
+        <p>For a community, friends or an organisation, on any subject. Shaped and priced together, and in person when a host invites. A free 15-minute call to plan it, by email.</p>
+        <a class="booking-card__cta js-write" data-u="anaseahawk" data-d="gmail.com" data-s="A Circle for our group" hidden>Write to Ana&nbsp; ↗</a>
+        <noscript><p>Write to anaseahawk (at) gmail (dot) com.</p></noscript></div>
+      </div>
+    </div></section>
 
     <section class="chapter-section chapter-section--wash" id="where-it-began">
       <div class="chapter-layout">
@@ -213,6 +342,10 @@
       a.href = 'mailto:' + a.dataset.u + '@' + a.dataset.d + '?subject=' + encodeURIComponent(a.dataset.s);
       a.hidden = false;
     });
+  </script>
+  <script>
+    (function(){var els=document.querySelectorAll('[data-live]');if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('is-live')});return}
+    var o=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('is-live');o.unobserve(e.target)}})},{threshold:.4});els.forEach(function(e){o.observe(e)})})();
   </script>
   <script src="/theme-v1.js" defer></script>
   <script src="/navigation-v2.js" defer></script>
