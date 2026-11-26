@@ -95,6 +95,10 @@
     radial-gradient(closest-side, rgba(255, 240, 190, .55), rgba(240, 190, 70, .3) 45%, rgba(214, 165, 58, 0));
   mix-blend-mode: multiply;
   animation: em-star 9s ease-in-out infinite; }
+/* Beside "What matters most is the path of Heart." at the foot of every page. */
+.footer-heart { display: flex; align-items: center; gap: 1.3rem; }
+.footer-emblem { flex: none; width: 168px; border: 1px solid var(--line); }
+@media (max-width: 720px) { .footer-emblem { width: 112px; } }
 @keyframes em-heart { 0%, 100% { opacity: .2; transform: scale(.7); } 18%, 26% { opacity: 1; transform: scale(1.15); } 45% { opacity: .45; transform: scale(.9); } }
 @keyframes em-rise { 0%, 20% { opacity: 0; transform: translateY(0); } 26% { opacity: 1; } 52% { opacity: 1; } 56%, 100% { opacity: 0; transform: translateY(-59.3%); } }
 @keyframes em-star { 0%, 48% { opacity: 0; transform: scale(.5) rotate(0deg); } 58% { opacity: 1; transform: scale(1.1) rotate(0deg); } 80%, 100% { opacity: 0; transform: scale(.85) rotate(0deg); } }
