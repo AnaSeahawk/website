@@ -22,8 +22,8 @@
 .ly-glow img{display:block}
 @keyframes ly-halo{0%,100%{opacity:.35;transform:scale(.94)}50%{opacity:1;transform:scale(1.04)}}
 @keyframes ly-star{0%,100%{opacity:.15;transform:scale(.8)}50%{opacity:.9;transform:scale(1.1)}}
-.now-card__faces{display:flex;margin-bottom:.2rem}
-.now-card__faces img{width:56px;height:56px;border-radius:50%;object-fit:cover;border:3px solid var(--paper);margin-right:-12px;box-shadow:0 1px 3px rgba(0,0,0,.15)}
+.now-card:has(.now-card__photo){display:grid;grid-template-columns:minmax(0,230px) 1fr;column-gap:1.5rem;row-gap:.45rem;align-items:start}
+.now-card__photo{grid-row:1/5;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:50% 30%;border-radius:2px}
 .season h3{display:flex;align-items:center;gap:.6rem}.season h3 .ss{width:40px;height:40px}
 .circle-list .ss{width:22px;height:22px;vertical-align:-5px;margin-right:.35rem}
 .ly-mark-h2{display:flex;align-items:center;gap:.7rem}.ly-mark-h2 .ss{width:44px;height:44px}
@@ -31,7 +31,7 @@
 .ly-guide img{width:110px;height:auto;border:1px solid var(--line);box-shadow:0 2px 8px rgba(0,0,0,.12);transform:rotate(-2deg)}
 .ly-guide p:first-child{margin-top:0}
 .ly-seats{margin:1.4rem 0 .4rem}
-@media (max-width:40rem){.ly-glow{order:-1;justify-self:start}.ly-guide{grid-template-columns:80px 1fr;gap:1rem}.ly-guide img{width:80px}}
+@media (max-width:40rem){.now-card:has(.now-card__photo){grid-template-columns:1fr}.now-card__photo{grid-row:auto;aspect-ratio:3/2}.ly-glow{order:-1;justify-self:start}.ly-guide{grid-template-columns:80px 1fr;gap:1rem}.ly-guide img{width:80px}}
 @media (prefers-reduced-motion:reduce){.ly-glow::before,.ly-glow::after{animation:none}}
 </style></head>
 <body>
@@ -66,7 +66,7 @@
 <p><a class="read-more" href="/The-Living-Year/phoenix/">The Phoenix →</a></p>
 
 <h2 id="calendar">On the calendar</h2>
-<a class="now-card" href="https://circle.mother-spirit.com/" target="_blank" rel="noopener"><span class="now-card__when"><time datetime="2026-12-11">Friday 11 December 2026</time> · online · drop-in · 90 minutes</span><span class="now-card__faces"><img src="/assets/living-year/circle-ana.webp" width="160" height="160" alt="Ana Seahawk"><img src="/assets/living-year/circle-fiona.webp" width="160" height="160" alt="Fiona Gardner"><img src="/assets/living-year/circle-megan.webp" width="160" height="160" alt="Megan Macdonald"></span><b>Women’s Shivambu Circle</b><p>Body autonomy through direct experience, for women long in practice or only curious. Held with Fiona Gardner and Megan Macdonald through Mother Spirit.</p><span class="now-card__go">Details and registration at circle.mother-spirit.com ↗</span></a>
+<a class="now-card" href="https://circle.mother-spirit.com/" target="_blank" rel="noopener"><img class="now-card__photo" src="/assets/living-year/womens-circle-three.webp" width="520" height="345" alt="Ana Seahawk, Megan Macdonald and Fiona Gardner together in sunlit woodland"><span class="now-card__when"><time datetime="2026-12-11">Friday 11 December 2026</time> · online · drop-in · 90 minutes</span><b>Women’s Shivambu Circle</b><p>Body autonomy through direct experience, for women long in practice or only curious. Held with Fiona Gardner and Megan Macdonald through Mother Spirit.</p><span class="now-card__go">Details and registration at circle.mother-spirit.com ↗</span></a>
 <ul class="dated">
 <li><time datetime="2026-12-21T20:50Z">Mon 21 Dec 2026<small>20:50 UT</small></time><div><b>The Sun enters Capricorn</b><p>The winter gate, three months before the year begins.</p></div></li>
 <li><time datetime="2027-03-20T20:24Z">Sat 20 Mar 2027<small>20:24 UT</small></time><div><b>The Sun enters Aries</b><p>The Living Year begins.</p></div></li>
