@@ -43,3 +43,7 @@
  .site-nav--overlay { width: calc(100% - 2rem); }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition-duration: 0s !important; } }
+
+/* Section names in a page's top line lead back to their section. */
+.eyebrow a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-decoration-color: color-mix(in srgb, currentColor 35%, transparent); text-underline-offset: .3em; }
+.eyebrow a:hover, .eyebrow a:focus-visible { text-decoration-color: currentColor; }
