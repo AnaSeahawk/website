@@ -13,6 +13,15 @@
     <link rel="stylesheet" href="/site-menu-v1.css">
 <link rel="stylesheet" href="/navigation-v2.css">
   <link rel="stylesheet" href="/shape-v1.css?v=20261122d"><meta name="status" content="published"><meta name="visibility" content="public"><meta name="claim_tier" content="yukti"><link rel="stylesheet" href="/motion-v1.css?v=3">
+  <style>
+    .habitat-entry { display: grid; grid-template-columns: minmax(0,1fr) clamp(80px,9vw,120px); gap: 1rem; align-items: center; }
+    .habitat-entry img { width: 100%; height: auto; }
+    .door__verb svg { width: 1.7em; height: 1.7em; vertical-align: middle; margin-right: .45rem; }
+    .door--read { position: relative; }
+    .door--read :is(h3,.door__verb) { padding-right: 78px; }
+    .room-thumb { position: absolute; right: 1.45rem; top: 1.3rem; width: 68px; height: 68px; border-radius: 50%; }
+    @media (max-width: 40rem) { .room-thumb { width: 58px; height: 58px; } }
+  </style>
 </head>
 <body>
   <a class="skip-link" href="/Ways-of-Living/#main">Skip to the page</a>
@@ -93,7 +102,7 @@
 <p>Ways of Living is more than a collection of practices. It is an exploration of how to live freely without losing our sense of relationship—to ourselves, to one another, and to the living world.</p>
 </article></div></section>
 
-    <section class="chapter-section">
+    <section class="chapter-section" id="explore-ways-of-living">
       <div class="shell room room--verdigris">
         <div>
           <p>Food, plants, movement and the spaces we inhabit are part of everyday life. The writing here follows those relationships through practice: a city balcony turned to soil, a rented room read for its light and air, the body as the first home.</p>
@@ -102,15 +111,16 @@
             <li>Home &amp; Habitat: <a href="/Ways-of-Living/home-and-habitat/a-room-for-living.html">A Room for Living</a>, <a href="/Ways-of-Living/home-and-habitat/place-readings.html">Place Readings</a>, and <a href="/Ways-of-Living/home-and-habitat/urbaculture.html">Urbaculture</a></li>
           </ul>
         </div>
-        <a class="lamp" href="/Ways-of-Living/home-and-habitat/urbaculture.html">
-          <span>Begin here</span>
+        <a class="lamp habitat-entry" href="/Ways-of-Living/home-and-habitat/urbaculture.html">
+          <div><span>Begin here</span>
           <b>Urbaculture</b>
-          <p>Living with what is here: cultivating a habitat through care, creativity and pleasure.</p>
+          <p>Living with what is here: cultivating a habitat through care, creativity and pleasure.</p></div>
+          <img src="/assets/urbaculture/urbaculture-wren.webp" width="360" height="360" loading="lazy" alt="">
         </a>
       </div>
       <div class="shell doors">
         <div class="door door--gather">
-          <span class="door__verb">Gather</span>
+          <span class="door__verb"><svg aria-hidden='true' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='2.6' fill='currentColor'/><circle cx='12' cy='3.5' r='1.8'/><circle cx='19.4' cy='7.8' r='1.8'/><circle cx='19.4' cy='16.2' r='1.8'/><circle cx='12' cy='20.5' r='1.8'/><circle cx='4.6' cy='16.2' r='1.8'/><circle cx='4.6' cy='7.8' r='1.8'/></svg>Gather</span>
           <h3>Circles</h3>
           <ul class="door__list">
             <li><a href="/The-Living-Year/#circles">Soil Makers</a><small>urbaculture · spring</small></li>
@@ -119,12 +129,13 @@
           </ul>
         </div>
         <a class="door door--talk" href="/conversations/#subjects">
-          <span class="door__verb">Talk</span>
+          <span class="door__verb"><svg aria-hidden='true' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'><path d='M3 4.5h12v8.5H8.5L5 16v-3H3z'/><path d='M17.5 8.5H21V17h-1.5v3l-3.5-3h-5v-1.5'/></svg>Talk</span>
           <h3>A conversation</h3>
           <p>Place Readings and Nomadic Living are offered one to one only, along with any Circle taken alone.</p>
           <p class="door__next"><span>From</span>20 minutes · US$45</p>
         </a>
         <a class="door door--read" href="/Shivambu/">
+          <img class="room-thumb" src="/assets/writing/shivambu-room.webp" width="300" height="300" loading="lazy" alt="">
           <span class="door__verb">Read further</span>
           <h3>Shivambu</h3>
           <p>The body as home continues in the body’s own waters.</p>
