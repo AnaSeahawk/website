@@ -13,6 +13,13 @@
     <link rel="stylesheet" href="/site-menu-v1.css">
 <link rel="stylesheet" href="/navigation-v2.css">
   <link rel="stylesheet" href="/shape-v1.css?v=20261122d"><meta name="status" content="published"><meta name="visibility" content="public"><meta name="claim_tier" content="yukti"><link rel="stylesheet" href="/motion-v1.css?v=3">
+  <style>
+    .door__verb svg { width: 1.7em; height: 1.7em; vertical-align: middle; margin-right: .45rem; }
+    .door--read { position: relative; }
+    .door--read :is(h3,.door__verb) { padding-right: 78px; }
+    .room-thumb { position: absolute; right: 1.45rem; top: 1.3rem; width: 68px; height: 68px; border-radius: 50%; }
+    @media (max-width: 40rem) { .room-thumb { width: 58px; height: 58px; } }
+  </style>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to the page</a>
@@ -56,9 +63,9 @@
           <p>An interview, a moment of curiosity, and an experience that opened into years of practice and inquiry.</p>
         </a>
       </div>
-      <div class="shell doors">
+      <div class="shell doors" id="explore-shivambu">
         <div class="door door--gather">
-          <span class="door__verb">Gather</span>
+          <span class="door__verb"><svg aria-hidden='true' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='12' r='2.6' fill='currentColor'/><circle cx='12' cy='3.5' r='1.8'/><circle cx='19.4' cy='7.8' r='1.8'/><circle cx='19.4' cy='16.2' r='1.8'/><circle cx='12' cy='20.5' r='1.8'/><circle cx='4.6' cy='16.2' r='1.8'/><circle cx='4.6' cy='7.8' r='1.8'/></svg>Gather</span>
           <h3>Circles</h3>
           <ul class="door__list">
             <li><a href="/The-Living-Year/shivambu-beginning/">First Waters</a><small>beginning Shivambu · spring</small></li>
@@ -68,12 +75,13 @@
           </ul>
         </div>
         <a class="door door--talk" href="/conversations/#subjects">
-          <span class="door__verb">Talk</span>
+          <span class="door__verb"><svg aria-hidden='true' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'><path d='M3 4.5h12v8.5H8.5L5 16v-3H3z'/><path d='M17.5 8.5H21V17h-1.5v3l-3.5-3h-5v-1.5'/></svg>Talk</span>
           <h3>A conversation</h3>
           <p>Any of these Circles taken alone, or a question of your own, one to one by video.</p>
           <p class="door__next"><span>From</span>20 minutes · US$45</p>
         </a>
         <a class="door door--read" href="/sovereign-biophysics-distillation/">
+          <img class="room-thumb" src="/assets/writing/sovereign-biophysics-emblem.webp" width="300" height="300" loading="lazy" alt="">
           <span class="door__verb">Read further</span>
           <h3>Sovereign Biophysics</h3>
           <p>The research growing from this practice: history, alchemy, experiment and personal observation.</p>
